@@ -20,9 +20,27 @@ REGION_DIR = {"IN": "01_INDIAN_COMPANIES", "NON_IN": "02_NON_INDIAN_COMPANIES"}
 def _normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
     """Drop leftover all-NaN columns (artifacts of slicing one company out
     of a wide multi-company parquet) before lowercasing, so two differently
-    -cased empty columns can't collide into one duplicate label."""
+    -cased empty columns can't collide into one duplicate label. Then, if
+    two ORIGINAL columns collapse onto the same lowercase name (e.g. two
+    source files both contributing a "Close"-like column under different
+    casing, each with real, complementary non-null values), coalesce them
+    row-wise instead of leaving a duplicate-labeled column in the frame."""
     df = df.dropna(axis=1, how="all")
     df.columns = [str(c).strip().lower().replace(" ", "_") for c in df.columns]
+
+    if df.columns.duplicated().any():
+        merged = {}
+        for col in df.columns.unique():
+            same = df.loc[:, df.columns == col]
+            if same.shape[1] == 1:
+                merged[col] = same.iloc[:, 0]
+            else:
+                combined = same.iloc[:, 0]
+                for i in range(1, same.shape[1]):
+                    combined = combined.combine_first(same.iloc[:, i])
+                merged[col] = combined
+        df = pd.DataFrame(merged)
+
     return df
 
 
