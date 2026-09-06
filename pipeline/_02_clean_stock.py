@@ -8,13 +8,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import pandas as pd
 
-from pipeline.lib.companies import COMPANIES, STOCK_SERIES_OVERRIDE
+from pipeline.lib.companies import COMPANIES, REGION_DIR, STOCK_SERIES_OVERRIDE
 from pipeline.lib.prices import pick_price_column, dedupe_by_calendar_date
 
 CLEAN_ROOT = Path(__file__).resolve().parents[1] / "YUKTHA_CLEAN_2026-09-07"
 OUTPUT_DIR = Path(__file__).resolve().parent / "outputs"
 STOCK_CLEAN_DIR = OUTPUT_DIR / "stock_clean"
-REGION_DIR = {"IN": "01_INDIAN_COMPANIES", "NON_IN": "02_NON_INDIAN_COMPANIES"}
 
 
 def _normalize_columns(df: pd.DataFrame) -> pd.DataFrame:

@@ -49,3 +49,8 @@ STOCK_SERIES_OVERRIDE = {
 # documentation .pdf section 10: financial-availability lag rule.
 FINANCIAL_LAG_DAYS = {"quarterly": 60, "annual": 120}
 ROVI_USES_ACTUAL_PUBLICATION_DATES = True
+
+# Maps each company's "region" tag to its top-level folder under
+# YUKTHA_CLEAN_2026-09-07/. Shared by every pipeline script that walks the
+# cleaned data tree, so it lives here once instead of being redefined per file.
+REGION_DIR = {"IN": "01_INDIAN_COMPANIES", "NON_IN": "02_NON_INDIAN_COMPANIES"}

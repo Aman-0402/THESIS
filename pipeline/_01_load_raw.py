@@ -7,12 +7,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import pandas as pd
 
-from pipeline.lib.companies import COMPANIES
+from pipeline.lib.companies import COMPANIES, REGION_DIR
 
 CLEAN_ROOT = Path(__file__).resolve().parents[1] / "YUKTHA_CLEAN_2026-09-07"
 OUTPUT_DIR = Path(__file__).resolve().parent / "outputs"
-
-REGION_DIR = {"IN": "01_INDIAN_COMPANIES", "NON_IN": "02_NON_INDIAN_COMPANIES"}
 
 
 def load_company_daily_csvs(company_dir: Path) -> list[pd.DataFrame]:
