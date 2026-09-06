@@ -68,6 +68,9 @@ def impute_with_train_medians(train, val, test, cols):
     return (train[cols].fillna(medians), val[cols].fillna(medians), test[cols].fillna(medians), medians)
 
 
+# class_weight="balanced" only where the estimator supports it (GaussianNB,
+# GradientBoostingClassifier, KNeighborsClassifier, MLPClassifier don't
+# expose that param)
 MODELS = {
     "logistic_regression": LogisticRegression(max_iter=1000, class_weight="balanced", random_state=RANDOM_STATE),
     "random_forest": RandomForestClassifier(class_weight="balanced", random_state=RANDOM_STATE),
@@ -86,6 +89,8 @@ def evaluate(y_true, y_pred, y_proba):
         "accuracy": accuracy_score(y_true, y_pred),
         "precision": precision_score(y_true, y_pred, zero_division=0),
         "recall": recall_score(y_true, y_pred, zero_division=0),
+        # cm rows/cols ordered [0,1] (sklearn default sorted labels); row 0 =
+        # actual-negative -> specificity = TN/(TN+FP)
         "specificity": cm[0][0] / (cm[0][0] + cm[0][1]) if (cm[0][0] + cm[0][1]) else None,
         "f1": f1_score(y_true, y_pred, zero_division=0),
         "confusion_matrix": cm,
