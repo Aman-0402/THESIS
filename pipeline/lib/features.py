@@ -3,7 +3,6 @@ section 12: 'exact formulas ... should be taken from those actual
 artifacts, not from generic examples' -- that artifact does not exist in
 this repo, so this module documents the concrete formulas used instead,
 per the user's explicit approval to use standard finance definitions."""
-import numpy as np
 import pandas as pd
 
 MARKET_FEATURE_NAMES = [
