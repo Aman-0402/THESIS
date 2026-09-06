@@ -21,3 +21,14 @@ def test_override_company_keeps_only_matching_block():
     out = select_canonical_block("Ajanta_Pharma", frames)
     assert len(out) == 1
     assert out.iloc[0]["source_file"] == "ajanta_yahoo_adjusted_close_supplement.csv"
+
+
+def test_paris_eur_override_prefers_country_tagged_block():
+    frames = [
+        pd.DataFrame({"Date": ["2024-01-01"], "Close": [100.0], "source_file": ["sanofi_sny_daily.csv"]}),
+        pd.DataFrame({"Date": ["2024-01-01"], "Close": [90.0], "Country": ["France"],
+                       "source_file": ["sanofi_daily.csv"]}),
+    ]
+    out = select_canonical_block("Sanofi", frames)
+    assert len(out) == 1
+    assert out.iloc[0]["source_file"] == "sanofi_daily.csv"
