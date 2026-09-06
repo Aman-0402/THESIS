@@ -49,12 +49,13 @@ def select_canonical_block(company_folder: str, frames: list[pd.DataFrame], regi
         return pd.concat(frames, ignore_index=True)
 
     candidates = list(frames)
-    if region is not None:
-        candidates += _load_other_source_material_daily(company_folder, region)
-
     normalized_pairs = [(_normalize_columns(f.copy()), f) for f in candidates]
 
     if override == "adjusted_yahoo":
+        if region is not None:
+            extra = _load_other_source_material_daily(company_folder, region)
+            candidates = candidates + extra
+            normalized_pairs = [(_normalize_columns(f.copy()), f) for f in candidates]
         supplement = [
             orig for _, orig in normalized_pairs
             if "yahoo_adjusted_close_supplement" in str(orig["source_file"].iloc[0]).lower()
