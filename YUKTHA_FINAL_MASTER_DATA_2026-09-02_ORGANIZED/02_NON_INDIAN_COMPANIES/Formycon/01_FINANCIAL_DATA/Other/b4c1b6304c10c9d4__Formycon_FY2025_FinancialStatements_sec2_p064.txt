@@ -1,0 +1,37 @@
+#fyb4Growth — Formycon AG Annual Report 2025 64
+This decision by the regulatory authorities is based analytical evidence was so compelling. In other
+on what is now many years of clinical experience cases, conversely, biosimilar candidates have been
+with numerous biosimilars already on the market. denied approval despite successful phase III trials
+Moreover, extensive regulatory analyses have due to questionable analytical results.2 This shows
+shown that comparative efficacy studies have not that, in deciding whether to grant approval of a
+historically provided any additional decision-rele- biosimilar, phase III clinical trials have dubious value
+vant information that could not already be derived and limited decision-making relevance.
+from analytical and PK data.1
+Finally, there is an ethical dimension: If the large
+The shift in regulatory approval paradigm is thus number of clinical efficacy studies on biosimilars
+driven by a clear logic: If modern analytical methods have been failing to reliably identify clinically
+and functional assays are able to detect differences relevant differences, is it fair to recruit seriously ill
+more sensitively than traditional clinical efficacy patients as study subjects? The new thinking of
+endpoints, then resources should be allocated whe- regulators, based on solid science, to dispense with
+re they deliver the greatest scientific value. Deci- studies of inferior informative value serves not only
+ding that a phase III efficacy study is superfluous the interests of efficiency but also the interests of
+does not mean a lowering of regulatory standards; patients.
+to the contrary, it is because analytical methods for
+characterizing complex proteins have advanced Formycon as a pioneer of a new
+dramatically in recent years. Structure, glycosyla- development model
+tion, aggregation behavior and functional activity
+can now be directly compared with high precision. In this rapidly evolving environment for the regu-
+In vitro functional assays can be conducted within latory approval of biosimilars, Formycon has been
+the sensitive range of the dose-response curve and at the forefront: In the case of its pembrolizumab
+detect even minimal deviations compared to the biosimilar candidate FYB206, the company was
+biosimilar’s reference drug. among the first developers to coordinate and
+successfully agree an optimized clinical develop-
+In addition, retrospective analyses of European ment program with the FDA without the need for a
+approvals have shown that decisions on biosimilars separate comparative efficacy study.
+have invariably been consistent with these analyti-
+cal results but not necessarily with the outcome of The success of this extraordinary, non-routine
+clinical efficacy studies. Biosimilars have already, consultation process was the result of Formycon’s
+in some specific cases, been approved despite intensive scientific preparation, regulatory experti-
+formalistic failures in phase III trials because the se, and clearly structured data strategy. It positions
+1, 2 The Tailored Biosimilar Approach: Expectations and Requirements
+https://doi.org/10.1007/s40265-025-02168-y

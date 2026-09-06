@@ -1,0 +1,39 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+b.1) Deferred revenues from non-reimbursable grants
+These are taken to profit and loss in proportion to the provision made in the period for the assets whose purchase is
+subsidized. The most significant non-reimbursable grants that have not yet been taken to profit and loss are related to
+construction of the Granada bemiparin plant, which came into operation in 2009. In said reporting period, the allocation of
+a non-reimbursable grant of 5,431 thousand euros, awarded by the Innovation and Development Agency of Andalusia
+(Innovation, Science and Business Department), to profit and loss commenced. This grant was received in November
+2008. The amount recognized for this grant under the caption “Current and non-current deferred revenues on grants” at
+31 December, 2017 was 2,924 thousand euros (3,129 thousand euros at 31 December, 2016).
+b.2) Deferred revenues from reimbursable grants
+These relate to grants with an implicit interest rate derived from recognizing reimbursable grants awarded at a zero
+interest rate at fair value (Note 18.b). The most significant mounts recognized as deferred revenues in relation to
+reimbursable grants awarded by government entities relate mainly to a number of research and development projects.
+They are taken to profit and loss on the basis of accrual of the expenses for which the reimbursable grant was awarded.
+21. Provisions for other liabilities and charges
+Returns Health tax Other Total
+At 1 January, 2016 526 1,852 119 2,497
+Additions 665 2,093 120 2,878
+Applications (526) (1,852) (119) (2,497)
+At 31 December, 2016 665 2,093 120 2,878
+Additions 699 2,690 119 3,508
+Applications (665) (2,093) (120) (2,878)
+At 31 December, 2017 699 2,690 119 3,508
+Returns
+The Group estimates a provision for product returns considering the average returns rate of recent years (Note 4.2).
+Health tax
+As stated in Note 2.23, the Group’s policy has been to hold a provision for the amounts estimated to be paid as health
+tax, based on percentages fixed for each level of sales for the period.
+The amounts recognized as provisions in the statement of financial position relate to the reporting-date best estimate of
+the payments necessary to calculate the currrent obligation, after considering the risks and uncertainties related to the
+provision and, when significant, the financial effect of discounting, provided that the payments that will be made in each
+period can be determined reliably. The discount rate is determined before tax, considering the time value of money and
+the specific risks that have not been taken into account in the future flows related to the provision at each reporting date.
+49

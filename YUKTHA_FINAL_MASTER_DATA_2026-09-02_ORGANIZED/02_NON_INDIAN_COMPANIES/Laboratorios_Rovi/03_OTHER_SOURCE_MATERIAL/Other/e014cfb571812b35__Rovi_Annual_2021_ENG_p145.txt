@@ -1,0 +1,48 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+Movement on deferred tax liabilities was as follows:
+Freedom of
+amortization Other Total
+At 1 January, 2020 452 626 1,078
+(Charged)/credited to profit and loss (149) — (149)
+At 31 December, 2020 303 626 929
+(Charged)/credited to profit and loss (153) — (153)
+At 31 December, 2021 150 626 776
+The deferred tax liabilities included as “freedom of amortisation/depreciation” refer to the application of the free
+amortisation/depreciation system associated to assets attached to R&D activity and to maintaining jobs.
+20. Contract liabilities
+Movement on contract liabilities in 2021 and 2020 was as follows
+Distribution
+licences Other contracts Total
+At 1 January, 2020 6,559 800 7,359
+Additions 1,253 33,446 34,699
+(Charged)/credited to profit and loss (944) (10,321) (11,265)
+At 31 December, 2020 6,868 23,925 30,793
+Additions 518 98,435 98,953
+(Charged)/credited to profit and loss (5,140) (65,514) (70,654)
+At 31 December, 2021 2,246 56,846 59,092
+a) Distribution licences
+In 2021, new contract liabilities of 518 thousand euros (1,253 thousand euros in 2020) were recognised in relation to
+agreements granting distribution licences.
+In 2021, ROVI recognised revenue from distribution licences for a total amount of 5,140 thousand euros (944 thousand
+euros in 2020) (Note 22).
+At 31 December, 2021 and 2020, the contract liabilities related to distribution licences had the following estimated
+maturities:
+Year 2021 2020
+2021 — 1,080
+2022 786 1,282
+2023 269 981
+2024 248 74
+2025 181 17
+2026 onward 145 —
+1,630 3,434
+Non-current 844 2,354
+Current 786 1,080
+At 31 December, 2021, there were contract liabilities related to distribution licences for an amount of 616 thousand euros
+for which the time at which they would be recognised in the income statement could not be determined, since they were
+subject to meeting certain milestones for which no dates had been fixed (3,434 thousand euros at 31 December, 2020).
+49

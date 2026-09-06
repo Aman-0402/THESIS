@@ -1,0 +1,41 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+9. Calidad crediticia de los activos financieros
+La calidad crediticia de los activos financieros que todavía no han vencido y que tampoco han sufrido pérdidas por deterioro se
+puede evaluar en función de la clasificación crediticia (“rating”) otorgada por organismos externos al Grupo o bien, en el caso
+de clientes sin rating, distinguiendo aquellos correspondientes a Seguridad Social y Organismos Públicos que, por su
+naturaleza, no están sujetos a deterioro:
+Efectivo y equivalentes de efectivo Rating 2024 2023
+A+ 2.016 1.307
+A 10.372 16.381
+A- 13.758 226
+BBB+ — 20
+BBB 487 2.268
+Sin rating 553 5.120
+Total efectivo y equivalentes al efectivo (Nota 14) 27.186 25.322
+Cuentas financieras a cobrar Rating 2024 2023
+A 65 65
+Total cuentas financieras a cobrar (Nota 13) 65 65
+Valores de renta variable Rating 2024 2023
+Sin rating — 24
+Total valores de renta variable (Nota 11) — 24
+Clientes Rating 2024 2023
+AA 1.121 979
+A1 2.582 330
+Centros e instituciones públicas (Nota 13) 16.539 16.223
+Otros (mayoristas, farmacias, sanatorios) 94.934 107.536
+Total clientes (Nota 13) 115.176 125.068
+Otros Depósitos Rating 2024 2023
+A+ 1.327 1.327
+Sin rating 603 113
+Total otros depósitos (Nota 13) 1.930 1.440
+10. Inversión en negocios conjuntos y asociadas
+El movimiento del periodo de las participaciones en negocios conjuntos y asociadas ha sido el siguiente:
+2024 2023
+Saldo inicial 567 2.193
+Altas 19.090 600
+Bajas — (2.101)
+Participación en beneficio/pérdida (141) (125)
+Saldo final 19.516 567
+35

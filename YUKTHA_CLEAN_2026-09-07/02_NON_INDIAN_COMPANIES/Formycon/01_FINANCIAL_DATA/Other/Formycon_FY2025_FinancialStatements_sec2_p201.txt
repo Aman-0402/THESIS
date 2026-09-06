@@ -1,0 +1,44 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 201
+Book values and fair values of the Group’s financial assets and liabilities in € thousand
+Book value Fair value FV
+at Dec. 31, 2025 at Dec. 31, 2025 category
+Financial assets carried at fair value
+Nordic Bond - Embedded derivative 742 742 3
+Financial assets not carried at fair value
+Financial assets 50,855 - -
+Trade and other receivables 19,156 - -
+Contract assets 12,860 - -
+Cash and cash equivalents 68,845 - -
+Financial liabilities carried at fair value
+Current portion of conditional purchase price 12,083 12,083 3
+Non-current portion of conditional purchase price 132,251 132,251 3
+Financial liabilities not carried at fair value
+Trade payables 25,839 - -
+Nordic Bond 70,052 - -
+Book value Fair value FV
+at Dec. 31, 2024 at Dec. 31, 2024 category
+Financial assets not carried at fair value
+Financial assets 66,134 - -
+Trade and other receivables 23,693 - -
+Contract assets 7,016 - -
+Prepayments 22,123 - -
+Cash and cash equivalents 41,834 - -
+Financial liabilities carried at fair value
+Current portion of conditional purchase price 8,680 8,680 3
+Non-current portion of conditional purchase price 164,249 164,249 3
+Financial liabilities not carried at fair value
+Trade payables 17,437 - -
+The contingent purchase price payments were val- the conditional purchase price payments was
+ued at a fair value of € 144,334 thousand as of the 8.12 %. The estimated fair value would increase if
+reporting date (previous year: € 172,929 thousand). the expected cash flows occurred earlier or if the
+During the fiscal year, € 11,249 thousand of the con- risk-adjusted discount rates were lower. A 1% de-
+tingent purchase price payments were paid. The re- crease (increase) in the discount rate would result
+maining difference in the amount of € 17,346 thou- in an increase (decrease) in fair value of
+sand was recognized as profit or loss in the finance € 8,611 thousand (€ 7,842 thousand), which would
+income (finance costs). have to be recognized as profit or loss. A 10% de-
+crease or increase in free cash flow would result in
+The valuation model is based upon the expected a € 14,433 thousand decrease or increase in fair
+cash flows discounted at risk-adjusted rates de- value, which would be recognized in profit or loss.
+pending upon the respective future payment dates. Advance payments in the amount of € 21,867 thou-
+As of the reporting date, the rate used to discount sand (previous year: € 22,123 thousand) are mainly
+advance payments for development services.

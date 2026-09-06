@@ -1,0 +1,53 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+To calculate the provision, the Group must estimate the sales placed on the market in the year through official
+prescriptions that are subject to Law 29/2006, to which it will apply the coefficients established in said law. To estimate
+the sales, the sales history comparing the Company’s total sales with the National Health System sales considered will
+be taken as a basis and this corrective factor will be applied to the sales of said products in the period under
+consideration.
+In 2010, the government approved two packages of measures to reduce pharmaceutical spending. The first one focused
+on generic products, which are those out of patent, for which it established an average reduction of 25% in the selling
+price to laboratories. The second package addressed pharmaceutical products under patent. Since that time, a 7.5%
+discount has been applied to the selling price to the public. The Group recognises the amounts relating to these
+measures as a decrease in sales.
+From 2017 onwards, the Spanish government and the members of Farmaindustria, to which ROVI belongs, signed
+different agreements whereby the members assumed a commitment to make certain contributions to the public health
+system. The Company recognised the amounts accrued for these commitments as a reduction in sales. No additional
+agreement has been signed since the last agreement ended in 2019.
+4. Financial risk management
+4.1 Financial risk factors
+The Company’s activities expose it to a variety of financial risks: market risk (including currency risk, interest rate risk and
+price risk), credit risk and liquidity risk. The Company’s global risk management programme focuses on the
+unpredictability of the financial markets and seeks to minimise potential adverse effects on the Company’s financial
+performance.
+Risk management is carried out by the Company’s Treasury Department, which, following policies approved by the Board
+of Directors, identifies, assesses and hedges financial risks. This Department identifies, assesses and hedges the
+financial risks in close co-operation with the Company’s operating units. The Audit Committee analyses policies for global
+risk management, as well as for specific areas such as interest rate risk, liquidity risk and the investment of excess
+liquidity.
+a) Market risk
+(i) Foreign exchange risk
+Foreign exchange risk is low as (i) virtually all the Company’s assets and liabilities are in euros; (ii) the majority of the
+transactions with foreign parties are carried out in euros; and (iii) transactions for a significant amount in currencies other
+than the euro are hedged with financial instruments that minimise the impact of exchange-rate risk. At 31 December 2024
+and 2023, the Company did not hold any instruments of this type.
+At 31 December 2024, the Company held assets of 290 thousand zlotys (710 zlotys at 31 December 2023). If the
+exchange rate at the reporting date had been 10% higher, the value of these assets denominated in zlotys would have
+decreased by 6 thousand euros (15 thousand euros in 2023) and, if the exchange rate had been 10% lower, their value
+would have increased by 8 thousand euros (18 thousand euros in 2023).
+(ii) Price risk
+In 2023, the Company was exposed to price risk on on equity securities because of investments classified in the
+statement of financial position as held at fair value through equity. These investments were sold in said year and,
+consequently, the Company did not hold any securities of this kind at the 2024 and 2023 reporting dates.
+The Company is not exposed to commodity price risk. To manage its price risk arising from investments in equity
+securities, the Company diversifies its portfolio in accordance with the limits set. The Company does not use derivatives
+to hedge price risk.
+(iii) Cash flow and fair value interest rate risk
+The Company is subject to interest rate risk in respect of cash flows on long-term borrowing transactions at variable
+rates. The Company’s policy is to endeavour to obtain a large part of its financial debt from government entities through
+reimbursable advances, on which there is no interest rate risk. In the case of bank borrowings, it tries to obtain the cash
+flows not only at variable rates, but also at fixed rates, thus keeping interest rate risk to a minimum.
+18

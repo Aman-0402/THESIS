@@ -1,0 +1,57 @@
+,,CURRENT,PREVIOUS
+,,PERIOD,PERIOD
+,,30/06/2024,30/06/2023
+A) CASH FLOWS FROM OPERATING ACTIVITIES (1+ 2+ 3 +4),1435,29.749,52.539
+1.Profit/(loss) before tax,1405,56.142,85.832
+2. Adjustments to profit/(loss),1410,11.854,11.496
+"(+) Amortization and depreciation of intangible assets and property, plant and equipment",1411,13.446,11.865
+(+/-) Other adjustments to profit/(loss) (net),1412,(1.592),(369)
+3. Changes in working capital,1415,(19.379),(10.197)
+4. Other cash flows from operating activities:,1420,(18.868),(34.592)
+(-) Payment of interest,1421,,-
+(-) Payment of dividends and remuneration of other equity instruments,1430,,
+(+) Proceeds from dividends,1422,,
+(+) Proceeds from interest,1423,,
+(+/-) Proceeds from/(payments of) corporate income tax,1424,(5.550),(11.507)
+(+/-) Other proceeds from/(payments for) operating activities,1425,(13.318),(23.085)
+B) CASH FLOWS FROM INVESTING ACTIVITIES (1+2+3),1460,(18.730),(17.385)
+1. Payments of investments:,1440,(18.926),(18.171)
+"(-) Group companies, associates and business units",1441,(255),
+"(-) Property, plant and equipment, intangible assets and investment property",1442,(18.671),(18.171)
+(-) Other financial assets,1443,,
+(-) Non current assets and liabilities classified as held for sale,1459,,
+(-) Other assets,1444,,
+2. Proceeds from disinvestments,1450,96,20
+"(+) Group companies, associates and business units",1451,-,
+"(+) Property, plant and equipment, intangible assets and investment property",1452,16,10
+(+) Other financial assets,1453,80,10
+(+) Non current assets and liabilities classified as held for sale,1461,,
+(+) Other assets,1454,,
+3. Other cash flows from investing activities,1455,100,766
+(+) Proceeds from dividends,1456,,
+(+) Proceeds from interest,1457,100,766
+(+/-) Other proceeds from/(payments for) investing activities,1458,,
+C) CASH FLOWS FROM FINANCING ACTIVITIES (1+2+3+4),1490,8.237,(6.287)
+1. Proceeds from and (payments of) equity instruments:,1470,(48.015),(113)
+(+) Issue,1471,,
+(-) Amortization,1472,,
+(-) Acquisition,1473,(52.112),(48.739)
+(+) Disposal,1474,4.097,48.626
+2. Proceeds from/ (payments for) financial liability instruments:,1480,54.004,(6.159)
+(+) Issue,1481,70.158,663
+(-) Repayment and amortization,1482,(16.154),(6.822)
+3. Payment of dividends and remuneration of other equity instruments,1485,-,
+4. Other cash flows from financing activities,1486,2.248,(15)
+(-) Payment of interest,1487,(322),(186)
+(+/-) Other proceeds from /(payments for) financing activities,1488,2.570,171
+D) EFFECT OF CHANGES IN EXCHANGE RATES,1492,,
+E) NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+D),1495,19.256,28.867
+F) CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD,1499,25.322,124.945
+G) CASH AND CASH EQUIVALENTS AT END OF PERIOD (E+F),1500,44.578,153.812
+,,CURRENT,PREVIOUS
+,,PERIOD,PERIOD
+,,30/06/2024,30/06/2023
+(+) Cash in hand and at bank,1550,44.578,153.812
+(+) Other financial assets,1552,,
+(-) Less: bank overdrafts repayable on demand,1553,,
+TOTAL CASH AND CASH EQUIVALENTS AT END OF PERIOD,1600,44.578,153.812

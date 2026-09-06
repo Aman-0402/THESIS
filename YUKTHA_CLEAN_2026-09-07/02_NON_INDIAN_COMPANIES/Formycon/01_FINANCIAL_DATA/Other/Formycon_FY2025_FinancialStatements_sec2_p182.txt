@@ -1,0 +1,44 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 182
+15. Income tax expense Current, deferred and total income tax expenses
+(income) during the reporting period were as
+Taxes recognized in profit or loss
+shown below.
+Income tax expense in € thousand
+Jan. 1 – Dec. 31, 2025 Jan. 1 – Dec. 31, 2024
+Current tax expense 159 2,062
+Deferred tax expense / income
+from valuation at equity - 430
+from differing asset valuations 12 43
+from capitalization of certain leases
+as right-of-use (ROU) assets and
+corresponding liabilities from lease
+obligations -5 -49
+from accounting for cash-settled share-based
+compensation arrangements 70 -115
+from capitalization of certain internally
+generated intangible assets -21,101 -20,860
+Other 371 251
+from deferred taxes on tax loss carry-
+forwards -5,305 -344
+Total tax expense -25,799 -18,582
+Deferred tax assets on tax loss carryforwards were
+not recognized to the extent that the Group cannot
+demonstrate that future taxable profits will be suffi-
+cient to utilize the loss carryforwards.
+On June 26, 2025, the German Bundestag passed
+the “Act on an Immediate Tax Investment Pro-gram
+to Strengthen Germany as a Business Loca-tion,”
+which will introduce a gradual reduction in the cor-
+porate income tax rate of one percentage point per
+year starting in 2028. The tax rate will thus fall from
+the current 15% to 10% by 2032 (Section 23 (1)
+KStG, new version). The Bundesrat approved the
+law on July 11, 2025. Deferred tax assets and liabili-
+ties are to be measured in accord-ance with IAS
+12.47 using the expected tax rates at the time the
+asset is realized or the liability is settled. The reval-
+uation of deferred tax assets and liabilities results
+in deferred tax income of € 13,811 thousand in the
+2025 financial year, which is reflected in the recon-
+ciliation of expected income tax expense under the
+line item “Effect of tax rates”.

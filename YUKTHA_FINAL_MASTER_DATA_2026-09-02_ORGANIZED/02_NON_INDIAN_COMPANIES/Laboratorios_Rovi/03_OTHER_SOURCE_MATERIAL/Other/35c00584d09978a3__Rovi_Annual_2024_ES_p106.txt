@@ -1,0 +1,45 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+Las diferencias de cambio surgidas como resultado de la liquidación de estas transacciones se reconocen en la cuenta de
+resultados, excepto si difieren en el caso de coberturas de flujos de efectivo cualificadas o coberturas de inversiones netas
+cualificadas. Las pérdidas y ganancias por diferencias de cambio relativas a préstamos y efectivo y equivalentes al efectivo se
+presentan en la cuenta de resultados en la línea de “Ingresos o gastos financieros”. El resto de pérdidas y ganancias por
+diferencias de cambio se presentan como “Otras ganancias / (pérdidas) netas”.
+Los cambios en el valor razonable de títulos monetarios denominados en moneda extranjera clasificados como valores de renta
+variable se analizan considerando las diferencias de conversión resultantes de cambios en el coste amortizado del título y otros
+cambios en el importe en libros del título. Las diferencias de conversión relativas a variaciones en el coste amortizado se
+reconocen en la cuenta de resultados, y los otros cambios en el importe en libros se reconocen en el otro resultado global.
+Las diferencias de conversión sobre partidas no monetarias, tales como instrumentos de patrimonio mantenidos a valor
+razonable con cambios en resultados, se reconocen en la cuenta de resultados como parte de la ganancia o pérdida de valor
+razonable. Las diferencias de conversión sobre partidas no monetarias valoradas a valor razonable, tales como instrumentos
+de patrimonio clasificados como valores de renta variable, se incluyen en el otro resultado global.
+2.6 Inmovilizado material
+Los elementos de inmovilizado material se reconocen por su coste menos la amortización y, en su caso, menos las pérdidas
+por deterioro acumuladas correspondientes, excepto en el caso de los terrenos, que se presentan netos de las pérdidas por
+deterioro, en caso de existir.
+El coste histórico incluye los gastos directamente atribuibles a la adquisición de las partidas del inmovilizado material.
+Los costes posteriores se incluyen en el importe en libros del activo, o se reconocen como un activo separado, sólo cuando es
+probable que los beneficios económicos futuros asociados con los elementos vayan a fluir al Grupo y el coste del elemento
+pueda determinarse de forma fiable. El importe en libros del componente sustituido, en su caso, se da de baja contablemente
+en los registros del Grupo. Los gastos de reparaciones y mantenimiento se cargan en la cuenta de resultados en el ejercicio en
+que se incurre en ellos.
+Los terrenos no se amortizan. La amortización del resto de activos se calcula usando el método lineal para reducir
+paulatinamente sus costes de adquisición hasta sus valores residuales en función de sus vidas útiles estimadas:
+Construcciones - 40 años
+Instalaciones técnicas y maquinaria – entre 4 y 14 años
+Otras instalaciones, utillaje y mobiliario – entre 5 y 10 años
+Otro inmovilizado material – entre 4 y 5 años
+El valor residual y la vida útil de los activos se revisan, y ajustan si es necesario, en la fecha de cada balance. El inmovilizado
+en curso incluye los elementos de inmovilizado material que se encuentran en situación de adaptación, construcción o montaje.
+El inmovilizado en curso se reconoce por su coste de adquisición y no se amortiza.
+Cuando el importe en libros de un activo es superior a su importe recuperable estimado, su valor se reduce de forma inmediata
+hasta su importe recuperable (Nota 2.9).
+Las pérdidas y ganancias por la venta de inmovilizado material se calculan comparando los ingresos obtenidos con el importe
+en libros y se incluyen en la cuenta de resultados.
+Derechos de uso
+Para los arrendamientos que cumplan lo dispuesto en la NIIF 16 el Grupo reconoce un activo por el derecho de uso del activo
+subyacente, que valora tomando como referencia el importe del pasivo asociado, al que se añaden los costes directos iniciales
+incurridos.
+La amortización de estos activos se realiza de forma lineal a lo largo de la vida útil estimada para cada uno de ellos.
+11

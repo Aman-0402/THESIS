@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+3.2 Capital risk management
+The Group’s objective in relation to the management of capital is to maintain a low level of gearing that will make it easier
+for the Group to obtain additional financial debt if required in order to make new investments. A part of the Group’s
+financial debt takes the form of reimbursable advances from government entities. These do not generate interest
+payments since they are subsidised.
+The Group monitors capital on the basis of the gearing ratio. This ratio is calculated as net debt/cash divided by net
+equity. Net debt/cash is calculated as total financial debt less cash and cash equivalents. Equity is as shown under the
+relevant caption in the statement of financial position in the consolidated annual accounts.
+The leverage index or gearing ratio at 31 December, 2020 and 2019 was as follows:
+2020 2019
+Financial Debt (Note 18) 74,443 84,805
+Less: Cash and cash equivalents (Note 14) (53,162) (67,426)
+Less: Equity securities (Note 11) (71) (71)
+Less: Deposits (Notes 9 & 13) (1,399) (1,407)
+Net debt/(Cash) 19,811 15,901
+Equity 373,700 322,386
+Leverage index/Gearing ratio 5.3% 4.9%
+In addition, the Group’s net debt/cash at 31 December, 2020 and 2019 was as follows:
+2020 2019
+Financial Debt (Note 18) 74,443 84,805
+Less: Cash and cash equivalents (Note 14) (53,162) (67,426)
+Less: Available-for-sale financial assets (Note 11) (71) (71)
+Less: Deposits (Notes 9 & 13) (1,399) (1,407)
+Net debt/(Cash) 19,811 15,901
+3.3 Fair value estimate
+Measurement of financial instruments at market price is classified into:
+- Level 1. Quoted prices in active markets for identical instruments.
+- Level 2. Observable inputs for the instrument, either directly observable (prices) or indirectly observable (price-
+based).
+- Level 3. Inputs not based on observable market data.
+Measurements at market prices of the Group’s financial instruments recorded at fair value, the totality of which are
+classified as equity securities (Note 11), are classified at Level 1.
+The fair value of financial instruments traded in active markets (such as equity securities) is based on quoted market
+prices at the reporting date. The quoted market price used for financial assets held by the Group is the current bid price.
+The fair value of the reimbursable advances without a rate of interest or with a subsidised interest rate is determined by
+applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made and
+adding the spread normally applied in loans to the Group. For financial reporting purposes, fair value is calculated at the
+end of each reporting period by applying the interest rate curve in force at the end of each reporting period to the
+payments outstanding and adding the corresponding spread. For loans at variable rates of interest, fair value has been
+29

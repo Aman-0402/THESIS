@@ -1,0 +1,27 @@
+,,CURRENT PERIOD,,PREVIOUS PERIOD (2nd,,ACCUMULATED PERIOD,,ACCUMULATED PREVIOUS,
+,,(2nd HALF),,HALF),,31/12/2017,,PERIOD 31/12/2016,
+,,Amount,%,Amount,%,Amount,%,Amount,%
+(+) Net revenue,0205,116.908,"100,00",114.797,"100,00",240.560,"100,00",231.382,"100,00"
+(+/-) Change in inventories of finished products and work in progress,0206,1.135,"0,97",(6.161),"(5,37)",4.053,"1,68",(6.435),"(2,78)"
+(+) Work performed by the company on its assets,0207,2.057,"1,76",,,2.057,"0,86",,
+(-) Supplies,0208,(68.934),"(58,96)",(60.622),"(52,81)",(144.574),"(60,10)",(129.543),"(55,99)"
+(+) Other operating income,0209,2.430,"2,08",1.257,"1,09",3.653,"1,52",2.792,"1,21"
+(-) Employee benefit expenses,0217,(14.955),"(12,79)",(13.964),"(12,16)",(29.520),"(12,27)",(29.080),"(12,57)"
+(-) Other operating expenses,0210,(41.756),"(35,72)",(26.590),"(23,16)",(66.013),"(27,44)",(49.297),"(21,31)"
+(-) Amortization and depreciation charges,0211,(3.866),"(3,31)",(4.186),"(3,65)",(7.891),"(3,28)",(7.608),"(3,29)"
+(+) Allocation of grants for non-financial assets and other,0212,552,"0,47",507,"0,44",935,"0,39",1.082,"0,47"
+(+) Excess provisions,0213,,,,,,,,
+"(+/-) Impairment and gains/(losses) on disposal of intangible assets and property, plant & equipment",0214,(25),"(0,02)",(23),"(0,02)",(25),"(0,01)",(25),"(0,01)"
+(+/-) Other gains/(losses),0215,,,,,,,1.450,"0,63"
+= OPERATING PROFIT/(LOSS),0245,(6.454),"(5,52)",5.015,"4,37",3.235,"1,34",14.718,"6,36"
+(+) Finance income,0250,33,"0,03",320,"0,28",9.981,"4,15",15.374,"6,64"
+(-) Finance expenses,0251,(464),"(0,40)",(329),"(0,29)",(987),"(0,41)",(842),"(0,36)"
+(+/-) Change in fair value of financial instruments,0252,,,,,,,,
+(+/-) Exchange rate differences,0254,,,,,,,,
+(+/-) Impairment and gains/(losses) on disposal of financial instruments,0255,,,,,,,,
+= FINANCE PROFIT/(LOSS),0256,(431),"(0,37)",(9),"(0,01)",8.994,"3,74",14.532,"6,28"
+= PROFIT/(LOSS) BEFORE TAX,0265,(6.885),"(5,89)",5.006,"4,36",12.229,"5,08",29.250,"12,64"
+(+/-) Corporate income tax,0270,6.221,"5,32",502,"0,44",6.444,"2,68",682,"0,29"
+= PROFIT/(LOSS) FOR PERIOD ON CONTINUING OPERATIONS,0280,(664),"(0,57)",5.508,"4,80",18.673,"7,76",29.932,"12,94"
+"(+/-) Profit/(loss) for perid on discontinued operations, net of tax",0285,,,,,,,,
+= PROFIT/(LOSS) FOR PERIOD,0300,(664),"(0,57)",5.508,"4,80",18.673,"7,76",29.932,"12,94"

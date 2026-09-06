@@ -1,0 +1,41 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Income Statement for the annual periods ended 31 December, 2017 and 2016
+(Thousands of euros)
+Annual period ended
+31 December
+Note 2017 2016
+CONTINUING OPERATIONS
+Net sales 22 a) 240,560 231,382
+Sales of goods 240,560 231,382
+Change in inventories of finished products & work in progress 4,053 (6,435)
+Self-constructed assets 5 2,057 -
+Supplies (144,574) (129,543)
+Raw materials and consumables used 22 b) (145,191) (129,399)
+Inventory write-down 12 617 (144)
+Other operating income 3,653 2,792
+Ancillary and current management income 22 c) 2,834 2,283
+Operating grants recognized in profit and loss 22 d) 819 509
+Employee benefit expenses 22 e) (29,520) (29,080)
+Wages, salaries and similar remuneration (24,697) (24,377)
+Welfare charges (4,823) (4,703)
+Other operating income (66,013) (49,297)
+External services 22 f) (65,289) (48,873)
+Taxes (758) (391)
+Losses, impairment and changes in trade provisions 34 (33)
+Amortization, depreciation & impairment charges 5 y 6 (7,891) (7,608)
+Allocation of grants for non-financial assets and other 17 935 1,082
+Impairment and gains/(losses) on disposal of intangible assets and
+property, plant and equipment 6 (25) (25)
+Gains/(losses) for sales and others (25) (25)
+Other income 9 - 1,450
+PROFIT FROM OPERATING ACTIVITIES 3,235 14,718
+Finance revenue 9,981 15,374
+Finance expenses (987) (842)
+FINANCE COSTS - NET 24 8,994 14,532
+PROFIT BEFORE INCOME TAX 12,229 29,250
+Income tax 23 6,444 682
+PROFIT FOR THE YEAR 16 18,673 29,932
+3

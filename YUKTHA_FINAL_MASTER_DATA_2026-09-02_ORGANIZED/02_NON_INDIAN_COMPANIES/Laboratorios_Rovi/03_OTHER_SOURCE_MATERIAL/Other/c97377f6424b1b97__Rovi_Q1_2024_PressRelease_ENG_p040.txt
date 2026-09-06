@@ -1,0 +1,35 @@
+• Net profit as % of operating revenue
+This APM is a percentage indicator that measures the profit for the period that ROVI
+obtains from its operating revenue.
+We calculate net profit as % of operating revenue as the percentage that the net profit
+represents in the revenue (operating revenue).
+• Net profit “Pre-R&D”
+This APM is used by ROVI to show the profit for the period related to the on-going
+business.
+We calculate net profit “Pre-R&D” as EBIT “Pre-R&D” plus:
+• Finance costs-net; and
+• Income tax. Net profit “Pre-R&D” income tax is calculated by applying the same
+effective tax rate as reported in the income statement of the period.
+• Gross cash position
+Gross cash position is an indicator that measures the amount of cash the group has at a
+specific point in time.
+We calculate gross cash position as equity securities plus deposits plus financial
+derivatives plus financial assets at amortised cost plus cash and cash equivalents.
+• Net cash
+Net cash, also measured as financial debt or net debt, is the main indicator used by
+Management to measure the group’s indebtedness.
+It is composed of equity securities, plus deposits, plus financial derivatives, plus financial
+assets at amortised cost, plus cash and cash equivalents, less current and non-current
+financial debt.
+• Capex
+Capex is an indicator used to better understand the investments made by the group in
+its operations.
+We calculate Capex as purchases of property, plant and equipment and intangible
+assets.
+• Capex as % of operating revenue
+This APM is a percentage indicator that measures the group's investments in property,
+plant and equipment, and intangible assets to its operating revenues.
+We calculate Capex as % of operating revenue as the percentage that the purchases of
+property, plant and equipment and intangible assets represents in the revenue
+(operating revenue).
+39

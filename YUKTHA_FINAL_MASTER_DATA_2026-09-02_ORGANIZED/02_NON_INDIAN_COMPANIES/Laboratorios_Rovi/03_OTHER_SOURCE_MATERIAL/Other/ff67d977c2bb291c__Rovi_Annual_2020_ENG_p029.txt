@@ -1,0 +1,43 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+Risk management is carried out by the Company’s Treasury Department, which, following policies approved by the
+Board of Directors, identifies, assesses and hedges financial risks. This Department identifies, assesses and hedges the
+financial risks in close co-operation with the Company’s operating units. The Audit Committee analyses policies for global
+risk management, as well as for specific areas, such as interest rate risk, liquidity risk and the investment of excess
+liquidity.
+a) Market risk
+(i) Exchange rate risk
+Foreign exchange risk is low as (i) virtually all the Company’s assets and liabilities are in euros; (ii) the majority of the
+transactions with foreign parties are carried out in euros; and (iii) transactions for a significant amount in currencies other
+than the euro are hedged with financial instruments that minimise the impact of exchange-rate risk. At 31 December,
+2020, the Company held instruments of this kind for a value of 13,500 thousand euros (26,500 thousand euros in 2019),
+the measurement of which led to recognition of a loss of 925 thousand euros at the 2020 reporting date (at 31
+December, 2019, the loss originating from measurement of these assets was 129 thousand euros). If, at 31 December,
+2020, the exchange rate had been 10% higher, ROVI would have incurred a loss of 1,925 thousand euros and, if the
+exchange rate had been 10% lower, ROVI would have recorded a profit of 297 thousand euros from the measurement of
+these assets (at 31 December, 2019, the effect would not have been significant).
+At 31 December, 2020, the Company held assets for an amount of 500 thousand zlotys (438 thousand zlotys at 31
+December, 2019). If the interest rate at the reporting date had been 10% higher, the value in euros of these assets
+denominated in zlotys would have decreased by 10 thousand euros (9 thousand euros in 2019) and if the exchange rate
+had been 10% lower, their value would have increased by 12 thousand euros (11 thousand euros in 2019).
+(ii) Price risk
+The Company is exposed to price risk on equity securities because of investments held by the Company and classified
+on the statement of financial positon as available for sale or held at fair value through profit and loss. The Company is
+not exposed to commodity price risk. To manage its price risk arising from investments in equity securities, the Company
+diversifies its portfolio in accordance with the limits set. The Company does not use derivatives to hedge price risk.
+At 31 December, 2020 and 2019, a change in the quoted price of equity securities would have had no effect on the
+Company’s statement of financial position.
+(iii) Cash flow and fair value interest rate risk
+The Company is subject to interest rate risk in respect of cash flows on long-term borrowing transactions at variable
+rates. The Company’s policy is to endeavour to obtain a large part of its financial debt from government entities through
+reimbursable advances, on which there is no interest rate risk. In the case of bank borrowings, it tries to obtain the cash
+flows not only at variable rates, but also at fixed rates, thus keeping interest rate risk to a minimum.
+Had interest rates on financial debt at variable rates been 1% higher or lower at 31 December, 2020, with all other
+variables remaining constant, the gain/loss after taxes for the year would have decreased or increased by 51 thousand
+euros, respectively, owing to the difference in interest expense on loans at variable rates (54 thousand euros at 31
+December, 2019).
+20

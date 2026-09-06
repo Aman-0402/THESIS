@@ -1,0 +1,43 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+20. Other provisions
+Movement on the current provisions recognised in the statement of financial position was as follows:
+Contribution to
+public health
+Returns system Other Total
+At 1 January, 2019 898 6,222 106 7,226
+Additions 1,365 5,195 25 6,585
+Applications (898) (2,980) (106) (3,984)
+At 31 December, 2019 1,365 8,437 25 9,827
+Additions 1,438 8,683 207 10,328
+Applications (1,365) (3,024) (25) (4,414)
+At 31 December, 2020 1,438 14,096 207 15,741
+Returns
+The Company estimates a provision for product returns considering the average return rate of recent years (Note 2.b.1).
+Contribution to public health system
+As stated in Note 3.18, in Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or
+other healthcare products paid with public funds must make payments of between 1.5% and 2.0% of their sales
+(depending on the volume) into the National health system every four months. This is a levy aimed to adjust the margin
+on a regulated activity through the price intervention established by the Law. The Company recognises the contribution
+to the public health system as a reduction in revenue when the sale is made. The sums accrued but not yet paid are
+recognised under the “Other provisions” caption.
+Additionally, within the contribution to the public health system, 10,424 thousand euros were related to the co-operation
+agreement signed between Farmaindustria, the Spanish pharmaceutical industry association, and the Spanish
+government (5,641 thousand euros at 31 December, 2019). ROVI, as a member of Farmaindustria, is subject to this
+agreement.
+Athough these sums should not be considered as returns or reimbursements to customers, they are recognised as a
+reduction in revenue because the purpose of the law is to regulate the prices and margins obtained on these products.
+The amounts of the provisions recongised in the statement of financial position are the reporting-date best estimate of
+the payments necessary to meet the present obligation, after consideration of the risks and uncertainties related ot the
+provision and, when significant, the financial effect produced by the rebate, provided that the payments that will be made
+in each period can be reliably determined. The rebate rate is determined before tax, considering the time value of money
+and the specific risks that were not taken into account in the future flows related to the provision at each reporting date.
+One-off obligations are measured in accordance with the most likely individual outcome. If the obligation involves a
+significant group of similar items, it will be measured by weighting the possible outcomes by the likelihood that they will
+occur. If there is a continuous range of possible outcomes and each point of the range has the same likelihood as the
+rest of the points, the obligation is measured at the average amount.
+43

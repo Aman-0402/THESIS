@@ -1,0 +1,20 @@
+Free translation of the 2018 Consolidated Management Report originally issued in Spanish. In the event of discrepancy,
+the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+2018 Consolidated Management Report
+EBIT “Pre-R&D”
+This APM is used by ROVI to show EBIT from the on-going business.
+We calculate EBIT “Pre-R&D” as operating profit for the period excluding:
+- Research and Development expenses (“R&D”) (see Note 7 to the consolidated annual accounts at 31 December
+2018); and
+- Non-recurring expenses/income (see Note 24 to the consolidated annual accounts at 31 December 2018).
+Net profit “Pre-R&D”
+This APM is used by ROVI to show the profit for the period related to the on-going business.
+We calculate Net proft “Pre-R&D” as EBIT “Pre-R&D” plus:
+- Finance costs-net; and
+- Income tax. Net profit “Pre-R&D” income tax is calculated by applying the same effective tax rate as reported in the
+income statement of the period.
+Net debt/cash
+Net Financial Debt or Net Debt is the main indicator used by Management to measure the Group’s indebtedness. It is
+composed of equity securities, plus deposits, plus cash and cash equivalents, less current and non-current financial debt.
+17

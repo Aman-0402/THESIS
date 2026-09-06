@@ -1,0 +1,40 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+To date, the Company has granted several exclusive licences to third parties to sell its products in specific territories.
+Under these agreements, ROVI has received a single amount for transfer of licence, with no refund obligation or the
+possibility of refund under very restrictive terms, when the product has been authorised for distribution in a given territory.
+In addition, the Company undertakes, for the term of the contract, to sell the products under contract to the distributor at
+the prices agreed in the contract. The amount received on the transfer of the licence is recorded as “net sales” on a
+straight-line basis over the term of the contract. The non-accrued portion is recorded as a non-current liability if it is to be
+recognised in revenues after a period longer than a year.
+3.15 Leases
+When the Company is the lessee – Operating lease
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as
+operating leases. Payments made under operating leases (net of any incentives received from the lessor) are recognised
+in profit and loss in the period in which they accrue on a straight-line basis over the lease term.
+3.16 Foreign currency transactions
+a) Functional and presentation currency
+The Company’s Annual Accounts are presented in thousands of euros. The euro is the Company’s functional and
+presentation currency.
+b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the
+transaction dates. Foreign exchange gains and losses resulting from the settlement of such transactions and from the
+translation at reporting-date exchange rates of monetary assets and liabilities denominated in foreign currencies are
+recognised in profit and loss, except when deferred in equity as eligible cash flow hedges and eligible net investment
+hedges.
+Changes in the fair value of monetary securities denominated in foreign currency and classified as available for sale are
+analysed considering the translation differences resulting from changes in the amortised cost of the security and other
+changes in its carrying amount. Translation differences relating to variations in the amortised cost are recognised in profit
+and loss and other changes in the carrying amount are recognised in equity.
+Translation differences on non-monetary items, such as equity instruments held at fair value through profit and loss, are
+presented as part of the gain or loss in the fair value. Translation differences on non-monetary items such as equity
+instruments classified as available-for-sale financial assets are included in equity.
+3.17 Related-party transactions
+In general, transactions between group companies are initially recognised at fair value. When applicable, if the agreed
+price differs from the fair value, the difference is recorded in accordance with the actual economic value of the
+transaction. Subsequent recognition is in accordance with the provisions set forth in the applicable rules.
+18

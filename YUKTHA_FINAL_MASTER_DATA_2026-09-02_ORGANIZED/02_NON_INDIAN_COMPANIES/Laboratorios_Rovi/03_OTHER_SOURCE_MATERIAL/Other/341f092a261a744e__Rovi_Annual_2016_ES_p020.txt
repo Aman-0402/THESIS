@@ -1,0 +1,37 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2016
+(Expresada en miles de euros)
+3.7 Pasivos financieros
+a) Débitos y partidas a pagar
+Esta categoría incluye débitos por operaciones comerciales y débitos por operaciones no comerciales. Estos recursos
+ajenos se clasifican como pasivos corrientes, a menos que la Sociedad tenga un derecho incondicional a diferir su
+liquidación durante al menos 12 meses después de la fecha del balance.
+Estas deudas se reconocen inicialmente a su valor razonable ajustado por los costes de transacción directamente
+imputables, registrándose posteriormente por su coste amortizado según el método del tipo de interés efectivo. Dicho
+interés efectivo es el tipo de actualización que iguala el valor en libros del instrumento con la corriente esperada de
+pagos futuros previstos hasta el vencimiento del pasivo.
+No obstante lo anterior, los débitos por operaciones comerciales con vencimiento no superior a un año y que no tienen
+un tipo de interés contractual se valoran, tanto en el momento inicial como posteriormente, por su valor nominal cuando
+el efecto de no actualizar los flujos de efectivo no es significativo.
+b) Pasivos financieros mantenidos para negociar y otros pasivos financieros a valor razonable con cambios en la
+cuenta de pérdidas y ganancias
+Tienen la consideración de pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias
+todos aquellos pasivos mantenidos para negociar que se emiten con el propósito de readquirirse en el corto plazo o
+forman parte de una cartera de instrumentos financieros identificados y gestionados conjuntamente para obtener
+ganancias en el corto plazo, así como los pasivos financieros que designa la Sociedad en el momento del
+reconocimiento inicial para su inclusión en esta categoría por resultar en una información más relevante.
+Estos pasivos financieros se valoran, tanto en el momento inicial como en valoraciones posteriores, por su valor
+razonable, imputando los cambios que se produzcan en dicho valor en la cuenta de pérdidas y ganancias del ejercicio.
+Los costes de transacción directamente imputables a la emisión se reconocen en la cuenta de pérdidas y ganancias del
+ejercicio en que surgen.
+3.8 Subvenciones recibidas
+Las subvenciones que tengan carácter de reintegrables se registran como pasivos hasta cumplir las condiciones para
+considerarse no reintegrables, mientras que las subvenciones no reintegrables se registran como ingresos directamente
+imputados al patrimonio neto y se reconocen como ingresos sobre una base sistemática y racional de forma
+correlacionada con los gastos derivados de la subvención.
+A estos efectos, una subvención se considera no reintegrable cuando existe un acuerdo individualizado de concesión de
+la subvención, se han cumplido todas las condiciones establecidas para su concesión y no existen dudas razonables de
+que se cobrará.
+Las subvenciones de carácter monetario se valoran por el valor razonable del importe concedido y las subvenciones no
+monetarias por el valor razonable del bien recibido, referidos ambos valores al momento de su reconocimiento.
+14

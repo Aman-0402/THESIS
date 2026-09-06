@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+At 31 December, 2019 and 2018, debt with government entities matured as follows:
+Year 2019 2018
+2019 - 2,032
+2020 1,996 1,791
+2021 1,600 1,540
+2022 1,788 1,595
+2023 1,178 934
+2024 1,220 963
+2025 onward 3,907 2,653
+11,689 11,508
+Non-current 9,693 9,476
+Current 1,996 2,032
+Fair value of the financial debt
+The carrying amounts and fair values of non-current bank borrowings and debt with government entities liabilities at 31
+December, 2019 and 2018 were as follows:
+Carrying amount Fair value
+2019 2018 2019 2018
+Bank borrowings 45,000 7,113 44,748 7,061
+Debt with government entities 9,693 9,476 9,972 10,002
+54,693 16,589 54,720 17,063
+The fair values of current financial debt are equal to their corresponding nominal amounts since the effect of discounting
+is not significant. The fair values are based on cash flows discounted at a rate of 2%, based on the borrowing rate (2% in
+2018).
+To calculate the fair value of fixed rate non-current bank borrowings the 2019 and 2018 reporting dates, the interest rate
+of the last variable interest loan received by the Company was taken as a reference: Euribor at 3 months plus a 0.844%
+spread.
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and when the deferred income taxes assets and liabilities relate to income taxes levied by
+the same taxation authority. A breakdown of the estimated periods for offsetting is as follows:
+2019 2018
+Deferred tax assets:
+– Deferred tax assets to be recovered at more than 12 months 7,955 11,332
+– Deferred tax assets to be recovered within 12 months 6,705 4,704
+14,660 16,036
+Deferred tax liabilities:
+– Deferred tax liabilities to be recovered at more than 12 months 884 1,033
+– Deferred tax liabilities to be recovered within 12 months 194 210
+1,078 1,243
+51

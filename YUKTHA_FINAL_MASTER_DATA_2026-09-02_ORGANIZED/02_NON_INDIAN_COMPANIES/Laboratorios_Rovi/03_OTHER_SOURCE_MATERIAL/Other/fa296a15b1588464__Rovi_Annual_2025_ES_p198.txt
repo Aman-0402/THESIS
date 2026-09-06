@@ -1,0 +1,42 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Para la obtención de dichos datos, ROVI tiene en consideración el consumo de agua de las oficinas de España y de las filiales
+en el extranjero, así como el consumo de agua vinculada a su proceso productivo en las 5 plantas de producción. Para el
+cálculo del consumo de agua, se utilizan tanto facturas como la lectura directa de los contadores. Asimismo, los datos
+correspondientes a los meses de enero y diciembre también se han estimado, dado que las facturas se emiten de forma
+bimensual.
+Consumo de agua (m³)
+Alcalá de
+Escúzar Granada Madrid SSRR Distribución Total
+Henares
+2025 25.286,12 22.984,00 34.333,16 68.701,08 61.868,24 5.926,60 219.099,20
+2024 23.844,80 29.967,00 36.867,84 69.214,08 61.023,00 6.355,52 227.272,23
+% Variación 6,04 % -23,30 % -6,88 % -0,74 % 1,39 % -6,75 % -3,60 %
+Consumo de agua en zonas de estrés hídrico (m³)
+Escúzar Granada Total
+2025 25.286,12 22.984,00 48.270,12
+2024 23.844,80 29.967,00 53.811,80
+% Variación 6,04 % -23,30 % -10,30 %
+Agua reutilizada y almacenada (m³)
+Alcalá de
+Escúzar Granada Madrid SSRR Distribución Total
+Henares
+2025
+Agua reutilizada 395,0047 0,00 0,00 10.164,98 0,00 0,00 10.559,98
+Agua almacenada 0,00 0,00 0,00 24.861,32 0,00 0,00 24.861,32
+Total 395,00 0,00 0,00 35.026,30 0,00 0,00 35.421,30
+2024
+Agua reutilizada 0,00 0,00 0,00 2.472,00 0,00 0,00 2.472,00
+Agua almacenada 0,00 0,00 0,00 7.858,00 0,00 0,00 7.858,00
+Total 0,00 0,00 0,00 10.330,00 0,00 0,00 10.330,00
+% Variación — % — % — % 239,07 %48 — % — % 242,90 %
+Intensidad del agua
+Agua (m3) / millón EUR ingresos49
+2025 294,69
+2024 297,57
+% Variación -0,97 %
+Nota: El dato del 2024 se ha reexpresado utilizando el consumo total de agua en lugar del consumo de agua en zonas de estrés hídrico.
+47 En 2025, la planta de Escúzar ha implementado un sistema de recuperación del agua de enfriamiento de las camisas de los liofilizadores.
+48 Incremento interanual derivado de un ejercicio exhaustivo de derivación de aguas y optimización del vertido durante 2025.
+49 La cifra de ingresos netos del Grupo en 2025 fue de 743,5 millones €, la cual puede encontrase en la Nota 22 de las Cuentas Anuales Consolidadas del Grupo
+86

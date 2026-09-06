@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+If the Group retains equity instruments in order to pay the employee’s income tax into the Public Treasury, the entire plan
+will be treated as having been settled in equity instruments, except for the portion of the instruments retained that exceeds
+the fair value of the tax obligation.
+2.20 Provisions
+The Group recognises provision liabilities when:
+• It has a legal or constructive obligation, as a result of past events;
+• It is more likely than not that an outflow of resources will be required to settle the obligation; and
+• The amount can be reliably estimated.
+When there are a number of similar obligations, the likelihood that an outflow will be required in settlement is determined
+by considering the class of obligations as a whole. A provision is recognised even if the likelihood of an outflow with respect
+to any one item included in the same class of obligations is low.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a
+pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the obligation.
+The increase in the provision due to passage of time is recognised as interest expense.
+2.21 Revenue recognition
+Ordinary revenue comprises the fair value of the consideration received or receivable for the sale of goods and services
+in the ordinary course of the Group’s activities. Ordinary revenue is shown, net of value-added tax, returns, rebates and
+discounts and after eliminating sales within the Group.
+The Group recognises revenue when the amount thereof can be measured reliably, it is probable that future economic
+benefits will flow to the Group and the specific requirements for each one of the Group’s activities are fulfilled, as described
+below.
+a) Sales of goods
+The Group’s “Sales of goods” are derived from the sale of pharmaceutical products, contrast agents and other hospital
+products and other non-prescription pharmaceutical products, where control transfers to the customers and the
+performance obligations are satisfied when the goods are made available to other pharmaceutical companies or at the
+time of the delivery to the remaining customers. Invoices are usually due in a maximum period of 90 days.
+IFRS 15 states that an entity that grants the right to return the product should recognise the revenue for the transferred
+products at the amount of consideration to which the entity expects to be entitled, a refund liability, and an asset for its right
+to recover products. ROVI recognises its revenues net of estimated returns at the date of sale, together with the refund
+liability. The Group does not recognise an asset for its right to recover products because, based on experience and the
+type of product sold, the goods returned can no longer be sold or form part of the Group's inventories.
+The amount of revenue recognised is adjusted for expected returns, which are estimated considering the average returns
+rates of recent years.
+Discounts granted to government customers are recorded as a deduction from revenue at the time the related revenues
+are recorded. Where appropriate, a liability is calculated on the basis of historical experience which requires the use of
+judgement by the management.
+Therefore, ROVI’s revenue from contracts with customers is subject to variable consideration for rebates, refunds and
+returns. This variable consideration is only recognised if it is highly probable that there will be no significant reversal in the
+20

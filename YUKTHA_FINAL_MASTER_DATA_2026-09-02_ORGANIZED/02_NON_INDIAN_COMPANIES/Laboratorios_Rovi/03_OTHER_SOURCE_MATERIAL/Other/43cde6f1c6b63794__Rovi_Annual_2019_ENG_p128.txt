@@ -1,0 +1,50 @@
+INFORME ANUAL DE GOBIERNO CORPORATIVO
+DE LAS SOCIEDADES ANÓNIMAS COTIZADAS
+F.3.2 Políticas y procedimientos de control interno sobre los sistemas de información (entre otras, sobre
+seguridad de acceso, control de cambios, operación de los mismos, continuidad operativa y segregación
+de funciones) que soporten los procesos relevantes de la entidad en relación a la elaboración y
+publicación de la información financiera.
+La Jefatura Corporativa de Tecnologías de la Información y las Comunicaciones (TIC) de ROVI es responsable de promover y apoyar el
+establecimiento de medidas técnicas, organizativas y de control que garanticen la integridad, disponibilidad, fiabilidad y confidencialidad de la
+información.
+El Gestor de Riesgos del Sistema de Gestión de la Seguridad de la Información (SGSI-Risk Manager) es el responsable de supervisar la gestión
+efectiva y eficiente de los riesgos e incidentes en cuanto a seguridad de la información confidencial, así como de promover planes y políticas para
+salvaguardarla.
+El acceso a los sistemas de información se gestiona de manera centralizada para todas las sedes, tanto nacionales como internacionales. Se han
+establecido protocolos para garantizar que los usuarios de ROVI sólo accedan a aquellos datos o programas que se les permita según su puesto o
+función, evitando así accesos no autorizados. Este acceso, definido en base a roles y perfiles que definen las funcionalidades a las que un usuario
+debe tener acceso, se realiza mediante usuario y contraseña, personal e intransferible, tanto a sistemas (sistema operativo y carpetas compartidas)
+como a bases de datos y aplicativos. Así mismo, ROVI cuenta con sistemas que alertan de cualquier uso malintencionado o sospechoso de la
+información (DLP), deteniendo además posibles ataques por software malintencionado como los conocidos “Cryptolocker”. Adicionalmente, se
+monitoriza nuestro Directorio Activo para alertar sobre aquellas conductas sospechosas de ser ataques, tales como robo de claves, movimientos
+laterales, manejo de certificados, aplicación de permisos, abuso de privilegios, etc.
+Como medida de seguridad adicional, en los servidores de nuestra compañía se está estableciendo un sistema de parcheo virtual. Se aplican
+diariamente reglas de firewall específicos a cada uno de los sistemas para bloquear ataques que aprovechen brechas de seguridad aún no
+parcheadas mediante las actualizaciones del Sistema Operativo mensuales que se realizan en ellos.
+En relación a la segregación de funciones, está determinada en los sistemas en función de la distribución de roles y perfiles anteriormente
+comentados. Anualmente la función de Auditoría Interna analiza los sistemas para asegurar que no hay uso de transacciones incompatibles con la
+segregación de funciones por parte de un mismo usuario.
+La política general de seguridad no permite la instalación, desinstalación o modificación de software en los equipos sin los permisos específicos,
+evitando que usuarios no administradores puedan modificar sustancialmente los equipos cliente sin autorización de un administrador TIC.
+Los usuarios también tienen prohibido el uso de dispositivos de almacenamiento externo, a no ser que sea aprobado e inventariado por el
+Departamento de IT.
+En ROVI se ha establecido una metodología de gestión del cambio en base a normas Good Manufacturing Practice (normas “GMP”), la cual
+establece las cautelas y validaciones necesarias para limitar el riesgo en este proceso. Esta metodología es de obligado cumplimiento para
+cualquier cambio que se realice en los Sistemas TIC de la compañía.
+Existe un servicio interno de “Help Desk” en horario 24x7 al que los usuarios finales pueden dirigirse en caso de encontrarse con cualquier
+incidencia con su puesto o sistema de trabajo.
+La compañía cuenta con un Centro de Procesamiento de Datos (CPD) ubicado en la Comunidad de Madrid, operado y gestionado por un
+proveedor externo, que cuenta con todas medidas en cuanto a seguridad de acceso y disponibilidad del servicio. Únicamente el personal
+autorizado puede acceder a dichas instalaciones, quedando todos los accesos registrados. Se ha establecido una monitorización de todos los
+sistemas y enlaces de datos para comprobar su correcto funcionamiento y respuesta. La operación y gestión del CPD y los sistemas alojados de
+ROVI son auditados satisfactoriamente de forma anual según la norma ISAE3402.
+Las comunicaciones y sistemas de ROVI están protegidas mediante elementos de red como Firewalls, en varios niveles, y Antivirus para reforzar
+internamente el control ante amenazas como virus u otro tipo de software malintencionado.
+La mayoría de los sistemas cuentan con alta disponibilidad local, existiendo servidores y cabinas de datos redundados en el mismo CPD, que
+permiten asegurar su disponibilidad en caso de incidencias.
+Adicionalmente, se realiza de forma periódica una copia de seguridad de los datos y sistemas, que se mantiene en un lugar seguro y en
+ubicaciones distintas. Al menos una vez al año se ejecuta el procedimiento de recuperación de los sistemas y datos relativos a información
+financiera comprobando así su fiabilidad y correcta ejecución.
+ROVI cuenta con su ERP (SAP) virtualizado, con el que se dota de mayor tolerancia ante desastres, manteniendo un sistema espejo en un CPD
+situado en distinta ubicación geográfica que el principal, y que entraría en funcionamiento en caso de desastre mayor.
+43 / 65

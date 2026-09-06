@@ -1,0 +1,50 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+10. Loans and receivables
+Thousands of euros
+2020 2019
+Non-current loans and receivables
+- Deposits (a) 1,327 1,327
+- Bank receivables (b) 65 65
+- Credits to Group companies 31,804 29,002
+- Guarantee deposits 29 27
+33,225 30,421
+Current loans and receivables
+- Trade receivables (c) 43,659 54,953
+- Receivables from related parties (Note 31.i) 249,377 87,496
+- Sundry debtors 31 29
+293,067 142,478
+326,292 172,899
+a) Deposits
+At 31 December, 2020 and 2019, “Deposits” included deposits at interest rates ranging from 2% to 3% pledged in favour of
+Banco Santander. The Company considers the credit risk associated to these deposits to be low and, therefore, no
+expected losses associated thereto were recognised.
+b) Non-current bank receivables
+The amount included in “Non-current bank receivables” relates to the payments made to Banco Santander under a debt
+assumption agreement whereby this bank assumed the payment of a reimbursable advance granted to the Company by
+government entities (Note 18.b).
+c) Trade receivables
+Management considers that the fair values of loans and receivables do not differ significantly from their current values, since
+they comprise principally balances receivable at less than one year and are subject to possible interest charges if they are
+not paid within said period.
+At 31 December, 2020, the balance receivable from the Social Security authorities and government entities was 7,744
+thousand euros (11,122 thousand euros at 31 December, 2019), geographically distributed as follows:
+Rating Balance Rating Balance
+2020 2020 2019 2019
+Portugal BBB 3,629 BBB 3,704
+Catalonia BB 881 BB 961
+Valencia BBB- 755 BBB- 1,153
+Madrid BBB 644 BBB 1,800
+Aragon BBB 266 BBB 350
+Basque Country BBB+ 256 BBB+ 220
+Andalusia BBB- 239 BBB- 689
+Canary Islands BBB- 138 BBB- 229
+Cantabria BBB 134 BBB 462
+Castilla La Mancha BBB- 106 BBB- 505
+Other - 696 - 1,049
+7,744 11,122
+32

@@ -1,0 +1,59 @@
+2
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+Key audit matters ________________________________________________________
+Key audit matters are those matters that, in our professional judgement, were of most significance
+in the audit of the consolidated annual accounts of the current period. These matters were
+addressed in the context of our audit of the consolidated annual accounts as a whole, and in forming
+our opinion thereon, and we do not provide a separate opinion on these matters.
+Recognition of revenues from services rendered to third parties
+See notes 2.21.b, 4.2, 20.b and 22.b to the consolidated annual accounts
+Key audit matter How the matter was addressed in our audit
+A portion of the Group's revenues corresponds to
+Our audit procedures included the following:
+the provision of manufacturing and packaging
+services to third parties. Control is transferred to the - Evaluating the design and implementation
+customer and the performance obligations are of key controls associated with the process
+of recognition of revenues using the
+deemed to be fulfilled when the manufactured
+percentage of completion method and
+goods are made available to the customer.
+revenues from production capacity
+In certain cases, the Group undertakes to reserve reservations.
+production capacity at its facilities in exchange for
+- We obtained and evaluated contracts for
+financial consideration that is either recognised as
+the reservation of production capacity at the
+revenues when the contractual milestone is reached facilities in exchange for economic
+or, serves as a minimum payment in cases where consideration in order to analyse the
+the production service is carried out. recognition of revenues for the provision of
+services and in particular, in the case of
+In other cases, before providing manufacturing
+deferral, recognition as contractual
+services and in accordance with certain determined liabilities, in accordance with the agreed
+milestones, the Group performs work to adapt, fit terms and conditions and in compliance
+out and validate its facilities and machinery, which, with the established milestones.
+when the final cost of such work is borne by the
+- Where revenues from the provision of
+customer, is recognised as revenues on the basis of
+services is recognised using the percentage
+the percentage of completion method in accordance
+of completion method, we obtained
+with the defined milestones. This requires the Group contracts from which we selected a random
+to perform estimates such as: the margin on each sample, based on certain quantitative and
+contract, the costs to be incurred, the probability of qualitative criteria, to assess the estimates
+receiving additional revenues, if any, and meeting made for the purposes of the recognition of
+the established milestones. revenues and for which we obtained
+documentation supporting those estimates
+The recognition of revenues and the profit/loss on and evidence of the judgements made by
+these contracts therefore entails a high level of the Group, where applicable.
+judgement by Management and an exhaustive
+We also assessed whether the disclosures in
+control of the estimates made and any deviations
+the consolidated annual accounts meet the
+that might arise during their term, as well as
+requirements of the financial reporting
+compliance with the milestones established by framework applicable to the Group.
+contract. The estimates take into account all costs
+and revenues directly attributable to the contracts,
+including any costs incurred in addition to those
+originally budgeted.

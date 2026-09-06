@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+2.11 Activos financieros
+a) Clasificación de los activos financieros
+El Grupo clasifica sus activos financieros en las siguientes categorías: activos financieros a coste amortizado y activos
+financieros a valor razonable con cambios en otro resultado global. La clasificación depende del propósito con el que se
+adquirieron los activos financieros. La dirección determina la clasificación de sus activos financieros en el momento de
+reconocimiento inicial.
+(i) Activos financieros a coste amortizado
+Los activos financieros a coste amortizado son activos financieros no derivados con pagos fijos o determinables que no cotizan
+en un mercado activo. Se incluyen en activos corrientes, excepto para vencimientos superiores a 12 meses desde la fecha del
+balance que se clasifican como activos no corrientes. Los activos financieros a coste amortizado se incluyen en el epígrafe
+“clientes y otras cuentas a cobrar” y “cuentas financieras a cobrar”.
+Los depósitos en entidades bancarias con un vencimiento superior a 90 días y menos de 12 meses son incluidos en esta
+categoría como activos corrientes.
+Las cuentas comerciales a cobrar se valoran a coste amortizado, menos la provisión por pérdidas por deterioro del valor. Se
+establece una provisión para pérdidas por deterioro de cuentas a cobrar cuando existe evidencia objetiva de que el Grupo no
+será capaz de cobrar todos los importes que se le adeudan de acuerdo con los términos originales de las cuentas a cobrar.
+Deterioro de activos financieros a coste amortizado
+La existencia de dificultades financieras significativas por parte del deudor, la probabilidad de que el deudor entre en concurso
+de acreedores o reorganización financiera y la falta o mora en los pagos se consideran indicadores de que la cuenta a cobrar
+se ha deteriorado. El deterioro de los activos financieros, incluidos préstamos y cuentas a cobrar, se evalúa utilizando el modelo
+de pérdida crediticia esperada.
+El Grupo valora las provisiones por pérdidas en un importe equivalente a las pérdidas esperadas durante el tiempo de vida del
+activo.
+Las provisiones por pérdidas de activos financieros valorados a coste amortizado se presentan por separado, como una
+deducción del importe bruto en libros de los activos.
+En relación a las cuentas a cobrar comerciales, las exposiciones al riesgo en cada grupo se segmentan en base al tipo de
+cliente (clientes públicos o no públicos) y la antigüedad de la deuda:
+– El saldo a cobrar de clientes públicos se corresponde con cuentas a cobrar de organismos oficiales sobre las que,
+según su naturaleza y la información actualmente disponible, ROVI considera que existe un riesgo bajo de crédito y, por
+lo tanto, no registra pérdidas esperadas asociadas a los mismos. El Grupo tiene derecho a reclamar a los diferentes
+organismos oficiales los intereses de demora originados por la mora en el cobro de estos saldos.
+– El saldo con clientes no públicos incluye, principalmente, mayoristas, clientes de actividades de fabricación, otras
+compañías farmacéuticas y centros privados. La provisión para pérdidas por deterioro de los saldos de clientes no
+públicos se valoran en base a la antigüedad de la deuda.
+Adicionalmente, se incluyen en la provisión de pérdidas por deterioro aquellos saldos de clientes sobre los que existen indicios
+de deterioro, aunque su vencimiento aún no haya superado los seis meses.
+La pérdida por el deterioro se reconoce en la cuenta de resultados dentro de “otros gastos de explotación”. Cuando una cuenta
+a cobrar sea incobrable, se regulariza contra el importe del deterioro. La recuperación posterior de importes dados de baja con
+anterioridad se reconoce como una partida al haber de “otros gastos de explotación”.
+(ii) Activos financieros a valor razonable con cambios en otro resultado global
+Los activos financieros a valor razonable con cambios en otro resultado global son no-derivados que se designan en esta
+categoría o no se clasifican en ninguna de las otras posibles categorías. Se incluyen en activos no corrientes con la
+denominación de “valores de renta variable” a menos que la Dirección pretenda enajenar la inversión en los 12 meses
+siguientes a la fecha del balance o estén valorados a coste porque no pueda estimarse un valor razonable fiable.
+16

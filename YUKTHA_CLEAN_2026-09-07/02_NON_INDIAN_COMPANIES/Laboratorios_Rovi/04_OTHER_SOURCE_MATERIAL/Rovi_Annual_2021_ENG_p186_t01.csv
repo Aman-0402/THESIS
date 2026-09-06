@@ -1,0 +1,44 @@
+,,CURRENT,PREVIOUS
+,,PERIOD,PERIOD
+,,31/12/2021,31/12/2020
+A) EQUITY (A.1 + A.2 + A.3),0195,339.631,330.686
+A.1) EQUITY,0180,337.522,328.283
+1. Capital:,0171,3.364,3.364
+a) Authorized capital,0161,3.364,3.364
+a) Less: uncalled capital,0162,,
+2. Share premium,0172,87.636,87.636
+3. Reserves,0173,7.032,7.032
+4. Less: treasury stock,0174,(66.121),(20.185)
+5. Retained earnings,0178,240.468,179.299
+6. Other shareholder contributions,0179,,
+7. Profit or loss for period,0175,65.143,71.137
+8. Less: interim dividend,0176,,
+9. Other equity instruments,0177,,
+A.2) ADJUSTMENTS FOR CHANGES IN VALUE,0188,(2),(3)
+1. Available-for-sale financial assets,0181,(2),(3)
+2. Hedging transactions,0182,,
+3. Other,0183,,
+"A.3) GRANTS, DONATIONS AND LEGACIES RECEIVED",0194,2.111,2.406
+B) NON-CURRENT LIABILITIES,0120,58.036,64.135
+1. Non-current provisions,0115,,
+2. Non-current debt:,0116,52.298,53.647
+a) Bank borrowings and debentures or other negotiable instruments,0131,44.107,44.825
+b) Other financial liabilities,0132,8.191,8.822
+3. Non-current debt with group and associated companies,0117,,
+4. Deferred tax liabilities,0118,4.278,4.700
+5. Other non-current liabilities,0135,,
+6. Non-current accruals,0119,1.460,5.788
+C) CURRENT LIABILITIES,0130,80.432,160.706
+1. Liabilities associated with non-current assets held for sale,0121,,
+2. Current provisions,0122,9.430,15.741
+3. Current debt:,0123,2.890,2.867
+a) Bank borrowings and debentures or other negotiable instruments,0133,714,175
+b) Other financial liabilities,0134,2.176,2.692
+4. Current debt with group and associated companies,0129,290,184
+5. Trade and other payables:,0124,67.036,140.834
+a) Trade payables,0125,57.166,135.148
+b) Other payables,0126,9.870,5.686
+c) Current tax liabilities,0127,,
+6. Other current liabilities,0136,,
+7. Current accruals,0128,786,1.080
+TOTAL EQUITY AND LIABILITIES (A + B + C),0200,478.099,555.527

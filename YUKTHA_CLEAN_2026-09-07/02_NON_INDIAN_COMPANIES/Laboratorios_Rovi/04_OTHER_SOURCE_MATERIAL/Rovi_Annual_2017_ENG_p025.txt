@@ -1,0 +1,39 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+3.5 Inventories
+Inventories are recognized at the lower of cost or net realizable value. When the net realizable value of the inventories is
+lower than their cost, the applicable value adjustments will be made, recognizing them as an expense in profit and loss. If
+the circumstances that cause the value adjustment cease to exist, the amount of the adjustment is reversed and
+recognized as income in profit and loss.
+Cost is determined using the weighted average price method. The cost of finished goods and work in progress comprises
+design, raw materials, direct labour, other direct costs and related production overheads (based on normal operating
+capacity). Net realizable value is the estimated selling price in the ordinary course of business, less applicable variable
+selling expenses and, in the case of raw materials and work in progress, the costs estimated necessary to complete their
+production.
+3.6 Equity
+Share capital is represented by ordinary shares.
+The costs of issuing new shares or options are recognized directly in equity as a reduction in the reserves.
+When treasury shares are purchased, the consideration paid, including any directly attributable incremental costs (net of
+income taxes) is deducted from equity attributable to the Company’s shareholders until the shares are cancelled,
+reissued or resold. Where such shares are subsequently sold or reissued, any consideration received, net of any directly
+attributable incremental transaction costs, is included in equity.
+3.7 Financial liabilities
+a) Debits and payables
+This category includes trade and non-trade debits. These debits are classified as current liabilities unless the Company
+has an unconditional right to defer settlement of the liability for at least 12 months after end of the reporting period.
+These debts are recognized initially at fair value, net of transaction costs directly incurred, and are subsequently stated at
+amortized cost applying the effective interest rate method. This effective interest is the discount rate that makes the
+carrying amount of the instrument equal to the expected flow of future payments forecast until maturity of the liability.
+Notwithstanding the foregoing, trade debits maturing at no more than one year that do not have a contractual interest
+rate are measured, both initially and subsequently, at their face value when the effect of not discounting the cash flows is
+not significant.
+b) Financial liabilities held for trading and other financial liabilities held at fair value through profit and loss
+Financial liabilities held at fair value through profit and loss are those held for trading that are issued with the intention of
+reacquiring them in the short term or those that form part of a portfolio of identified financial instruments managed overall
+to obtain short-term gains, together with financial liabilities that the Company designates to be included in this category
+upon initial recognition because this provides more relevant information.
+16

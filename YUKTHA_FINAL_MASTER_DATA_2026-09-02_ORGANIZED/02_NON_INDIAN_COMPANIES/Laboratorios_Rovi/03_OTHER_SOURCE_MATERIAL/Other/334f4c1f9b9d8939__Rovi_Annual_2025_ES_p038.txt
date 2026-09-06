@@ -1,0 +1,55 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+En cuanto a los riesgos climáticos físicos crónicos, el Grupo identificó, durante el ejercicio 2023, el riesgo de estrés hídrico cuyo
+impacto podría afectar a las instalaciones industriales localizadas en España. Los escenarios evaluados han sido planteados
+tomando como referencia los escenarios RCP 2,6 y 8,5. Los resultados del análisis revelan que la región más crítica en que se
+sitúan los centros productivos de ROVI en cuanto al riesgo de estrés hídrico es Granada, donde se espera un incremento
+significativo del riesgo a medio y largo plazo bajo las condiciones marcadas por el escenario 8,5. Las dos plantas de Granada
+presentan actualmente un riesgo climático significativo de estrés hídrico para el año 2050 pudiendo llegar a sufrir interrupciones
+de la actividad por una potencial falta de suministro.
+Finalmente, con respecto a los riesgos de transición, el Grupo identifica como su mayor riesgo significativo aquel derivado del
+aumento del precio del CO2. Para el análisis se compararon dos escenarios; escenario de Políticas Declaradas (Escenario
+base: Stated Policy Scenario - STEPS) y el escenario Net Zero a 2050 (NZS) de la IEA (Agencia Internacional de la Energía),
+para dos horizontes temporales: 2030 y 2050. Los resultados del análisis llegan a la conclusión de que no es hasta 2050
+cuando se puede esperar un ligero incremento de los costes adicionales asociados al consumo de combustibles, electricidad y
+materiales derivados del mecanismo de Carbono en el escenario más restrictivo Net-Zero.
+En cuanto al posible impacto de estos riesgos climáticos, el Grupo realiza sus evaluaciones a partir de una matriz de
+probabilidad e impacto en base a los distintos escenarios mencionados anteriormente cuyos resultados obtenidos para los
+ejercicios 2024 y 2023 son los siguientes:
+Riesgo climático relevante Potencial impacto financiero Horizonte temporal
+Riesgos físicos
+Corto, medio y largo
+Eventos de temperatura extrema Fallo de equipos
+plazo
+Interrupción de la actividad de producción por una Corto plazo
+Estrés hídrico
+potencial falta de suministro Medio plazo
+Riesgos de transición
+Incremento de los costes operacionales debido al Corto, medio y largo
+Aumento del coste de las emisiones de CO2
+incremento de los combustibles fósiles. plazo
+El Grupo está monitorizando y aplicando las estimaciones e hipótesis desglosadas sobre el cambio climático en sus estados
+financieros consolidados, sin que se hayan materializado a 31 de diciembre de 2025 y 2024 deterioro de activos no financieros
+o haya sido necesario dotar algún tipo de provisión.
+Existe información complementaria recogida en el Informe de Gestión.
+4.2 Juicios importantes al aplicar las políticas contables
+Reconocimiento de ingresos
+El Grupo ha reconocido ingresos por el total de ventas de los productos comercializados durante 2025 y 2024 a su valor
+nominal y, en su caso, ha procedido a la reclamación de intereses de demora a las administraciones públicas. El comprador
+tiene derecho a devolver bienes vendidos. A pesar de que el Grupo considera que, en base a la experiencia pasada, la tasa de
+devoluciones no será muy significativa, ha reconocido ingresos ordinarios por sus ventas junto con la correspondiente provisión
+contra ingresos ordinarios por las devoluciones estimadas. Si las estimaciones variaran un 1%, los ingresos ordinarios no
+variarían de forma significativa.
+Los ingresos reconocidos por las labores de adaptación, acondicionamiento y validación de las instalaciones y maquinaria,
+propia o adquirida o subcontratada a terceros, previas a la prestación de un servicio de fabricación, han sido calculados en
+función del grado de avance de los trabajos a realizar. Adicionalmente, en el caso que el grado de avance incorpore
+determinada adquisición de activos, el margen no se reconoce hasta su final instalación.
+Por otro lado, los ingresos por reservas de capacidad se reconocen cuando ocurre la circunstancia pactada contractualmente
+(Nota 2.21.b).
+En la determinación del grado de avance de la prestación de servicios se ha tenido en cuenta la mejor estimación realizada por
+la Dirección en cuanto al cumplimiento de los hitos definidos y los costes incurridos y pendientes de incurrir relacionados con
+los trabajos a realizar. Asimismo, corresponde evaluar técnicamente por parte del Grupo si se llevaron a cabo las labores de
+adaptación, acondicionamiento y validación de las instalaciones y de maquinaria a la hora de determinar el momento en que se
+encuentran preparados para la producción.
+28

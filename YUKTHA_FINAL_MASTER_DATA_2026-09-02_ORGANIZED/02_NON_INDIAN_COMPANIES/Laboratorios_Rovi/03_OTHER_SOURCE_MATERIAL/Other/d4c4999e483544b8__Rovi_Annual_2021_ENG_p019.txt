@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+Additionally, an asset (or inventories) will be recognised for the costs incurred in fulfilling a contract with a customer and
+an accrual of expenses in the case of the incremental costs incurred in obtaining a contract with a customer, when, in both
+these cases, it is expected to recover them.
+At the first adoption on 1 January, 2021, the Company chose the practical solution of applying the new standard for new
+contracts as of said date, electing not to restate the comparative information for 2020.
+Furthermore, the entity decided to apply the practical solutions consisting of not considering the financing component to
+be material when the payment period was less than one year and recognising the incremental cost of obtaining contracts
+as an expense when the forecast period of allocation to profit and loss was one year or less.
+Additionally, internal policies for revenue recognition were analysed for the different types of customer contracts, identifying
+the performance obligations, the determination of the calendar for meeting these obligations and the transaction price and
+its allocation, in order to identify possible differences with the revenue recognition model of the new standards. No material
+differences were found and no performance obligations that gave rise to recognition of a liability for customer contracts
+were observed.
+The standard requires recognition of an accrued expense associated to the incremental costs of obtaining a contract with
+a customer. On the basis of the evaluations performed at the date the new standard came into force, no expenses of this
+type were observed in the Company.
+3. Accounting policies
+3.1 Intangible assets
+a) Research and development expenses
+Research expenditure is recognised as an expense when incurred, while the development costs incurred in a project are
+recognised as intangible assets when the following requirements are met:
+• the project is viable from a technical and commercial point of view,
+• sufficient technical and financial resources are available to complete it,
+• the costs incurred can be determined reliably, and
+• profits are likely to be generated.
+The Company considers that, in the case of the development of pharmaceutical products, the aforementioned requirements
+are met when the drugs have been approved for marketing by the health authorities in the case of new products developed
+under patent, or, in the case of biosimilars or generics, when the application for marketing authorisation is filed.
+When the carrying amount of an asset is higher than its recoverable amount, its value is immediately written down to the
+recoverable amount.
+In the event that the favourable circumstances of the project that have allowed the development expenses to be capitalised
+were to change, the portion that had not yet been amortised is taken to profit and loss in the reporting period in which the
+change in circumstances took place.
+b) Licences and trademarks
+Product licences and trademarks are shown at acquisition cost. Those that have a finite useful life and are carried at cost
+less accumulated amortisation and recognised impairment losses. Amortisation is calculated using the straight-line method
+to allocate the cost of trademarks and licenses over their estimated useful lives, which are between 10 and 15 years.
+10

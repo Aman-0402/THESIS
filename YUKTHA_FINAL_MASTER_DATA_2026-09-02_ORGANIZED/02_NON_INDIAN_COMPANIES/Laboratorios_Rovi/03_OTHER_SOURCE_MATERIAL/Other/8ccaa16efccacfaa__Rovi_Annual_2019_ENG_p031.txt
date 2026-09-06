@@ -1,0 +1,40 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+agreement for a total amount of 45 million euros. As of 31 December, 2019, ROVI had drawn the full amount of this loan
+(the amount drawn at 31 December, 2018 was 5,000 thousand euros) (Note 18.a).
+ROVI’s liquidity increased in 2018 as a consequence of the capital increase for a total amount of 88,000 thousand euros
+carried out in October 2018 (Notes 1 and 14).
+The following table analyses the Company’s financial liabilities grouped by maturity dates based on the periods
+outstanding at the reporting date through to the maturity date stipulated in the contract, including the related interest. The
+amounts shown in the table correspond to cash flows stipulated in the contract, which have not been discounted. Given
+that these amounts have not been discounted and that they include future interest accruals, they cannot be matched with
+figures on the statement of financial position for borrowings, derivative instruments and trade and other payables.
+Thousands of euros
+Less than Between Between Over
+At 31 December, 2019 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 2,415 1,474 19,983 25,190
+Debt with government entities 1,893 3,788 3,703 2,870
+Trade and other payables 62,294 - - -
+66,602 5,262 23,686 28,060
+Thousands of euros
+Less than Between Between Over
+At 31 December, 2018 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 15,694 2,344 2,184 2,730
+Debt with government entities 1,893 3,709 3,736 2,913
+Trade and other payables 114,799 - - -
+132,386 6,053 5,920 5,643
+4.2 Fair value estimation
+The fair value of financial instruments traded in active markets (such as held-for-sale and available-for-sale securities) is
+based on quoted market prices at the end of the reporting period. The quoted market price used for financial assets is
+the current bid price.
+The fair value of the reimbursable advances without a rate of interest or with a subsidised rate of interest is determined
+by applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made,
+adding the spread normally applied in loans to the Company. For financial reporting purposes, fair value is calculated at
+the end of each reporting period by applying the interest rate curve then in force to the outstanding payments and adding
+the corresponding spread. For loans at variable rates of interest, fair value has been regarded as coinciding with the
+amount for which they are recognised.
+22

@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+• Amendments to the Conceptual Framework of International Financial Reporting Standards. In March 2018, the
+IASB issued a revised version of the Conceptual Framework. The Conceptual Framework sets out a series of
+basic concepts that guide the IASB in developing the standards and help to ensrue that the standards are
+consistent and that similar transactions receive the same treatment. Furthermore, it also helps entities to
+develop their accounting policies when there are no specific rules applicable to a transaction. The revised
+Conceptual Framework includes a new chapter on measurement, improves definitions and guidance, and
+clarifies important areas, such as prudence and measurement uncertainty. It is immediately applicable for the
+IASB and will be applied to issuers who develop accounting policies based on the Conceptual Framework in
+the annual periods commencing on or after 1 January, 2020. After its entry into force, ROVI will take this new
+Conceptual Framework into account when applying accounting rules.
+• IFRS 3 (Amendment) “Business Combinations”. In October 2018, the IASB issued a narrow-scope amendment
+to IFRS 3 “Business Combinations” to enhance the definition of “business”. This amendment will help
+companies determine whether an acquisition made is of a business or a group of assets. Entities are required
+to apply the amended definition of “business” to acquisitions made on or after 1 January, 2020. Early adoption
+is permitted. ROVI will take the new definitions into account in the event of a transaction that requires this
+determination to be made.
+• IAS 1 and IAS 8 (Amendment). Definition of material. In October 2018, the IASB issued amendments to the
+definition of material or relative importance. The amendments clarify the definition of material or relative
+importance and make the IFRSs more consistent. These amendments must be applied to the annual periods
+commencing on or after 1 January, 2020. Early adoption is permitted. ROVI will consider the new definition of
+material but does not expect it to have a significant impact on the preparation of its financial statements.
+• IFRIC 23 “Uncertainty over Income Tax Treatments”. This interpretation clarifies how to apply the recognition
+and measurement requirements of IAS 12 “Income Taxes”. Under these circumstances, an entity will recognise
+and measure its deferred or current tax asset or liability by applying the IAS 12 requirements to the taxable
+profit (tax loss), taxe bases, unused tax losses, unused tax credits or tax rates determined by applying this
+Interpretation. ROVI will apply this Interpretation when it becomes effective as of 1 January, 2019. The impact
+is not expected to be significant.
+• IFRS 17 “Insurance Contracts”. In May 2017, the IASB issued IFRS 17 “Insurance Contracts”, an integral
+accounting standard for insurance contract, which includes the recognition, measurement, presentation and
+disclosure of such contracts. The IFRS 17 model combines measurement of the current balance of insurance
+liabilities with recogntion of the utility over the period for which the services are provided. This Standard has not
+yet been endorsed by the European Union. ROVI will apply this Standard in the first financial statements issued
+after it comes into force. The impact of its implementation is not expected to be significant for the Group.
+2.3. Consolidation principles
+(a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an
+entity when it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its
+power over said entity to influence these yields. Subsidiaries are consolidated from the date on which control is
+transferred to the Group and de-consolidated from the date that control ceases.
+16

@@ -1,0 +1,42 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+10. Loans and receivables
+Thousands of euros
+2017 2016
+Non-current loans and receivables:
+- Deposits (a) 1,327 1,327
+- Credits to third parties (Note 9.b) - 50
+- Bank receivables (b) 65 65
+- Interest accrued - 74
+- Guarantee deposits 10 9
+1,402 1,525
+Current loans and receivables:
+- Loans to associated companies (Note 31.f) 5 5
+- Trade receivables (c) 29,858 29,514
+- Receivables from related parties (Nota 31.f) 66,987 94,852
+- Sundry debtors 47 497
+- Employees 161 186
+97,058 125,054
+98,460 126,579
+a) Deposits
+At 31 December, 2017 and 2016, “Deposits” included deposits at an interest rate ranging from 2% to 3% pledged in favour
+of Banco Santander.
+b) Non-current bank receivables
+The amount included in “Non-current bank receivables” relates to the payments made to Banco Santander under a debt
+assumption agreement whereby this bank assumed the payment of a reimbursable advance granted to the Company by
+government entities (Note 18.b).
+c) Customers
+Management estimates that the fair values of loans and receivables do not differ significantly from their current values, since
+they comprise principally balances receivable at less than one year and are subject to possible interest charges if they are
+not paid within said period.
+In December 2016, ROVI signed a non-recourse factoring agreement with BBVA, whereby ROVI received the amount of
+matured items due from customers other than public authorities (Social Security or other government entities) for a total
+sum of 6,337 thousand euros.
+In December 2017, ROVI signed a non-recourse factoring agreement with Banco Santander, under which ROVI
+derecognized he amount of matured items due from customers other than public authorities (Social Security or other
+government entities) for a total sum of 6,031 thousand euros.
+34

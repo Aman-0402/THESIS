@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+The areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates are significant
+to the consolidated annual accounts are disclosed in Note 4.
+2.2 New standards and amendments and interpretations of existing ones
+a) Standards, amendments and interpretations mandatory for all annual periods starting on or after 1 January,
+2021
+In 2021, the following standards and amendments to existing standards were endorsed by the European Union and came
+into force on 1 January, 2021. They have either been applied by ROVI or may affect the Group in the future:
+• IFRS 9 “Financial Instruments”, IAC 39 “Financial Instruments: Recognition and Measurement” and IFRS 7
+“Financial Instruments: Disclosures” (Amendment – Phase 2): Interest rate benchmark reform. This Amendment
+changes the specific requirements of hedge accounting, in such a way that companies will apply said hedge
+accounting requirements assuming that the interest rate benchmark on which the hedged cash flows and the cash
+flows of the hedging instrument are based does not change as a result of the interest rate benchmark reform. The
+entry into force of this amendment has had no impact for ROVI.
+• IFRS 4 (Amendment) “Insurance Contracts” (deferral of effective date of IFRS 9 “Financial Instruments). This
+Amendment approves the extension of the temporary exemption from applying IFRS 8 (Amendments to IFRS 4)
+(“the Amendments”). The Amendments change the end date of the temporary exemption from applying IFRS 9
+from 1 January, 2021 to 1 January, 2023.
+b) Standards, amendments and interpretations that have not yet come into force but have been endorsed by
+the European Union
+At the signature date of these consolidated annual accounts, the IASB and the IFRS Interpretations Committee had
+published the following standards, amendments and interpretations application of which is mandatory from 2022 onwards.
+ROVI considers that the following could be applicable to the Group, although they have not been adopted early:
+• IFRS 3 (Amendment) “Business Combinations”. This Amendment is intended to clarify the definition of business
+in order to facilitate the practical application of the Standard. The IASB proposes that this Amendment should
+come into force on 1 January, 2022. ROVI will take this Amendment into account in the event that any transactions
+that require the Standard to be applied take place.
+• IAS 16 (Amendment) “Property, Plant and Equipment”. Through this Amendment, further details are given on
+measurement on recognition of the asset and the information to disclose. The IASB proposes that this Amendment
+should come into force on 1 January, 2022. ROVI will take this Amendment into account when presenting the
+financial statements to which it applies, although its impact is not expected to be significant.
+• IAS 37 (Amendment) “Provisions, Contingent Liabilities and Contingent Assets”. This Amendment gives details of
+the costs of fulfilling a contract. The IASB proposes that this Amendment should come into force on 1 January,
+2022. ROVI will take this Amendment into account in the event that any transactions that require the Standard to
+be applied take place.
+• Annual Improvements to IFRSs. Cycle 2018 – 2020. The amendments affect IFRS 1, IFRS 9, IFRS 16 and IAS
+41. The main changes that may apply to the Group refer to:
+• IFRS 1 “First-time Adoption of IFRSs”. The amendment permits a subsidiary that applies paragraph
+D16(a) of IFRS 1 to measure cumulative translation differences using the amounts reported by its
+parent, based on the parent’s date of transition to IFRSs.
+• IFRS 9 “Financial Instruments”. The amendment clarifies which fees an entity includes when it applies
+the “10 per cent’ test in paragraph B3.3.6 of IFRS 9 in assessing whether to derecognise a financial
+liability.
+• IFRS 16, “Leases”. The amendment to Illustrative Example 13 accompanying IFRS 16.
+8

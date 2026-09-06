@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+will evaluate the content of its consolidated annual accounts in accordance with the new definition of material,
+although no significant changes are expected.
+• Amendments to the conceptual framework of IFRS. The revised version of the Conceptual Framework sets out
+a series of basic concepts that guide the IASB in developing the standards and helps to ensure that the
+standards are consistent and that similar transactions receive the same treatment. Furthermore, it also helps
+entities to develop their accounting policies when there are no specific rules applicable to a transaction. The
+revised Conceptual Framework includes a new chapter on measurement, improves definitions and guidance,
+and clarifies important areas, such as prudence and measurement uncertainty. It will apply to annual periods
+commencing on or after 1 January, 2020 to issuers who develop accounting policies based on the Conceptual
+Framework.
+c) Standards, amendments and interpretations of existing standards that cannot be adopted early or that have not been
+endorsed by the European Union.
+At the date of signature of these Consolidated Annual Accounts, the IASB and the IFRS Interpretations Committee had
+published the standards, amendments and interpretations described below which have not yet been endorsed by the
+European Union. ROVI considers that the following could be applicable to the Group:
+• IFRS 3 (Amendment) “Business Combinations. In October 2018, the IASB issued a limited-scope amendment
+to IFRS 3 “Business Combinations” in order to improve the definition of “business”. This amendment will help
+companies to determine whether they have acquired a business or a group of assets. Entities are required to
+apply the amended definition of “business” to acquisitions made on or after 1 January, 2020. Early adoption is
+permitted. ROVI will take the new definitions into account in the event that a transaction requiring this
+determination to be made takes place.
+• IFRS 9 “Financial Instruments”, IAC 39 “Financial Instruments: Recognition and Measurement” and IFRS 7
+“”Financial Instruments: Disclosures” (Amendment): Reform of interest rate benchmarks. This amendment
+changes the specific requirements of hedge accounting, assuming that the interest rate benchmark on which
+the hedged cash flows are based and the cash flows of the hedging instrument will not change as a result of
+the interest rate benchmark reform. The entry into force of this amendment is not expected to have a material
+impact for ROVI.
+2.3. Consolidation principles
+(a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an
+entity when it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its
+power over said entity to influence these yields. Subsidiaries are consolidated from the date on which control is
+transferred to the Group and de-consolidated from the date that control ceases.
+The Group uses the purchase method to account for business combinations. The consideration transferred for
+acquisition of a subsidiary corresponds to the fair value of the assets transferred, liabilities incurred with the previous
+owners of the acquiree and equity instruments issued by the Group. The consideration transferred includes the fair value
+of any asset or liability coming from a contingent consideration agreement. Identifiable assets acquired and identifiable
+liabilities and contingencies assumed in a business combination are measured initially at their acquisition-date fair value.
+13

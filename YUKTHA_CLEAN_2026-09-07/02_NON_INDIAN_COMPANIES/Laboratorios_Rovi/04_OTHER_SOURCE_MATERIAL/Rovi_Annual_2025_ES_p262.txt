@@ -1,0 +1,34 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+2. Despliegue Controlado de IA Generalista: tras completar la formación y firmar las normas, los empleados han
+recibido acceso a una solución de IA generalista instalada en sus dispositivos corporativos, fomentando la eficiencia
+operativa sin comprometer la gobernanza ni la seguridad.
+3. Proceso de Solicitud de IA Específica en Producción: actualmente se está trabajando en el proceso para la
+solicitud de soluciones de IA distintas a la generalista. Este sistema permitirá a los equipos presentar los casos de
+negocio, que serán evaluados por un comité multidisciplinar.
+En la actualidad, ROVI está trabajando en la elaboración de la Política Corporativa de IA Responsable y Transformación Digital
+Ética.
+Cabe destacar que ROVI no divulga las cuantías asociadas a las actuaciones previamente mencionadas al no considerarse
+significativas desde el punto de vista financiero, ya que no supera el umbral de la materialidad financiera. No obstante, las
+cuantías consolidadas del CapEx durante el ejercicio 2025 pueden consultarse en la Nota 6 “Inmovilizado material” y la Nota 7
+“Activos Intangibles y Fondo de Comercio”, y las del OpEx en la Nota 25 “Otros gastos de explotación” de las Cuentas Anuales
+Consolidadas
+• Parámetros y metas
+Metas relacionadas con la digitalización y la Inteligencia Artificial
+En el presente requisito de divulgación se detallan las metas fijadas por ROVI para abordar las oportunidades relacionadas con
+la digitalización y la Inteligencia Artificial.
+ROVI realiza un seguimiento continuo de la eficacia de las medidas implementadas en el ámbito de la digitalización e IA, con el
+fin de consolidar y ampliar su actividad en este campo en los próximos ejercicios.
+Desde el área de IT se prevé llevar a cabo la implantación de los siguientes proyectos durante el 2026 orientados a mejorar la
+eficiencia operativa y reforzar la sostenibilidad tecnológica de la organización:
+• Concluir la implantación de los sistemas de calidad en la plataforma RoviQMS en todas las plantas del Grupo.
+• Iniciar el uso del sistema EBR en la planta de San Sebastián de los Reyes, impulsando así la digitalización del batch
+record en sus plantas.
+• Llevar a cabo la implementación de la funcionalidad de Cuaderno Electrónico en el marco del sistema LIMS en todas
+sus plantas comenzando por Julián Camarillo, San Sebastián de los Reyes y Alcalá de Henares y, posteriormente, en
+las plantas de Granada y Escúzar.
+Por otro lado, desde el área de Transformación, Eficiencia y Mejora se ha establecido el objetivo de finalizar la implantación de
+sistemas de control para cumplir con el IA Act a lo largo de 2026. Esta implantación se está llevando a cabo de una forma ética,
+eficiente y conforme a la normativa europea, garantizando la transparencia, la inclusión digital de los empleados de ROVI y la
+mejora sostenible de los procesos internos del Grupo.
+150

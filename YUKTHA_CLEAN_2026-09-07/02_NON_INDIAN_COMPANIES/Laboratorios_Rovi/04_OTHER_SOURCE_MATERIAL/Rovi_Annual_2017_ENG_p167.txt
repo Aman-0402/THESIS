@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Less than 1 Between 1 Between 2
+At 31 December, 2016 year and 2 years and 5 years Over 5 years
+Bank borrowing (Note 18) 10,140 11,004 - -
+Debt with government entities (Note 18) 2,975 5,016 4,613 2,009
+Trade suppliers (Note 17) 50,221 - - -
+Other payables (Note 17) 9,631 - - -
+72,967 16,020 4,613 2,009
+3.2. Capital risk management
+The Group’s objective in relation to the management of capital is to maintain a low level of gearing that will make it easier
+for the Group to obtain additional financial debt if required in order to make new investments. A large part of the Group’s
+financial debt takes the form of reimbursable advances from government entities. There is no interest expense on these
+operations since they are subsidized.
+The Group monitors capital on the basis of the gearing ratio. This ratio is calculated as net debt/cash divided by net
+equity. Net debt/cash is calculated as total financial debt less cash and cash equivalents. Equity is as shown under the
+relevant caption in the statement of financial position in the Consolidated Annual Accounts.
+The leverage index or gearing ratio at 31 December, 2017 and 2016 was as follows:
+2017 2016
+Financial Debt (Note 18) 43,237 33,794
+Less: Cash and cash equivalents (Note 14) (40,700) (41,378)
+Less: Available-for-sale financial assets (Note 11) (69) (70)
+Less: Deposits (Notes 9 & 13) (1,374) (1,359)
+Net debt/(Cash) 1,094 (9,013)
+Equity 191,687 183,406
+Leverage index/gearing ratio 0.57% -4.91%
+In addition, the Group’s net debt/cash at 31 December, 2017 and 2016 was as follows:
+2017 2016
+Financial Debt (Note 18) 43,237 33,794
+Less: Cash and cash equivalents (Note 14) (40,700) (41,378)
+Less: Available-for-sale financial assets (Note 11) (69) (70)
+Less: Deposits (Notes 9 & 13) (1,374) (1,359)
+Net debt/(Cash) (1,094) (9,013)
+3.3. Fair value estimate
+Measurement of financial instruments at market price is classified into:
+- Level 1. Quoted prices in active markets for identical instruments.
+- Level 2. Observable inputs for the instrument, either directly observable (prices) or indirectly observable (price-
+based).
+- Level 3. Inputs not based on observable market data.
+25

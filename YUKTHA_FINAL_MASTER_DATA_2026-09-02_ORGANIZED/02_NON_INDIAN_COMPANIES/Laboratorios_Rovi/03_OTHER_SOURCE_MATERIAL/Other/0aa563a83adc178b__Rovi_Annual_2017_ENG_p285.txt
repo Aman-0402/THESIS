@@ -1,0 +1,28 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+6. CONSOLIDATED STATEMENT OF FINANCIAL POSITION (UNDER IFRS ADOPTED) (1/2)
+Units: thousands of euros
+ASSETS CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2017 31/12/2016
+A) NON-CURRENT ASSETS 1040 130.215 120.776
+1. Intangible assets: 1030 27.078 24.872
+a) Goodwill 1031
+b) Other intangible assets 1032 27.078 24.872
+2. Property, plant and equipment 1033 89.056 82.822
+3. Investment property 1034
+4. Investments in group and associated companies accounted for using the equity metho1d035 2.054 2.571
+5. Non-current financial investments 1036 69 70
+6. Deferred tax assets 1037 11.893 10.252
+7. Other non-current assets 1038 65 189
+B) CURRENT ASSETS 1085 168.167 167.072
+1. Non-current assets held for sale 1050
+2. Inventories 1055 75.492 67.386
+3. Trade and other receivables 1060 51.975 58.308
+a) Trade receivables for sale of goods and services 1061 40.993 45.227
+b) Other receivables 1062 8.754 8.615
+c) Current tax assets 1063 2.228 4.466
+4. Other current financial assets 1070
+5. Other current assets 1075
+6. Cash and cash equivalents 1072 40.700 41.378
+TOTAL ASSETS (A+B) 1100 298.382 287.848

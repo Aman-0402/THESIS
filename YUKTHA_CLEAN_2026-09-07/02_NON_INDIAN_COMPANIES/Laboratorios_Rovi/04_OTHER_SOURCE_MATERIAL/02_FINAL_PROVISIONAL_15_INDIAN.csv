@@ -1,0 +1,16 @@
+Company,Country,Relevance,Annual_Income_Years,Quarterly_Income_Years,Quarterly_Balance_Years,Daily_Stock_Years,QIncome_Stock_Overlap_Years,Cashflow_Years,ML_Cleanliness,Option_C_Balanced_Score,Selection_Reason
+Biocon,India,Biosimilar-focused,0.0,13.0,12.75,12.64,12.49,12.0,CLEAN,22.56,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Zenotech Laboratories,India,Biopharmaceutical,0.0,12.5,12.0,12.63,12.49,12.0,CLEAN,20.51,Replaces J. B. Chemicals in balanced option: biopharmaceutical relevance + full 10-year quarterly income and daily stock
+Aurobindo Pharma,India,Pharmaceutical,0.0,13.25,12.5,12.63,12.24,12.0,CLEAN,18.59,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Glenmark Pharmaceuticals,India,Pharmaceutical,0.0,12.75,12.75,12.63,12.24,12.0,CLEAN,18.54,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Sun Pharmaceutical,India,Pharmaceutical,0.0,12.75,12.75,12.63,12.24,12.0,CLEAN,18.54,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Natco Pharma,India,Pharmaceutical,0.0,12.75,12.75,12.63,12.24,12.0,CLEAN,18.54,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Alembic Pharmaceuticals,India,Pharmaceutical,0.0,12.75,12.75,12.63,12.24,12.0,CLEAN,18.54,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Torrent Pharmaceuticals,India,Pharmaceutical,0.0,12.75,12.75,12.63,12.24,12.0,CLEAN,18.54,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Marksans Pharma,India,Pharmaceutical,0.0,13.0,12.75,12.05,11.91,12.0,CLEAN,18.51,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Ajanta Pharma,India,Pharmaceutical,0.0,11.75,12.0,12.05,11.66,12.0,CLEAN,18.38,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Strides Pharma Science,India,Pharmaceutical,0.0,11.75,12.0,12.05,11.66,12.0,CLEAN,18.38,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Jubilant Pharmova,India,Uncertain,0.0,13.0,12.75,12.63,12.49,12.0,CLEAN,16.56,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Cipla,India,Uncertain,0.0,13.0,12.75,12.63,12.49,12.0,CLEAN,16.56,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Lupin,India,Uncertain,0.0,13.0,12.75,12.63,12.49,12.0,CLEAN,16.56,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage
+Zydus Lifesciences,India,Uncertain,0.0,13.0,12.75,12.63,12.49,12.0,CLEAN,16.56,Strong balanced score: acceptable relevance and ≥10-year daily/quarterly income coverage

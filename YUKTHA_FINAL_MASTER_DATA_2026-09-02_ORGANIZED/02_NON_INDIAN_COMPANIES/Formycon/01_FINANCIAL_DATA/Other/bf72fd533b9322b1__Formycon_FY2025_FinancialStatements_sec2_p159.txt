@@ -1,0 +1,68 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 159
+Shares in joint ventures, which are accounted for has been completed. Depending on the contractual
+using the equity method, are initially recognized at design, these licenses may include marketing rights
+acquisition cost, including transaction costs. Subse- for certain regions, sublicensing rights for certain
+quent to this initial recognition, these Financial regions, and/or rights to develop, manufacture and
+Statements include the Group’s share of the com- register the products. In some cases, the Group
+prehensive income of the financial assets ac- may retain certain rights. The Group subsequently
+counted for using the equity method until the date receives license revenue for the granted rights
+upon which such significant influence or joint con- based upon product sales within the licensed terri-
+trol ends. tories. If the amount can be reliably determined, the
+Group recognizes the revenue at the time the li-
+Consolidation of intragroup transactions cense is granted. As a rule, however, such license
+revenues depend upon actual product sales and
+In preparing these Financial Statements, balances
+thus the amount generated thereby can only be re-
+and transactions between the Company and con-
+liably determined over time. The corresponding li-
+solidated subsidiaries thereof, as well as any unre-
+cense revenue is allocated as variable considera-
+alized intercompany income and expenses (other
+tion to the separate performance obligation of
+than income and expenses arising from foreign cur-
+granting a license.
+rency transactions), have been eliminated. In the
+case of companies accounted for using the equity
+These license agreements may also include upfront
+method (associates and joint ventures), any unreal-
+payments, which are likewise allocated to the rele-
+ized gains on transactions have been offset against
+vant license grant performance obligation. Revenue
+the investment asset, but not by more than the
+from such upfront payments is recognized at the
+Group’s investment in the respective company. Un-
+time the license is granted.
+realized losses have been analogously offset (i.e.
+added to the investment asset), but only where
+there is no indication of impairment. In addition the company generates revenues from
+the provision of development and other services to
+Transactions in foreign currencies assist with the completion of product development
+through to market approval. These other services
+Business transactions in foreign currencies are con-
+may include, for example, the organization of clini-
+verted into the functional currency of the respective
+cal studies and the preparation of approval docu-
+Group company at the spot rate on the date of the
+ments. The customer agreement may provide for
+transaction.
+ongoing reimbursement of costs or defined mile-
+stones. Services rendered but not yet been in-
+Monetary assets and liabilities denominated in a voiced are reported as contract assets. In the case
+foreign currency as of the reporting date are trans- of ongoing reimbursements, the regular payments
+lated into the functional currency at the closing rate are recognized against contract assets as received,
+for the period. Non-monetary assets and liabilities whereas milestone payments are only recognized
+measured at fair value in a foreign currency are against contract assets provided that the relevant
+translated at the exchange rate in effect at the time milestones havehave been achieved. Revenue is
+the fair value was measured. Non-monetary items recorded over the development period using the
+measured at historical cost in a foreign currency cost-to-cost method. Associated costs are recog-
+are translated at the exchange rate prevailing on nized in profit or loss as they are incurred.
+the transaction date. Currency translation differ-
+ences are recognized in period profit and loss and
+In some cases, a single customer contract may
+included within finance income and finance cost.
+combine different kinds of performance obligations,
+such as both the granting of a license and the pro-
+Revenue from contracts with customers
+vision of development services.
+The Group generates revenue by granting licenses
+for the marketing of products once development

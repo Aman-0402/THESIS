@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+– Physical: these are defined as the risks and opportunities derived from the increase in external extreme weather
+events (acute) or the long-term impacts and the change in the characteristics of the climate (chronic).
+– Transition: these are defined and the risks and opportunities derived directly or indirectly from the process of adjusting
+to a lower-carbon and more sustainable economy.
+In 2022, possible acute physical climate risks were identified for each one of the production plants, including extreme heat and
+wind events, freeze-thaw events, floods and ground movements, among others. To assess impact scenarios, the scenarios
+proposed by the Intergovernmental Panel on Climate Change (IPCC) in its latest report of August 2021 were considered: a
+global temperature increase of 2ºC and, likewise, scenario RCP 8.5, which represents a temperature increase of between 3.2
+and 5.5ºC in comparison with pre-industrial levels, which is the most unfavourable scenario from a climate standpoint.
+With regard to chronic physical climate risks, in 2023, the Group identified the risk of water stress, the impact of which could
+affect the industrial facilities in Spain. The scenarios assessed took scenarios RCP 2.6 and 8.5 as a reference. The results of
+the analysis revealed that the most crucial region where ROVI’s production centres are located in relation to the water stress
+risk is Granada, where a significant increase in the risk is expected in the medium and long term in the conditions described in
+scenario 8.5. The two Granada plants currently have a significant climate risk of water stress for 2050 and could suffer
+interruptions in their activity due to a potential lack of supply.
+Finally, regarding transition risks, the Group identifies the greatest significant risk to derive from a price increase in greenhouse
+gas (GHG) emissions. For the analysis, two scenarios were compared: the Stated Policies Scenario (base scenario: Stated
+Policies Scenario – STEPS) and the Net Zero Emissions by 2050 Scenario (NZS) of the IEA (International Energy Agency), for
+two time horizons: 2030 and 2050.
+Regarding the possible financial impact of these climate risks on economic activity, the Group makes its assessment using of a
+probability and impact matrix on the basis of the different scenarios mentioned above, the results of which for 2024 and 2023
+were as follows:
+Material climate risk Potential financial impact Classification Time horizon
+Physical risks
+Short, medium and
+Extreme temperature events Equipment failure Low
+long term
+Interruption of production activity Low Short term
+Water stress
+due to a potential lack of supply
+Moderate Medium term
+Transition risks
+Operating cost increase due to price Short, medium and
+Cost increase in CO emissions Insignificant
+2 increase in fossil fuels long term
+The financial classification of the risks described is as follows:
+– Insignificant: <2.0 million euros (1,8 million euros for 2023)/<0.25% of net revenue.
+– Low: 2.0-11.8 million euros(1.8-11 million euros for 2023)/0.25-1.5% of net revenue.
+– Moderate: 11.8-23.6 million euros(11-22.1 million euros for 2023)/1.5-3% of net revenue.
+The Group is monitoring and applying the climate change estimates and assumptions in its consolidated financial statements. At
+31 December 2024 and 2023, no impairment of financial assets had materialised and it had not been necessary to set aside any
+provision.
+Supplementary information may be found in the Management Report
+25

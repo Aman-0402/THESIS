@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+26. Finance income/costs
+2020 2019
+Interest income 4 51
+Total finance income 4 51
+Interest costs (806) (648)
+Other finance costs (266) (279)
+Total finance costs (1,072) (927)
+Proceeds on disposal of financial instruments (245) 305
+Change in fair value of financial instruments (796) (146)
+Impairment and gain/(loss) on measurement of financial instruments (1,041) 159
+Exchange rate differences 39 (51)
+39 (51)
+Net finance income/(cost) (2,070) (768)
+The caption “Other finance expenses” shows the finance cost derived from application of IFRS 16 “Leases” (Note 2.2.a).
+At 31 December, 2019, the Group held finanical derivatives of 26,500 million dollars to minimise the impact of exchange
+rate risk. The measurement of these financial derivatives at fair value represented a loss of 129 thousand euros at the 31
+December, 2019 reporting date. In 2020, these assets, as well as other acquired during 2020, were liquidated, incurring
+a loss of 245 thousand euros on the liquidations (profit of 305 thousand euros in 2019). At 31 December, 2020, there
+were active contracts of this nature of 13,500 thousand dollars, the measurement of which at the 2020 reporting date
+represented a loss of 925 thousand euros.
+27. Income tax
+In 2020 the corporate income tax return was submitted jointly for the following group companies as a tax group, the
+company Laboratorios Farmacéuticos Rovi, S.A. being the tax group 362/07 parent:
+- Rovi Pharma Industrial Services, S.A.U.
+- Pan Química Farmacéutica, S.A.
+- Gineladius, S.L.
+- Rovi Escúzar, S.L.
+Income tax is broken down into the following items:
+2020 2019
+Current tax (8,316) (3,798)
+Deferred tax (Note 19) (3,406) 1,789
+Adjustment corporate income tax prior years 198 (140)
+(11,524) (2,607)
+58

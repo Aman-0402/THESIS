@@ -1,0 +1,44 @@
+2
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+Key Audit Matters ________________________________________________________
+Key audit matters are those matters that, in our professional judgement, were of most significance
+in the audit of the consolidated annual accounts of the current period. These matters were
+addressed in the context of our audit of the consolidated annual accounts as a whole, and in forming
+our opinion thereon, and we do not provide a separate opinion on these matters.
+Recognition of revenue from services rendered to third parties (Euros
+336,221 thousand)
+See notes 2.21.b, 4.2, 20.b and 22.b to the consolidated annual accounts
+Key audit matter How the matter was addressed in our audit
+The Group provides, inter alia, manufacturing and Our audit procedures included the following:
+packaging services to third parties. In certain cases, - We evaluated the design and implementation of
+the Group undertakes to reserve production capacity the key controls associated with the processes of
+at its plants in exchange for financial consideration recognising manufacturing and packaging services
+and, in addition, prior to the provision of this revenue, revenue using the percentage of
+manufacturing service, and in accordance with completion method, and revenue from production
+certain defined milestones, the Group carries out capacity reservations.
+adjustment, overhaul and validation work on its
+- We obtained and analysed the framework
+facilities and machinery assumed by the customer.
+agreements for the provision of services and
+The provision of these different types of services
+assessed the appropriate identification of distinct
+requires the application of judgement, among other
+performance obligations, the allocation of the
+aspects, to determine the performance obligation,
+transaction price to each of them and the
+the allocation of the price and the time at which the
+reasonableness of the revenue recognition criteria
+obligation is satisfied and revenue is recognised.
+applicable to each of the obligations identified.
+Due to the high level of judgement applied in
+- We obtained and evaluated contracts for the
+identifying the different types of performance
+reservation of production capacity at the facilities
+obligations, allocating transaction prices and making
+the estimates used in applying the percentage of in exchange for financial consideration and
+completion for contracts that are recognised over analysed the appropriate recognition thereof as
+time, and taking into account the significance of the revenue based on the terms of the contracts and,
+revenue recognised in the income statement and the where necessary, the recognition of contractual
+contractual liabilities still to be recognised in the liabilities that defer revenue recognition until
+income statement at year end, this has been milestones are met.
+considered a key audit matter.

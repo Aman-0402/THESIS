@@ -1,0 +1,56 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 152
+Consolidated Statement of Cash Flows for the period from January 1, 2025 to December 31, 2025 in € thousand
+Explanatory note Jan. 1 – Dec. 31, 2025 Jan. 1 – Dec. 31, 2024
+Profit (loss) for the period -64,696 -125,672
+Adjustments for
+non-cash items:
+Depreciation and amortization 17, 18 86,487 139,065
+Net finance income 12 399 -8,543
+Effect of stock options 14 1,813 1,675
+Net loss (gain) arising from disposals of
+non-current assets 17, 18 87 163
+Other non-cash transactions -636 495
+Income tax expense 15 -25,799 -18,582
+Changes in operating assets
+and liabilities:
+Decrease (increase) in
+inventories -1,792 206
+Decrease (increase) in
+trade and other receivables 26 4,537 -12,275
+Decrease (increase) in
+contract assets 8 -5,843 9,544
+Decrease (increase) in
+other financial assets 5 -
+Decrease (increase) in
+prepayments and other assets 26 256 -10,788
+Increase (decrease) in contract liabilities 8 6,960 -
+Increase (decrease) in other liabilities 22, 23 738 762
+Increase (decrease) in
+trade payables 22 8,402 1,118
+Increase (decrease) in current provisions - -387
+Income taxes paid 15 -136 -4
+Net cash used for
+operating activities 10,783 -23,221
+Investments in intangible assets 18 -54,153 -28,395
+Investments in property, plant and
+equipment 17 -737 -1,545
+Investments in financial assets 19 - -2,419
+Proceeds from sale of non-current assets 17, 18 7 5
+Repayments from loans granted 19 15,000 27,300
+Interest received 12 2,428 3,595
+Net cash used for investing activities -37,455 -1,459
+Proceeds from issuance of shares 20 176 83,086
+Inflows from the assumption of financial
+liabilities 23, 26 70,000 -
+Transaction costs related to loans and bor-
+rowings 23, 26 -2,265 -
+Payment of lease liabilities 27 -1,291 -1,404
+Outflows for the repayment of financial liabili-
+ties 22, 23 -11,249 -41,292
+Interest paid 12 -1,687 -913
+Net cash from financing activities 53,684 39,478
+Net increase (decrease)
+in cash and cash equivalents 27,012 14,798
+Cash and cash equivalents as of Jan, 1 41,834 27,035
+Cash and cash equivalents as of Dec, 31 68,845 41,834
+Consolidated Statement of Cash Flows

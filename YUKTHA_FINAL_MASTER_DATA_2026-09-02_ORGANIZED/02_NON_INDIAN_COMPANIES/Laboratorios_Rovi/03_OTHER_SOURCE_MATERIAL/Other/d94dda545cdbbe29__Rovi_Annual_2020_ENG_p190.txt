@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+b) Credit risk
+Credit risk is managed on a group basis. Credit risk arises from cash and cash equivalents, deposits with banks and
+financial institutions, receivables classified as equity securities and trade receivables.
+The banks and financial institutions with which the Group works generally have independent ratings. If customers have
+been independently rated, such ratings are used. If this is not the case, then the Group assesses the risk on the basis of
+the customer’s financial position, historical experience and a series of other factors. In those cases in which there is no
+doubt as to the customer’s financial solvency, the Group elects not to set credit limits.
+At 31 December, 2020, the greatest investment in financial assets, including cash and cash equivalents and apart from
+trade receivables, was related to Banco de Santander, 25,112 thousand euros (41,464 thousand euros with BBVA at 31
+December, 2019). A significant proportion of trade and other receivables relates to accounts receivable from government
+entities, on which, in view of their nature, with the information currently available, Management considers that there is no
+credit risk (Note 13).
+c) Liquidity risk
+Management periodically monitors the liquidity estimates of the Group in accordance with the expected cash flows. The
+Group maintains sufficient cash and marketable securities to meet its liquidity requirements. In 2017, ROVI signed a
+financing agreement with the European Investment Bank, which it could draw down over the two years following
+signature of the agreement for a total amount of 45 million euros. As of 31 December, 2019, ROVI had drawn the full
+amount of this loan (Note 18).
+In 2020, ROVI signed credit policies for a total amount of 45 million euros. No amounts had been drawn down as of 31
+December, 2020.
+The following table analyses the Group’s financial liabilities grouped by maturity dates based on the periods outstanding
+at the end of the reporting period through to the maturity date stipulated in the contract, including the corresponding
+interest. The amounts shown in the table relate to cash flows stipulated in the contract, which have not been discounted.
+Given that these amounts have not been discounted and that they include future interest accruals, they cannot be
+matched with figures on the statement of financial position for financial debt and trade and other payables.
+Less than 1 Between 1 Between 2
+At 31 December, 2020 year and 2 years and 5 years Over 5 years
+Bank borrowing (Note 18) 474 7,585 19,753 18,843
+Debt with government entities (Note 18) 1,853 3,691 4,276 2,199
+Trade suppliers (Note 17) 63,452 - - -
+Other payables (Note 17) 27,912 - - -
+93,691 11,276 24,029 21,042
+Less than 1 Between 1 Between 2
+At 31 December, 2019 year and 2 years and 5 years Over 5 years
+Bank borrowing (Note 18) 2,415 1,474 19,983 25,190
+Debt with government entities (Note 18) 1,996 3,983 4,823 4,114
+Trade suppliers (Note 17) 68,770 - - -
+Other payables (Note 17) 23,144 - - -
+96,325 5,457 24,806 29,304
+28

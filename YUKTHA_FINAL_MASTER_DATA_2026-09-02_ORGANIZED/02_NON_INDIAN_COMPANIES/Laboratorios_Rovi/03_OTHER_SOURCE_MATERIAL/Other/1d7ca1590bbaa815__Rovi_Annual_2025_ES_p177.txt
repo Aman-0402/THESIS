@@ -1,0 +1,42 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+A nivel corporativo, el Grupo ha conseguido superar significativamente el objetivo planteado en el Plan Director ESG
+(2023-2025) de alcanzar un 7% de autoconsumo de energía producida en el 2025 (considerando el consumo base del 2021),
+habiendo logrado un 10,46%.
+Actuaciones de mitigación del cambio climático
+Como se ha mencionado con anterioridad, en 2025, el Grupo ha definido potenciales actuaciones relacionadas con su Plan de
+Descarbonización, en línea con el objetivo de reducir sus emisiones de gases de efecto invernadero a corto plazo (2035) para
+los tres alcances, que se llevarán a cabo tras evaluar la viabilidad de cada una de las mismas. A continuación, se presentan
+dichas palancas de descarbonización:
+Reducción de emisiones de Alcance 1
+1. Sustitución del gas natural actualmente utilizado como combustible para las calderas de la planta de Alcalá de
+Henares por biopropano.
+El biopropano es un combustible renovable producido a partir de materias primas biogénicas y residuos sostenibles.
+Su utilización permite reducir significativamente las emisiones de GEI respecto a los combustibles fósiles
+convencionales, sin necesidad de realizar modificaciones sustanciales en las instalaciones existentes. Gracias a su
+elevada compatibilidad tecnológica, esta es una de las opciones valoradas por ROVI sin afectar la continuidad ni la
+eficiencia de los procesos productivos.
+Se estima que, manteniéndose los valores del año base 2024, esta reducción podría suponer cerca de un 30% de las
+aproximadamente 6.000 t que supone el objetivo de reducción de un 63% de las emisiones de Alcance 1 para 2035.
+2. Consumo del gas natural del Grupo con Garantía de Origen Renovable (GdO).
+Los resultados de esta medida dependen del grado de aplicación de la medida anterior.
+La formalización de contratos de suministro con proveedores certificados garantiza que un porcentaje significativo del
+gas consumido en las plantas cuente con atribución de origen renovable, lo que se refleja en una disminución de las
+emisiones brutas reportadas, conforme a las metodologías reconocidas de cálculo de emisiones.
+Se estima que, manteniéndose los valores del año base 2024, esta reducción podría suponer cerca de un 17% de las
+aproximadamente 6.000 t que supone el objetivo de reducción de un 63% de las emisiones de Alcance 1 para 2035.
+3. Sustitución del diésel de origen fósil actualmente utilizado como combustible por la flota de vehículos propios
+por diésel renovable.
+El diésel renovable se obtiene a partir de materias primas sostenibles —como residuos orgánicos, aceites usados o
+biocomponentes avanzados— y presenta una reducción significativa en las emisiones de gases de efecto invernadero
+a lo largo de su ciclo de vida en comparación con los combustibles fósiles convencionales.
+Se estima que, manteniéndose los valores del año base 2024, esta reducción podría suponer cerca de un 17% de las
+aproximadamente 6.000 t que supone el objetivo de reducción de un 63% de las emisiones de Alcance 1 para 2035.
+4. Mejoras en la detección y actuación ante fugas de gases refrigerantes.
+Estos gases, especialmente aquellos con elevado Potencial de Calentamiento Atmosférico (PCA), pueden contribuir
+de manera significativa a las emisiones de alcance 1 cuando se liberan a la atmósfera, por lo que su gestión eficiente
+resulta prioritaria dentro de la estrategia de descarbonización de ROVI.
+Las potenciales actuaciones que se pueden llevar a cabo incluyen la actualización y ampliación de los sistemas de
+monitorización, incorporando equipos de detección más sensible y fiables, capaces de identificar fugas en fases
+temprana. Estas actuaciones también incluyen la revisión y optimización de procedimientos de mantenimiento
+65

@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+than the euro are hedged with financial instruments that minimise the impact of exchange-rate risk. At 31 December, 2021,
+the Group held instruments of this kind for a value of 5,000 thousand euros (13,500 thousand euros at 31 December,
+2020), the measurement of which led to recognition of a loss of 17 thousand euros at the 2021 reporting date (at 31
+December, 2020, the loss originating from measurement of these assets was 925 thousand euros). If, at 31 December,
+2021, the exchange rate had been 10% higher, ROVI would have incurred a loss of 502 thousand euros and, if the
+exchange rate had been 10% lower, ROVI would have recorded a profit of 392 thousand euros from the measurement of
+these assets (at 31 December, 2020, the impact would have been a loss of 1,925 thousand euros or a profit of 297 thousand
+euros, respectively).
+At 31 December, 2021, there were assets of 3,187 thousand pounds sterling, 2,491 thousand zlotys and 278 thousand
+Swiss francs on the statement of financial position (2,476 thousand pounds sterling and 2,992 thousand zlotys at 31
+December, 2020). If the exchange rate at the reporting date had been 10% higher, the value of these assets in euros would
+have decreased by 419 thousand euros thousand euros, respectively (310 thousand euros at 31 December, 2020), and if
+the exchange rate had been 10% lower, their value would have increased by 512 thousand euros (379 thousand euros at
+31 December, 2020).
+At 31 December, 2021, there were liabilities of 3,217 thousand pounds sterling, 2,456 thousand zlotys and 10 thousand
+Swiss francs on the statement of financial position (2,677 thousand pounds sterling and 1,911 thousand zlotys at 31
+December, 2020). If the exchange rate at the reporting date had been 10% higher or lower, the value of these liabilities in
+euros would have decreased or increased by 397 and 486 thousand euros, respectively (309 and 377 thousand euros,
+respectively, at 31 December, 2020), with the corresponding effect on profit and loss.
+(ii) Price risk
+The Group is exposed to price risk for equity securities because of investments held by the Group and classified as equity
+securities on the consolidated statement of financial position. To manage its price risk arising from investments in equity
+securities, the Group diversifies its portfolio. The portfolio is diversified in accordance with the limits set by the Group. The
+Group does not use derivatives to hedge price risk.
+At 31 December, 2021 and 2020, a change in the listed rice of equity securities would have had no significant effect of the
+Group’s statement of financial position.
+(iii) Cash-flow interest-rate risk
+The Group is subject to interest rate risk in respect of cash flows on non-current financial debt transactions at variable
+rates. Group policy is to try to keep most of its financial debt in the form of debt with government entities by obtaining
+reimbursable advances on which there is no interest-rate risk and, in the case of bank debt, to obtain cash flows not only
+at variable rates, but also at fixed rates, thus keeping the impact of interest-rate risk to a minimum.
+Had interest rates on financial debt at variable rates been 1% higher or lower at 31 December 2021, with all other variables
+remaining constant, the gain/loss after taxes for the period would have decreased or increased by 51 thousand euros,
+respectively, owing to the difference in interest expense on loans at variable rates (51 thousand euros at 31 December,
+2020).
+b) Credit risk
+Credit risk is managed on a group basis. Credit risk arises from cash and cash equivalents, deposits with banks and
+financial institutions, receivables classified as equity securities and trade receivables.
+The banks and financial institutions with which the Group works generally have independent ratings. If customers have
+been independently rated, such ratings are used. If this is not the case, then the Group assesses the risk on the basis of
+the customer’s financial position, historical experience and a series of other factors. In those cases in which there is no
+doubt as to the customer’s financial solvency, the Group elects not to set credit limits.
+23

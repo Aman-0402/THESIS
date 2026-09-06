@@ -1,0 +1,48 @@
+Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 60 Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 61
+Condensed Interim Statement of Financial Position in €K
+explanatory note June 30, 2024 Dec. 31, 2023
+Assets
+Non-current assets
+Goodwill 44,534 44,534
+Other intangible assets 13 524,921 508,403
+Right-of-use (ROU) assets 13 11,051 9,300
+Property, plant and equipment 3,663 3,027
+Investment accounted for using the
+Interim Financial Statements 8 181,802 167,044
+equity method
+Financial assets 85,929 90,907
+of Formycon Group
+Deferred tax assets - -
+Total non-current assets 851,900 823,215
+January 1 to June 30, 2024
+Current assets
+Inventories 2,124 467
+Trade and other receivables 10,554 11,612
+Contract assets 6 28,806 16,561
+Other financial assets 6 6
+Prepayments and other assets 13,600 11,335
+Income tax receivables 171 131
+Cash and cash equivalents 40,620 27,035
+Total current assets 95,881 67,147
+Total assets 947,781 890,362
+Equity and liabilities
+Equity
+Subscribed capital 14 17,657 16,053
+Capital reserve 10, 14 494,912 412,871
+Retained Earnings 73,827 -1,968
+Period income (loss) -10,094 75,795
+Total equity capital 576,302 502,751
+Non-current liabilities
+Non-current lease obligations 9,631 7,815
+Other non-current liabilities 10, 15 191,020 187,690
+Deferred tax liabilities 11 125,230 122,800
+Total non-current liabilities 325,881 318,305
+Current liabilities
+Provisions - 387
+Current lease obligations 1,233 1,186
+Other current liabilities 15 27,352 51,349
+Trade payables 16,948 16,319
+Current income tax liabilities 65 65
+Total current liabilities 45,598 69,306
+Total liabilities 371,479 387,611
+Total equity and liabillities 947,781 890,362

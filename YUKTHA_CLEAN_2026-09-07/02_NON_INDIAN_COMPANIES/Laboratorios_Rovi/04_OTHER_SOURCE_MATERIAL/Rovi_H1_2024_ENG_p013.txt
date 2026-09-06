@@ -1,0 +1,48 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+3. Accounting policies
+The accounting policies applied in preparing the condensed consolidated interim financial statements for the six-month
+period ended 30 June 2024 are the same as those used in preparing the consolidated annual accounts for the year
+ended 31 December 2023 (the policy for recognising and measuring corporate income tax in the interim period is
+explained in Note 22), as described in said consolidated annual accounts, and no significant estimates inconsistent with
+those made In the 2023 reporting period have been made.
+The rules and interpretations issued by the IASB and the IFRS Interpretations Committee that have come into force in
+2024 and are mandatory for ROVI were described in the consolidated annual accounts for the year ended 31 December
+2023. Their application has not had a significant effect on the Group.
+4. Critical estimates and accounting judgements
+The preparation of interim financial statements requires management to exercise its judgement and make estimates and
+assumptions that affect the application of the accounting policies and the amounts presented in the assets and liabilities
+and the revenues and expenses. The actual figures may differ from these estimates.
+While preparing these interim financial statements, the matters where management has exercised its judgement
+significantly when applying the Group’s accounting policies and the key sources of uncertainty in the estimates were the
+same as those applied in the consolidated annual accounts for the reporting period ended 31 December 2023.
+5. Financial risk management
+Financial risk factors
+The Group’s activities expose it to a variety of financial risks: market risk (including currency risk, fair value interest rate
+risk, cash flow interest rate risk and price risk), credit risk and liquidity risk. The Group’s risk management programme
+focuses on the uncertainty of the financial markets and tries to minimise any potential adverse effects on the Group’s
+financial profitability.
+The interim financial statements do not include all the information and breakdowns of the financial risk management that
+are mandatory for annual financial statements and, therefore, must be read in conjunction with the consolidated annual
+accounts for the period ended 31 December 2023. There have been no changes in risk management or in any risk
+management policy since the date of the financial statements for the preceding annual reporting period. In 2024, the
+Group has signed two new loans at fixed interest rates and, therefore, the interest rate risk is not significant (Note 17a).
+Liquidity risk
+There have been no significant changes in the non-discounted contractual cash outflows for financial liabilities in
+comparison with the reporting date for the preceding annual period.
+Fair value estimation
+Measurement of financial instruments at market price is classified into:
+– Level 1. Quoted prices (unadjusted) in active markets for identical assets and liabilities.
+– Level 2. Level 2. Observable inputs for the asset or liability, either directly observable (i.e. prices) or indirectly
+observable (i.e. price-based), other than the quoted prices included in Level 1.
+– Level 3. Inputs for the asset or liability not based on observable market data (i.e. non-observable inputs).
+Measurements at market prices of the Group’s financial instruments recorded at fair value, the totality of which are
+classified as equity securities (Note 10), are classified as Level 1.
+The fair value of financial instruments traded in active markets (such as equity securities) is based on quoted market
+prices at the annual reporting date. The quoted market price used for financial assets held by the Group is the current bid
+price.
+9

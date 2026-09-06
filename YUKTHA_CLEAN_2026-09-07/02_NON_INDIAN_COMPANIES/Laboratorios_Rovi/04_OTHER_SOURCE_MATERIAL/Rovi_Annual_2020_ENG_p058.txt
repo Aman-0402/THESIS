@@ -1,0 +1,38 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+The heading “Other balances with public authorities” includes accounts receivable from government entities for the
+following items:
+Thousands of euros
+2020 2019
+Late payment interest receivable 70 164
+Grants awarded but not received 688 628
+758 792
+On 1 August, 2007, the Company became the parent of tax group 362/07. Applying the consolidated tax regime provided
+for in the corporate income tax legislation, ROVI, the parent company of the tax group, included in its statement of
+financial position debt with Group companies resulting from a tax effect (Note 31.i) of 184 thousand euros (156 thousand
+euros in 2019), together with credits with Group companies resulting from a tax effect of 22,494 thousand euros (15,205
+thousand euros in 2019).
+At 31 December, 2020, the reconciliation between the net income and expenses for the period and the tax profit was as
+follows:
+Thousands of euros
+Income and expenses
+Income statement credited/(charged) directly in equity
+Balance income & expenses 71,137 (344)
+Increases Decreases Total Increases Decreases Total
+Income tax 4,079 (115)
+Permanent differences
+- Individual 1,658 - 1,658 - - -
+- Due to tax consolidation - (31,151) (31,151) - - -
+Temporary differences:
+- Individual
+- originating in the period 1,710 - 1,710 - - -
+- originating in previous periods 251 (1,576) (1,325) - - -
+- Due to tax consolidation
+- originating in the period - (13,899) (13,899) - - -
+- originating in previous periods 3,822 - 3,822 - - -
+Taxable income 36,031 (459)
+49

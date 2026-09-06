@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Informe de gestión consolidado 2022
+ANEXO 1
+MEDIDAS ALTERNATIVAS DE RENDIMIENTO
+La información financiera de ROVI contiene magnitudes y medidas preparadas de acuerdo con la normativa contable
+aplicable, así como otra serie de medidas preparadas de acuerdo con los estándares de reporting establecidos, los
+cuales son denominados como Medidas Alternativas de Rendimiento (APMs, por sus siglas en inglés).
+Estas APMs se consideran magnitudes ajustadas respecto de aquellas que se presentan de acuerdo a las Normas
+Internacionales de Información Financiera adoptadas por la Unión Europea (NIIF-EU), que es el marco contable de
+aplicación para los estados financieros consolidados del Grupo ROVI, y por tanto deben de ser consideradas por el
+lector como complementarias pero no sustitutivas de estas.
+Las APMs son importantes para los usuarios de la información financiera porque son las medidas que utiliza la Dirección
+de ROVI para evaluar el rendimiento financiero, los flujos de efectivo o la situación financiera para la toma de
+decisiones, operativas o estratégicas del Grupo. Estas APMs son consistentes con los principales indicadores utilizados
+por la comunidad de inversores y analistas en los mercados de capitales. En este sentido, y de acuerdo a lo establecido
+por la Guía emitida por la European Securities and Markets Authority (ESMA), en vigor desde el 3 de julio de 2016,
+relativa a la transparencia de las Medidas Alternativas de Rendimiento, ROVI proporciona a continuación información
+relativa a aquellas APMs incluidas en la información de gestión del periodo anual finalizado el 31 de diciembre de 2022
+que considera significativas.
+Total ingresos
+El total ingresos es un indicador que refleja los ingresos totales de ROVI.
+El total ingresos se calcula como el importe neto de la cifra de negocio más la imputación de subvenciones de
+inmovilizado no financiero y otras.
+Beneficio bruto
+El beneficio bruto es un indicador que mide el beneficio directo que obtiene ROVI por la realización de sus actividades
+generadoras de ingresos.
+El beneficio bruto se calcula como el total ingresos menos la variación de existencias de productos terminados y en
+curso de fabricación y los aprovisionamientos.
+Margen bruto
+El margen bruto es un indicador porcentual que mide los beneficios que ROVI obtiene de sus ingresos.
+El margen bruto se calcula como el porcentaje que supone el beneficio bruto entre el importe neto de la cifra de negocio.
+EBITDA
+El EBITDA (“Earnings Before Interest, Tax, Depreciation and Amortization”) es un indicador que mide el resultado de
+explotación antes de deducir los intereses, impuestos, deterioros y amortizaciones. Es utilizado por la Dirección para
+evaluar los resultados a lo largo del tiempo, siendo un indicador habitualmente utilizado en el análisis de compañías.
+El EBITDA se calcula como resultado antes de impuestos, del resultado financiero, de depreciaciones y de
+amortizaciones.
+EBITDA “sin I+D”
+Esta APM es utilizada para mostrar el EBITDA proviniente del negocio principal y estable de ROVI.
+EBITDA “sin I+D” se calcula como el EBITDA excluyendo:
+– Gastos de investigación y desarrollo (“I+D”) (ver Nota 7 de las cuentas anuales consolidadas del ejercicio
+finalizado el 31 de diciembre de 2022).
+16

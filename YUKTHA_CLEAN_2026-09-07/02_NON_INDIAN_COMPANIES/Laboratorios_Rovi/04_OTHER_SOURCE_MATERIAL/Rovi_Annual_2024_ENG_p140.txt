@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+At 31 December 2024 and 2023, financial liabilities for leases matured as follows:
+Finance leases:
+Year 2024 2023
+2024 — 5,125
+2025 5,849 4,890
+2026 3,697 3,002
+2027 3,015 2,892
+2028 2,927 2,881
+2029 onward 577 2
+16,065 18,792
+Non-current 10,216 13,667
+Current 5,849 5,125
+d) Derivative financial instruments
+At 31 December 2024 and 2023, l the Company did not hold any balance for derivative financial instruments, although it did use
+them in both periods. Financial derivatives are not classified as hedges and, therefore, fall within the category of financial
+liabilities at fair value through profit and loss.
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against
+current tax liabilities and the deferred income tax assets and liabilities relate to income taxes levied by the same taxation
+authority. A breakdown of the estimated periods for offsetting is as follows:
+2024 2023
+Deferred tax assets
+– Deferred tax assets to be recovered at more than 12 months 294 550
+– Deferred tax assets to be recovered within 12 months 1,969 1,793
+2,263 2,343
+Deferred tax liabilities
+– Deferred tax liabilities to be settled at more than 12 months 195 897
+– Deferred tax liabilities to be settled within 12 months 171 618
+366 1,515
+Net movement on the deferred tax accounts was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January 2023 2,078 (677) 1,401
+(Charged)/credited to profit and loss (Note 28) 515 (451) 64
+(Charged)/credited to equity (250) (387) (637)
+At 31 December 2023 2,343 (1,515) 828
+(Charged)/credited to profit and loss (Note 28) (80) 1,149 1,069
+At 31 December 2024 2,263 (366) 1,897
+48

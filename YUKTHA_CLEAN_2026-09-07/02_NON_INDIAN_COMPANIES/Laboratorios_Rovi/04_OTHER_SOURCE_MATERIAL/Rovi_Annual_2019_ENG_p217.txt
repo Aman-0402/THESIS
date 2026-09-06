@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+21. Deferred revenues
+2019 2018
+Non-current 3,141 3,621
+3,141 3,621
+Current 528 553
+528 553
+3,669 4,174
+The deferred revenues caption recognises sums collected for grants received from government entities, which are
+classified into two broad blocks:
+2019 2018
+a) Deferred revenues from non-reimbursable capital grants 3,493 3,958
+b) Deferred revenues from reimbursable capital grants 176 216
+3,669 4,174
+a) Deferred revenues from non-reimbursable capital grants
+These are taken to profit and loss in proportion to the provision made in the period for the assets whose purchase is
+subsidised. The most significant non-reimbursable grants that have not yet been taken to profit and loss are related to
+construction of the Granada bemiparin plant, which came into operation in 2009. In said reporting period, the allocation of
+a non-reimbursable grant of 5,431 thousand euros, awarded by the Innovation and Development Agency of Andalusia
+(Innovation, Science and Business Department), to profit and loss commenced. This grant was received in November
+2008. The amount recognised for this grant under the caption “Current and non-current deferred revenues from grants”
+at 31 December, 2019 was 2,334 thousand euros (2,629 thousand euros at 31 December, 2018).
+b.2) Deferred revenues from reimbursable grants
+These relate to grants with an implicit interest rate derived from recognising reimbursable grants awarded at a zero
+interest rate at fair value (Note 18.b). The most significant amounts recognised as deferred revenues in relation to
+reimbursable grants awarded by government entities relate mainly to a number of research and development projects.
+They are taken to profit and loss on the basis of accrual of the expenses for which the reimbursable grant was awarded.
+22. Revenues
+Revenues are broken down into the following items:
+2019 2018
+Sales of goods 315,263 248,409
+Sale of services 65,650 54,575
+Revenue from distribution licenses 400 219
+381,313 303,203
+As of 31 December, 2019 “Sales of goods” caption includes 1,817 thousand euros related to service to promote third-
+party products.
+54

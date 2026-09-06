@@ -1,0 +1,44 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+Likewise, the Climate Change Policy sets the principles for action directly related to the material topics derived from the double
+materiality assessment: climate change mitigation and adaptation and energy, and also addresses management of the physical
+and transition-related climate change risks.
+Additionally, ROVI also has the Energy Policy for the Granada complex, which was approved by the Group’s Industrial Manager
+and establishes the principles and commitments oriented to reduce energy consumption-related greenhouse gas emissions for
+all the employees at said centre. Furthermore, the policy refers to implementing an energy management system that permits
+conscious use of energy resources.
+◦ Disclosure Requirement E1-3: Actions and resources in relation to climate-change
+policies
+The objective of this Disclosure Requirement is to disclose the actions that ROVI has taken or plans to take to fight climate
+change.
+As mentioned in relation to Disclosure Requirement E1-1, ROVI does not have a transition plan at corporate level and,
+therefore, for the moment, cannot disclose mitigation actions with specific targets for the years 2030 and 2050 as required by
+this Disclosure Requirement. Notwithstanding, in 2024, ROVI worked on specific studies intended to identify and plan potential
+actions to reduce its carbon footprint and keep in line with the global decarbonisation targets at the Alcalá de Henares and San
+Sebastián de los Reyes plants, which are those that generate most of the Group’s emissions.
+Likewise, ROVI is working on the main decarbonisation levers to reach the GHG emission reduction targets, such as energy-
+efficiency measures, the use of renewable energy and an analysis of fuel changes, among others. In this respect, ROVI has
+installed solar panels and vehicle charging points at the San Sebastián de los Reyes industrial complex. These actions entailed
+taxonomy26 CapEx of €46,628.64 and €10,394.72, respectively.
+By obtaining the certification of the Escúzar industrial complex under the standard ISO 14001, in 2024, the Group had its entire
+environmental management system certified. This action entailed a total expense of €4,791.60.
+The actions27 taken by ROVI to reduce its GHG emissions in line with the management of material impacts, risks and
+opportunities are described below:
+Scope 1
+To continue the Group’s energy-saving project, in 2024, energy-efficiency measures were implemented through specific actions
+at each one of the industrial complexes.
+Julián Camarillo Complex:
+• Monitoring and analysis of energy consumption data through the monitoring and invoice platform. The associated
+taxonomy CapEx totals €2,655.95.
+• Modelisation of gas consumption through a regression analysis as part of the energy audit pursuant to Royal Decree
+56/2016, which is mandatory every four years. The associated OpEx totals €5,004.86.
+• Monitoring of the main consumptions of the project for the new ISM plant. The associated CapEx totals €673.49.
+• Incorporation of hot water consumption of the development chambers to the hot water boiler, instead of the hot water
+circuit generated from steam. The associated CapEx totals €9,529.23.
+• Monitoring the steam consumption of the heat exchangers. The associated taxonomy CapEx totals €4,845.59.
+• Control of the times of operation of the air treatment units in building D. This action did not require the Group to make a
+significant investment.
+26 Taxonomy CapEx or OpEx refers to those items that meet the description of activities 7.3, 7.4, 7.5 or 7.6 of the Climate Change Mitigation Annex of the
+European Taxonomy.
+27 Some of the energy efficiency-related actions implemented at the plants will be repeated, since they consist of measures that affect both Scope 1 and 2.
+70

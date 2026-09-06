@@ -1,0 +1,49 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+CONSOLIDATED CASH FLOW STATEMENTS FOR MARCH 31, 2024 AND MARCH 31,
+2023
+IN € THOUSANDS Q1 2024 Q1 2023
+Cash flows from operating activities
+Profit before tax 19,008 61,167
+Adjustments for non-monetary transactions:
+Amortisation and depreciation 6,626 5,816
+Finance income (3) (70)
+Valuation allowance (2,814) (3,008)
+Adjustments for changes in value of derivatives (11) 129
+Gain or loss on derecognition of financial assets and liabilities (57) (344)
+Finance expenses 316 147
+Exchange differences 43 (300)
+Grants, distribution licenses and other deferred income (258) (328)
+Share of profit in associates and joint ventures (14) (9)
+Changes in working capital:
+Trade and other receivables 19,099 25,522
+Inventories 2,700 (12,256)
+Other current assets (prepaid expenses) (101) 277
+Trade and other payables (35,306) (29,806)
+Other collections and payments:
+Cash flow from contract manufacturing services 6,147 (22,450)
+Proceeds from distribution licenses 253 160
+Income tax cash flow (84) (139)
+Net cash generated from (used in) operating activities 15,544 24,508
+Cash flows from investing activities
+Purchases of intangible assets (135) (16)
+Purchases of property, plant and equipment (usage rights not
+(8,856) (4,896)
+included)
+Proceeds from sale of property, plant and equipment 9 10
+Proceeds from sale of financial investments 80 —
+Investments in associates and joint ventures (255) —
+Interest received 3 70
+Net cash generated from (used in) investing activities (9,154) (4,832)
+Cash flows from financing activities
+Repayments of financial debt (3,470) (3,594)
+Proceeds from financial debt 19,600 562
+Interest paid (99) (90)
+Purchase of treasury shares (34,658) (29,734)
+Reissue of treasury shares — 29,525
+Capital contribution to subsidiaries — 172
+Net cash generated from (used in) financing activities (18,627) (3,159)
+Net (decrease) increase in cash and cash equivalents (12,237) 16,517
+Cash & cash equivalents at the beginning of the period 25,322 124,945
+Cash and cash equivalents at the end of the period 13,085 141,462
+Unaudited figures
+35

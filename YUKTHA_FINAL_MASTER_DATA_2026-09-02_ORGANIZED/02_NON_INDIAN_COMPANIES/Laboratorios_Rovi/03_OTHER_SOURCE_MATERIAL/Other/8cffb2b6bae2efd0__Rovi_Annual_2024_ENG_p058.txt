@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+24. Finance income and costs
+Thousand euros
+2024 2023
+Finance income:
+Gains and losses on equity instruments
+– In group and associated companies (Note 31.f) 63,550 —
+Gains and losses on marketable securities and other financial instruments
+– In group and associated companies (Note 31.f) 1,816 911
+– Of third parties 200 512
+65,566 1,423
+Finance costs:
+Debt with third parties (1,986) (650)
+Debt with Group companies (Note 31.h) (3,057) (1,555)
+(5,043) (2,205)
+Change in fair value of financial instruments
+Derivatives — 28
+— 28
+Foreign exchange differences:
+Foreign exchange differences 25 (104)
+25 (104)
+Impairment and proceeds on disposal of financial instruments
+Proceeds from disposals and other (190) 1,097
+(190) 1,097
+Finance income/(costs) 60,358 239
+At 31 December 2023 and 2024, the Company did not hold any financial derivatives.
+In 2024, a negative impact of 177 thousand euros was recognised for impairment of the shares in the companies Bertex
+Pharma GmbH, Rovi Biotech sp.z.o.o y Rovi Biotech Gmbh, as well as 94 thousand euros for impairment of the credit
+that the Company held with Rovi Biotech sp.z.o.o., which was partially mitigated by the recognition of a profit on the sale
+of some shares at amortised cost for 56 thousand euros and financial investments of 25 thousand euros . In 2023, the
+caption "Impairment and proceeds from disposals of financial instruments" was affected principally by a positive impact of
+1,797 thousand euros related to the sale of the company Enervit Nutrition, S.L., 50% of which had, until then, been held
+the Company (Note 9) and a negative impact related to the allowance for impairment of the shares in the companies
+Bertex Pharma GmbH and Rovi Biotech sp.z.o.o. for a total amount of 784 thousand euros (Note 8).
+Finance income received from group and associated companies relates to dividends received from companies belonging
+to Rovi Pharma Industrial Services, S.A.U., of which the Company is the parent. In 2024, dividends of 63,550 thousand
+euros were received and were offset at the reporting date (in 2023, no income was received for this item).
+Regarding gains and losses on marketable securities and other financial instruments of third parties, at 31 December
+2024, the Company had recognised finance income of 200 thousand euros relating to the settlement of deposits (512
+thousand euros at 31 December 2023).
+48

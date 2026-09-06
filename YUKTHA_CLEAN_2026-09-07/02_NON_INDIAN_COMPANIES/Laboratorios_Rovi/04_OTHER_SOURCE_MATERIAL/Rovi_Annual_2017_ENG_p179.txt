@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+2017 2016
+Non-listed securities:
+– Variable-income securities (equity securities) 59 59
+59 59
+2017 2016
+Listed securities:
+– Investment funds and equity securities 10 11
+10 11
+12. Inventories
+2017 2016
+Raw materials & other consumables 22,117 19,759
+Work in progress & semi-finished goods 25,404 15,722
+Finished goods produced internally 11,645 12,454
+Marketing products 21,429 26,205
+Impairment (5,103) (6,754)
+75,492 67,386
+The inventories purchase/sale commitments for the Group at the end of the reporting period were as normal in its course
+of its business. Management estimates that meeting these commitments will not generate losses for the Group. The
+Group holds insurance policies to cover the risks the inventories are exposed to. The insurance cover is considered
+sufficient.
+The change in inventories of raw materials, other consumables and marketing products represented an expense of 2,418
+thousand euros in 2017 (income of 5,037 thousand euros in 2016), while the change relating to work in progress, semi-
+finished goods and finished goods represented income of 8,873 thousand euros in 2017 (an expense of 196 thousand
+euros in 2016).
+13. Trade and other receivables
+The breakdown of trade and other receivables is as follows:
+2017 2016
+Trade receivables 42,830 46,850
+Less: provision for impairment of receivables (1,837) (1,623)
+Trade receivables – Net (13.a) 40,993 45,227
+Other receivables 153 580
+Receivables from related parties (Note 31) 202 178
+Deposits (13.b) 1,374 1,359
+Employee advances 271 285
+Public authorities (13.c) 6,819 6,402
+Total 49,812 54,031
+Less: Non-current portion: Financial receivables 65 189
+Current portion 49,747 53,842
+37

@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+9. Credit rating of financial assets
+The credit quality of financial assets which have not yet matured and which have suffered no impairment loss can be
+assessed based on the credit rating assigned by organizations external to the Group or, in the case of unrated
+customers, by separating those corresponding to Social Security Authorities and government entities which, due to their
+nature, are not subject to impairment:
+Cash and cash equivalents Rating 2017 2016
+A+ 460 -
+A 185 734
+A- 18,390 -
+BBB+ 14,685 33,884
+BBB 6,370 63
+BBB- 566 6,515
+BB+ - 108
+BB 4 4
+B- - 10
+Caa2 6 -
+Sin rating 34 60
+Total cash (Note 14) 40,700 41,378
+Financial receivables Rating 2017 2016
+BBB+ - 139
+A- #¡REF! -
+Sin rating #¡REF! 50
+Total financial receivables (Note 13) #¡REF! 189
+Available-for-sale financial assets Rating 2017 2016
+BBB+ #¡REF! 11
+Sin rating #¡REF! 59
+Total available-for-sale assets (Note 11) #¡REF! 70
+Trade receivables Rating 2017 2016
+AA 3,140 1,973
+A2 - 3,430
+Public centres and institutions (Note 13) 5,663 6,045
+Other (wholesalers, pharmacies, hospitals) 34,027 35,402
+Total trade receivables (Note 13) 42,830 46,850
+Other deposits Rating 2017 2016
+BBB+ - 1,327
+A- 1,327 -
+Sin rating 47 32
+Total other deposits (Note 13) 1,374 1,359
+33

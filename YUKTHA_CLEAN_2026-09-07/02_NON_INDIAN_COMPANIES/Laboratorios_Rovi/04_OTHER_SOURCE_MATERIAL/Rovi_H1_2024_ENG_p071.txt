@@ -1,0 +1,61 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+6. CONSOLIDATED INCOME STATEMENT (UNDER IFRS ADOPTED)
+Units: thousands of euros
+PREVIOUS ACCUMULATED ACCUMULATED
+CURRENT PERIOD PERIOD PERIOD PREVIOUS PERIOD
+(2nd HALF) (2nd HALF) 30/06/2024 30/06/2023
+(+) Net revenue 1205 329.336 380.845
+(+/-) Change in inventories of finished products and work
+1206 71.362 19.171
+in progress
+(+) Work performed by the company on its assets 1207 562 1.960
+(-) Supplies 1208 (205.275) (184.514)
+(+) Other operating income 1209
+(-) Employee benefit expenses 1217 (64.871) (59.096)
+(-) Other operating expenses 1210 (61.394) (61.466)
+(-) Amortization and depreciation charges 1211 (13.446) (11.865)
+(+) Allocation of grants for non-financial assets and other 1212 204 172
+(+/-) Impairment of intangible assets and property, plant
+1214
+& equipment
+(+/-) Gains/(losses) on disposal of intangible assets and
+property, plant & equipment 1216
+(+/-) Other gains/(losses) 1215
+= OPERATING PROFIT/(LOSS) 1245 56.478 85.207
+(+) Finance income 1250 100 766
+a) Interest income calculated according
+1262 100 766
+to the effective interest rate
+b) Other 1263
+(-) Finance expenses 1251 (644) (366)
+(+/-) Change in fair value of financial instruments 1252 67 72
+(+/-) Gains/(losses) derived from the reclassification of
+financial assets at amortized cost to financial assets at 1258
+fair value
+(+/-) Gains/(losses) derived from the reclassification of
+financial assets at fair value with changes in other 1259
+comprehensive income to financial assets at fair value
+((++//--)) EGxacinhsa/n(lgoes sreaste) odniff eimrepnaciremsent of financial 1254 163 166
+instruments 1255
+(+/-) Gains/(losses) on disposal of financial instruments 1255
+a) Financial instruments at amortised cost 1257
+b) Other 1260
+= FINANCE PROFIT/(LOSS) 1256 (314) 638
+(+/-) Profit/(loss) of entities measured using the equity
+1253 (22) (13)
+method
+= PROFIT/(LOSS) BEFORE TAX 1265 56.142 85.832
+(+/-) Corporate income tax 1270 (11.804) (19.188)
+= PROFIT/(LOSS) FOR PERIOD FROM
+1280 44.338 66.644
+CONTINUING OPERATIONS
+(+/-)Profit/(loss) for period from discontinued operations, 1285
+net of taxes
+= CONSOLIDATED PROFIT/(LOSS) FOR PERIOD 1288 44.338 66.644
+a) Profit/(loss) attributed to parent company 1300 44.345 66.646
+b) Profit/(loss) attributed to non-controlling interests 1289 (7) (2)
+EARNINGS PER SHARE AMOUNT A M O U N T A M O U N T A M O U N T
+(X.XX euros) (X.XX euros) (X.XX euros) (X.XX euros)
+Basic 1290 0,86 1,25
+Diluted 1295

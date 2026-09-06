@@ -1,0 +1,33 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2016
+(Expresada en miles de euros)
+20. Otras provisiones
+Los movimientos habidos en las provisiones corrientes reconocidas en el balance han sido los siguientes:
+Devoluciones Farmaindustria Otros Total
+Al 1 de enero de 2015 599 1.428 - 2.027
+Adiciones 526 1.852 119 2.497
+Aplicaciones (599) (1.428) - (2.027)
+Al 31 de diciembre de 2015 526 1.852 119 2.497
+Adiciones 665 2.093 120 2.878
+Aplicaciones (526) (1.852) (119) (2.497)
+Al 31 de diciembre de 2016 665 2.093 120 2.878
+Devoluciones
+La Sociedad estima una provisión para las devoluciones de sus productos teniendo en cuenta la tasa de devoluciones
+media de los últimos años (Nota 2.b)
+Tasa sanitaria
+Como se indica en Nota 3.17, la política de la Sociedad ha sido mantener una provisión por las cantidades que se
+estima pagar en concepto de tasa sanitaria, las cuales están basadas en unos porcentajes establecidos para cada nivel
+de ventas del ejercicio.
+21. Impuestos diferidos
+El detalle de los impuestos diferidos es el siguiente:
+Miles de euros
+2016 2015
+Activos por impuestos diferidos:
+- Diferencias temporarias 1.095 1.062
+- Otros créditos fiscales 2.512 1.500
+3.607 2.562
+Pasivos por impuestos diferidos:
+- Diferencias temporarias (3.328) (2.562)
+(3.328) (2.562)
+Impuestos diferidos netos 279 -
+45

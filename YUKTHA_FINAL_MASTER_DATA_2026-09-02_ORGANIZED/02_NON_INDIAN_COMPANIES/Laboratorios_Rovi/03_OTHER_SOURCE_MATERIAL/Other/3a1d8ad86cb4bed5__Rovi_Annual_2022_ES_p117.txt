@@ -1,0 +1,50 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+5. Información financiera por segmentos
+Los segmentos operativos del Grupo han sido determinados teniendo en cuenta la información utilizada por el Comité
+de Dirección para la toma de decisiones. Esta información se divide según haya sido generada por las actividades de
+fabricación o las de comercialización, independientemente del área geográfica donde se desarrollen. Por lo tanto, la
+identificación de los segmentos no corresponde tanto a una distribución geográfica del negocio como a un tipo de
+actividad diferenciada.
+De esta forma, el segmento denominado “fabricación” obtiene sus ingresos de contratos de prestación de servicios que
+consisten en la finalización del proceso productivo de productos farmacéuticos para entidades externas y de la
+fabricación de productos para su posterior comercialización por otras empresas del Grupo, mientras que el segmento
+“comercialización”, que incluye también las actividades de investigación y desarrollo que realiza el Grupo, tiene como
+actividad principal la compra y posterior venta de productos farmacéuticos.
+Dentro del apartado “Otros” se incluyen otras actividades de prestación de servicios que no son significativas para el
+Grupo.
+La información por segmentos que ha utilizado el Comité de Dirección para el ejercicio 2022 es la siguiente:
+Operaciones
+Total Inter- Total
+Fabricación Comercialización Otros agregado segmentos Consolidado
+Total ingresos
+segmento 619.230 414.153 — 1.033.383 (215.685) 817.698
+Beneficio/(pérdida) 190.167 10.580 (9) 200.738 (1.073) 199.665
+Impuesto de
+sociedades 52.844 5.826 (3) 58.667 (365) 58.302
+Rtdo. antes de imptos. 243.011 16.406 (12) 259.405 (1.438) 257.967
+Resultado financiero 395 (2.315) — (1.920) — (1.920)
+Amortización 14.169 8.724 — 22.893 (22) 22.871
+EBITDA (*) 257.575 22.815 (12) 280.378 (1.460) 278.918
+Amortización (14.169) (8.724) — (22.893) 22 (22.871)
+EBIT (**) 243.406 14.091 (12) 257.485 (1.438) 256.047
+La información correspondiente al ejercicio 2021 era la siguiente:
+Operaciones
+Total Inter- Total
+Fabricación Comercialización Otros agregado segmentos Consolidado
+Total ingresos
+segmento 471.788 383.975 — 855.763 (207.086) 648.677
+Beneficio/(pérdida) 136.122 44.492 (40) 180.574 (27.497) 153.077
+Impuesto de
+sociedades 35.433 (4.924) (9) 30.500 (949) 29.551
+Rtdo. antes de imptos. 171.555 39.568 (49) 211.074 (28.446) 182.628
+Resultado financiero 616 (26.344) — (25.728) 24.674 (1.054)
+Amortización 11.117 10.247 — 21.364 — 21.364
+EBITDA (*) 183.288 23.471 (49) 206.710 (3.772) 202.938
+Amortización (11.117) (10.247) — (21.364) — (21.364)
+EBIT (**) 172.171 13.224 (49) 185.346 (3.772) 181.574
+(*) El EBITDA es calculado como el resultado antes de impuestos, del resultado financiero, de depreciaciones y de
+amortizaciones.
+(**) El EBIT es calculado como el resultado antes de impuestos y del resultado financiero.
+27

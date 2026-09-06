@@ -1,0 +1,39 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+After the aforementioned analysis, the following tables summarise the impacts of adopting IFRS 16 on the
+annual accounts at 31 December, 2019:
+Amounts without
+adoption of IFRS
+31 December 2019 Note 16 Adjust-ments As reported
+ASSETS
+Non-current assets 172,630 20,696 193,326
+Property, plant and equipment 6 110,970 20,638 131,608
+Intangible assets 45,079 - 45,079
+Investment in a joint venture 1,843 - 1,843
+Deferred income tax assets 19 14,602 58 14,660
+Equity securities 71 - 71
+Financial receivables 65 - 65
+Current assets 317,885 - 317,885
+Total assets 490,515 20,696 511,211
+Amounts without
+adoption of IFRS
+31 December 2019 Note 16 Adjust-ments As reported
+EQUITY
+Total Equity 322,561 (175) 322,386
+LIABILITIES
+Non-current liabilities 64,705 17,411 82,116
+Financial debt 18 54,693 17,411 72,104
+Deferred income tax liabilities 1,078 - 1,078
+Contract liabilities 5,793 - 5,793
+Deferred revenues 3,141 - 3,141
+Current liabilities 103,249 3,460 106,709
+Financial debt 18 9,241 3,460 12,701
+Trade and other payables 91,914 - 91,914
+Contract liabilities 1,566 - 1,566
+Deferred income 528 - 528
+Total equity and liabilities 490,515 20,696 511,211
+10

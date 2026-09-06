@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+Derechos de uso
+Para los arrendamientos que cumplan lo dispuesto en la NIIF 16 el Grupo reconoce un activo por el derecho de uso del activo
+subyacente, que valora tomando como referencia el importe del pasivo asociado, al que se añaden los costes directos iniciales
+incurridos.
+La amortización de estos activos se realiza de forma lineal a lo largo de la vida útil estimada para cada uno de ellos.
+2.7 Activos intangibles y fondo de comercio
+a) Patentes y propiedad industrial. Marcas comerciales y licencias
+Tanto las patentes y propiedad industrial como las marcas comerciales y licencias adquiridas a terceros se presentan a coste
+histórico. En general, tienen una vida útil definida y se valoran a coste menos amortización acumulada. La amortización de
+aquéllos con vida útil definida se calcula por el método lineal para asignar el coste de estos activos durante su vida útil,
+estimada entre 10 y 15 años. Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre
+que algún suceso o cambio en las circunstancias indique que el importe en libros puede no ser recuperable.
+Existen marcas comerciales y licencias con vida útil indefinida, las cuáles se someten anualmente a pruebas para comprobar si
+ha habido pérdidas por deterioro de valor. Se reconoce una pérdida por deterioro cuando el importe en libros del activo excede
+su valor recuperable. El importe recuperable es el mayor entre el valor razonable de un activo menos los costes para la venta y
+el valor en uso. A efectos de evaluar las pérdidas por deterioro de valor, los activos se agrupan al nivel más bajo para el que
+hay flujos de entrada de efectivo en gran medida independientes (unidades generadoras de efectivo). Las pérdidas por
+deterioro de valor previas de activos no financieros (distintos al fondo de comercio) se revisan para su posible reversión en
+cada fecha en la que se presenta información financiera.
+Los activos intangibles en curso se contabilizan a coste menos provisión por deterioro, si fuera aplicable.
+b) Aplicaciones informáticas
+Los costes asociados con el mantenimiento de aplicaciones informáticas se reconocen como gasto a medida que se incurre en
+los mismos. Los gastos de desarrollo directamente atribuibles al diseño y realización de pruebas de programas informáticos
+que sean identificables y únicos y susceptibles de ser controlados por el Grupo se reconocen como activos intangibles, cuando
+se cumplen las siguientes condiciones:
+– Técnicamente, es posible completar la producción del activo intangible de forma que pueda estar disponible para su
+utilización o su venta;
+– La dirección tiene intención de completar el activo intangible en cuestión, para usarlo o venderlo;
+– El Grupo tiene capacidad para utilizar o vender el activo intangible;
+– Se puede demostrar la forma en que el activo intangible vaya a generar probables beneficios económicos en el futuro;
+– Existe disponibilidad de los adecuados recursos técnicos, financieros o de otro tipo, para completar el desarrollo y para
+utilizar o vender el activo intangible; y
+– El desembolso atribuible al activo intangible durante su desarrollo puede valorarse de forma fiable.
+Los costes directamente atribuibles que se capitalizan como parte de los aplicaciones informáticas incluyen los gastos del
+personal que desarrolla dichos programas y un porcentaje adecuado de gastos generales.
+Los gastos que no cumplan estos criterios se reconocerán como un gasto en el momento en el que se incurran. Los
+desembolsos sobre un activo intangible reconocidos inicialmente como gastos del ejercicio no se reconocerán posteriormente
+como activos intangibles.
+Las aplicaciones informáticas tienen una vida útil de 4 a 10 años.
+13

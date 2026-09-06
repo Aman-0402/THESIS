@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+c) Standards, amendments and interpretations of existing standards that cannot be adopted early or that have not been
+endorsed by the European Union.
+At the date of signature of these Consolidated Annual Accounts, the IASB and the IFRS Interpretations Committee had
+published the standards, amendments and interpretations described below which have not yet been endorsed by the
+European Union. ROVI considers that the following could be applicable to the Group:
+• IFRS 17 “Insurance contracts”. This Standard establishes the principles for the recognition, measurement,
+presentation and disclosure of insurance contracts within the scope of the standard. The objective is to ensure
+that an entity provides relevant information that faithfully represents those contracts. The model of IFRS 17
+combines measurement of the present insurance contract liabilities with recognition of the profit over the period
+that services are provided. ROVI will apply this Standard when it enters into force, although the impact is not
+expected to be significant.
+• IFRIC 22 “Foreign Currency Transactions and Advance Consideration”. This Interpretation addresses how to
+determine the date of the transaction for the purpose of determining the exchange rate to be used on initial
+recognition of the related asset, expense or revenue (or the applicable portion thereof) when derecognizing a
+non-monetary asset or non-monetary liability arising from payment or receipt of advance consideration in
+foreign currency. ROVI will apply this Interpretation when it enters into force. The impact will depend on the
+transaction value.
+• IFRIC 23 “Uncertainty over Income Tax Treatments”. This Interpretation clarifies how to apply the recognition
+and measurement requirements of IAS 12 “Income Taxes” when there is uncertainty over income tax
+treatments. Under these circumstances, a company will recognize and measure its deferred or current tax
+assets or liabilities applying the requirements of IAS 12 on the basis of the taxable profit (tax loss), tax bses,
+unused tax losses, unused tax credits and tax rates determined by applying this Interpretation when it enters
+into force. The impact is not expected to be significant.
+• IAS 28 (Amendment), “Long-term Interests in Associates and Joint Ventures ”. This amendment clarifies that an
+entity will apply the requirements of IFRS 9 to long-term interests before the allocation of losses and impairment
+in IAS 28. When applying IFRS 9, the entity will not take any adjustments to the carrying amount of long-term
+interests as a consequence of the application of IAS 28 into account. ROVI will apply this Interpretation when it
+enters into force. The impact is not expected to be significant.
+• Annual Improvements to IFRS 2015–2017 Cycle. The amendments affect IAS 12, IAS 23 and IAS 28. The main
+amendments that may apply to the Group refer to:
+o IAS 12, "Income Taxes”. Clarification of the income tax consequences of payments on financial
+instruments classified as equity.
+o IAS 23, “Borrowing Costs”. The basic principle of this improvement is that borrowing costs directly
+attributable to the acquisition, construction or production of qualifying assets form part of the cost of
+said assets. Other borrowing costs are recognized as an expense.
+o IAS 28, “Investments in Associates and Joint Ventures”. This states that an entity will also apply IFRS 9
+to other financial instruments in an associate or joint venture to which the equity method is not applied.
+10

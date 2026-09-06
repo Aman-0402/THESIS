@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+c) Grouping of items
+In order to facilitate an understanding of the statement of financial position, income statement, statement of changes in
+equity and statement of cash flows, the items on these statements are presented in groups and the required analyses are
+included in the relevant Notes to the Annual Accounts.
+d) New standards and amendments to existing ones
+The accounting principles and measurement rules used by the Company to prepare the 2021 annual accounts are the
+same of those applied in 2020, except for the adoption of Royal Decree 1/2021. The main amendments refer essentially
+to the transposition of a large part of the rules included in IFRS-UE 9, IFRS-EU 15, IFRS-EU 7 and IFRS-EU 13 into
+national accounting. The main effects are:
+Financial instruments
+In relation to financial assets and liabilities, new criteria for their classification, measurement and derecognition are
+introduced, as well as new rules on hedge accounting. In its first adoption of this standard as of 1 January, 2021, ROVI
+chose the practical solution of not restating the comparative information for 2020, electing to apply it prospectively for
+hedge accounting and the classification of financial instruments. The alternative of changing the classification of the 2020
+assets and liabilities without changing their measurement was chosen. The Company did not make any adjustments to the
+carrying amounts of financial assets and liabilities in reserves at 1 January, 2021.
+Except for the changes in the name of the categories of financial assets, Royal Decree 1/2021 did not have any effect on
+equity.
+The classification of the Company’s financial liabilities for measurement purposes did not change in comparison with the
+2020 individual annual accounts, except for “Debits and payables”, which changed its classification to “Liabilities at
+amortised cost”, and derivatives, which are now classified as “Financial liabilities at fair value through profit and loss”. The
+measurement criteria applied previously were not affected.
+Consequently, the breakdown of financial assets and liabilities by class and category at 31 December, 2020 is as follows:
+2020 2021
+ASSETS
+Loans and receivables 326,292 —
+Financial assets at amortised cost — 326,292
+Investments in group and associated companies 13,680 —
+Financial assets at cost — 13,680
+Available-for-sale financial assets 63 —
+Financial assets at fair value through other comprehensive income — 63
+LIABILITIES
+Held-for-trading financial assets 925 —
+Financial liabilities at fair value through profit and loss — 925
+Debits and payables 150,330 —
+Financial liabilities at amortised cost — 150,330
+Revenue recognition
+The standard establishes a new recognition model for revenue from contracts with customers, where revenue must be
+recognised in accordance with completion of the performance obligations to the customers. Ordinary revenue represents
+the transfer of goods or services committed with the customers for an amount that reflects the consideration to which the
+entity expects to be entitled in exchange for said goods and services.
+9

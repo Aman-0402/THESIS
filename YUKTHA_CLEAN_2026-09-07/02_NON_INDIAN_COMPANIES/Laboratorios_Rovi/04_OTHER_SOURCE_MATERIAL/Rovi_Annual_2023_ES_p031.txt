@@ -1,0 +1,47 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+4.2 Estimación del valor razonable
+El valor razonable de los instrumentos financieros que se comercializan en mercados activos (tales como los títulos a
+valor razonable con cambios en la cuenta de pérdidas y ganancias o patrimonio neto) se basa en los precios de
+mercado a la fecha del balance. El precio de cotización de mercado que se utiliza para los activos financieros es el
+precio corriente comprador.
+El valor razonable de los anticipos reembolsables sin tipo de interés o con tipo de interés subvencionado se determina
+aplicando a los reembolsos a efectuar la curva de tipos de interés en vigor a la fecha de recepción del anticipo,
+añadiendo el spread que normalmente se aplica en los préstamos a la Sociedad. A efectos de la presentación de
+información financiera, el valor razonable se calcula al cierre del cada ejercicio, aplicando a los pagos pendientes la
+curva de tipos en vigor en cada cierre, añadiendo el spread correspondiente. En los préstamos a tipo variable, se ha
+estimado que su valor razonable coincide con el importe por el que están registrados.
+5. Inmovilizado intangible
+El detalle y movimiento de las partidas incluidas en el Inmovilizado intangible es el siguiente:
+Patentes,
+licencias y Aplicaciones
+Desarrollo marcas informáticas Total
+Saldo al 01.01.22
+Coste 9.094 44.075 7.509 60.678
+Deterioro acumulado — (492) — (492)
+Amortización acumulada (2.125) (17.503) (6.742) (26.370)
+Valor neto contable 01.01.22 6.969 26.080 767 33.816
+Altas — — 447 447
+Deterioro — (2) — (2)
+Dotación a la amortización (455) (2.950) (485) (3.890)
+Saldo al 31.12.22
+Coste 9.094 44.075 7.956 61.125
+Deterioro Acumulado — (494) — (494)
+Amortización acumulada (2.580) (20.453) (7.227) (30.260)
+Valor neto contable 31.12.22 6.514 23.128 729 30.371
+Altas — — 485 485
+Baja de amortización — — 14 14
+Dotación a la amortización (455) (2.876) (291) (3.622)
+Saldo al 31.12.23
+Coste 9.094 44.075 8.441 61.610
+Deterioro Acumulado — (494) — (494)
+Amortización acumulada (3.035) (23.329) (7.504) (33.868)
+Valor neto contable 31.12.23 6.059 20.252 937 27.248
+a) Patentes, licencias y marcas
+Como consecuencia de una reducción del valor recuperable por debajo del valor neto contable del activo relacionado
+con la adquisición de los derechos de distribución del producto Hirobriz® (perteneciente al segmento
+“Comercialización”), a 31 de diciembre de 2022 la Sociedad tenía reconocido un deterioro de 494 miles de euros.
+Durante el ejercicio 2023, este activo ha sido completamente amortizado y no se han registrado pérdidas adicionales por
+deterioro en la cuenta de resultados (2 miles de euros a 31 de diciembre de 2022).
+21

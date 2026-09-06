@@ -1,0 +1,52 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+6. Property, plant and equipment
+Movement on property, plant and equipment was as follows:
+Technical
+facilities, Furniture,
+Land & machinery & fittings & IT equipment Usage In
+buildings tools other and vehicles rights progress Total
+Balance at 01.01.20
+Cost 35,339 207,410 3,402 15,266 24,234 — 285,651
+Accumulated depreciation (18,357) (115,566) (2,652) (13,873) (3,595) — (154,043)
+Net carrying am. 01.01.20 16,982 91,844 750 1,393 20,639 — 131,608
+Additions 406 22,574 47 1,635 141 14,675 39,478
+Retirements — (96) — (16) — — (112)
+Eliminations from deprec. — 47 — 9 — — 56
+Depreciation charge (236) (10,820) (108) (850) (3,621) — (15,635)
+Balance at 31.12.20
+Cost 35,745 229,888 3,449 16,885 24,375 14,675 325,017
+Accumulated depreciation (18,593) (126,339) (2,760) (14,714) (7,216) — (169,622)
+Net carrying am. 31.12.20 17,152 103,549 689 2,171 17,159 14,675 155,395
+Additions 1,498 18,902 162 1,654 4,077 18,002 44,295
+Retirements — (33) — (78) — — (111)
+Eliminations from deprec. — — — 78 — — 78
+Transfers 7 4,616 13 (14) — (4,622) —
+Depreciation charge (292) (12,562) (87) (1,046) (3,895) — (17,882)
+Balance at 31.12.21
+Cost 37,250 253,373 3,624 18,447 28,452 28,055 369,201
+Accumulated deprec. (18,885) (138,901) (2,847) (15,682) (11,111) — (187,426)
+Net carrying am. 31.12.21 18,365 114,472 777 2,765 17,341 28,055 181,775
+A majority of the additions recognised in 2021 and 2020 related to investments in ROVI’s manufacturing plants, principally:
+− 2.9 million euros was invested in the Madrid injectables plant, in comparison with the 3.2 million euros invested
+in 2020.
+− 4.9 million euros was invested in the injectables plant in San Sebastián de los Reyes, in comparison with the 8.6
+million euros invested in 2020.
+− 1.4 million euros was invested in the Granada plant, in comparison with the 2.4 million euros invested in 2020.
+− 4.2 million euros was invested in the Alcalá de Henares plant, in comparison with the 3.8 million euros invested
+in 2020.
+− 5.5 million euros was invested in the ISM® industrialisation, in comparison with the 9.7 million euros invested in
+2020.
+− 18.8 million euros was invested in the construction of the new heparin plant in Escúzar (Granada), in comparison
+with the 10.1 million euros invested in 2020.
+− 2.9 million euros was invested in the new vial filling line and expansion of operations, in comparison with the 5.9
+million invested in 2020.
+Property, plant and equipment in progress includes the assets related to the construction of the active substance plant in
+Escúzar and others related to machinery and facilities at other production plants belonging to the Group.
+Rights of use totalled 17,341 thousand euros at 31 December, 2021 (17,159 thousand euros in 2020). Real property leases
+are the main item in rights of use.
+30

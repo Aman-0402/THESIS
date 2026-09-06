@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+19. Impuestos diferidos
+Los activos y pasivos por impuestos diferidos se compensan si se tiene legalmente reconocido el derecho a compensar los
+activos y pasivos por impuestos corrientes y los impuestos diferidos se refieren a la misma autoridad fiscal. Un detalle por
+plazos de reversión estimados es como sigue:
+2023 2022
+Activos por impuestos diferidos:
+– Activos por impuestos diferidos a recuperar en más de 12 meses 550 202
+– Activos por impuestos diferidos a recuperar en 12 meses 1.793 1.876
+2.343 2.078
+Pasivos por impuestos diferidos:
+– Pasivos por impuestos diferidos a cancelar en más de 12 meses 897 636
+– Pasivos por impuestos diferidos a cancelar en 12 meses 618 41
+1.515 677
+El movimiento neto en la cuenta de impuestos diferidos ha sido el siguiente:
+Activos por Pasivos por
+impuestos impuestos Impuestos
+diferidos diferidos diferidos netos
+Al 1 de enero de 2022 3.850 (776) 3.074
+(Cargo) / abono a la cuenta de resultados (Nota 28) (1.372) 99 (1.273)
+(Cargo) / abono a patrimonio neto (400) — (400)
+Al 31 de diciembre de 2022 2.078 (677) 1.401
+(Cargo) / abono a la cuenta de resultados (Nota 28) 515 (451) 64
+(Cargo) / abono a patrimonio neto (250) (387) (637)
+Al 31 de diciembre de 2023 2.343 (1.515) 828
+Los movimientos habidos en los activos por impuestos diferidos han sido los siguientes:
+Bases Deducc. 30%
+imponibles pendientes amortiza. Provisio-
+negativas de aplicar 13 y 14 nes Otros Total
+Al 1 de enero de 2022 — — 643 2.982 225 3.850
+(Cargo) / abono a la cuenta de resultados — 10 (127) (1.453) 198 (1.372)
+(Cargo) / abono a patrimonio neto — — — — (400) (400)
+Al 31 de diciembre de 2022 — 10 516 1.529 23 2.078
+(Cargo) / abono a la cuenta de resultados 288 13 (140) 81 273 515
+(Cargo) / abono a patrimonio neto — — (234) (16) — (250)
+Al 31 de diciembre de 2023 288 23 142 1.594 296 2.343
+Los importes de activos por impuestos diferidos recogidos en la columna “30% amortización 2013 y 2014” corresponden al
+efecto impositivo del 30% del gasto por amortización del ejercicio, no deducible fiscalmente en los ejercicios 2013 y 2014,
+según establecía el Real Decreto-ley 16/2012, de 27 de diciembre, por el que se adoptaron diversas medidas tributarias
+dirigidas a la consolidación de las finanzas públicas y al impulso de la actividad económica. Adicionalmente, se recogen en la
+columna “Provisiones” los importes relacionados con la contabilización de provisiones no deducibles fiscalmente en los
+ejercicios sobre los que se informa. Por último, en la columna “Otros” se muestra, entre otras cuestiones, el efecto impositivo de
+la no deducibilidad en el ejercicio 2023 del 50% las bases imponibles negativas aportadas por determinadas sociedades al
+grupo de consolidación fiscal español (Nota 28), según se establece en la disposición adicional decimonovena de la Ley
+27/2014, de 27 de noviembre, del Impuesto de Sociedades.
+51

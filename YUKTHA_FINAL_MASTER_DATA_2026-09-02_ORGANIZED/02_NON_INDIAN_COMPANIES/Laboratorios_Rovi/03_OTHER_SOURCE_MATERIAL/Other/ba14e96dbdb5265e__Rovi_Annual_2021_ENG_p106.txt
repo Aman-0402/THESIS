@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+The Group uses the purchase method to account for business combinations. The consideration transferred for acquisition
+of a subsidiary corresponds to the fair value of the assets transferred, liabilities incurred with the previous owners of the
+acquiree and equity instruments issued by the Group. The consideration transferred includes the fair value of any asset or
+liability coming from a contingent consideration agreement. Identifiable assets acquired and identifiable liabilities and
+contingencies assumed in a business combination are measured initially at their acquisition-date fair value. For each
+business combination, the Group may elect to recognise any non-controlling interest in the acquired entity at fair value or
+for the non-controlling entity’s proportional part in the amounts recognised for the acquiree’s identifiable net assets.
+Acquisition-related costs are recognised as expenses in the period in which they are incurred.
+If the business combination takes place in stages, the acquisition-date carrying amount of the acquirer’s previously-held
+interest in the equity of the acquiree is remeasured at acquisition-date fair value. Any loss or gain arising from this
+remeasurement is recognised in profit and loss.
+Any contingent consideration to be transferred by the Group is recognised at acquisition-date fair value. Subsequent
+changes in the fair value of the contingent consideration that are considered an asset or liability are recognised in
+accordance with IAS 39 in profit and loss. Contingent considerations classified as equity are not remeasured and their
+subsequent settlement is recognised in equity.
+Inter-company transactions and balances and unrealised gains on transactions between Group entities are eliminated.
+Unrealised losses are also eliminated. When necessary, the amounts shown for subsidiaries have been adjusted to adapt
+them to Group accounting policies.
+Exhibit 1 to these Notes lists the identification data of the fully-consolidated subsidiaries. All subsidiaries and associates
+have the same annual period as the parent company.
+b) Joint arrangements
+The Group applies IFRS 11 to all joint arrangements. Under IFRS 11, joint arrangements are classified into either joint
+operations or joint ventures, depending on the contractual rights and obligations of each investor. The Group has assessed
+the nature of its joint arrangements and has determined them to be joint ventures. Joint ventures are accounted for using
+the equity method.
+Under the equity method, interests in joint ventures are initially recognised at cost and are then adjusted to recognise the
+Group’s share in post-acquisition profits and losses and other movements in other comprehensive income. When the
+Group’s share in the losses of a joint venture equals or exceeds its interests in joint ventures (including any long-term
+interest that, substantially, forms part of the Group’s net investment in joint ventures), the Group does not recognise
+additional losses unless it has acquired obligations or made payments on behalf of the joint ventures.
+Unrealised gains on transactions between the Group and its joint ventures are eliminated to the extent of the Group’s
+interest in the joint ventures. Unrealised losses are also eliminated unless the transaction provides evidence that the assets
+transferred have suffered an impairment loss. The accounting policies for joint ventures have been modified where
+necessary to ensure consistency with the policies adopted by the Group.
+2.4 Segment reporting
+Operating segment reporting is presented consistently with the internal information presented to the chief decision-making
+authority. The chief decision-making authority, which is responsible for allocating resources to the operating segments and
+assessing the performance of said segments, has been identified as the Management Committee, which makes the
+strategic decisions.
+10

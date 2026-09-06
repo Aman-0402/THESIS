@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+The Company’s policy is to endeavour to obtain a large part of its financial debt from government entities through
+reimbursable advances, on which there is no interest rate risk. In the case of bank borrowings, it tries to obtain the cash
+flows not only at variable rates, but also at fixed rates, thus keeping interest rate risk to a minimum.
+Had interest rates on financial debt at variable rates been 1% higher or lower at 31 December, 2021, with all other variables
+remaining constant, the gain/loss after taxes for the year would have decreased or increased by 51 thousand euros,
+respectively, owing to the difference in interest expense on loans at variable rates (51 thousand euros at 31 December,
+2020).
+b) Credit risk
+Credit risk is managed on a group basis. Credit risk arises from cash and cash equivalents, deposits with banks and
+financial institutions, receivables classified as available for sale and trade receivables.
+The banks and financial institutions with which the Company works generally have independent ratings. If customers have
+been independently rated, such ratings are used. If this is not the case, then the Company assesses the risk on the basis
+of the customer’s financial position, historical experience and a series of other factors. In those cases in which there is no
+doubt as to the customer’s financial solvency, the Company elects not to set credit limits.
+At 31 December, 2021, the greatest investment in financial assets, including cash and cash equivalents but not including
+trade receivables, was related to Banco Santander, 15,835 thousand euros (21,540 thousand euros at 31 December,
+2020). A significant proportion of trade and other receivables relates to accounts receivable from government entities, on
+which, in view of their nature, with the information currently available, Management considers that there is no credit risk.
+In the reporting periods for which information is presented, credit limits were not exceeded and Management does not
+expect losses due to default by any of the aforementioned counterparties.
+c) Liquidity risk
+Management regularly monitors the liquidity estimates of the Company in accordance with the expected cash flows, so
+that there is always enough cash and marketable securities to cover liquidity needs.
+In 2020, ROVI signed credit policies for a total amount of 45 million euros. ROVI did not renew these policies when they
+expired in 2021.
+The following table analyses the Company’s financial liabilities grouped by maturity dates based on the periods outstanding
+at the end of the reporting period through to the maturity date stipulated in the contract, including the corresponding interest.
+The amounts shown in the table relate to cash flows stipulated in the contract, which have not been discounted. Given that
+these amounts have not been discounted and that they include future interest accruals, they cannot be matched with
+figures on the statement of financial position for borrowings, derivatives and trade and other payables.
+Thousand euros
+Less than Between Between Over
+At 31 December, 2021 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 993 13,334 19,709 12,052
+Debt with government entities 2,159 3,081 4,193 1,767
+Trade and other payables 65,886 - - -
+69,038 16,415 23,902 13,819
+22

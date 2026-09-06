@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+In 2010, the government approved two packages of measures to reduce pharmaceutical spending. The first one focused
+on generic products, which are those out of patent, for which it established an average reduction of 25% in the selling price
+to laboratories. The second package addressed pharmaceutical products under patent. Since that time, a 7.5% discount
+has been applied to the selling price to the public. The Group recognises the amounts relating to these measures as a
+decrease in sales.
+Since 2017, the Spanish government and the members of Farmaindustria, which include ROVI, have signed different
+agreements whereby the members assume the commitment to make certain contributions to the Public Health System.
+The Company recognises the sums accrued for these commitments as a reduction in sales.
+4. Financial risk management
+4.1 Financial risk factors
+The Company’s activities expose it to a variety of financial risks: market risk (including currency risk, interest rate risk and
+price risk), credit risk and liquidity risk. The Company’s global risk management program focuses on the unpredictability of
+the financial markets and seeks to minimise potential adverse effects on the Company’s financial performance.
+Risk management is carried out by the Company’s Treasury Department, which, following policies approved by the Board
+of Directors, identifies, assesses and hedges financial risks. This Department identifies, assesses and hedges the financial
+risks in close co-operation with the Company’s operating units. The Audit Committee analyses policies for global risk
+management, as well as for specific areas, such as interest rate risk, liquidity risk and the investment of excess liquidity.
+a) Market risk
+(i) Exchange rate risk
+Foreign exchange risk is low as (i) virtually all the Company’s assets and liabilities are in euros; (ii) the majority of the
+transactions with foreign parties are carried out in euros; and (iii) transactions for a significant amount in currencies other
+than the euro are hedged with financial instruments that minimise the impact of exchange-rate risk. At 31 December, 2021,
+the Company held instruments of this kind for a value of 5,000 thousand dollars (13,500 thousand dollars in 2020), the
+measurement of which led to recognition of a loss of 17 thousand euros at the 2021 reporting date (at 31 December, 2020,
+the loss originating from measurement of these assets was 925 thousand euros). If, at 31 December, 2021, the exchange
+rate had been 10% higher, ROVI would have incurred a loss of 502 thousand euros and, if the exchange rate had been
+10% lower, ROVI would have recorded a profit of 392 thousand euros from the measurement of these assets (at 31
+December, 2020, the effect would have been a loss of 1,925 euros and a profit of 297 euros, respectively).
+At 31 December, 2021, the Company held assets for an amount of 1,094 thousand zlotys (500 thousand zlotys at 31
+December, 2020). If the interest rate at the reporting date had been 10% higher, the value in euros of these assets
+denominated in zlotys would have decreased by 24 thousand euros 10 thousand euros in 2020) and if the exchange rate
+had been 10% lower, their value would have increased by 24 thousand euros (12 thousand euros in 2020).
+(ii) Price risk
+The Company is exposed to price risk on equity securities because of investments held by the Company and classified on
+the statement of financial positon as available for sale or held at fair value through profit and loss. The Company is not
+exposed to commodity price risk. To manage its price risk arising from investments in equity securities, the Company
+diversifies its portfolio in accordance with the limits set. The Company does not use derivatives to hedge price risk.
+At 31 December, 2021 and 2020, a change in the quoted price of equity securities would have had no effect on the
+Company’s statement of financial position.
+(iii) Cash flow and fair value interest rate risk
+The Company is subject to interest rate risk in respect of cash flows on long-term borrowing transactions at variable rates.
+21

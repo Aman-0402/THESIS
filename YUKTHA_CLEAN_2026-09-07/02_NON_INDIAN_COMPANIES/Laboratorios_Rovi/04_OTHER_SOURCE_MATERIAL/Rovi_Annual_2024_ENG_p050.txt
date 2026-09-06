@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+At 31 December 2024 and 2023, debt with government entities matured as follows:
+Thousand euros
+Year 2024 2023
+2024 — 1,509
+2025 1,543 1,447
+2026 1,587 1,535
+2027 1,400 1,332
+2028 1,499 1,070
+2029 1,155 607
+2030 onward 4,203 1,316
+11,387 8,816
+Non-current 9,844 7,307
+Current 1,543 1,509
+19. Current and non-current accruals
+Thousand euros
+2024 2023
+Non-current 1,818 1,431
+Current 364 324
+2,182 1,755
+The current and non-current accruals caption records the amounts received for the assignment of the rights to market
+low-molecular-weight heparins in a number of countries. The Company defers the revenue over the terms of the
+contracts, which have a duration of between 10 and 15 years.
+In 2024, new deferred revenues of 793 thousand euros (255 thousand euros in 2023) were recognised in relation to new
+distribution contracts. In 2024 ROVI recognised revenue from the granting of distribution licences for a total amount of
+365 euros (339 thousand euros in 2023).
+20. Other provisions
+Movement on the current provisions recognised in the statement of financial position was as follows:
+Contributions
+to public health
+Returns system Other Total
+At 1 January 2023 2,165 2,868 115 5,148
+Additions 1,586 6,649 — 8,235
+Applications (2,165) (2,868) (115) (5,148)
+At 31 December 2023 1,586 6,649 — 8,235
+Additions/(Reversals) 1,459 12,330 327 14,116
+Applications (1,586) (6,649) — (8,235)
+At 31 December 2024 1,459 12,330 327 14,116
+Returns
+The Company estimates a provision for product returns considering the average return rate of recent years (Note 2.b.1).
+40

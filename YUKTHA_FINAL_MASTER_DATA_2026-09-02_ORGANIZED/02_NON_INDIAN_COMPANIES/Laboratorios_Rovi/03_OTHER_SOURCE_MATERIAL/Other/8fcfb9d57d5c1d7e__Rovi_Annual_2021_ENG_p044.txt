@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+11. Financial assets at fair value through equity
+Financial assets at fair value through equity include:
+Thousand euros
+2021 2020
+Listed securities:
+- Investment funds and equity securities 5 4
+Non-listed securities
+- Equity securities – Euro zone 59 59
+64 63
+Movement on financial assets at fair value through equity income was as follows:
+Thousand euros
+2021 2020
+Balance at beginning of year 63 63
+Net gains / (losses) in comprehensive income 1 —
+Balance at end of year 64 63
+Less: non-current portion 64 63
+Current portion — —
+The maximum credit risk exposure at the reporting date was the fair value of the debt securities classified as financial
+assets at fair value through equity.
+12. Inventories
+Thousand euros
+2021 2020
+Trade inventories 44,348 34,622
+Raw materials and other consumables 29,338 27,255
+Finished goods 21,726 9,023
+Work in progress 10,372 3,777
+105,784 74,677
+In 2021, inventory write-downs rose by 3,114 thousand euros (reduction of 1,764 thousand euros in 2020), the total amount
+of these adjustments being 7,668 thousand euros at 31 December, 2021 (4,554 thousand euros at 31 December, 2020).
+The inventories purchase/sale commitments at the end of the reporting period were as normal in the course of business
+and Management considers that meeting these commitments will not generate losses for the Company.
+The Company holds several insurance policies to cover the risks the inventories are exposed to. The insurance cover is
+considered sufficient.
+13. Cash and cash equivalents
+Thousand euros
+2021 2020
+Cash at bank and on hand 37,964 34,144
+37,964 34,144
+35

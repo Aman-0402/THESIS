@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+c) Bonus obligations
+The Company recognises a liability and an expense for bonuses based on the estimates of meeting certain corporate
+targets established for employees.
+d) Share-based payments
+The Company recognises the goods or services received or acquired in a transaction with share-based payments at the
+time the goods are obtained or the services received. If the goods or services are received in a transaction with share-
+based payments settled with equity instruments, an increase in equity is recognised, while if they are settled in cash, a
+liability is recognised, with its balancing item in profit or loss or in the assets of the statement of financial position.
+The Company recognises transactions in share-based payments settled through Company equity instruments, including
+capital increases with non-monetary payments, as well as the increase in equity related thereto, at the fair value of the
+goods or services received, unless said fair value cannot be reliably estimated, in which case the value will be measured
+in accordance with the fair value of the equity instruments handed over.
+Equity instruments handed over in consideration for services provided by Company employees or third parties who provide
+similar services will be measured in accordance with the fair value of the equity instruments handed over.
+Share-based payments to employees settled by issuing equity instruments
+Payments to employees settled by issuing equity instruments are recognized by applying the following criteria:
+• If the equity instruments awarded vest immediately at the time they are awarded, the services received are
+charged to profit and loss with the resulting increase in equity;
+• If the equity instruments awarded vest when the employees complete a certain period of service, the services
+received are recognized over the vesting period and credited to equity accounts.
+The Company determines the fair value of the instruments awarded to employees at the date they are awarded.
+Market and other conditions that do not determine vesting are considered when measuring the fair value of the instrument.
+The rest of the vesting conditions are taken into account by adjusting the number of equity instruments included when
+determining the amount of the transaction, in such a way that, finally, the amount recognised for the services received is
+based on the number of equity instruments that are likely to vest. Consequently, the Company recognizes the amount for
+the services received over the vesting period, based on the best estimate of the number of instruments that will vest and
+this estimate is revised in accordance with the rights that are expected to vest.
+Once the services received and the related increase in equity are recognised, no additional adjustments will be made to
+the equity after the vesting date, although the relevant reclassifications in equity will be made.
+If the Company retains equity instruments in order to pay the employee’s income tax into the Public Treasury, the entire
+plan will be treated as having been settled in equity instruments, except for the portion of the instruments retained that
+exceeds the fair value of the tax obligation.
+3.12 Provisions and contingent liabilities
+Provisions for environmental restoration, restructuring costs and legal claims are recognised when the Company has a
+present legal or constructive obligation as a result of past events, it is probable that an outflow of resources will be required
+to settle the obligation and the amount can be reliably estimated. Restructuring provisions comprise lease termination
+penalties and employee termination payments. Provisions are not recognised for future operating losses.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a
+pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the obligation.
+17

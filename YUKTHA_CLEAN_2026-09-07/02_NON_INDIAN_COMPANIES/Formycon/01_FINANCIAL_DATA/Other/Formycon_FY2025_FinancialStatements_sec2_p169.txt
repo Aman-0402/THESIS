@@ -1,0 +1,45 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 169
+— amounts expected to be payable under a resid- Measurement of fair value
+ual value guarantee; and/or
+Fair value is the price at which an asset would, as
+— the exercise price under a purchase option that of the measurement date, be sold, or a liability
+the Group is reasonably certain to exercise, transferred, in an orderly transaction on the rele-
+lease payments in an optional lease extension vant principal market or, if none exists, in the most
+period if the Group is reasonably certain to ex- advantageous market to which the Group has ac-
+ercise the lease extension option, and penal- cess at that time. The fair value of a liability reflects
+ties for early termination of a lease unless the the risk of non-performance (credit risk).
+Group is reasonably certain not to terminate
+early. A number of the Group’s accounting policies and
+disclosures require the measurement of fair values,
+The lease liability is measured at amortized cost us- for both financial and non-financial assets and liabil-
+ing the effective interest method. It is remeasured ities.
+when there is a change in future lease payments
+arising from a change in an index or rate; if there is Where a quoted price in an active market is availa-
+a change in the Group’s estimate of the amount ex- ble, the Group determines the fair value of a finan-
+pected to be payable under a residual value guar- cial instrument on the basis thereof. A market is
+antee; if the Group changes its assessment of considered active when transactions for the rele-
+whether it will exercise a purchase, extension or vant asset or liability occur and are reported with
+termination option; or if there is a change in the sufficient frequency and volume to provide market
+amount of a de facto fixed lease payment. price information on an ongoing basis.
+Should the lease liability be remeasured in this way, If there is no quoted price in an active market, the
+a corresponding adjustment is made to the book Group uses valuation techniques that maximize the
+value of the right-of-use asset, or if the book value use of relevant observable inputs and minimize the
+of the right-of-use asset has been reduced to zero, use of unobservable inputs. The chosen valuation
+it is recognized in profit or loss. technique incorporates all factors which market
+participants would normally consider when pricing
+Short-term leases and leases of low-value assets the asset or liability.
+The Group has elected not to recognize right-of-
+use assets and corresponding lease liabilities for
+leases of low-value assets and short-term leases,
+including IT equipment. The Group recognizes the
+lease payments associated with these leases as an
+expense on a straight-line basis over the lease
+term.
+Operating profit/loss (EBIT)
+Operating profit/loss is net income generated from
+the Group’s continuing sales-generating primary ac-
+tivities plus other income and expenses from oper-
+ating activities, but excluding finance income and fi-
+nance costs, participations in the profits and losses
+of companies accounted for using the equity
+method, impairments and income taxes.

@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+iii. Related to the purchase of output from Taxonomy- aligned economic activities and to individual measures enabling the
+target activities to become low-carbon or to lead to greenhouse gas reductions as well as individual building renovation
+measures as identified in the delegated acts adopted pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2),
+Article 14(2) or Article 15(2) of Regulation (EU) 2020/852 and provided that such measures are implemented and
+operational within 18 months.
+For ROVI, the OpEx indicator considers solely costs related to research and development, short-term leases and maintenance
+and repairs. ROVI does not consider individual building renovation measures and any other direct expenditures relating to the
+day-to-day servicing of assets of property, plant and equipment by the company or third party to whom activities are outsourced
+that are necessary to ensure the continued and effective functioning of such assets as OpEx.
+In this respect, for ROVI the eligible activities with associated OpEx in 2024 were the following:
+Climate Change Pollution
+Mitigation Annex Prevention Annex
+Activity 5.4.
+Activity 7.3.
+Activity 1.1.
+Activity 7.4.
+Activity 1.2.
+Activity 7.5.
+Activity 7.6.
+To analyse the OpEx numerator, ROVI screened the following accounts: “622. Repairs and maintenance” and “621 Leases and
+royalties”, as well as the account relating to R&D equipment maintenance.
+• To screen the activities included in the Mitigation Annex, ROVI worked with each one of the persons responsible for its
+industrial complexes in order to identify items directly related to the activities mentioned in said Annex through an
+exhaustive screening.
+• To screen the activities in the Pollution Prevention Annex, in line with the criterion followed to analyse the CapEx. ROVI
+segregated all the items that should be considered in the Taxonomy screening and discarded those that were not
+applicable. Likewise, mention should be made of the fact that the R&D-related operating expenses relate, in their
+entirety, to activity 1.2. “Manufacture of medicinal products”.
+In the course of the screening, double accounting of items was avoided, computing the items that are directly related to the
+description of each taxonomy activity with each activity.
+The denominator includes total R&D expenses, repair and maintenance expenses and operating lease expenses disclosed in
+ROVI’s consolidated Annual Accounts (sections “Other operating expenses” and “Research and Development expenses”).
+e. Results
+The proportion of eligible and non-eligible activities in accordance with European Union Taxonomy is shown below:
+% Eligibility % Non-eligibility
+Turnover CapEx OpEx Turnover CapEx OpEx
+37.535 % 71.987% 26.667 % 62.465 % 28.013 % 73.333 %
+(286,673.99 (47,201.94 (9,933.05 thousand (477,075.01 (18,368.06 (27,314.95
+thousand euros) thousand euros) euros) thousand euros) thousand euros) thousand euros)
+% Alignment % Non-alignment
+CapEx* OpEx* CapEx* OpEx*
+Turnover 1.269 % 0.394 % Turnover* 98.731 % 99.606 %
+0 % (832.35 thousand (146.88 thousand 100 % (64,737.64 (37,101.11
+euros) euros) thousand euros) thousand euros)
+(*) In 2024, ROVI does not report the alignment figures for activities 1.1. and 1.2. of the Pollution Prevention Annex since no water footprint is available.
+56

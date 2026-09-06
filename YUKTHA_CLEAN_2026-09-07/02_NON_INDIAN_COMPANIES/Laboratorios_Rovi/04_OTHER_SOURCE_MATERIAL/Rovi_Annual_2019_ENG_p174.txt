@@ -1,0 +1,48 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+Amounts without
+adoption of IFRS
+31 December 2019 Note 16 Adjust-ments As reported
+Revenue 381,313 - 381,313
+Change in inventories of finished goods and work in progress 21,414 - 21,414
+Raw materials and consumables used (188,020) - (188,020)
+Employee benefit expenses (72,512) - (72,512)
+Other operating expenses 24 (85,587) 3,641 (81,946)
+Amortisation 6 & 7 (14,621) (3,595) (18,216)
+Impairment of non-current assets (341) - (341)
+Recognition of government grants on non-financial non-
+current assets and other 1,151 - 1,151
+OPERATING PROFIT 42,797 46 42,843
+Finance income 51 - 51
+Finance costs 26 (648) (279) (927)
+Impairment and gain or loss on measurement of financial
+instruments 159 - 159
+Exchange difference (51) - (51)
+FINANCE COSTS - NET (489) (279) (768)
+Share of profit of a joint venture (195) - (195)
+-
+PROFIT BEFORE INCOME TAX (687) (233) (920)
+Income tax 27 (2,665) 58 (2,607)
+PROFIT FOR THE YEAR (3,352) (175) (3,527)
+Amounts without
+adoption of IFRS
+31 December 2019 Note 16 Adjust-ments As reported
+Changes in working capital:
+Trade and other receivables 17 20,591 3,362 23,953
+Finance expense 26 699 279 978
+Net cash generated (used) in operating activities 21,290 3,641 24,931
+Net cash generated (used) in investing activities (40,472) - (40,472)
+Repayments of financial debt (17,601) 3,641 (21,242)
+Net cash generated (used) in financing activities 25,072 3,641 21,431
+Net (decrease)/increase in cash and cash equivalents (28,085) (28,085)
+Cash and cash equivalents at beginning of year 95,511 - 95,511
+Cash and cash equivalents at end of year 67,426 67,426
+• Amendments to IFRS 9 “Financial Instruments”: “Prepayment Features with Negative Compensation”.
+According to this amendment, effective 1 January, 2019, financial assets that can be prepaid with compensation
+may be measured at amortised cost or fair value through other comprehensive income. ROVI will take this
+amendment into account if any asset with these features is prepaid.
+11

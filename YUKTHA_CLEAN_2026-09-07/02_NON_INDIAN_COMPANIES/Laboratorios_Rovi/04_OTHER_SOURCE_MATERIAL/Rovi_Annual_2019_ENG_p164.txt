@@ -1,0 +1,29 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS
+ROVI, S.A. AND SUBSIDIARIES AT 31 DECEMBER, 2019
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Thousands of euros)
+31 December
+Note 2019 2018
+ASSETS
+Non-current assets
+Property, plant and equipment 6 131,608 95,837
+Intangible assets 7 45,079 34,650
+Investment in a joint venture 10 1,843 2,038
+Deferred income tax assets 19 14,660 16,036
+Equity securities 9 & 11 71 70
+Financial receivables 9 & 13 65 65
+193,326 148,696
+Current assets
+Inventories 12 158,811 94,861
+Trade and other receivables 9 & 13 81,541 60,180
+Current income tax assets 27 10,104 3,414
+Financial derivatives - 17
+Prepaid expenses 3 21
+Cash and cash equivalents 9 & 14 67,426 95,511
+317,885 254,004
+Total assets 511,211 402,700
+Notes 1 to 34 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+1

@@ -1,0 +1,43 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+12. Trade and other receivables
+The breakdown of trade and other receivables is as follows:
+31
+30 June December
+2024 2023
+Trade receivables 121,258 125,068
+Less: loss allowance (424) (518)
+Trade receivables – Net 120,834 124,550
+Deposits 1,867 1,440
+Other receivables 13,967 17,389
+Total 136,668 143,379
+Less: Non-current portion: Financial receivables 65 65
+Current portion 136,603 143,314
+At 30 June 2024, “Deposits” included deposits of 1,867 thousand euros at an interest rate lower than 1% (1,440
+thousand euros at 31 December 2023). 1,327 thousand euros of these deposits is pledged in favour of Banco Santander.
+The Group considers the credit risk associated to these deposits to be low and, therefore, has not recognised any
+expected losses in relation thereto.
+Movements on the loss allowance for bad debts related to trade payables in the periods reported was as follows:
+30 June 30 June
+2024 2023
+Balance at the beginning of the period 518 536
+Net remeasurement of loss allowance (94) (36)
+Balance at the end of the period 424 500
+At 30 June 2024, the Group recognised revenue of 17 thousand euros from bad trade debts in profit and loss (7
+thousand euros at 30 June 2023.
+In addition. the Group classifies its customers into public-sector and non-public-sector. Regarding non-public-sector
+customers, the Group includes all private-sector customers in this category, such as wholesalers, manufacturing
+customers and other pharmaceutical companies, which are assessed on the basis of the age of their debt, their financial
+position and their credit rating (if available).
+The contracts signed by the Group with its customers have an average term of between 3 and 5 years, which allows a
+considerable stable flow of revenue to be generated. In the manufacturing segment, there are certain customers with
+whom there is a higher volume of commercial transactions, with outstanding balances of 29% of the total customer debt
+at 30 June 2024 (30% at 31 December 2023).
+However, due to the credit quality of the customers who form part of this segment, combined with the Group’s internal
+systems and the collection periods established, there was no significant impact on the Group in the periods ended 30
+June 2024 and 31 December 2023.
+19

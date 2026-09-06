@@ -1,0 +1,24 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 200
+26. Financial instruments the 3-Monats-Euribor and the credit spread. Non-
+observable factors are estimated on the basis of in-
+Valuation
+ternal assumptions while preference is given to ob-
+The Group generally classifies all financial assets servable market data.
+and liabilities as financial instruments measured at
+amortized cost. The exception to this is the condi- The embedded derivative is valued using valuation
+tional portion of the purchase price for the acquisi- models in which at least one significant input factor
+tion of the shareholdings in FYB202 Project GmbH is not based on observable market data. Accord-
+and Bioeq AG (see preceding Notes 22 and 23), as ingly, these financial instruments are assigned to
+well as the embedded derivative contained in the level 3 of the valuation hierarchy.
+“Nordic Bond”, which is measured at fair value. For
+all financial assets and liabilities except for the Nor- An increase or decrease in interest rates of 50 ba-
+dic Bond and the shareholder loan to Bioeq AG, sis points would have led to a change in fair values
+which is at a non-market interest rate, book value is of EUR –192 thousand or EUR 122 thousand, all
+an adequate approximation of fair value. The book other conditions being equal. As of the reporting
+values and fair values of the Group’s financial as- date, this results in an increase of € 52 thousand in
+sets and liabilities are summarized on the right side. the capitalized derivative.
+The Nordic Bond contains embedded derivatives in The contingent purchase price obligations are
+the form of call options and an interest rate floor of measured at fair value based on level 3 input fac-
+0% EURIBOR. The embedded derivative is valued tors under the fair value hierarchy (see Note 6).
+using standard market option pricing models such
+as Monte Carlo simulations. Key input factors are

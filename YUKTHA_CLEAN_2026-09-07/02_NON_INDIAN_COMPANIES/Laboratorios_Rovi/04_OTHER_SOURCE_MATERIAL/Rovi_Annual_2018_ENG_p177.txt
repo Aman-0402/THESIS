@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+IFRS states that lessees must recognise a financial liability for the present value of the payments to be made
+over the remaining life of the lease contract and an asset for the right of use of the underlying asset, which is
+measured on the basis of the asociated liability, to which any initial direct costs incurred are added. Additionally,
+the criterion for recognisng the lease expense changes and it is now recognised as an expense for depreciation
+of the asset and a financial expense for the discounting of the lease liablity. In respect of the current accounting
+by the lessor, the rules do not change substantially and the lessor must continue to classify the lease as
+operating or financial, depending on the degree to which the risks and rewards of ownership are substantially
+transferred.
+The Group has assessed the first application of the Standard, identifying the lease contracts that may fall within
+the scope of IFRS 16. To do this, the Group:
+- Reviewed the lease contracts and grouped them by type: leases on the real estate where it carries out
+its principal activities, vehicle leases and computer equipment leases.
+- The Group has applied the recognition exemption for underlying assets with a low value (less than
+5,000 US dollars) and a short term (12 months or less). Las facturas emitidas por los proveedores
+contratados recogen servicios de distinta naturaleza.
+- In the case of vehicles, the present value of the payments has been determined on the basis of the
+current commitment, seven months.
+- The Group has elected to apply the modified retrospective effect, according to which the 2018 period
+will not be restated, as its transition model.
+- The Group has elected to measure the initial right-of-use asset at the amount of the lease liability at 1
+January, 2019 for all the lease contracts.
+- To determine the present value of the payments to be made over the remaining lives of the leasse
+contracts for the right-of-use of the underlying assets, the Group’s incremental borrowing rate, close to
+the Group’s debt ratio, has been applied. At the date of initial application, this is 1.5%.
+- The term of the leases has been identified by classifying leases with a similar nature.
+After the aforementioned analysis, the estimated effect of the transition to IFRS 16 at the effective date would
+be:
+- Recognition of assets under the “Right-of-use assets” caption (non-current assets) for an amount of,
+approximately, 22 million euros.
+- Increase in debt under the captions “Financial liabilities for non-current and current leases” of,
+approximately, 19 million euros and 3 million euros, respectively.
+The estimated impacts that application of IFRS 16 would have had on the consolidated income statement and
+consolidated statement of cash flows for 2018 are:
+- Lower operating expenses and, consequently, an increase of, approximately, 0.1 million euros in the
+gross operating profits, since operating lease payments are recognized under the operating expenses
+caption, offset by recognition of an increased expense for the depreciation of the right-of-use asset of,
+approximately, 3 million euros and an increase of 0.3 million euros in the finance costs of the lease
+liabilities.
+14

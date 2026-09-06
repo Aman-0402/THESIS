@@ -1,0 +1,51 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+The fair value of the reimbursable advances without a rate of interest or with a subsidised rate of interest is determined
+by applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made,
+adding the spread normally applied in loans to the Company. For financial reporting purposes, fair value is calculated at
+the end of each reporting period by applying the interest rate curve then in force to the outstanding payments and adding
+the corresponding spread. For loans at variable rates of interest, fair value has been regarded as coinciding with the
+amount for which they are recognised.
+5. Intangible assets
+Details of the items included in intangible assets and the movement on these items are as follows:
+Patents,
+licences and Computer
+Development trademarks software Total
+Balance at 01.01.23
+Cost 9,094 44,075 7,956 61,125
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (2,580) (20,453) (7,227) (30,260)
+Carrying amount 01.01.23 6,514 23,128 729 30,371
+Additions — — 485 485
+Derecognition of amortisation — — 14 14
+Amortisation charge (455) (2,876) (291) (3,622)
+Balance at 31.12.23
+Cost 9,094 44,075 8,441 61,610
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (3,035) (23,329) (7,504) (33,868)
+Net carrying amount 31.12.23 6,059 20,252 937 27,248
+Additions — 949 1,702 2,651
+Derecognitions — (7) — (7)
+Derecognition of amortisation — 3 — 3
+Amortisation charge (455) (2,473) (293) (3,221)
+Balance at 31.12.24
+Cost 9,094 45,017 10,143 64,254
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (3,490) (25,799) (7,797) (37,086)
+Net carrying amount 31.12.2024 5,604 18,724 2,346 26,674
+a) Patents, licences and trademarks
+Because the recoverable value of the asset related to acquisition of the distribution rights of the product Hirobriz®
+(belonging to the “Marketing” segment) had dropped below its net carrying amount, in 2023, the Company had
+recognised impairment of 494 thousand euros. In said year, this asset was fully amortised.
+In 2024, licences were purchased from Group companies for 949 thousand euros. In 2023, there were no intercompany
+transactions for this item.
+b) Development
+At 31 December 2024 and 2023, the assets included under the “Development” caption correspond to assets related to
+the development of a low-molecular-weight heparin, biosimilar to enoxaparin, sales of which commenced in 2017.
+Amortisation of this asset commenced during the first quarter of 2017, determined by the successful completion of the
+decentralised process used by the Company to apply for marketing authorisation in twenty-six European Union countries.
+The useful life of this asset is 20 years, and no indications of impairment were noted in either 2024 or 2023.
+20

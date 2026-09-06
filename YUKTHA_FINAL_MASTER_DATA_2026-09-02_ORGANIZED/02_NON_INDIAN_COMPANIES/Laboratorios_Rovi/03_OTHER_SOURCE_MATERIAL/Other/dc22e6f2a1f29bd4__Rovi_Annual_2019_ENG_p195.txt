@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+The segment information used by the Management Committee for 2019 was as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 197,512 392,727 - 590,239 (208,926) 381,313
+Profit/(loss) 30,221 28,153 (33) 58,341 (19,068) 39,273
+Income tax 2,302 1,139 (11) 3,430 (823) 2,607
+Profit/(loss) before tax 32,523 29,292 (44) 61,771 (19,891) 41,880
+Finance costs - net 170 (16,014) 2 (15,842) 16,610 768
+Amortisation 6,696 11,520 - 18,216 - 18,216
+EBITDA (*) 39,389 24,798 (42) 64,145 (3,281) 60,864
+Amortisation (6,696) (11,520) - (18,216) - (18,216)
+EBIT (**) 32,693 13,278 (42) 45,929 (3,281) 42,648
+The 2018 figures were as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 142,688 287,763 - 430,451 (127,248) 303,203
+Profit/(loss) 17,196 13,218 (7) 30,407 (12,512) 17,895
+Income tax 4,396 (5,550) (2) (1,156) (59) (1,215)
+Profit/(loss) before tax 21,592 7,668 (9) 29,251 (12,571) 16,680
+Finance costs - net 33 (11,578) - (11,545) 12,347 802
+Amortisation 4,795 7,249 - 12,044 - 12,044
+EBITDA (*) 26,420 3,339 (9) 29,750 (224) 29,526
+Amortisation (4,795) (7,249) - (12,044) - (12,044)
+EBIT (**) 21,625 (3,910) (9) 17,706 (224) 17,482
+(*) EBITDA is calculated as profit before taxes, interest and amortization.
+(**) EBIT is calculated as profit before taxes and interest.
+As a consequence of the entry into force of IFRS 16, the EBITDA of the marketing segment increased by 2,681 thousand
+euros and, additionally, the amortisation/depreciation expense dropped by 2,683 thousand euros. Furthermore, the
+EBITDA of the manufacturing segment rose by 960 thousand euros and the amortisation/depreciation expense
+decreased by 913 thousand euros. The effect of this standard on the rest of the income statement captions is not
+significant.
+Inter-segment transactions included on the finance gain/(loss) lines are principally dividends paid between Group
+companies.
+Each segment’s sales to customers in 2019 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 197,512 392,727 - 590,239
+Inter-segment revenues (131,862) (77,064) - (208,926)
+Revenues from external customers 65,650 315,663 - 381,313
+32

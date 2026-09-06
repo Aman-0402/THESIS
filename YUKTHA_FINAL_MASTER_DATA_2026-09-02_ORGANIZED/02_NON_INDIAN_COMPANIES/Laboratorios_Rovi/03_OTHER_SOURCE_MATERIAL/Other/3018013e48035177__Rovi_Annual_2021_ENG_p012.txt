@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Income Statement for the annual periods ended 31 December, 2021 and 2020
+(Thousands of euros)
+Annual period ended 31
+December
+Note 2021 2020
+CONTINUING OPERATIONS
+Net sales 22 a) 509,920 459,424
+Sales of goods 490,229 459,424
+Sales of services 19,691 —
+Change in inventories of finished products and work in progress 12 19,298 (7,245)
+Procurements (384,450) (308,275)
+Raw materials and consumables used 22 b) (381,336) (310,039)
+Inventory write-down 12 (3,114) 1,764
+Other operating income 6,948 5,111
+Ancillary and current management income 22 c) 6,363 4,595
+Operating grants recognised in profit and los 22 d) 585 516
+Employee benefit expenses 22 e) (40,562) (32,803)
+Wages, salaries and similar remuneration (33,764) (26,974)
+Welfare charges (6,798) (5,829)
+Other operating expenses (69,470) (61,815)
+External services 22 f) (64,128) (55,765)
+Taxes (5,484) (6,080)
+Losses, impairment and changes in trade provisions 22 g) 142 44
+Other current operating expenses — (14)
+Amortisation and depreciation charges 5 & 6 (10,303) (9,710)
+Allocation of grants for non-financial assets and other 17 741 629
+Impairment and gains/(losses) on disposal of intangible assets and property,
+plant & equipment 6 (120) (70)
+Impairment and losses 5 (95) (56)
+Gains (losses) on sales and other (25) (14)
+PROFIT/(LOSS) FROM OPERATING ACTIVITIES 32,002 45,246
+Finance income 25,589 31,723
+Finance expenses (655) (789)
+Change in fair value of financial instruments 908 (796)
+Exchange rate differences (111) 77
+Impairment and gains/(losses) on disposal of financial instruments 1.161 (245)
+FINANCE COSTS – NET 24 26,892 29,970
+PROFIT BEFORE TAX 58,894 75,216
+Income tax 23 6,249 (4,079)
+PROFIT FOR THE YEAR 16 65,143 71,137
+3

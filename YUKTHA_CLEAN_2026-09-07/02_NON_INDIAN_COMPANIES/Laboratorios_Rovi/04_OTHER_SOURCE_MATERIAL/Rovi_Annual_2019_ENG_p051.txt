@@ -1,0 +1,37 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+Fair value of non-current debt
+The carrying amounts and fair values of the non-current debt were as follows:
+Thousands of euros
+Carrying amount Fair value
+2019 2018 2019 2018
+Bank borrowings 45,000 7,113 44,748 7,061
+Debt with government entities 9,329 9,018 9,330 9,506
+54,329 16,131 54,078 16,567
+The fair values of current financial debt are equal to their corresponding nominal amounts since the effect of discounting
+is not significant. The fair values are based on cash flows discounted at a rate of 2%, based on the borrowing rate (2% in
+2018).
+To calculate the fair value of fixed-rate non-current bank borrowings at the 2019 and 2018 reporting dates, the interest
+rate on the latest variable-rate loan received by the Company was taken as a reference: Euribor at 3 months plus a
+0.844% spread
+The carrying amount of the Company’s debt is in euros.
+a) Bank borrowings
+Bank borrowings at 31 December, 2019 comprised the following bank loans:
+a.1) a.2.1) a.2.2) a.3) TOTAL
+Entity BBVA BEI BEI Santander
+Face value 20,000 5,000 40,000 5,000
+Interest rate 0.65% Fixed Eur3+0.844% 0.681% Fixed 0.36% Fixed
+2020 2,116 - - 5,000 7,116
+2021 - 176 - - 176
+2022 - 704 - - 704
+2023 - 708 5,714 - 6,422
+2024 - 711 5,714 - 6,425
+2025 onward - 2,701 28,572 - 31,273
+2,116 5,000 40,000 5,000 52,116
+Non-current - 5,000 40,000 - 45,000
+Current 2,116 - - 5,000 7,116
+42

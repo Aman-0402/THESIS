@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+12. Inventories
+2021 2020
+Raw materials and other consumables 124,940 137,123
+Work in progress and semi-finished goods 50,447 31,753
+Finished goods produced internally 35,507 53,419
+Marketing products 34,579 4,904
+245,473 227,199
+In 2021, the Group reduced the value of its inventories by 5,153 thousand euros (2,011 thousand euros in 2020) due to
+obsolescence and expiration and the valuation of the products according to the profit expected from their sale. The
+reduction in value of inventories is recognised under the “Raw materials and consumables used” and “Change in stocks
+of finished goods and work in progress” captions of the income statement.
+The inventories purchase/sale commitments for the Group at the end of the reporting period were as normal in its course
+of its business. Management estimates that meeting these commitments will not generate losses for the Group. The Group
+holds insurance policies to cover the risks the inventories are exposed to. The insurance cover is considered sufficient.
+13. Trade and other receivables
+The breakdown of trade and other receivables is as follows:
+2021 2020
+Trade receivables 129,858 63,330
+Less: loss allowance (57) (45)
+Trade receivables – Net (13.a) 129,801 63,285
+Other receivables 90 94
+Receivables from related parties (Note 31) 2 96
+Deposits (13.b) 1,427 1,399
+Employee advances 96 95
+Public authorities (13.c) 18,821 11,497
+Total 150,237 76,466
+Less: Non-current portion: Financial receivables 65 65
+Current portion 150,172 76,401
+a) Trade and other receivables
+Management considers that the fair value of trade and other receivables does not differ significantly from their recognised
+values, since they consist principally of balances receivable at less than one year and are subject to possible interest
+charges if they are not collected within said period.
+The carrying amounts of receivables are denominated in euros, pounds sterling, zlotys and Swiss francs.
+37

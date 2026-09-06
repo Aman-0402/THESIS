@@ -1,0 +1,89 @@
+Nuestro desempeño y Nuestro modelo de Nuestra estrategia y modelo de
+Índice Carta del Presidente
+contribución en materia ESG negocio crecimiento sostenible
+Nuestro desempeño Nuestra gestión
+Taxonomía de la Unión Europea Acerca de este Informe Anexos
+financiero en 2023 responsable y sostenible
+La importancia de la ciberseguridad y II. Seguir incorporando a corto y medio plazo mejoras
+en redes y sistemas, tanto de proceso como de
+cómo ROVI le da respuesta
+negocio, que redunden en mejoras en cuanto a
+ROVI es consciente de la importancia de la ciberseguridad rendimiento y seguridad de los mismos
+en todos los ámbitos de la compañía. Esto se debe a la
+Identificación, cuantificación y gestión de
+creciente implantación de herramientas de colaboración, la
+digitalización de procesos operativos y a la puesta en riesgos y oportunidades del cambio
+práctica del teletrabajo en el ámbito empresarial. ROVI lleva
+climático
+años trabajando para minimizar los posibles riesgos
+derivados de estas actividades, monitorizando, evaluando y ROVI reconoce la importancia de informar a sus grupos de
+estableciendo medidas de prevención, así como protocolos interés sobre el impacto del cambio climático en la
+de actuación, con el fin de dar respuesta ante cualquier compañía y sobre las medidas establecidas para gestionar
+ciberataque. los riesgos y oportunidades asociados.
+En este sentido, la compañía cuenta con normas y Comenzando en 2022 y a lo largo del 2023, ROVI ha
+protocolos internos para el uso de los recursos TIC, del correo analizado su gestión del cambio climático mediante la
+electrónico y de la información confidencial, respaldados por identificación y cuantificación de sus riesgos y oportunidades
+un equipo de trabajo multidisciplinar compuesto por el siguiendo las recomendaciones del Task Force on Climate-
+Responsable de Seguridad IT, la Directora de Propiedad related Financial Disclosure (TCFD) en base a sus cuatro
+Industrial y la Directora de Cumplimiento. Dicho equipo es el pilares: Gobernanza, Gestión de Riesgos, Estrategia y
+responsable de supervisar la gestión efectiva y eficiente de Establecimiento de Métricas y Objetivos.
+los riesgos e incidentes en cuanto a seguridad de la
+información, así como de promover planes y políticas para I. Gobernanza
+salvaguardarla. De igual forma, se cuenta con un marco
+documental y procedimental conforme a la norma ROVI reconoce la gravedad de la amenaza que supone el
+ISO27000, que garantiza la seguridad de la información. calentamiento global y actualizó en 2020 su Política
+corporativa contra el cambio climático firmada por el
+ROVI cuenta con una Política de Seguridad de la
+Presidente de la Compañía. A través de la mencionada
+Información, que formaliza, orienta y amplía el alcance de
+política, la Compañía se compromete a promover una
+las actividades de ciberseguridad implantadas en la
+cultura corporativa orientada a fomentar la sensibilización
+Compañía. Su función principal es la de proteger a las
+de todos sus grupos de interés sobre la magnitud de este
+personas y a los activos tecnológicos y de información frente
+reto y los beneficios asociados a abordar su solución,
+a posibles daños, ciberataques y malas prácticas,
+identificando acciones concretas en el ámbito de la
+preservando y fomentando una cultura de seguridad que
+mitigación y de la adaptación contra el Cambio Climático.
+minimice los riesgos. La Dirección de ROVI impulsa esta
+En este sentido, ROVI ha identificado cuatro principios de
+Política de Seguridad dotando a la compañía de una
+actuación que guiarán la puesta en práctica de su
+estructura organizativa dedicada a la Seguridad de la
+compromiso por mitigar el Cambio climático: Reducción de
+Información, cuya misión es articular y promover medidas de
+las emisiones de gases de efecto invernadero, Reducción de
+protección de los pilares de la seguridad de la compañía
+las emisiones de gases de no efecto invernadero, Neutralidad
+para que sus bases se asienten en el raciocinio, la
+de carbono y fomento de las energías renovables (véase el
+animadversión al riesgo y el respeto al Código Ético y los
+apartado 6.3.5. Mitigación del Cambio Climático).
+objetivos empresariales.
+La aprobación y supervisión de los compromisos adquiridos
+Medidas adoptadas
+para minimizar los riesgos climáticos y su gestión es
+I. Securización de las redes IT/OT en toda la compañía competencia de Consejo de Administración el cual aprobó
+en diciembre de 2022 el Plan Director de ESG 2023-2025
+II. Establecimiento de tecnologías que alertan sobre
+que incluye KPIs orientados a la reducción de emisiones en
+comportamientos anómalos en nuestras redes y
+los tres alcances y compensación de emisiones que no sea
+sistemas IT/OT
+hayan podido evitar, así como el fomento del uso de
+III. Formación continua en materia de Ciberseguridad energías renovables.
+IV. Fortalecimiento del área de seguridad con la Oficina Por otra parte, el Comité de Sostenibilidad de ROVI, creado
+Técnica de Seguridad dependiente de IT en 2022, tiene entre sus funciones realizar el seguimiento de
+los objetivos contenidos en el Plan Director e informar al
+V. Realización de pruebas de penetración asiduos para
+menos una vez al año, a las Comisiones del Consejo con
+descubrir posibles puntos débiles en nuestra
+funciones en materia medioambiental y social sobre el
+infraestructura o sistemas
+grado de cumplimiento de los mismos, así como de
+Objetivos cualquier otro asunto en materia de cambio climático y
+sostenibilidad que se considere relevante.
+I. Certificación ISO27000
+Informe Integrado 2023 97

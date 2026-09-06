@@ -1,0 +1,32 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Financial Position at 31 December, 2020 and 2019
+(Thousands of euros)
+At 31 December
+Note 2020 2019
+NON-CURRENT ASSETS 141,497 138,744
+Intangible assets 5 37,487 41,587
+Property, plant and equipment 6 52,130 46,742
+Non-current investments in Group & associated companies 8 & 9 45,484 42,826
+Equity instruments 13,680 13,824
+Credits to Group companies 31 31,804 29,002
+Non-current financial investments 1,484 1,482
+Equity instruments 7 & 11 63 63
+Other financial assets 7 & 10 1,421 1,419
+Deferred tax assets 21 4,912 6,107
+CURRENT ASSETS 414,030 276,732
+Inventories 12 74,677 67,749
+Trade and other receivables 305,206 157,608
+Trade receivables for sales of goods and services 7 & 10 43,711 55,005
+Trade receivables, Group & associated companies 7 & 10 249,281 87,345
+Sundry debtors 7 & 10 75 73
+Current tax assets 23 8,342 10,089
+Other credits with public authorities 23 3,797 5,096
+Current investments in Group & associated companies 7 & 10 - 55
+Credits to companies - 55
+Current accruals and prepayments 3 3
+Cash and cash equivalents 7 & 13 34,144 51,317
+TOTAL ASSETS 555,527 415,476
+1

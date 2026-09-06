@@ -1,0 +1,32 @@
+5
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+We communicate with the audit committee of Laboratorios Farmacéuticos Rovi, S.A. regarding,
+among other matters, the planned scope and timing of the audit and significant audit findings,
+including any significant deficiencies in internal control that we identify during our audit.
+We also provide the entity's audit committee with a statement that we have complied with the
+ethical requirements regarding independence, and to communicate with them all matters that may
+reasonably be thought to bear on our independence, and where applicable, safeguarding measures
+adopted to eliminate or reduce the threat.
+From the matters communicated to the audit committee of the entity, we determine those that
+were of most significance in the audit of the annual accounts of the current period and which are
+therefore the key audit matters.
+We describe these matters in our auditor’s report unless law or regulation precludes public
+disclosure about the matter.
+REPORT ON OTHER LEGAL AND REGULATORY REQUIREMENTS
+European Single Electronic Format ________________________________________
+We have examined the digital file of Laboratorios Farmacéuticos Rovi, S.A. for 2024 in European
+Single Electronic Format (ESEF) comprising an XHTML file with the annual accounts for the
+aforementioned year, which will form part of the annual financial report.
+The Directors of Laboratorios Farmacéuticos Rovi, S.A. are responsible for the presentation of the
+2024 annual financial report in accordance with the format requirements stipulated in Commission
+Delegated Regulation (EU) 2019/815 of 17 December 2018 (hereinafter the “ESEF Regulation”). In
+this regard, they have incorporated the Annual Corporate Governance Report and the Annual Report
+on Directors’ Remuneration by means of a reference thereto in the directors’ report.
+Our responsibility consists of examining the digital file prepared by the Company’s Directors, in
+accordance with prevailing legislation regulating the audit of accounts in Spain. This legislation
+requires that we plan and perform our audit procedures to determine whether the content of the
+annual accounts included in the aforementioned digital file fully corresponds to the annual accounts
+we have audited, and whether the annual accounts have been formatted, in all material respects, in
+accordance with the requirements of the ESEF Regulation.
+In our opinion, the digital file examined fully corresponds to the audited annual accounts, and these
+are presented, in all material respects, in accordance with the requirements of the ESEF Regulation.

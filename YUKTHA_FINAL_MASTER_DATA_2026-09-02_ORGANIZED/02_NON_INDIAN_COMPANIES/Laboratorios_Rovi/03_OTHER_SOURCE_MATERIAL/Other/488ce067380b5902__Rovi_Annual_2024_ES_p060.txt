@@ -1,0 +1,46 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2024
+(Expresada en miles de euros)
+A 31 de diciembre de 2023 y 2024, la Sociedad no tiene contratados instrumentos financieros derivados.
+En 2024, se ha reconocido un impacto negativo por importe de 177 miles de euros por deterioro de las participaciones
+en las sociedades Bertex Pharma GmbH, Rovi Biotech sp.z.o.o y Rovi Biotech Gmbh, así como 94 miles de euros por el
+deterioro del crédito que la Sociedad tenía con Rovi Biotech sp.z.o.o, que ha sido mitigado parcialmente con el
+reconocimiento de un beneficio por venta de unas acciones a coste amortizado de 56 miles de de euros así como 25
+miles de euros de inversiones financieras. En 2023, el epígrafe de "Deterioro y resultado por enajenaciones de
+instrumentos financieros" se vio afectado principalmente por un impacto positivo de 1.797 miles de euros relacionados
+con la venta de la sociedad Enervit Nutrition,S.L participada hasta entonces al 50% por la Sociedad (Nota 9) y por un
+impacto negativo relacionado con la dotación del deterioro de las participaciones en las sociedades Bertex Pharma
+GmbH y Rovi Biotech sp.z.o.o.por un importe total de 784 miles de euros (Nota 8).
+Los ingresos financieros recibidos de empresas del grupo y asociadas corresponden a los dividendos percibidos de Rovi
+Pharma Industrial Services, S.A.U., de la que el Grupo participa. En el ejercicio 2024, se han recibido 63.550 miles de
+euros por dividendos (en 2023 no se recibieron ingresos por este concepto) los cuales se han compensado al cierre del
+ejercicio.
+En lo referente a los ingresos financieros de valores negociables y otros instrumentos financieros provenientes de
+terceros, a 31 de diciembre de 2024 la Sociedad reconoció un ingreso financiero de 200 miles de euros correspondiente
+a las liquidaciones de depósitos (512 miles de euros a 31 de diciembre de 2023).
+25. Flujos de efectivo de las actividades de explotación
+Miles de euros
+2024 2023
+Resultado del ejercicio antes de impuestos 73.859 10.111
+Ajustes del resultado:
+- Amortización del inmovilizado (Notas 5 y 6) 9.408 10.226
+- Ingresos financieros (Nota 24) (65.566) (1.423)
+- Gastos financieros (Nota 24) 5.043 2.205
+- Diferencias de cambio (Nota 24) (25) 104
+- Ajustes por cambios de valor de instrumentos financieros — (28)
+- Resultados por bajas y enajenaciones de instrumentos financieros 190 (1.097)
+- Variación neta de provisiones (Nota 20) 5.881 3.087
+- Subv. de inmovilizado no financiero e ingresos por licencias de distribución (1.205) (1.120)
+- Otros ingresos y gastos 1.655 2.681
+29.240 24.746
+Cambios en el capital corriente:
+- Existencias (12.246) 2.926
+- Deudores y otras cuentas a cobrar 6.277 (29.047)
+- Acreedores y otras cuentas a pagar 72.624 95.510
+66.655 69.389
+Otros flujos de efectivo de las actividades de explotación:
+- Cobros (pagos) por impuesto sobre beneficios (43.251) (40.186)
+- Otros Cobros (pagos) (Nota 19) 793 255
+(42.458) (39.931)
+Flujos de efectivo generados / (utilizados) de las actividades de explotación 53.437 54.204
+50

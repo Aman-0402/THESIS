@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+Land is not depreciated. Depreciation on other assets is calculated using the straight-line method to gradually reduce
+their acquisition costs to their residual values over their estimated useful lives:
+Buildings - 40 years
+Technical facilities and machinery – between 4 and 14 years
+Other facilities, fittings and equipment and furniture – between 5 and 10 years
+Other property, plant and equipment – between 4 and 5 years
+The assets’ residual values and useful lives are reviewed, and adjusted if appropriate, at the end of each reporting
+period. Property, plant and equipment in progress includes elements under adaptation, construction or assembly.
+Property, plant and equipment in progress is recognised at its acquisition cost and is not depreciated.
+An asset’s carrying amount is written down immediately to its recoverable amount if the asset’s carrying amount is
+greater than its estimated recoverable amount (Note 2.9).
+Gains and losses on disposals are measured by comparing proceeds with carrying amount and are recognised in profit
+and loss.
+2.7. Intangible assets
+(a) Patents and industrial property. Trademarks and licences
+Patents and industrial property and trademarks and licences bought from third parties are shown at historical cost. In
+general, they have a finite useful life and are carried at cost less accumulated amortisation. The amortisation of those
+with finite useful lives is calculated using the straight-line method to allocate the cost of these assets over their useful
+lives, which are estimated at between 10 and 15 years. Amortisable assets are tested for impairment whenever any
+event or change in circumstances indicates that their carrying amount may not be recoverable.
+There are trademarks and licences with indefinite useful lives, which are tested for impairment annually. An impairment
+loss is recognised when the asset’s carrying amount exceeds its recoverable value. The recoverable value is the higher
+of the asset’s fair value less costs to sell and its value in use. In order to assess impairment losses, assets are grouped
+at the lowest level for which there are separately identifiable cash inflows that are largely independent (cash-generating
+units). Previous impairment losses on non-financial assets (other than goodwill) are reviewed at each reporting date to
+see whether they can be reversed.
+Intangible assets in progress are shown at cost less impairment provision, if applicable.
+(b) Computer software
+Computer software maintenance costs are recognised as expenses when incurred. Development expenses directly
+attributable to designing and testing computer programmes that are identiable and unique and that may be controlled by
+the Group are recognised as intangible assets when the following conditions are met:
+• It is technically possible to complete the production of the intangible asset so it can be available for use or sale;
+• Management intends to complete the intangible asset to be used or sold;
+• The entity has the capacity to use or sell the intangible asset;
+16

@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Nivel Impacto/
+Real/ Horizonte
+cadena de Descripción IRO Riesgo/ Políticas relacionadas
+Potencial temporal
+valor Oportunidad
+Digitalización e Inteligencia Artificial
+Operaciones El uso de métodos basados en inteligencia artificial Oportunidad Potencial > 5 años
+propias por parte de ROVI podría facilitar el
+descubrimiento y el desarrollo de nuevos fármacos
+y la aceleración de procesos de investigación, entre
+otros aspectos, permitiendo el desarrollo de
+nuevos tratamientos de manera más eficiente y
+con menor coste.
+Operaciones La integración de la inteligencia artificial en la Oportunidad Potencial > 5 años
+propias fabricación de fármacos podría suponer la mejora
+en diagnósticos y tratamientos más • Política de Uso de los
+personalizados, el descubrimiento y el desarrollo Recursos TIC
+de nuevos fármacos, entre otros, optimizando los
+costes.
+Operaciones El desarrollo de medidas innovadoras, como el Oportunidad Potencial 1-5 años
+propias modelo Pharma 4.0, que integra el área de
+producción industrial con las tecnologías de la
+información y la comunicación, podría suponer
+una reducción de costes y un aumento del
+margen de ROVI.
+• Gestión de impactos, riesgos y oportunidades
+Políticas relacionadas con la digitalización y la Inteligencia Artificial
+En el presente requisito de divulgación se detallan las políticas relacionadas con la digitalización y la Inteligencia Artificial con
+las que cuenta el Grupo.
+• Política de Uso de los Recursos TIC: La presente política detalla las normas de uso y procedimientos que deben
+aplicarse en el uso de los recursos de tecnologías de la información y de comunicación. El objetivo de la misma es
+establecer las obligaciones de los usuarios en materia de seguridad y uso de los recursos TIC, teniendo en cuenta la
+normativa de Protección de Datos de Carácter Personal, la ciberseguridad, el artículo 20 del Estatuto de los
+Trabajadores de los sistemas informáticos y las obligaciones de control establecidas en el artículo 31 bis del Código
+Penal español.
+Adicionalmente, el Grupo cuenta desde 2025 con la certificación ISO 27001 para sus Sistemas y Servicios IT, Servicio
+ServiceDesk y Oficina de Ciberseguridad, que respalda la implementación, mantenimiento y mejora continua del
+Sistema de Gestión de la Seguridad de la Información de ROVI, garantizando la protección de la confidencialidad,
+integridad y disponibilidad de los datos.
+Para más información véase el requisito de divulgación “Políticas adoptadas para gestionar las cuestiones de
+sostenibilidad materiales (MDR-P)” de la NEIS 2.
+Actuaciones y recursos relacionados con la digitalización y la Inteligencia Artificial
+En el presente requisito de divulgación se detallan las actuaciones relacionadas con el uso de la digitalización y la Inteligencia
+Artificial, así como el enfoque de ROVI sobre la gestión de las oportunidades materiales identificadas.
+Estas actuaciones se desarrollan en torno a las siguientes áreas de la Compañía:
+Área de Sistemas de Información (IT)
+ROVI integra la digitalización a través de sus operaciones de IT. Tras la implantación en 2024 de la herramienta RoviQMS para
+la gestión documental y reducción del papel, durante 2025 se ha iniciado la implementación en dicha herramienta de nuevas
+funcionalidades orientadas a la gestión de eventos de calidad, como controles de cambio, registro de incidencias y CAPAs,
+entre otras. Esta mejora se acabará de implantar en todas las plantas del Grupo a lo largo del 2026.
+147

@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+Movement on deferred tax assets was as follows:
+Tax credits 30%
+Negative not yet amortisa.
+tax bases applied 13 & 14 Provisions Other Total
+At 1 January, 2019 3,354 10,175 1,028 242 1,237 16,036
+(Charged) / credited to the income statement 3,366 (1,533) (117) 117 (209) 1,624
+Derecognition due to monetization (Note 27) - (3,000) - - - (3,000)
+At 31 December, 2019 6,720 5,642 911 359 1,028 14,660
+(Charged) / credited to the income statement (2,755) (1,231) (117) 579 (31) (3,555)
+At 31 December, 2020 3,965 4,411 794 938 997 11,105
+The amounts for deferred tax assets shown in the “30% amortisation/depreciation 2013 & 2014” column relate to the tax
+effect of the 30% of the amortisation/depreciation charge for the period, which was not tax deductible in the years 2013
+and 2014, as established in Royal Decree-Law 16/2012 of 27 December, whereby various measures intended to
+consolidate public finance and stimulate economic activity were adopted.
+Movement on deferred tax liabilities was as follows:
+Freedom of
+amorisation Other Total
+At 1 January, 2019 611 632 1,243
+(Charged) / credited to the income statement (159) (6) (165)
+At 31 December, 2019 452 626 1,078
+(Charged) / credited to the income statement (149) - (149)
+At 31 December, 2020 303 626 929
+The deferred tax liabilities included as “freedom of amortisation/depreciation” refer to the application of the free
+amortisation/depreciation system associated to assets attached to R&D activity and to maintaining jobs.
+20. Contract liabilities
+Movement on contract liabilities in 2020 and 2019 was as follows:
+Distribution Other
+licenses contracts Total
+At 1January, 2019 6,622 800 7,422
+Additions 337 - 337
+Charged / (credited) to income statement (400) - (400)
+At 31 December, 2019 6,559 800 7,359
+Additions 1,253 33,446 34,699
+Charged / (credited) to income statement (944) (10,321) (11,265)
+At 31 December, 2020 6,868 23,925 30,793
+a) Distribution licences
+In 2020, new contract liabilities of 1,253 thousand euros (337 thousand euros in 2019) were recognised in relation to
+agreements granting distribution licences.
+53

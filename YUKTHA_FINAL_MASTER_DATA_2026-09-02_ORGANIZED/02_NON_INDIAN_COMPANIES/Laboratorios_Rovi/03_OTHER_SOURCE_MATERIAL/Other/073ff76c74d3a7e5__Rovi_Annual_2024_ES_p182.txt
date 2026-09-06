@@ -1,0 +1,40 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Informe de gestión consolidado 2024
+El beneficio bruto es un indicador que mide el beneficio directo que obtiene ROVI por la realización de sus actividades
+generadoras de ingresos.
+El beneficio bruto se calcula como el total ingresos menos el coste de ventas.
+• Margen bruto o % Beneficio bruto/ingresos operativos
+El margen bruto es un indicador porcentual que mide el beneficio directo que ROVI obtiene de sus ingresos.
+El margen bruto o % beneficio bruto/ingresos operativos se calcula como el porcentaje que supone el beneficio bruto entre el
+importe neto de la cifra de negocio (ingresos operativos).
+• Gastos de I+D
+Los gastos de I+D reflejan los gastos relacionados con la investigación científica y el desarrollo tecnológico realizados por
+ROVI.
+Los gastos de I+D se calculan como la suma de los gastos de personal y otros gastos de explotación afectos a actividades
+relacionadas con la investigación científica y el desarrollo tecnológico.
+• Gastos de ventas, generales y administrativos
+Los gastos de ventas, generales y administrativos reflejan los gastos relacionados con las operaciones internas generales y la
+gestión de la empresa.
+Los gastos de ventas, generales y administrativos se calculan como el importe de los gastos de personal más otros gastos de
+explotación más los trabajos efectuados por el grupo para activos no corrientes menos los gastos de I+D.
+• EBITDA
+El EBITDA (“Earnings Before Interest, Tax, Depreciation and Amortization”) es un indicador que mide el resultado de
+explotación antes de deducir los intereses, impuestos, deterioros y amortizaciones. Es utilizado por la Dirección para evaluar
+los resultados a lo largo del tiempo, siendo un indicador habitualmente utilizado en el análisis de compañías.
+El EBITDA se calcula como el resultado antes de: impuestos, resultado financiero, depreciaciones y amortizaciones.
+• Margen EBITDA o % EBITDA/ingresos operativos
+El margen EBITDA es un indicador porcentual que mide el resultado de explotación que ROVI obtiene de sus ingresos antes de
+deducir los intereses, impuestos, deterioros y amortizaciones.
+El margen EBITDA o % EBITDA/ ingresos operativos se calcula como el porcentaje que supone el EBITDA entre el importe
+neto de la cifra de negocio (ingresos operativos).
+• EBITDA “sin I+D”
+Esta APM es utilizada para mostrar el EBITDA proveniente del negocio principal y estable de ROVI.
+EBITDA “sin I+D” se calcula como el EBITDA excluyendo:
+– Gastos de investigación y desarrollo (“I+D”); y
+– Gastos/ingresos no recurrentes.
+• EBIT
+El EBIT (“Earnings Before Interest and Taxes") es un indicador que mide el resultado de explotación antes de deducir los
+intereses e impuestos. De igual manera que el EBITDA, es utilizado por la Dirección para evaluar los resultados a lo largo del
+tiempo.
+El EBIT se calcula como el resultado antes de: impuestos y resultado financiero.
+20

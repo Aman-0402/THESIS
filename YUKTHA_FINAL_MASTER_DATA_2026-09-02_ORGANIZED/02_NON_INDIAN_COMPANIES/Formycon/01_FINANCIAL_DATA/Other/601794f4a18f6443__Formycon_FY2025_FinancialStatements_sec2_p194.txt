@@ -1,0 +1,48 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 194
+Key financial details for the accounting of Bioeq AG
+in € thousand
+2025 2024
+Formycon share at year end 50% 50%
+Non-current assets 100,216 120,958
+Current assets 50,889 61,137
+Cash and cash equivalents 30,385 15,157
+Non-current financial liabilities -98,000 -128,000
+Other non-current liabilities -4,114 -1,267
+Current financial liabilities -3,117 -4,991
+Other current liabilities -25,238 -23,099
+Equity (100%) 51,021 39,895
+Formycon share of equity (50%) 25,511 19,948
+Hidden reserves revealed during initial re-
+cognition including Goodwill less accumu-
+lated depreciation and impairments 129,054 154,929
+Tax effect thereof -19,358 -23,007
+Book value at year end 135,207 151,870
+Revenue 72,726 108,286
+Depreciation & Amortization -20,711 -31,205
+Operating income (EBIT) 17,625 32,950
+Interest income 273 531
+Interest expense -3,140 -4,834
+Tax Expense -3,631 -4,578
+Profit (loss) for the period 11,127 24,174
+Formycon share (50%) of profit (loss) 5,564 12,087
+basis of current planning for the FYB201 project us- (previous year: 14.0%) before taxes, depending
+ing discounted cash flows. The Group’s planning is upon term and based upon the weighted average
+based upon analyses of the market for the original cost of capital (WACC) using historical industry
+product, internal information regarding potential weightings, with a possible cost of debt of 6.3%
+competitors, market analyses of biosimilar products (previous year: 5.8%) and a market risk premium of
+in general, and internal empirical values developed 5.75% (previous year: 7.25%). The recoverable
+together with the contractual partners for marketing amount determined in this way was
+the product. Assumptions were made with regard € 135,207 thousand and thus below the net book
+to the overall future market size, the market share value, meaning that it was necessary to record an
+for all biosimilars, the market share specifically for impairment in the amount of € 17,890 thousand.
+FYB201, and price reductions, which are then used
+as a basis for calculating expected future product Key financial details for the accounting of Bioeq AG
+sales. For the years 2026 to 2030, annual market at equity may be found in the above table. This in-
+sales of the product were thereby estimated be- cludes in the fiscal year € 298 thousand (previous
+tween € 136 and 158 million per year and reduced year: € -31 thousand) arising from the measurement
+in subsequent years by 3% per year, with these esti- of defined benefit obligations that have been rec-
+mates then used as a basis for the further calcula- orded directly in other comprehensoive income. In
+tions. The planning period ends in 2040, with no this presentation, adjustments to fair value at the
+further extrapolations beyond this point. In dis- time of acquisition and at the time of the impair-
+counting the future estimated cashflows from Bioeq ment testing as of December 31, 2025 have already
+AG, the Group applied discount rates of 8.3% been taken into account.

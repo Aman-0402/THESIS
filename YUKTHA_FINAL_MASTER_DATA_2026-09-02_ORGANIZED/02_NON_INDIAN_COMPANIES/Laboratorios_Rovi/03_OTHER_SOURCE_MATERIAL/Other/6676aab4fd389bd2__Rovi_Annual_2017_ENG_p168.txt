@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Measurements at market prices of the Group’s financial instruments recorded at fair value, the totality of which are
+classified as available for sale (Note 11), are classified at Level 1.
+The fair value of financial instruments traded in active markets (such as available-for-sale securities) is based on quoted
+market prices at the reporting date. The quoted market price used for financial assets held by the Group is the current bid
+price.
+The fair value of the reimbursable advances without a rate of interest or with a subsidized interest rate is determined by
+applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made and
+adding the spread normally applied in loans to the Group. For financial reporting purposes, fair value is calculated at the
+end of each reporting period by applying the interest rate curve in force at the end of each reporting period to the
+payments outstanding and adding the corresponding spread. For loans at variable rates of interest, fair value has been
+regarded as coinciding with the amount for which they are recognized (Note 18). Measurement of reimbursable
+advances without an interest rate at market price is classified as Level 2.
+4. Critical accounting estimates and judgements
+Critical accounting estimates and judgements are continuously assessed and are based on historical experience and
+other factors, including expectations of future events deemed reasonable under the circumstances.
+4.1. Critical estimates and assumptions
+The Group makes estimates and assumptions concerning the future. The resulting accounting estimates will, by
+definition, rarely equal the related actual results. The estimates and assumptions that have a significant risk of causing a
+material adjustment to the carrying amounts of assets and liabilities within the next reporting period are outlined below.
+Recoverability of intangible assets
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognized for an amount of 5,366
+thousand euros at 31 December, 2017 and 2016. Management reviews these assets for indications of impairment on an
+annual basis, although there has been none to date. The recoverable value, which was higher than the carrying amount
+at the end of both reporting periods, has been obtained by projecting the forecast cash flows for the following five years.
+Capitalization of development expenses
+The Group considers that its development project for a low-molecular-weight heparin, a biosimilar of enoxaparin, has met
+all the requirements mentioned in note 2.7.c) since last quarter of 2014, when an application was filed with the European
+health authorities to obtain authorization for the marketing of this biosimilar. Therefore, from that time until the effective
+comercialization in Europe of this biosimilar, all the expenses incurred in this project have been capitalized. These
+assets have a useful life of 20 years, which is consistent with the term of pharmaceutical product patents. ROVI
+considers that it will obtain a positive return on said development over that period.
+For the rest of the Research and Development projects that ROVI is conducting, the Group considers that the
+requirements established in the rules on capitalization of the associated development expenses have not yet been met.
+26

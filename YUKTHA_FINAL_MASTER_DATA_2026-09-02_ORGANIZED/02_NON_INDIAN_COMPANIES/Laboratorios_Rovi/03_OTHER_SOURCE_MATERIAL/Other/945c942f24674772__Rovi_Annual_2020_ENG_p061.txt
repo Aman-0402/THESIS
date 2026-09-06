@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+Finance income received from group and associated companies for a total of 31,151 thousand euros (17,008 thousand
+euros at 31 December, 2019) relates to dividends received from companies belonging to the ROVI Group, of which ROVI
+is the parent.
+25. Cash flows from operating activities
+Thousands of euros
+2020 2019
+Pre-tax profit for the year 75,216 25,712
+Adjustments to the profit:
+- Amortisation of intangible assets & property, plant & equipment (Notes 5 & 6) 9,710 9,331
+- Finance income (Note 24) (649) (82)
+- Finance costs (Note 24) 789 624
+- Adjustments for change in value of financial instruments 796 146
+- Gain or loss on derecognition of financial assets and liabilities 245 (305)
+- Net change in provisions 5,914 2,601
+- Grant for non-financial assets and distribution licence revenue (2,101) (1,608)
+- Other gains and losses (1,751) 1,445
+88,169 37,864
+Changes in working capital:
+- Inventories (5,165) (32,108)
+- Debtors and Other receivables (141,429) (99,066)
+- Creditors and other payables 76,961 70,968
+(69,633) (60,206)
+Other cash flows from operating activities:
+- Income tax received/(paid) (5,884) (8,087)
+- Other amounts received/(paid) (Note 19) 1,253 394
+(4,631) (7,693)
+Cash flows generated (used) in operating activities 13,905 (30,035)
+26. Cash flows from investing activities
+Thousands of euros
+2020 2019
+Payments for investments:
+- Group and associated companies (Note 8) - (775)
+- Intangible assets (Note 5) (159) (14,506)
+- Property, plant and equipment (Note 6) (10,915) (11,258)
+(11,074) (26,539)
+Amounts received for disinvestments:
+- Group and associated companies (Note 8) 144 -
+- Property, plant and equipment (Note 6) 20 75
+- Other assets (Note 24) 649 82
+813 157
+Cash flows generated (used) in investing activities (10,261) (26,382)
+52

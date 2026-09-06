@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS
+ROVI, S.A. AND SUBSIDIARIES AT 31 DECEMBER, 2017
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Thousands of euros)
+31 December,
+Note 2017 2016
+Cash flows from operating activities
+Profit before income tax 17,522 27,882
+Adjustments for non-monetary transactions
+Amortization 6 y 7 11,479 11,023
+Interest income 26 (93) (426)
+Impairment (1,437) 1,864
+Interest expense 26 1,013 915
+Net changes in provisions 630 381
+Grant on non-financial assets and income from distribution licences (2,012) (1,847)
+Profit from creation of joint venture - (3,997)
+Share of the profit of joint ventures 10 567 (71)
+Changes in working capital:
+Trade and other receivables 3,534 4,131
+Inventories (6,454) (4,940)
+Trade and other payables (6,910) 13,505
+Other collections and payments
+Proceeds from distribution licences 20 87 505
+Income tax cash flow 113 (3,399)
+Net cash generated (used) in operating activities 18,039 45,526
+Cash flows from investing activities
+Purchases of intangible assets 7 (5,012) (8,396)
+Purchases of property, plant and equipment 6 (14,932) (9,680)
+Proceeds from sale of property, plant and equipment 6 25 43
+Investment in a joint venture 10 - (3)
+Proceeds from sale of shares in joint venture 10 450 1,000
+Interest received 285 738
+Net cash flows generated (used) in investing activities (19,184) (16,298)
+Cash flows from financing activities
+Repayments of financial debt (13,084) (10,274)
+Proceeds from financial debt 18 22,350 797
+Interest paid (253) (230)
+Purchase of treasury shares 16 d) (532) (987)
+Reissue of treasury shares 16 d) 1,011 446
+Dividends paid 16 c) (9,025) (6,853)
+Net cash generated (used) in financing activities 467 (17,101)
+Net (decrease)/increase in cash and cash equivalents (678) 12,127
+Cash and cash equivalents at beginning of the year 9 y 14 41,378 29,251
+Cash and cash equivalents an end of the year 9 y 14 40,700 41,378
+Notes 1 to 34 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+6

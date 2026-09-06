@@ -1,0 +1,47 @@
+Pre-R&D/Flat R&D
+Reported Pre-R&D costs Flat R&D costs
+H1 H1 H1 H1 % H1 H1 %
+IN € MILLIONS 2024 2023 2024 2023 Growth 2024 2023 Growth
+Operating revenue(1) 329.3 380.8 329.3 380.8 -14 % 329.3 380.8 -14 %
+Other income(2) 0.2 0.2 0.2 0.2 19 % 0.2 0.2 19 %
+Total revenue(3) 329.5 381.0 329.5 381.0 -14 % 329.5 381.0 -14 %
+Cost of sales(4) (133.9) (165.3) (133.9) (165.3) -19 % (133.9) (165.3) -19 %
+Gross profit(5) 195.6 215.7 195.6 215.7 -9 % 195.6 215.7 -9 %
+% margin(11) 59.4 % 56.6 % 59.4 % 56.6 % 2.8 pp 59.4 % 56.6 % 2.8 pp
+R&D expenses(6) (12.2) (10.8) 0.0 0.0 n.a. (10.8) (10.8) n.a.
+SG&A(7) (113.5) (107.8) (113.5) (107.8) 5 % (113.5) (107.8) 5 %
+Share of profit in
+associates and joint (0.02) (0.01) (0.02) (0.01) 69 % (0.02) (0.01) 69 %
+ventures
+EBITDA(8) 69.9 97.1 82.1 107.9 -24 % 71.3 97.1 -27 %
+% margin(11) 21.2 % 25.5 % 24.9 % 28.3 % -3.4 pp 21.6 % 25.5 % -3.8 pp
+EBIT(9) 56.5 85.2 68.6 96.0 -29 % 57.8 85.2 -32 %
+% margin(11) 17.1 % 22.4 % 20.8 % 25.2 % -4.4 pp 17.6 % 22.4 % -4.8 pp
+Net profit(10) 44.3 66.6 54.0 75.0 -28 % 45.4 66.6 -32 %
+% margin(11) 13.5 % 17.5 % 16.4 % 19.7 % -3.3 pp 13.8 % 17.5 % -3.7 pp
+(1) Operating revenue refers to revenue.
+(2) Other income includes the recognition of government grants on non-financial non-current assets and other.
+(3) Total revenue calculated as revenue plus the recognition of government grants on non-financial non-current assets and other.
+(4) Cost of sales calculated as the amount of procurements plus that corresponding to the change in inventories of finished goods and work in progress
+and raw materials and consumables use.
+(5) Gross profit calculated as revenue plus the recognition of government grants on non-financial non-current assets and other less change in
+inventories of finished goods and work in progress and raw materials and consumables used.
+(6) R&D expenses are calculated as the sum of employee benefit expenses and other operating expenses related to scientific research and technological
+development.
+(7) SG&A calculated as the amount of employee benefit expenses plus other operating expenses plus work carried out by the Group on non-current
+assets minus research & development expenses.
+(8) EBITDA calculated as profit before interest, taxes, depreciation and amortization.
+(9) EBIT calculated as profit before taxes and interest.
+(10) Net profit refers to profit for the period.
+(11) The gross margin and the EBITDA, EBIT and net profit margins are calculated as the result of dividing the gross profit, the EBITDA, the EBIT and the
+net profit, respectively, by revenue, expressed as a percentage.
+DIVIDEND
+ROVI's General Shareholders Meeting, held on 24 June 2024, approved the payment of a
+gross dividend of 1.1037 per share. This represents approximately 35% of the 2023
+consolidated net profit attributed to the parent company, broken down as follows:
+• Application of profit: the entire profit of Laboratorios Farmacéuticos ROVI, S.A. for
+2023, 12,071,013.68 euros, was applied to the dividend distribution; and
+• Additionally, a further 47,546,618.80 euros was distributed as dividends charged to
+the freely-available reserves accounted for as “Retained earnings”.
+This dividend was paid on 10 July 2024.
+17

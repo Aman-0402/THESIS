@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+Details of non-reimbursable capital grants shown on the statement of financial position under the caption “Grants, donations
+and legacies received”, not including the tax effect, are as follows:
+Thousand
+Awarding entity euros Purpose Date granted
+(1) Andalusian Autonomous Govt. 1,744 Construction of Granada plant (Note 6.d) 2008
+(2) Andalusian Autonomous Govt. 645 Construction bemiparin lines Granada 2012 & 2014
+Miscellaneous govt. entities 426 Miscellaneous projects 2001 onward
+2,815
+(1) Non-reimbursable grant granted by the Andalusian Innovation and Development Agency (Innovation, Science and
+Enterprise Department) for 5,431 thousand euros. This grant was received in November 2008 and recognition in
+profit and loss commenced in 2009, when the assets for which it was granted began to be depreciated. The
+amount recognised for this grant under the caption “Grants, donations and legacies received” at 31 December,
+2021 was 1,744 thousand euros (2,039 thousand euros at 31 December, 2020).
+(2) Relates to two non-reimbursable grants granted by the Andalusian Innovation and Development Agency in the
+years 2012 and 2014 for construction of two new bemiparin lines at the Granada plant. The first of them, for 585
+thousand euros, began to be recognised in profit and loss in 2013 and the amount recognised under the “Grants,
+donations and legacies received” caption at 31 December, 2021 was 32 thousand euros (93 thousand euros at
+31 December, 2020). The second of the grants, for a total amount of 1,171 thousand euros, began to be
+recognised in profit and loss in May 2015 and, at the 2021 reporting date, showed a balance of 613 thousand
+euros under the “Grants, donations and legacies received” caption (697 thousand euros at 31 December, 2020).
+18. Financial liabilities
+Thousand euros
+2021 2020
+Non-current financial liabilities at amortised cost
+- Bank borrowings (a) 44,107 44,825
+- Debt with government entities (b) 8,191 8,822
+52,298 53,647
+Current financial liabilities at amortised cost
+- Bank borrowings (a) 714 175
+- Debt with government entities (b) 2,159 1,767
+- Current debt with group and associated companies (Note 31 i) 290 184
+- Trade payables 48,454 30,756
+- Trade payables, related parties (Note 31 i) 10,596 105,992
+- Sundry creditors 3,713 371
+- Employees 2,833 2,438
+68,759 142,608
+Current financial liabilities at amortised cost
+- Financial derivatives 17 925
+17 925
+68,776 142,608
+121,074 196,255
+40

@@ -1,0 +1,51 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+Scopes 1 and 2 biogenic GHG emissions
+Regarding Scopes 1 and 2 biogenic emissions, ROVI confirms that it does not generate such emissions.
+GHG intensity based on net revenue
+2024
+Total location-based emissions
+12.10
+(tCO2e) / net revenue*
+Total market -based emissions(tCO2e) /
+0.05
+net revenue*
+“ The net revenue figure can be consulted in Note 22 to the Group’s Annual Accounts.
+To calculate the tonnes of CO eq. emitted into the air, the emission factors provided by the Ministry for the Ecological Transition
+2
+and the Demographic Challenge for electricity, natural gas and diesel oil published in 2024, DEFRA 2024, Catalan Climate
+Change Office 2024 and SimaPRO were used.
+Regarding the methodology and assumptions used, the Group follows a procedure structured to consolidate and assess GHG
+emission.
+– Limits of the organisation: the GHG emissions are consolidated using the control approach, recording 100% of the
+emissions from the operations controlled directly by ROVI. This calculation includes categories 1, 2, 3 and 4:
+– Category 1: consumption in stationary installations (natural gas and diesel oil), fluorated gas leaks/refills and
+the vehicle fleet controlled by ROVI.
+– Category 2: Category 2: electricity consumption.
+– Category 3: internal/external mobility (upstream and downstream) and waste transportation.
+– Category 4: consumption of raw materials and overnight stays.
+– Direct GHG emissions and removals: direct emissions of CO , CH , N O , NF , SF and other GHG (HFC, PFC) are
+2 4 2 3 3 6
+quantified separately in tonnes of CO eq. Currently, no GHG removals are recorded.
+2
+– Indirect GHG emissions: the assessment of significant indirect GHG emissions follows Annex H of ISO 14064-1 2019,
+considering five qualitative criteria:
+– Level of influence: ability to measure and reduce emissions of this category.
+– Risk or opportunity: impacts on regulations, reputation or access to markets.
+– Utility for users: facilitates reliable decisions for the intended users.
+– Absence of uncertainty: traceable and accurate date for calculations.
+– Essential activity: associated to outsourced core business activities.
+Regarding the assessment methodology, compliance with the above five criteria is verified and, if at least three are favourable,
+the last criterion, the quantitative magnitude, is analysed, determining whether the category represents a significant weight in
+the total carbon footprint. In this respect, indirect emissions whose estimated value exceeds 5% of the total (direct and indirect)
+are included in the inventory and said phase defines the final list of indirect GHG emission sources. For the calculation process,
+ROVI combines the Company’s activity data with the emission factors obtained for relevant official sources each year. This
+results of this calculation are expressed in tonnes of CO equivalent (CO eq).
+2 2
+◦ Disclosure Requirement E1-7: GHG removals and GHG mitigation projects financed
+through carbon credits
+The objective of this Disclosure Requirement is to enable an understanding of the actions taken by ROVI to mitigate GHG
+emissions into the atmosphere through projects financed by carbon credits.
+In 2024, ROVI carried out two national and international CO offset projects.
+2
+77

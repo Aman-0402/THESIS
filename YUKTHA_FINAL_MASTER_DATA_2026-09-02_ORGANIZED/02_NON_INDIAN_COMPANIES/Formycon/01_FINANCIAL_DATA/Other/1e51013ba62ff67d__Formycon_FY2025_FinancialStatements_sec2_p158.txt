@@ -1,0 +1,56 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 158
+Assumptions have been made in measuring fair val- These Financial Statements have been prepared
+ues in the following cases: based on the principle of historical cost. Exceptions
+to this are the valuations of the contingent consid-
+— Valuation of conditional purchase price pay- eration component of the Athos transaction, the
+ments in determining and allocating the pur- valuation of derivatives and of obligations arising
+chase price (see Note 26), from cash-settled share-based compensation ar-
+rangements, which have both been carried out at
+fair value. Equity-settled share-based payment ar-
+— Valuation of obligations arising from share set-
+rangements granted to employees are likewise
+tled as well as cash-settled share-based com-
+measured at fair value as of the grant date.
+pensation arrangements (see Note 14),
+In their preparation, and for all periods therein, the
+— Impairment testing of unfinished internally gen-
+Group has, unless otherwise stated, consistently
+erated intangible assets and Goodwill (see
+applied the following accounting policies.
+Note 18), and
+Consolidation principles
+— Impairment testing of financial assets (see Note
+19).
+Subsidiaries
+5. Group structure Subsidiaries are companies under the Group’s con-
+trol. The Group controls an entity when it is ex-
+As of December 31, 2025 the Formycon Group posed, or has rights, to variable returns from its in-
+comprises Formycon AG, which, as the ultimate volvement with the entity and has the ability to af-
+parent company, constitutes both the largest and fect those returns through its power over the entity.
+smallest scope of consolidation, and the following The financial statements of subsidiaries are consoli-
+fully consolidated companies. All companies are dated into these Financial Statements from the date
+100% owned subsidiaries of Formycon AG: control begins until the date such control ends.
+— Formycon Project 201 GmbH Loss of control
+(Martinsried-Planegg, Germany)
+If the Group loses control of a subsidiary, it derec-
+ognizes the assets and liabilities of the subsidiary
+— FYB202 Project GmbH from its consolidated statement of financial position
+(Martinsried-Planegg, Germany)
+(balance sheet), along with any related non-control-
+ling interests or other equity components. Any re-
+— Formycon Project 203 GmbH sulting gain or loss is recognized in profit or loss. If
+(Martinsried-Planegg, Germany) an interest in the former subsidiary is retained, it is
+measured at fair value as of the date control over
+Clinical Research GmbH, Holzkirchen, was merged the subsidiary is lost.
+with Formycon AG in fiscal year 2025.
+Financial assets accounted for using the equity
+method
+Furthermore, Bioeq AG (Zug, Switzerland), which is
+under joint control, is included in the Financial The Group’s financial assets (investments) ac-
+Statements of Formycon AG using the equity counted for using the equity method include a
+method. shareholding in a joint venture. A joint venture is an
+arrangement in which the Group has joint control,
+6. Accounting and valuation methods whereby the Group has rights to the net assets of
+the arrangement, rather than rights to its assets and
+Basis of valuations
+obligations for its liabilities.

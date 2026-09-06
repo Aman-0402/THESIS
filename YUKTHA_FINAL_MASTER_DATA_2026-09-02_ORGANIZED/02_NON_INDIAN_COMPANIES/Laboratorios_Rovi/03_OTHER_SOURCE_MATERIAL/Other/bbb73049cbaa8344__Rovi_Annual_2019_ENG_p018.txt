@@ -1,0 +1,37 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+b.3) Deferred tax assets
+The Company recognises deferred tax assets and tax credits when it is likely that they will materialise in lower income
+tax payments in the future.
+In order to determine the maximum amount that can be recognised by the Company in relation to the future tax effect of
+these items, Management recognises only items where, after analysis, there is certainty that said tax effect will occur and
+of the accuracy of the amount involved.
+Although the estimates were made using the best information available on the events analysed at 31 December, 2019, it
+is possible that future events might make it necessary to change them (upwards or downwards) over forthcoming years,
+prospectively recognising the effect of the change in estimate in the relevant account of the consolidated income
+statement. Based on analyses performed by the Company, a change in assumptions would not have a significant effect
+on the periods over which said assets could be recovered.
+c) Grouping of items
+In order to facilitate an understanding of the statement of financial position, income statement, statement of changes in
+equity and statement of cash flows, the items on these statements are presented in groups and the required analyses
+are included in the relevant Notes to the Annual Accounts.
+3. Accounting policies
+3.1 Intangible assets
+a) Research and development expenses
+Research expenditure is recognised as an expense when incurred, while the development costs incurred in a project are
+recognised as intangible assets when the following requirements are met:
+- the project is viable from a technical and commercial point of view,
+- sufficient technical and financial resources are available to complete it,
+- the costs incurred can be determined reliably, and
+- profits are likely to be generated.
+The Company considers that, in the case of the development of pharmaceutical products, the aforementioned
+requirements are met when the drugs have been approved for marketing by the health authorities in the case of new
+products developed under patent, or, in the case of biosimilars or generics, when the application for marketing
+authorisation is filed.
+When the carrying amount of an asset is higher than its recoverable amount, its value is immediately written down to the
+recoverable amount.
+9

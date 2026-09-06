@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+27. Cash flows from financing activities
+Thousand euros
+2024 2023
+Amounts received from and paid for financial liability instruments
+a) Issue
+– Debt with group and associated companies 34,083 19,800
+– Other debt (Note 18) 4,052 734
+131,035 20,534
+b) Reimbursement and repayment
+– Bank borrowings (43,788) (6,429)
+– Debt with group and associated companies (1,555) (19,650)
+– Other debt (1,535) (1,908)
+– Interest payments (1,770) (386)
+(48,648) (28,373)
+Dividend payments and remuneration of other equity instruments
+– Dividends (Note 15.b and d) (56,451) (69,049)
+– Transactions with treasury shares (Note 15.c) (47,787) (81,261)
+(104,238) (150,310)
+Cash flows generated (used) in financing activities (21,851) (158,149)
+28. Contingencies
+At 31 December 2024, the Company held bank guarantees amounting to 2,776 thousand euros (2,791 thousand euros in
+2023). These guarantees were granted principally to enable group companies to participate in public tenders and to
+receive grants and reimbursable advances.
+29. Commitments
+a) Operating lease commitments
+The minimum future payments under non-cancellable operating leases at 31 December 2024 were 2,771 thousand euros
+(4,975 thousand euros at 31 December 2023), 2,355 thousand euros of which related to payments due at less than one
+year (3,266 thousand euros at less than one year at 31 December 2023). (Nota 22.f)
+The operating lease expense recognised in profit and loss in 2024 was 3,559 thousand euros (3,319 thousand euros in
+2023).
+b) Acquisition of Bertex Pharma GmbH
+Future payment commitments derive from the agreement to purchase assets through the acquisition of the company
+Bertex Pharma GmbH that took place in 2007. The purchase agreement fixes a variable component that will depend
+upon the successful completion of clinical trials for the development of products and the subsequent marketing.
+b.1) If the development and marketing are performed internally:
+– 350 thousand euros after successfully completing the development of phase 1 clinical trials. Part of this amount,
+100 thousand euros, was settled in 2011, while 250 thousand euros were settled in 2014;
+– A payment of 200 thousand euros after successfully completing the development of phase 2 clinical trials. This
+payment was made in 2016;
+– A payment of 300 thousand euros after successfully completing the development of clinical trials of phase 3. This
+payment was made in 2020;
+– A payment of 200 thousand euros upon commencement of the marketing of any pharmaceutical product. This
+payment was made in 2022.
+50

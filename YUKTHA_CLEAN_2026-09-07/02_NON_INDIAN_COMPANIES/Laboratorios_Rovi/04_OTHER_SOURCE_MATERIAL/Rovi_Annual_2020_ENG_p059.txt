@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+At 31 December, 2019, the reconciliation between the net income and expenses for the period and the tax profit was as
+follows:
+Thousands of euros
+Income and expenses
+Income statement credited/(charged) directly in equity
+Balance income & expenses 25.553 (378)
+Increases Decreases Total Increases Decreases Total
+Income tax 159 (127)
+Permanent differences
+- Individual 810 - 810 - - -
+- Due to tax consolidation - (17,008) (17,008) - - -
+Temporary differences:
+- Individual
+- originating in the period 1,633 - 1,633 - - -
+- originating in previous periods 325 (1,240) (915) - - -
+- Due to tax consolidation
+- originating in the period - (4,266) (4,266) - - -
+- originating in previous periods 2,074 - 2,074 - - -
+Taxable income 8,040 (505)
+Individual permanent differences relate to non-tax deductible expenses and the transfer of intangible assets.
+Permanent differences due to consolidation relate solely to eliminations resulting from the distribution of dividends
+among companies belonging to the tax group.
+Individual temporary differences relate to application of freedom of amortisation/depreciation associated to the assets
+attached to the R&D activity, expenses recognised in the accounts but temporarily non-deductible, and the free
+amortization/depreciation associated to maintaining jobs.
+Temporary differences due to consolidation relate to eliminations and additions resulting from transactions between
+companies belonging to the tax group.
+Corporate income tax expense comprises:
+Thousands of euros
+2020 2019
+Current tax (9,045) (2,216)
+Tax credits 8,254 4,307
+Deferred tax (3,662) (2,110)
+Adjustment income tax previous years 374 (140)
+(4,079) (159)
+Current corporate income tax is the result of applying a tax rate of 25% to the taxable income.
+The Company generated tax credits of 4,367 thousand euros in 2020 (3,508 thousand euros in 2019) and likewise was
+entitled to offset tax credits of 7,506 thousand euros from previous years (5,633 thousand euros at 31 December, 2019).
+In 2020, tax credits of 8,254 thousand euros were applied (4,307 thousand euros in 2019) and there were further
+unrecognised R&D tax credits of 3,619 thousand euros pending application in future years (4,833 thousand euros at 31
+December, 2019). At 31 December, 2020 and 2019, the Company had recognised in its assets the total tax credits not
+yet applied that are expected to be recovered in a maximum period of three years (Note 21).
+50

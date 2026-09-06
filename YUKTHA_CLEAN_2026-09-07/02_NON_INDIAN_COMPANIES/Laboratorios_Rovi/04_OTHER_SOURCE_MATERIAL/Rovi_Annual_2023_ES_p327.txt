@@ -1,0 +1,52 @@
+Nuestro desempeño y Nuestro modelo de Nuestra estrategia y modelo de
+Índice Carta del Presidente
+contribución en materia ESG negocio crecimiento sostenible
+Nuestro desempeño Nuestra gestión
+Taxonomía de la Unión Europea Acerca de este Informe Anexos
+financiero en 2023 responsable y sostenible
+Medidas de eficiencia energética
+Planta: Alcalá de Henares
+I. Sustitución de Luminarias LED en varios puntos de la Planta.
+II. Monitorización del tanque de revaporización de condensados y automatización de calderas.
+III. Instalación de contadores de agua para monitorizar el consumo y determinar la capacidad de la caldera de vapor, con el fin de generar
+agua caliente de manera más eficiente que con el intercambiador de calor existente.
+IV. Instalación de contadores e implementación de una plataforma para la monitorización de los consumos de las nuevas áreas del Edificio 2,
+F5 y U-700.
+Planta: Granada
+I. Trabajar en campañas de sensibilización para promover la mejora continua en el desempeño energético.
+II. Implementación de mejoras en el aislamiento de todo el sistema de válvulas y elementos de control de la red de vapor y condensados.
+III. Instalación de vinilos solares en cristaleras del edificio con el fin de suavizar la temperatura de las oficinas, reduciendo el gasto energético
+de climatización.
+IV. Reducción de consumo energético en la parada temporal de la línea A mediante.
+• Parada de la Unidad de Tratamiento de Aire 7
+• Ajuste los caudales de aire de la Unidad de Tratamiento de Aire 6
+• Apagado de las luminarias de la sala
+• Disminución del consumo de vapor industrial de aquellos equipos que no requieran vapor durante la parada temporal
+V. Ajustar el modo de funcionamiento de la secadora de adsorción del aire comprimido de acuerdo con las necesidades de producción y la
+eficiencia energética del equipo.
+Planta: Julián Camarillo (Madrid)
+I. Monitorización y análisis de datos de consumos energéticos a través de la Plataforma de Monitorización y Facturas.
+II. Implantación de modelos predictivos de regresión del consumo energético a partir de variables como: volumen de producción, número de
+ciclos de autoclavado, horas trabajadas, temperatura, días de refrigeración y calefacción.
+III. Instalación de nuevos puntos de monitorización para un mayor control de los consumos de la planta.
+IV. Sustitución y optimización de luminarias LED de las oficinas de Supply Chain del edificio C y en las salas técnicas del edificio A.
+V. Instalación de luminarias exteriores tipo LED con sensor de presencia.
+VI. Sustitución de las electroválvulas neumáticas de las calderas de vapor.
+VII. Programación automática de diferentes unidades de tratamiento de aire del edificio D durante los fines de semana,.
+VIII. Revisión externa de purgadores del sistema de vapor de planta.
+IX. Encamisado de válvulas y filtros en la sala de aguas del edificio A para evitar pérdidas de calor.
+X. Instalación del depósito de inercia para reducir el número de arranques y paradas de las enfriadoras del edificio E.
+XI. Aislamiento térmico de válvulas y tuberías en las zonas técnicas.
+XII. Monitorización para regular la temperatura en zonas de oficina conforme al RD 14/2022.
+La planta de Julián Camarillo ha obtenido en 2023 la etiqueta de certificación energética en los edificios de oficinas (Edificio B y H) de acuerdo
+con RD 390/2021.
+Planta: San Sebastián de los Reyes (Madrid)
+I. Monitorización y análisis de datos consumos energéticos a través de la plataforma de monitorización y facturas.
+II. Monitorización de nuevos equipos de consumo eléctrico, de vapor y de agua en el Nuevo Edificio L.,
+III. Sustitución de luminarias LED en los edificios A, D y F.
+IV. Reparación de purgadores de vapor.
+V. Instalación de camisas aislantes en las válvulas de vapor.
+VI. Instalación de depósitos de recuperación de condensados en los edificios A y L.
+VII. Sistema de Recirculación agua en Autoclave en las líneas de envasado DARA 1, 2 y 3.
+VIII. Sustitución de intercambiador de calor HVAC P1.
+Informe Integrado 2023 157

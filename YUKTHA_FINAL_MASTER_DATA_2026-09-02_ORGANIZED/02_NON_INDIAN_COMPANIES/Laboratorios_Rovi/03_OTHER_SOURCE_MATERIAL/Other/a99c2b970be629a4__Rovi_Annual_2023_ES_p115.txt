@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+b) Riesgo de crédito
+El riesgo de crédito se gestiona por grupos. El riesgo de crédito surge de efectivo y equivalentes de efectivo, depósitos con
+bancos e instituciones financieras, deuda considerada valores de renta variable y clientes.
+De acuerdo con la evaluación del riesgo de crédito relativo a las cuentas a cobrar, el Grupo evalúa periódicamente su cartera
+de clientes considerando dos bloques: públicos y no públicos; los clientes públicos se definen como todos aquellos que se
+corresponden con organismos públicos sobre los que, según su naturaleza, se considera que existe un riesgo de crédito bajo.
+La mayoría de estos clientes se concentran en el sector salud y se corresponden con hospitales y clínicas médicas en los
+cuales las operaciones se encuentran reguladas legalmente. Por otro lado, en cuanto a los clientes no públicos, el Grupo
+incluye dentro de esta categoría todos aquellos clientes privados tales como mayoristas, clientes de fabricación u otras
+compañías farmacéuticas los cuales se valoran en base a la antigüedad de su deuda, su posición financiera y su rating
+crediticio (en caso de estar este último disponible).
+Los contratos que suscribe el Grupo con sus clientes tienen una duración media de entre 3 y 5 años, lo que permite generar un
+flujo estable y notable de ingresos. Asimismo, debido a la calidad crediticia de los clientes privados así como a los sistemas
+internos del Grupo y los periodos de cobro establecidos, no ha habido ningún impacto significativo para el Grupo en los
+ejercicio 2023 y 2022.
+Los bancos e instituciones financieras con las que trabaja el Grupo poseen en general calificaciones independientes. Si a los
+clientes se les ha calificado de forma independiente se utilizan dichas calificaciones. En caso contrario, el Grupo realiza una
+evaluación de este riesgo teniendo en cuenta la posición financiera del cliente, la experiencia pasada y otra serie de factores.
+En los casos en que no exista duda sobre la solvencia financiera del cliente se opta por no establecer límites de crédito.
+A 31 de diciembre de 2023 la mayor inversión en activos financieros, incluyendo efectivo y equivalentes al efectivo y sin tener
+en cuenta clientes, está relacionada con la entidad BBVA, 16.381 miles de euros (63.562 miles de euros a 31 de diciembre de
+2022 con el BBVA). En el epígrafe de clientes y otras cuentas a cobrar, una parte significativa es a cobrar a organismos
+oficiales que por su naturaleza y por la información disponible hasta la actualidad, la Dirección considera que no tienen riesgo
+de crédito (Nota 13).
+c) Riesgo de liquidez
+La dirección realiza un seguimiento periódico de las previsiones de liquidez del Grupo en función de los flujos de efectivo
+esperados, de forma que siempre exista suficiente efectivo y valores negociables para hacer frente a sus necesidades de
+liquidez.
+La tabla que se muestra a continuación presenta un análisis de los pasivos financieros del Grupo agrupados por vencimientos
+de acuerdo con los plazos pendientes a la fecha de balance hasta la fecha de vencimiento estipulada en el contrato, incluyendo
+los correspondientes intereses. Los importes que se muestran en la tabla corresponden a los flujos de efectivo estipulados en
+el contrato, sin descontar. Al tratarse de cantidades no descontadas, y que incluyen intereses futuros, no pueden ser cruzados
+con los importes reconocidos en balance en concepto de deuda financiera y proveedores y otras cuentas a pagar.
+Menos de Entre 1 y 2 Entre 2 y 5 Más de 5
+Al 31 de diciembre de 2023 un año años años años
+Deudas con entidades de crédito (Nota 18) 6.647 13.178 18.583 —
+Deudas con organismos oficiales (Nota 18) 1.565 3.277 3.188 1.309
+Proveedores (Nota 17) 107.593 — — —
+Pasivos financieros por arrendamiento (Nota 18) 5.728 8.500 5.956 —
+Otras cuentas a pagar (Nota 17) 34.302 — — —
+155.835 24.955 27.727 1.309
+Menos de Entre 1 y 2 Entre 2 y 5 Más de 5
+Al 31 de diciembre de 2022 un año años años años
+Deudas con entidades de crédito (Nota 18) 6.686 13.256 19.414 5.739
+Deudas con organismos oficiales (Nota 18) 1.810 3.305 4.088 1.690
+Proveedores (Nota 17) 128.484 — — —
+Pasivos financieros por arrendamiento (Nota 18) 4.875 6.289 7.910 —
+Otras cuentas a pagar (Nota 17) 37.292 — — —
+179.147 22.850 31.412 7.429
+24

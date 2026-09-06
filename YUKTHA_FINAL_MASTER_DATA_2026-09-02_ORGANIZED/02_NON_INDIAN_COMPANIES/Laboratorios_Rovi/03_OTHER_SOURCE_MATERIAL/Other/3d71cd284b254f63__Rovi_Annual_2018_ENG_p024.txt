@@ -1,0 +1,38 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+b) Financial liabilities held for trading and other financial liabilities held at fair value through profit and loss
+Financial liabilities held at fair value through profit and loss are those held for trading that are issued with the intention of
+reacquiring them in the short term or those that form part of a portfolio of identified financial instruments managed overall
+to obtain short-term gains, together with financial liabilities that the Company designates to be included in this category
+upon initial recognition because this provides more relevant information.
+These financial liabilities are measured, both initially and in subsequent measurements, at their fair value, recognising
+any changes in profit and loss for the period.
+Transaction costs directly allocable to issuance are recognised in profit and loss in the period in which they arise.
+3.9 Grants received
+Reimbursable grants are recognised as liabilities until they meet the conditions not to be considered non-reimbursable,
+while non-reimbursable grants are recognised as income directly in the equity on a systematic and rational basis in
+correlation with the expenses derived from the grant.
+In this respect, a grant is considered non-reimbursable when there is an individual decision to award the grant, all the
+conditions fixed for awarding it have been met and there is no reasonable doubt that it will be received.
+Monetary grants are recognised at the fair value of the amount awarded and non-monetary grants at the fair value of the
+item received. In both cases, the values refer to the time of recognition.
+Non-reimbursable grants related to the acquisition of intangible assets, property, plant and equipment and real estate
+investments are allocated as income for the period in proportion to the amortisation or depreciation of the related assets
+or, if applicable, when the assets are disposed of, there is a value adjustment for impairment or they are derecognised in
+the statement of financial position. Non-reimbursable grants related to specific expenses are recognised in profit and loss
+in the same period as the related expenses are accrued, while those awarded to offset an operating deficit are
+recognised in the period in which they are granted, except when they are intended to offset operating deficits in future
+periods, in which case they will be allocated to the period in question.
+3.10 Current and deferred taxes
+The income tax charged (credited) is the amount accrued in the year for this item comprising both current and deferred
+income tax charged (credited).
+Both the current and deferred income tax charged (credited) is recognised in profit and loss. Notwithstanding, the tax
+effect related to items recorded directly in the equity is recognised in equity.
+Current income tax assets and liabilities will be measured at the amounts it is expected to pay to or recover from the tax
+authorities in accordance with current legislation or legislation that has been approved but not yet published at the end of
+the reporting period.
+15

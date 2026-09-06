@@ -1,0 +1,37 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+Each segment’s sales to external customers up to 30 June 2024:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 247,723 210,483 — 458,206
+Inter-segment revenues (128,870) — — (128,870)
+Revenues from external customers (Note 20) 118,853 210,483 — 329,336
+Sales to external customers are broken down by product type and geographical area in Note 20.
+The breakdown of assets and liabilities by segment at 30 June 2025 was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 825,962 534,870 5,932 1,366,764
+Of which:
+Investments in group companies — 33,619 — 33,619
+Increases in non-current non-financial assets 19,578 1,930 — 21,508
+Total liabilities (203,640) (525,939) (5,950) (735,529)
+The breakdown of assets and liabilities by segment at 31 December 2024 was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 789,545 483,188 2,162 1,274,895
+Of which:
+Investments in group companies — 32,050 — 32,050
+Increases in non-current non-financial assets 59,442 6,128 — 65,570
+Total liabilities (193,130) (445,233) (1,954) (640,317)
+The assets of the aggregated segments at 30 June 2025 can be reconciled with the total consolidated assets as follows:
+Intercompany Group Consolidated
+Manufacturing Marketing Other balances investments total
+Total assets 825,962 534,870 5,932 (463,540) (33,619) 869,605
+The assets of the aggregated segments at 30 June 2024 can be reconciled with the total consolidated assets as follows:
+Intercompany Group Consolidated
+Manufacturing Marketing Other balances investments total
+Total assets 789,545 483,188 2,162 (410,823) (32,050) 832,022
+13

@@ -1,0 +1,38 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+27. Finance income/costs
+2024 2023
+Interest income 26 7
+Other finance income 233 1,497
+Total finance income 259 1,504
+Interest paid (1,988) (667)
+Other finance costs (362) (281)
+Total finance costs (2,350) (948)
+Proceeds on disposal of financial instruments 81 (219)
+Change in fair value of financial instruments — 28
+Impairment and gain/(loss) on measurement of financial instruments 81 (191)
+Exchange differences 296 (86)
+296 (86)
+Net finance income/(costs) (1,714) 279
+The caption “Other finance costs” shows the finance costs derived from application of IFRS 16 “Leases” (Note 2.2.a).
+At 31 December 2023, the Group recognised a cost of 301 thousand euros on the sale of the company Enervit Nutrition, S.L.,
+50% held by Laboratorios Farmacéuticos Rovi, S.A. (Note 10) and sale of the shares the Group held in BBVA (Note 11). These
+amounts are included under the caption “Impairment and gain/(loss) on measurement of financial instruments”.
+28. Income tax
+In 2024 and 2023, the corporate income tax return was submitted jointly for the following group companies, the company
+Laboratorios Farmacéuticos Rovi, S.A. being the parent of tax group 362/07:
+– Rovi Pharma Industrial Services, S.A.U.
+– Pan Química Farmacéutica, S.A.U.
+– Gineladius, S.L.U.
+– Rovi Escúzar, S.L.U.
+Income tax expense breaks down as follows:
+2024 2023
+Current tax (42,593) (50,603)
+Deferred tax (Note 19) 1,069 64
+Adjustment corporate income tax expense prior years 905 659
+Withholding taxes paid abroad (195) (229)
+(40,814) (50,109)
+54

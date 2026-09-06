@@ -1,0 +1,48 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+8. CONSOLIDATED STATEMENT OF RECOGNIZED INCOME AND EXPENSES (UNDER IFRS
+ADOPTED)
+Units: thousands of euros
+ASSETS CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2017 31/12/2016
+A) PROFIT/(LOSS) FOR PERIOD (from Income Statement) 1305 17.241 26.089
+B) OTHER COMPREHENSIVE INCOME - ITEMS NOT RECLASSIFIED TO
+PROFIT AND LOSS FOR THE PERIOD 1310
+1. Remeasurement (reversal of remeasurement) of property, plant and
+equipment and intangible assets 1311
+2. Actuarial gains and losses 1344
+3. Share in other recognized comprehensive income from investments in joint
+ventures and associates 1342
+4. Other income and expenses not reclassified to profit and loss for the period 1343
+5. Tax effect 1345
+C) OTHER COMPREHENSIVE INCOME - ITEMS THAT MAY SUBSEQUENTLY
+1350
+BE RECLASSFIED TO PROFIT AND LOSS FOR THE PERIOD: 1 -1
+1. Available-for-sale financial assets: 1355 1 -1
+a) Gains/(losses) on remeasurement 1356 1 -1
+b) Amounts transferred to profit and loss 1357
+c) Other reclassifications 1358
+2. Cash-flow hedges: 1360
+a) Gains/(losses) on remeasurement 1361
+b) Amounts transferred to profit and loss 1362
+c) Amounts transferred at initial value of hedged items 1363
+d) Other reclassifications 1364
+3. Conversion differences: 1365
+a) Gains/(losses) on remeasurement 1366
+b) Amounts transferred to profit and loss 1367
+c) Other reclassifications 1368
+4. Share in other recognized comprehensive income from investments in joint
+ventures and associates 1370
+a) Gains/(losses) from measurement 1371
+b) Amounts transferred to profit and loss 1372
+c) Other reclassifications 1373
+5. Other comprehensive income and expenses that may subsequently be
+reclassified to profit and loss for the period: 1375
+a) Gains/(losses) on remeasurement 1376
+b) Amounts transferred to profit and loss 1377
+c) Other reclassifications 1978
+6. Tax effect 1380
+TOTAL COMPREHENSIVE INCOME FOR THE PERIOD (A+B+C) 1400 17.242 26.088
+a) Attributed to parent company 1398 17.242 26.088
+b) Attributed to non-controlling interests 1399

@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+2.3 Principios de consolidación
+a) Dependientes
+Dependientes son todas las entidades (incluidas las entidades estructuradas) sobre las que el Grupo tiene control. El
+Grupo controla una entidad cuando está expuesto, o tiene derecho, a obtener unos rendimientos variables por su
+implicación en la participada y tiene la capacidad de utilizar su poder sobre ella para influir sobre esos rendimientos. Las
+dependientes se consolidan a partir de la fecha en que se transfiere el control al Grupo, y se excluyen de la
+consolidación en la fecha en que cesa el mismo.
+Para contabilizar las combinaciones de negocios el Grupo aplica el método de adquisición. La contraprestación
+transferida por la adquisición de una dependiente se corresponde con el valor razonable de los activos transferidos, los
+pasivos incurridos con los anteriores propietarios de la adquirida y las participaciones en el patrimonio emitidas por el
+Grupo. La contraprestación transferida incluye el valor razonable de cualquier activo o pasivo que proceda de un
+acuerdo de contraprestación contingente. Los activos identificables adquiridos y los pasivos y pasivos contingentes
+asumidos en una combinación de negocios se valoran inicialmente a su valor razonable en la fecha de adquisición. Para
+cada combinación de negocios, el Grupo puede optar por reconocer cualquier participación no dominante en la
+adquirida por el valor razonable o por la parte proporcional de la participación no dominante de los importes reconocidos
+de los activos netos identificables de la adquirida.
+Los costes relacionados con la adquisición se reconocen como gastos en el ejercicio en que se incurre en ellos.
+Si la combinación de negocios se realiza por etapas, el importe en libros en la fecha de adquisición de la participación
+en el patrimonio neto de la adquirida anteriormente mantenido por la adquirente se vuelve a valorar al valor razonable
+en la fecha de adquisición; cualquier pérdida o ganancia que surja de esta nueva valoración se reconoce en el resultado
+del ejercicio.
+Cualquier contraprestación contingente a transferir por el Grupo se reconoce a su valor razonable en la fecha de
+adquisición. Los cambios posteriores en el valor razonable de la contraprestación contingente que se considere un
+activo o un pasivo se reconocen de acuerdo con la NIC 39 en resultados. La contraprestación contingente que se
+clasifique como patrimonio neto no se valora de nuevo y su liquidación posterior se contabiliza dentro del patrimonio
+neto.
+La conversión de los estados financieros de las sociedades con moneda funcional distinta del euro se realiza de la
+siguiente manera:
+• Los activos y pasivos se convierten al tipo de cambio de cierre del balance.
+• Los ingresos y gastos, se convierten al tipo de cambio medio del periodo, si no se han producido variaciones
+significativas en el tipo de cambio durante el mismo.
+• Las diferencias de cambio resultantes de la aplicación de los criterios anteriores se reconocen como diferencias
+de conversión en el patrimonio neto.
+Se eliminan las transacciones inter-compañía, los saldos y las ganancias no realizadas en transacciones entre
+entidades del Grupo. Las pérdidas no realizadas también se eliminan. Cuando ha sido necesario se han ajustado los
+importes presentados por las dependientes para adecuarlos a las políticas contables del Grupo.
+En el Anexo 1 a estas notas se desglosan los datos de identificación de las sociedades dependientes incluidas en el
+perímetro de consolidación por el método de integración global. Todas las sociedades dependientes y asociadas tienen
+el cierre contable a la misma fecha que la sociedad dominante.
+b) Acuerdos conjuntos
+El grupo aplica la NIIF 11 a todos los acuerdos conjuntos. Las inversiones en acuerdos conjuntos bajo NIIF 11 se
+clasifican como operaciones conjuntas o como negocios conjuntos, dependiendo de los derechos y obligaciones
+contractuales de cada inversor. El Grupo ha evaluado la naturaleza de sus acuerdos conjuntos y ha determinado que
+sean negocios conjuntos. Los negocios conjuntos se contabilizan usando el método de la participación.
+10

@@ -1,0 +1,64 @@
+2
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+Capitalisation and recoverability of intangible assets
+See notes 2.b.2), 3.1, 5 and 22g) to the annual accounts
+Key audit matter How the matter was addressed in our audit
+The Company has significant intangible
+Our audit procedures included the following:
+assets amounting to Euros 37,487 thousand,
+including Euros 29,100 thousand derived Assessment of the design and implementation
+from the acquisition of trademarks and of the controls associated with the process for
+licenses of products that are marketed, of estimating the recoverability of intangible
+which Euros 7,424 thousand reflect assets and the process used to recognize
+development expenses. research and development expenses and to
+identify, where applicable, any expenses that
+Management reviews these assets for
+qualify for capitalization.
+indications of impairment on an annual basis.
+Also, the corresponding impairment analysis We evaluated the criteria used by
+is performed for intangible assets with Management in identifying indications of
+indications of impairment on an annual basis. impairment.
+The recoverability of these assets is based
+We assessed the consistency of the profit and
+on the discounting of future cash flows using
+loss forecasts used as a basis for assessing
+budgets approved by Management.
+the recoverability of the intangible assets, in
+Furthermore, the capitalization of any particular, the projected income and expenses
+development expenses requires an analysis and cash flows, for assets with indications of
+of the compliance with the requirements impairment.
+established in the applicable financial
+We received and assessed the documentation
+reporting framework. The main risk is
+prepared by Management in relation to the
+associated with the successful outcome of
+analysis of research and development
+the projects and obtaining the corresponding
+expenses, recognized in the income
+clinical and regulatory authorizations for their
+statement.
+subsequent marketing.
+Our procedures for projects under
+In this connection, the Company has
+development included an assessment of the
+intangible assets amounting to Euros 7,424
+reasonableness of the assumptions used by
+thousand from the development of a low-
+the Company in relation to obtaining the
+molecular-weight heparin, an enoxaparin
+pertinent authorizations, by considering the
+biosimilar, for which the corresponding
+current stage of development, and where
+marketing authorization was obtained in
+appropriate, their capitalization as an intangible
+2017. No indications of impairment have
+asset.
+been identified.
+We also assessed whether the disclosures in
+In 2020 the Company incurred research and
+the annual accounts meet the requirements of
+development expenses amounting to Euros the financial reporting framework applicable to
+23,801 thousand that have not been the Company.
+capitalized, associated mainly with products
+under development based on the ISM®
+platform.

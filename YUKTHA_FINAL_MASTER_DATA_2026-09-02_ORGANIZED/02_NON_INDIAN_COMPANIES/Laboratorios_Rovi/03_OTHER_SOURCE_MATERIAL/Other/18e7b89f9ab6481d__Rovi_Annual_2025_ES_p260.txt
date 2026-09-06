@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Asimismo, la digitalización en el Grupo también se materializa mediante el sistema de Registros Electrónicos de Lotes (EBR,
+por sus siglas en ingles). Este sistema reemplaza la extensa documentación en papel asociada a cada lote de producción por
+registros electrónicos, capturando datos críticos como temperaturas y presiones. Además de digitalizar los dosieres y los libros
+de registro, el sistema EBR automatiza procesos mediante su integración con el Sistema de Planificación de Recursos
+Empresariales (ERP, por sus siglas en inglés) de la Compañía, descargando las órdenes de fabricación y notificando los
+consumos de materiales de forma automática. Gracias a esta automatización, es posible realizar una revisión de lotes por
+excepción, permitiendo que el área de Calidad libere los lotes de acuerdo con los requisitos regulatorios de manera más
+eficiente y segura.
+En 2025 se ha llevado a cabo la implementación de este sistema en las plantas de Julián Camarillo y San Sebastián de los
+Reyes, incorporando además productos específicos de mejora en los sistemas de ambas instalaciones. Cabe destacar que,
+durante el presente ejercicio, la planta de Julián Camarillo ha comenzado a utilizar el sistema electrónico.
+En la planta de Alcalá de Henares se ha implantado un sistema de Eficiencia Global de los Equipos (OEE, por sus siglas en
+inglés), integrado con los equipos de la planta para la monitorización en tiempo real del rendimiento de las líneas de
+producción. Este sistema permite conocer el estado de producción, la velocidad de operación, la eficiencia y el volumen de
+salida. La captura de datos se realiza mediante sensores de máquina y señales de planta, alineadas con los principios de la
+Industria 4.0 de ROVI. A partir de esta información, el sistema genera KPIs e informes de seguimiento que permiten evaluar y
+demostrar la eficiencia operativa. Su utilización facilita la toma de decisiones, la identificación de pérdidas y la mejora continua
+de los procesos productivos.
+Por último, en 2025 ROVI ha trabajado en la implementación de la funcionalidad de Cuaderno Electrónico de Laboratorio (ELN)
+de Julián Camarillo, en el marco del sistema de Gestión de Información del Laboratorio (LIMS, por sus siglas en inglés). Este
+sistema consiste en un registro electrónico de la información analítica de los laboratorios, que facilita la gestión de muestras y
+resultados de análisis, reduciendo de forma significativa la dependencia del papel.
+Área de Hospitales y Relaciones Institucionales
+En el ámbito de la IA, ROVI sigue desarrollando su proyecto de Salud Digital, con el objetivo de impulsar nuevas soluciones
+dentro de la industria farmacéutica. Durante este periodo, el Grupo ha realizado varias acciones concretas para avanzar en
+este campo.
+Una de las iniciativas más importantes fue el acuerdo firmado en 2024 con la start-up Cells IA, la cual cuenta con una
+tecnología innovadora en anatomía patológica que mejora el diagnóstico mediante el uso de algoritmos de inteligencia artificial.
+Cells IA dispone de la plataforma NucleIQ®, que permite realizar diagnósticos más rápidos y precisos. Esta plataforma facilita la
+integración de algoritmos diagnósticos tanto propios como de otras empresas, el manejo de grandes volúmenes de imágenes
+WSI (Whole-Slide Imaging) y datos clínicos, y mejora la toma de decisiones. También optimiza el trabajo diario de los
+profesionales sanitarios al integrarse de forma directa con los sistemas de información de laboratorio (Integración flawless con
+LIS95), agilizando todo el proceso desde la recepción de la muestra hasta la emisión del informe.
+Asimismo, Cells IA ha desarrollado distintas soluciones de IA aplicadas a varias áreas médicas, como el cáncer de mama,
+enfermedades gastrointestinales, patologías de la piel, cáncer de pulmón, urología, etc.
+En conjunto, estos proyectos reflejan el compromiso de Cells IA con la innovación en el campo del diagnóstico digital,
+consolidando soluciones tecnológicas que permiten avanzar hacia una anatomía patológica más precisa, innovadora, eficiente,
+flexible y customizada.
+Por otro lado, en 2024 ROVI comenzó a distribuir dos productos de la empresa Pulse Medical Technology, consistentes en
+software de diagnóstico cardíaco. Estas herramientas permiten detectar rápidamente la localización y gravedad de
+estrechamientos en las arterias del corazón, analizar la composición de las placas y planificar tratamientos con stents
+(endoprótesis vasculares) a partir de imágenes médicas. ROVI distribuye estos productos en España y Portugal y, en 2025,
+amplió la licencia para su distribución en el Reino Unido.
+95 Sistemas de información de laboratorio, por sus siglas en inglés.
+148

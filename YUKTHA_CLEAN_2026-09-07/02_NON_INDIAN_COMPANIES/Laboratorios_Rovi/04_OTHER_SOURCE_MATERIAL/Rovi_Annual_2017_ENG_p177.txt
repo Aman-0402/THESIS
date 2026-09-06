@@ -1,0 +1,39 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+− ROVI and Enervit S.p.A. signed a call option that could be exercised in June 2018, whereby ROVI guaranteed a
+call option on 1% of the shares in favour of Enervit Nutrition, S.L, for a value of 50 thousand euros.
+After these transactions, ROVI los control of its subsidiary Enervit Nutrition, S.L. (hereinafter, the “JV”), which became a
+joint venture under the joint control of its two shareholders, ROVI y Enervit S.p.A, with the purpose of distributing the
+EnerZona products and other nutritional products contributed by Enervit S.p.A.
+When recording this operation in the consolidated accounts, IFRS 10 “Consolidated Financial Statements” was applied,
+since, with the sale of the shares mentioned above, control of a subsidiary to which, previously but in the same act, ROVI
+had contributed the aforementioned assets, had been lost. The contribution of these assets did not, initially, have any
+effect on the consolidated financial statements. The difference between the derecognized assets and liabilities and those
+that were recognized was, applying IFRS 10, 3,997 thousand euros, which was recognized as revenue in the
+consolidated profit and loss.
+Condensed financial information on joint ventures
+The condensed financial information on Alentia Biotech, S.L. and Enervit Nutrition, S.L. as of 31 December, 2017 is as
+follows:
+Alentia Enervit
+Condensed statement of financial position Biotech, S.L. Nutrition, S.L.
+Current
+Cash and cash equivalents 104 703
+Other current assets (excluding cash) 6 2,305
+Total current assets 110 3,008
+Financial liabilities (excluding trade payables) - (1,266)
+Other current liabilities (including trade payables) - (1,427)
+Total current liabilities - (2,693)
+Non-current
+Intangible assets - 3,685
+Other financial assets - 5
+Deferred income tax assets - 37
+Total non-current assets - 3,727
+Financial liabilities (2,200) -
+Other liabilities - (14)
+Total non-current liabilities (2,200) (14)
+NET ASSETS (2,090) 4,028
+35

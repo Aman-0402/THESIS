@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+• IAS 41 “Agriculture”. The amendment removes the requirement of IAS 41 for entities to exclude taxation
+cash flows when measuring the fair value of a biological asset using a present value technique.
+The IASB proposes that these amendments should come into force on 1 January, 2022. When they do, ROVI will
+take these changes into account.
+• IFRS 17 “Insurance Contracts”, replacing IFRS 4 “Insurance Contracts”. The new IFRS 17 establishes the
+principles for the recognition, measurement, presentation and disclosure of insurance contracts within the scope
+of IFRS 17. Moreover, it removes current inconsistencies and weaknesses through a new framework based on a
+single principle to account for all insurance contracts, including reinsurance contracts. The IASB proposes that
+this Standard should come into force on 1 January, 2023. No significant impacts on ROVI are expected.
+c) Standards, amendments and interpretations of existing standards that have not been endorsed by the
+European Union.
+At the date of signature of these consolidated annual accounts, the International Accounting Standards Board (IASB) and
+the International Financial Standards Interpretations Committee (IFRIC) had published the standards, amendments and
+interpretations described below which have not yet been endorsed by the European Union. ROVI considers that the
+following could be applicable to the Group:
+• IAS 1 (Amendment) “Presentation of Financial Statements”. This will mean a change in the classification of
+liabilities. This Amendment arises with the intention of promoting uniform application and clarifying the
+requirements to determine whether a liability is current or non-current. The IASB proposes that this Amendment
+should come into force on 1 January, 2023. ROVI will analyse the potential impact of this Amendment, but no
+significant effects are expected.
+• IAS 1 (Amendment) “Presentation of Financial Statements”. This will help those preparing the financial statements
+to apply the concept of materiality in disclosing accounting policies. The IASB proposes that this Amendment
+should come into force on 1 January, 2023, although early adoption is permitted. ROVI will analyse the potential
+impact of this Amendment, but no significant effects are expected.
+• IAS 8 (Amendment) “Accounting policies, changes in accounting estimates and errors”. This Amendment is
+intended to clarify how to distinguish between accounting policies and accounting estimates, focusing on the
+definition and clarification of what accounting policies are. To do this, it introduces a new definition of estimate as
+monetary amounts in financial statements that are subject to measurement uncertainties. The IASB proposes that
+this Amendment should come into force on 1 January, 2023, although early adoption is permitted. It will be applied
+prospectively for changes in accounting estimates and policies that occur on or after the start of the first annual
+period in which the company applies the Amendment. ROVI will consider applying this Amendment if there are
+any changes in its accounting policies or estimates.
+• IAS 12 (Amendment) “Income Taxes”. This Amendment is intended to clarify how companies should recognize
+deferred taxes on certain transactions. The IASB proposes that this Amendment should come into force on 1
+January, 2023, although early adoption is permitted. ROVI will analyse the potential impact of this Amendment,
+but no significant effects are expected.
+2.3 Consolidation principles
+a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an entity
+when it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its power over
+said entity to influence these yields. Subsidiaries are consolidated from the date on which control is transferred to the
+Group and de-consolidated from the date that control ceases.
+9

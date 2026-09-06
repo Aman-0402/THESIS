@@ -1,0 +1,23 @@
+ACTIVO,,PERIODO ACTUAL 31/12/2016,PERIODO ANTERIOR 31/12/2015
+A) ACTIVO NO CORRIENTE,0040,82.085,75.626
+1. Inmovilizado intangible:,0030,22.503,17.283
+a) Fondo de comercio,0031,,
+b) Otro inmovilizado intangible,0032,22.503,17.283
+2. Inmovilizado material,0033,41.171,43.730
+3. Inversiones inmobiliarias,0034,,
+4. Inversiones en empresas del grupo y asociadas a largo plazo,0035,13.217,10.492
+5. Inversiones financieras a largo plazo,0036,1.587,1.559
+6. Activos por impuesto diferido,0037,3.607,2.562
+7. Otros activos no corrientes,0038,,
+B) ACTIVO CORRIENTE,0085,203.370,152.374
+1. Activos no corrientes mantenidos para la venta,0050,,
+2. Existencias,0055,32.074,32.664
+3. Deudores comerciales y otras cuentas a cobrar:,0060,134.280,92.554
+a) Clientes por ventas y prestaciones de servicios,0061,124.287,81.671
+b) Otros deudores,0062,5.527,6.938
+c) Activos por impuesto corriente,0063,4.466,3.945
+4. Inversiones en empresas del grupo y asociadas a corto plazo,0064,5,5
+5. Inversiones financieras a corto plazo,0070,,
+6. Periodificaciones a corto plazo,0071,3,9
+7. Efectivo y otros activos líquidos equivalentes,0072,37.008,27.142
+TOTAL ACTIVO (A + B),0100,285.455,228.000

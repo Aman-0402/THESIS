@@ -1,0 +1,45 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+In this respect, ROVI examined whether its assets (production plants) and business activities (medicine manufacturing and
+business relations) could be exposed to said physical risks. It also analysed ROVI’s five most critical suppliers.
+In 2022, the physical hazards to which the production plants of ROVI and its five main critical suppliers might be exposed due to
+their geographic location were identified: extreme winds, freeze-thaw cycles, floods due to the overflow of bodies of surface
+water, river overflows, coastal floods, forest fires and land movements. A total of seven acute physical risks were assessed.
+The climate scenarios considered for the assessment were those proposed by the Intergovernmental Panel on Climate Change
+(IPCC) in its August 2021 report. A scenario with a global temperature increase of 2ºC or less (RCP 2.6) was chosen following
+the recommendations of the Task Force on Climate-related Financial Disclosure (TCFD). A scenario in excess of 2ºC was also
+included, specifically RCP 8.5, which considers an increase of between 3.2 and 5.5ºC in comparison with pre-industrial levels,
+this being the most adverse scenario from a climate standpoint. For both scenarios, the probability of occurrence and potential
+impact of each one of the climate-related risks identified were assessed and 2030, 2045 and 207023 were established as time
+horizons for their materialisation. The scale used to assess them was as follows:
+• High risk = %MVAR24 > 1.0%
+• Moderate risk = 0.2% < MVAR < 1.0%
+• Low risk = %MVAR < 0.2%
+In this respect, none of the risks described above was considered significant for the plants of either ROVI or its five critical
+suppliers since all the MVARs were lower than 0.2% in the short, medium and long terms.
+In addition, a separate assessment of the risk of equipment failure due to heat extremes was conducted, for which a different
+measuring scale was used, based on a threshold heat temperature established at the 99th percentile of the maximum annual
+temperature at the specific location of each asset.
+The results under an RCP 8.5 scenario show that the percentage failure due to heat extremes increases by an average of
+17.89% in 2030 and 52.72% in 2050 for all the assets analysed. Likewise, under an RCP 2.6 scenario, the percentage failure
+due to heat extremes increases by an average of 14.01% in 2030 and 25.09% in 2050.
+Chronic physical climate risks
+In 2023, water stress was identified as the potential chronic climate-related physical hazard that could affect the company’s five
+industrial facilities, since all of them are located in Spain, which is considered a country with high water stress. A drought could
+lead to a water shortage and possible supply cuts, which would affect the production process at ROVI’s industrial facilities.
+The climate scenarios assessed were the same as those used for acute physical risks: scenarios RCP 2.6 and 8.5, as were the
+time horizons of 2030, 2045 and 2070. The threshold used to define the Group’s need to review its drought management
+alternatives was double the drought risk in the base year, 1990, when the drought level showed a return period of 1 in 20 (5%
+annual probability).
+The results of the assessment indicated the most critical region in relation to water-stress risk for ROVI’s production centres was
+Granada, where a significant increase in the medium and long terms is forecast under scenario 8.5, the worst scenario, also
+known as “business as usual”, in which emissions continue to grow during the 21st century.
+However, the water-stress risk was not considered material for the three plants located in Madrid until the year 2070 under the
+conditions of RCP 8.5, the most adverse scenario.
+2. Climate-related transition risks
+Regarding the climate-related transition risks, ROVI likewise follows the recommendations of the TCFD. In this context, the
+Group identified and assessed the transition risks and opportunities that could have an effect at corporate level. The
+23 No calculation has been made as to how the time horizons are linked to the forecast useful life of its assets, the strategic planning horizons or the capital
+allocation plans.
+24 Maximum Value-At-Risk.
+67

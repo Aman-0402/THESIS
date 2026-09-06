@@ -1,0 +1,52 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+La amortización del inmovilizado material, con excepción de los terrenos que no se amortizan, se calcula
+sistemáticamente por el método lineal en función de su vida útil estimada, atendiendo a la depreciación efectivamente
+sufrida por su funcionamiento, uso y disfrute. Las vidas útiles estimadas son:
+Construcciones - 40 años
+Instalaciones técnicas y maquinaria – entre 4 y 14 años
+Otras instalaciones, utillaje y mobiliario – entre 5 y 10 años
+Otro inmovilizado material – entre 4 y 5 años
+El valor residual y la vida útil de los activos se revisa, ajustándose si fuese necesario, en la fecha de cada balance.
+Cuando el valor contable de un activo es superior a su importe recuperable estimado, su valor se reduce de forma
+inmediata hasta su importe recuperable.
+Las pérdidas y ganancias por la venta de inmovilizado material se calculan comparando los ingresos obtenidos por la
+venta con el valor contable y se registran en la cuenta de pérdidas y ganancias.
+3.3 Pérdidas por deterioro del valor de activos no financieros
+Los activos que tienen una vida útil indefinida no están sujetos a amortización y se someten anualmente a pruebas de
+pérdidas por deterioro del valor. Los activos sujetos a amortización se someten a pruebas de pérdidas por deterioro
+siempre que algún suceso o cambio en las circunstancias indique que el valor contable puede no ser recuperable. Se
+reconoce una pérdida por deterioro por el exceso del valor contable del activo sobre su importe recuperable, entendido
+éste como el valor razonable del activo menos los costes de venta o el valor en uso, el mayor de los dos. A efectos de
+evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo para el que hay flujos de efectivo
+identificables por separado (unidades generadoras de efectivo). Los activos no financieros, distintos del fondo de
+comercio, que hubieran sufrido una pérdida por deterioro se someten a revisiones a cada fecha de balance por si se
+hubieran producido reversiones de la pérdida.
+3.4 Activos financieros
+a) Clasificación de los activos financieros
+La Sociedad clasifica sus activos financieros en las siguientes categorías:
+1) Activos financieros a coste amortizado: Los activos financieros a coste amortizado son activos financieros no
+derivados con cobros fijos o determinables que no cotizan en un mercado activo. Se incluyen en activos
+corrientes, excepto para vencimientos superiores a 12 meses desde de la fecha del balance que se clasifican
+como activos no corrientes. Los activos financieros a coste amortizado se incluyen en “Créditos a empresas” y
+“Deudores comerciales y otras cuentas a cobrar” en el balance.
+Los depósitos en entidades bancarias con un vencimiento superior a 90 días y menos de 12 meses son incluidos
+en esta categoría.
+También se reconocen en esta categoría los valores representativos de deuda con cobros fijos o determinables y
+vencimiento fijo, que se negocien en un mercado activo y que la dirección de la Sociedad tiene la intención
+efectiva y la capacidad de mantener hasta su vencimiento. Si la Sociedad vendiese un importe que no fuese
+insignificante de estos activos financieros, los activos se reclasificarían como activos financieros a valor
+razonable con cambios en patrimonio neto. Estos activos financieros se incluyen en activos no corrientes,
+excepto aquellos con vencimiento inferior a 12 meses a partir de la fecha del balance que se clasifican como
+activos corrientes.
+Estos activos financieros se valoran inicialmente por su valor razonable, incluidos los costes de transacción que
+les sean directamente imputables, y posteriormente a coste amortizado reconociendo los intereses devengados
+en función de su tipo de interés efectivo, entendido como el tipo de actualización que iguala el valor en libros del
+instrumento con la totalidad de sus flujos de efectivo estimados hasta su vencimiento. No obstante lo anterior, los
+créditos por operaciones comerciales con vencimiento no superior a un año se valoran, tanto en el momento de
+reconocimiento inicial como posteriormente, por su valor nominal siempre que el efecto de no actualizar los flujos
+no sea significativo.
+Al menos al cierre del ejercicio, se efectúan las correcciones valorativas necesarias por deterioro de valor si
+existe evidencia objetiva de que no se cobrarán todos los importes que se adeudan.
+10

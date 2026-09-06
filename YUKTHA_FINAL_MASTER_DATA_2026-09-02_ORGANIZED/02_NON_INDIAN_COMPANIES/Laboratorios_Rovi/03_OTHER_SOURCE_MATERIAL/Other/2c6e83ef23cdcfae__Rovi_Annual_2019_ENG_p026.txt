@@ -1,0 +1,39 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+3.13 Business combinations
+Transactions of merger, spin-off or non-monetary contribution of a business between group companies are recorded
+applying the rules for transactions with related parties (Note 3.17).
+Other merger, spin-off or non-monetary contribution transactions and business combinations arising from the acquisition
+of all the assets and liabilities of a company or a part of a company that comprises one or more businesses are
+recognised applying the acquisition method.
+For business combinations resulting from the acquisition of shares in the capital of a company, the Company recognises
+the investment in accordance with the rules for investments in the equity of group, multi-group and associated companies
+(Note 3.4.c).
+3.14 Revenue recognition
+Revenue comprises the fair value of the consideration received or receivable for the sale of goods, rendering of services
+and other revenue received in the ordinary course of the Company’s activties. Revenue is shown net of returns, rebates,
+discounts and value-added tax.
+The Company recognises revenue when the amount of revenue can be reliably measured, it is probable that future
+economic benefits will flow to the Company and specific criteria have been met for each of the activities as described
+below. The amount of revenue is not considered to be reliably measurable until all contingencies relating to the sale have
+been resolved. The Company bases its estimates on historical results, taking into consideration the type of customer, the
+type of transaction and the specifics of each arrangement.
+a) Sale of goods
+The Company sells pharmaceutical products for which it holds a manufacturing and sale licence in the wholesale market
+and also to retailers. It also acquires and sells pharmaceutical products of other entities.
+Sales of goods are recognised when the Company has delivered products to the customer and there is no unfulfilled
+obligation which could affect the acceptance of the products by the customer. The sale does not take place until the
+products and the obsolescence and loss risks have been transferred to the customer, the customer has accepted the
+products in accordance with the sale contract and the acceptance period has finished, or the Company has objective
+evidence for that the necessary criteria have been met for customer acceptance.
+The products are sold with volume discounts and customers are entitled to return damaged products or those that have
+expired. Sales are recognised at the price fixed in the sale contract, net of volume discounts and returns estimated at the
+date of sale. Volume discounts are measured based on estimated annual purchases. Returns are not significant and they
+are measured based on the Company’s historical experience (Note 2). Sales are carried out with short-term collection
+periods. The Company’s practice is generally to claim late-payment interest -calculated on the basis of the actual
+collection period- from government entities from which receivables are not collected in the short term.
+17

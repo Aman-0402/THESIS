@@ -1,0 +1,38 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+At 31 December, 2019, there were no minimum future payments on uncancellable operating leases (at 31 December,
+2018, there were 883 thousand euros, 714 thousand euros of which fell due at less than one year).
+26. Finance income/(costs)
+2019 2018
+Interest income 51 16
+Total finance income 51 16
+Interest costs (648) (712)
+Other finance costs (279) -
+Total finance costs (927) (712)
+Proceeds on disposal of financial instruments 305 10
+Change in fair value of financial instruments (146) (33)
+Impairment and gain/(loss) on measurement of financial instruments 159 (23)
+Exchange rate differences (51) (83)
+(51) (83)
+Net finance income/(cost) (768) (802)
+The caption “other finance expenses” shows the finance cost derived from application of IFRS 16 “Leases” (Note 2.2.a).
+27. Income tax
+In 2019, the corporate income tax return was submitted jointly for the following group companies as a tax group, the
+company Laboratorios Farmacéuticos Rovi, S.A. being the tax group 362/07 parent:
+- Rovi Pharma Industrial Services, S.A.U. (formerly, Frosst Ibérica, S.A.U, see section “Changes in the
+consolidated group, Note 1).
+- Pan Química Farmacéutica, S.A.
+- Gineladius, S.L.
+-
+Rovi Escúzar, S.L. (incorporated in 2019)
+Income tax is broken down into the following items:
+2019 2018
+Current tax (3,798) (3,314)
+Deferred tax (Note 19) 1,789 4,472
+Adjustment corporate income tax prior years (140) 57
+(2,607) 1,215
+57

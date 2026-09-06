@@ -1,0 +1,34 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS
+ROVI, S.A. AND SUBSIDIARIES AT 31 DECEMBER, 2017
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Thousands of euros)
+31 December,
+Note 2017 2016
+EQUITY
+Capital and reserves attributable to shareholders of the company
+Share capital 15 3,000 3,000
+Legal reserve 16 600 600
+Treasury shares 16 (8,407) (8,701)
+Retained earnings and voluntary reserve 16 179,255 162,421
+Profit for the year 16 17,241 26,089
+Reserve for available-for-sale assets 16 (2) (3)
+Total equity 191,687 183,406
+LIABILITIES
+Non-current liabilities
+Financial debt 18 27,029 20,828
+Deferred income tax liabilities 19 1,438 1,640
+Deferred revenues 20 5,005 5,532
+33,472 28,000
+Current liabilities
+Financial debt 17 16,208 12,966
+Trade and other payables 18 52,942 59,852
+Deferred revenues 20 565 746
+Provision for other liabilities and charges 21 3,508 2,878
+73,223 76,442
+Total liabilities 106,695 104,442
+Total equity and liabilities 298,382 287,848
+Notes 1 to 34 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+2

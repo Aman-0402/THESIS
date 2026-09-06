@@ -1,0 +1,36 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+2.6. Property, plant and equipment
+Items included in property plant and equipment are recognized at cost less depreciation and, when appropriate, less
+accumulated impairment losses, except in the case of land, which is presented net of impairment losses, if these exist.
+Historical cost includes expenditure that is directly attributable to the acquisition of the items of property, plant and
+equipment.
+Subsequent costs are included in the asset’s carrying amount or recognized as a separate asset, as appropriate, only
+when it is probable that future economic benefits associated with the item will flow to the Group and the cost of the item
+can be measured reliably. The carrying amount of any replaced part is derecognized. All other repairs and maintenance
+are charged to profit and loss during the reporting period in which they are incurred.
+Land is not depreciated. Depreciation on other assets is calculated using the straight-line method to gradually reduce
+their acquisition costs to their residual values over their estimated useful lives:
+Buildings - 40 years
+Technical facilities and machinery – between 4 and 14 years
+Other facilities, fittings and equipment and furniture – between 5 and 10 years
+Other property, plant and equipment – between 4 and 5 years
+The assets’ residual values and useful lives are reviewed, and adjusted if appropriate, at the end of each reporting
+period. Property, plant and equipment in progress includes elements under adaptation, construction or assembly.
+Property, plant and equipment in progress is recognized at its acquisition cost and is not depreciated.
+An asset’s carrying amount is written down immediately to its recoverable amount if the asset’s carrying amount is
+greater than its estimated recoverable amount (Note 2.9).
+Gains and losses on disposals are measured by comparing proceeds with carrying amount and are recognized in profit
+and loss.
+2.7. Intangible assets
+(a) Patents and industrial property. Trademarks and licences
+Patents and industrial property and trademarks and licences bought from third parties are shown at historical cost. In
+general, they have a finite useful life and are carried at cost less accumulated amortization. The amortization of those
+with finite useful lives is calculated using the straight-line method to allocate the cost of these assets over their useful
+lives, which are estimated at between 10 and 15 years. Amortizable assets are tested for impairment whenever any
+event or change in circumstances indicates that their carrying amount may not be recoverable.
+13

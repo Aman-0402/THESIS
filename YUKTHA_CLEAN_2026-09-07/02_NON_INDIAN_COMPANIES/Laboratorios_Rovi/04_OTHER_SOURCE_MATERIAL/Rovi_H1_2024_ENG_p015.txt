@@ -1,0 +1,46 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+The segment information used by the Management Committee for the six-month period ended 30 June 2023 and the
+reconciliation thereof with the figures shown in the income statement and the results of the segments reported are as
+follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 284,935 208,624 — 493,559 (112,714) 380,845
+0 0
+Profit/(loss) 76,670 (11,578) (10) 65,082 1,562 66,644
+Corporate income tax 17,315 1,568 (3) 18,880 308 19,188
+Profit/(loss) before tax 93,985 (10,010) (13) 83,962 1,870 85,832
+Finance costs – net (621) (17) — (638) — (638)
+Amortisation/depreciation 7,348 4,528 — 11,876 (11) 11,865
+EBITDA (*) 100,712 (5,499) (13) 95,200 1,859 97,059
+Amortisation/depreciation (7,348) (4,528) — (11,876) 11 (11,865)
+EBIT (**) 93,364 (10,027) (13) 83,324 1,870 85,194
+(*) EBITDA is calculated as profit before tax, interest, depreciation and amortisation.
+(**) EBIT is calculated as profit before tax and interest.
+Inter-segment transactions included on the profit/(loss) line for the six-month period ended 30 June, 2024 and 2023 are
+principally dividends paid between Group companies.
+Each segment’s sales to external customers up to 30 June 2024:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 247,723 210,483 — 458,206
+Inter-segment revenue (128,870) — — (128,870)
+Revenues from external customers (Note 20) 118,853 210,483 — 329,336
+Each segment’s sales to external customers up to 30 June 2023:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 284,935 208,624 — 493,559
+Inter-segment revenue (112,714) — — (112,714)
+Revenues from external customers (Note 20) 172,221 208,624 — 380,845
+Sales to external customers are broken down by product type and geographical area in Note 20.
+The breakdown of assets and liabilities by segment at 30 June 2024 was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 821,480 522,684 969 1,345,133
+Of which:
+Investments in group companies — 29,104 — 29,104
+Increases in non-current non-financial assets 19,388 766 — 20,154
+Total liabilities (301,883) (515,311) (624) (817,818)
+11

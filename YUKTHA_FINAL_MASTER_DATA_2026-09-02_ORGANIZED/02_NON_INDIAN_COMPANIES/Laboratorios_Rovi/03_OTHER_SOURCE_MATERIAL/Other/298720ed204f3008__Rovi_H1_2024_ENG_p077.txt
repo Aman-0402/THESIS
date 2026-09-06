@@ -1,0 +1,38 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+11. SEGMENT REPORTING
+Units: thousands of euros
+Table 1:
+Distribution of net revenue by geographical area
+GEOGRAPHICAL AREA INDIVIDUAL CONSOLIDATED
+CURRENT PREVIOUS CURRENT PREVIOUS
+PERIOD PERIOD PERIOD PERIOD
+Domestic market 2210 246.849 240.245 140.978 140.022
+Exports: 2215 60.258 75.535 188.358 240.823
+a) European Union 2216 38.112 40.790 76.827 70.117
+a.1 ) Euro zone 2217 37.192 39.944 75.588 69.139
+a.2 ) No Euro zone 2218 920 846 1.239 978
+b) Other countries 2219 22.146 34.746 111.531 170.706
+TOTAL 2220 307.107 315.781 329.336 380.845
+Table 2:
+CONSOLIDATED
+Net revenue Profit / (loss) Total net revenue
+SEGMENTS
+C P
+CURRENT PREVIOUS CURRENT PREVIOUS
+U R
+PERIOD PERIOD PERIOD PERIOD
+R E
+Manufacturing 2221 247.723 284.935 54.385 76.670 # #
+Marketing 2222 210.483 208.624 30.802 (11.578) # #
+Other 2223 (44) (10)
+2224
+2225
+2226
+2227
+2228
+2229
+(-) Adjustments and elimination of ordinary revenue between
+2230 (128.870) (112.714) (40.805) 1.562 # #
+segments
+TOTAL 2235 329.336 380.845 44.338 66.644 # #

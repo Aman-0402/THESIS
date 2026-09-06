@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+En cuanto a la metodología e hipótesis utilizadas, el Grupo sigue un procedimiento estructurado para consolidar y evaluar las
+emisiones de GEI:
+• Límites de la organización: las emisiones de GEI se consolidan bajo el enfoque de control, contabilizando el 100% de
+las emisiones de las operaciones controladas directamente por ROVI. En este cálculo se incluyen las categorías 1, 2, 3
+y 4:
+• Categoría 1: consumo en instalaciones fijas (gas natural y gasoil), fugas/recargas de gases fluorados y la flota
+de vehículos controlada por ROVI.
+• Categoría 2: consumo eléctrico.
+• Categoría 3: movilidad interna/externa (aguas arriba y abajo) y transporte de residuos.
+• Categoría 4: consumo de materias primas y pernoctaciones.
+• Emisiones y remociones directas de GEI: se cuantifican separadamente las emisiones directas de CO, CH , N O, NF ,
+2 4 2 3
+SF y otros GEI (HFC, PFC) en toneladas de CO eq. Actualmente, no se registran remociones de GEI.
+6 2
+• Emisiones indirectas de GEI: la evaluación de emisiones indirectas significativas sigue el anexo H de la norma ISO
+14064-1:2019, considerando cinco criterios cualitativos:
+• Nivel de influencia: posibilidad de medir y reducir las emisiones de esta categoría.
+• Riesgo u oportunidad: impactos en regulaciones, reputación o acceso a mercados.
+• Utilidad para usuarios: facilita decisiones confiables a los usuarios previstos.
+• Ausencia de incertidumbre: datos trazables y certeros para el cálculo.
+• Actividad esencial: asociada a actividades subcontratadas clave para el negocio.
+En cuanto a la metodología de evaluación, se verifica el cumplimiento de los cinco criterios anteriores y si al menos tres son
+favorables, se analiza el último criterio: la magnitud cuantitativa, determinando si la categoría representa un peso significativo
+en la huella de carbono total. En este sentido, se incorporan al inventario aquellas emisiones indirectas cuyo valor estimado
+supera el 5% del total (directas e indirectas) y dicha fase define la lista final de fuentes de emisiones indirectas de GEI. Para
+llevar a cabo el proceso de cálculo, ROVI lleva a cabo una combinación de los datos de actividad de la Compañía con los
+factores de emisión obtenidos de fuentes oficiales y pertinentes cada año. Los resultados de este cálculo se expresan en
+toneladas de CO eq.
+2
+En el marco del compromiso con una gestión ambiental rigurosa, la Compañía sigue avanzando en la mejora del cálculo de sus
+emisiones de CO eq de alcance 3, en particular, incorporando al cálculo las emisiones asociadas al consumo de heparinas, un
+2
+insumo relevante dentro de la actividad de ROVI.
+Hasta ahora, la complejidad asociada a la hora de estimar un factor de emisión realista vinculado al ciclo de vida de las
+heparinas ha limitado el cálculo de este tipo de emisiones. Tras un proceso de análisis técnico y colaboración con proveedores
+especializados, se ha logrado identificar factores de emisión representativos para este tipo de producto y se ha recalculado, en
+consecuencia, la huella total de carbono ascendiendo a una cifra total de 66.691,29 tCO eq frente a las 21.702,89 tCO eq
+2 2
+reportadas en el Informe de Sostenibilidad 2024.
+Este recálculo ha afectado principalmente a la categoría “Bienes y servicios comprados (Subcategoría opcional: servicios de
+computación en la nube y de centros de datos)” dentro del alcance 3 resultando 47.259,26 tCO eq frente a las 5.186,28 tCO eq
+2 2
+reportadas en esa categoría en el Informe de Sostenibilidad 2024.
+Emisiones biogénicas de GEI de alcance 1 y 2
+En materia de emisiones biogénicas de alcance 1 y 2, ROVI confirma que no genera dichas emisiones.
+72

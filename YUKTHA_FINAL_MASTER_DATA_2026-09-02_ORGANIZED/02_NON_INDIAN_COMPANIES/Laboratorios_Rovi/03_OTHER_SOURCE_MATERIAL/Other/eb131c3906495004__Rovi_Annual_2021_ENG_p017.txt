@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+b.1) Revenue recognition
+b.1.1) Sales of goods
+The Company has recognised the total sales of goods marketed in 2021 as revenue and, where applicable, has claimed
+late-payment interest from the public authorities. The buyer has the right to return the goods sold. Although the Company
+believes that, based on previous experience, the level of returns will not be very meaningful, ROVI has recognised ordinary
+revenue for its sales together with the related provision against ordinary revenue for estimated returns. If the estimate
+changes by 1%, changes in revenue will not be significant.
+b.1.2) Sales of services
+The main services provided by the Group consist of manufacturing services for third parties. In these services, control is
+deemed to be transferred to the customer and the service obligations are deemed to have been completed on the basis of
+the percentage of completion of the work performed according to the defined milestones. If the percentage of completion
+includes a determined acquisition of assets, the margin is not recognised until they are finally installed.
+Occasionally, before providing the manufacturing service, ROVI, in accordance with certain defined milestones, carries out
+work to adapt, fit out and validate the facilities and machinery –which may be either its own or acquired or subcontracted
+from third parties– without which it would not be possible to provide the service under the conditions required by the
+customers. If the final cost of this work is paid by the customer, ROVI recognises the revenue from the service provided on
+the basis of the percentage of completion of the work performed. If the percentage of completion includes a determined
+acquisition of assets, the margin is not recognised until they are finally installed.
+Determining the percentage of completion of the service provision takes account of Management’s best estimate regarding
+meeting the defined milestones and the costs incurred and yet to be incurred in relation to the work to be performed.
+Likewise, the Company must make a technical evaluation of whether the work to adapt, fit out and validate the facilities
+and machinery has been performed when determining the time at which they are ready for production.
+b.2) Capitalisation of development expenses
+The Company considers that its development project for a low-molecular-weight heparin, an enoxaparin biosimilar, has
+met all the requirements since the last quarter of 2014, when the application to obtain marketing authorisation for this
+biosimilar in Europe was filed with the European health authorities. Therefore, from that time until the beginning of the
+effective marketing of this biosimilar in Europe, all the expenses incurred in this project have been capitalised. The
+commencement of the amortisation of this asset was determined by the completion, with a favourable result, of the
+decentralised procedure used by the Company to apply for marketing authorisation in twenty-six European Union countries
+in the first quarter of 2017. These assets have a useful life of 20 years, which is consistent with the term of pharmaceutical
+product patents. ROVI considers that it will obtain a positive return on the aforementioned development over said period.
+For the rest of the Research and Development projects that ROVI is conducting, the Company considers that the
+requirements established in the rules on capitalisation of the associated development expenses have not yet been met.
+b.3) Co-operation Agreement between the government and Farmaindustria
+As a member of Farmaindustria, ROVI holds a commitment to assume and pay part of the interannual increase in the
+pharmaceutical spending of the Autonomous Communities, in accordance with reimbursement mechanisms established
+between the parties for each year.
+The amounts payable estimated by Management are based on the evolution of public spending on medicines (excluding
+generics and biosimilars) and the Company’s market share, among other factors.
+8

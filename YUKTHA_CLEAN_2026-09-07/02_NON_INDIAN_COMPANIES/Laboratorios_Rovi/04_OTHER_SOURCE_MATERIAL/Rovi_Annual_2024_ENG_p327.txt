@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+to implement it at the San Sebastián de los Reyes and Julián Camarillo complexes to come into operation in 2025. The
+investment made in 2024 totalled €1,650,000.
+Furthermore, the Laboratory Information Management System (LIMS) was extended to the Escúzar complex. This is a system
+for recording information on electronic analyses that facilitates the management of analysis samples and results at all the
+laboratories, reducing the dependence on paper even further. The scope of the LIMS was expanded at the rest of the
+complexes. The investment made in 2024 totalled €200,000. In 2025, the electronic notebook function will be incorporated at
+the Julián Camarillo complex.
+Additionally, the integration of Industry 4.0 was another important point for ROVI, involving the capture of signals from
+different systems and equipment by work centre, including particle monitoring. All these data form part of the batch record59
+and can be used to prevent failures in equipment such as engines or valves through statistical analysis or artificial intelligence.
+However, no specific plan is yet in place to make use of these capabilities, which means there is room for future progress in
+predictive maintenance and operating efficiency.
+Moreover, ROVI has digitalised a number of processes through tools like Workday or Campus ROVI, which incorporate the
+employee performance and training processes, respectively. The expense associated to Campus ROVI in 2024 totalled
+€12,500.
+In the artificial intelligence area, attention should be drawn to the fact that ROVI has been exploring the application of non-
+generative AI for several years, particularly in relation to cybersecurity.
+Hospitals and Institutional Relations area
+In the AI area, ROVI has also developed a Digital Health project, through which it is undertaking initiatives to address this
+novel field into which the pharmaceutical industry is expanding. The Group is taking very specific actions that will lead to
+further development in this area.
+The first initiative focuses on the agreement60 with Cells IA, a start-up that has defined is value proposal in the pathological
+anatomy area, specialising in diagnostics with artificial intelligence algorithms. This discipline is undergoing a revolution that
+entails the digitalisation of these samples, which are scanned and converted into digital files. This digitalisation process brings
+a number of advantages, such as easy storage, task assignation and sharing cases among professionals. In this context, Cells
+IA develops algorithms that analyse the sample and deliver a diagnosis, which the anatomical pathologist must then review
+and validate. These algorithms improve the efficiency of the workflow, decreasing the decision-making time, while efficacy
+increases due to greater accuracy. At present, ROVI has a team of 15 developers working on this project.
+Additionally, in 2024, ROVI included non-standard third-party products in its marketing line, consisting of software programmes
+that, with the help of artificial intelligence, are able to detect, in only a few minutes, the location and severity of cardiac arterial
+stenosis, as well as characterising the plaque or carrying out virtual planning of the repair of the artery with stents, based on a
+CT image or angiogram. The Group distributes these software packages in Spain and Portugal. The expense incurred in 2024
+totalled €88,410.60.
+Furthermore, although ROVI does not currently have a formal AI strategy, ROVI has an IT Policy that governs the use of ICT
+resources and the use of sensitive information. This policy may require reviews to include references to AI, reflecting the
+technological panorama that is evolving. Likewise, in 2024, the Group obtained the ISO 27001 certification, that endorses the
+implementation, maintenance and continuous improvement of ROVI’s Information Security Management System.
+Transformation, Efficiency and Improvement area
+The main objective sought by this area is to innovate and provide solutions based on emerging technologies in the areas of
+digital identity, change management, cybersecurity, AI, compliance, CSR and Industry 5.0 through the design of digital
+solutions that place people at the centre of technological development. In this context, technology is not seen as an end in
+59 Batch record refers to the document or system that records the entire manufacturing process of a batch, ensuring traceability and quality.
+60 ROVI has acquired a 26% interest in Cells IA.
+138

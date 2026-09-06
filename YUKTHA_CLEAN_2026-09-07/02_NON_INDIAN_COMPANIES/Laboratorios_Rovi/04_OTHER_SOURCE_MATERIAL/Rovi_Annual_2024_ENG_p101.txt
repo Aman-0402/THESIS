@@ -1,0 +1,53 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+c) Standards, amendments and interpretations of existing standards that have not yet been endorsed by the
+European Union
+At the date of signature of these consolidated annual accounts, the International Accounting Standards Board (IASB) and the
+International Financial Standards Interpretations Committee (IFRIC) had published the standards, amendments and
+interpretations described below which have not yet been endorsed by the European Union. ROVI considers that the following
+could be applicable to the Group:
+– IFRS 18 “Presentation and Disclosure in Financial Statements”. The standard is intended to enhance the way in which
+entities present their financial statements. The standard introduces new categories and subtotals in the income
+statement that will make the information more comparable, it will include new requirements for the aggregation and
+disaggregation of relevant information to ensure there is no concealment and it will introduce consistent performance
+measures. The date of entry into force of this standard proposed by the IASB is 1 January 2027. ROVI will analyse the
+potential effects of the standard.
+– IFRS 19 “Subsidiaries without Public Accountability: Disclosures”. This new standards imposes reduced requirements
+when preparing the financial statements of subsidiaries without public accountability. The date of entry into force of this
+standard proposed by the IASB is 1 January 2027. No significant effects on ROVI are expected.
+– IFRS 9 “Financial Instruments” and IFRS 7 “Financial Instruments: Disclosures”. The amendments to these two
+standards focus on, first, a post-implementation review of the impairment requirements in IFRS 9, finding the results to
+be correct but seeing the need to open a new project in order to improve the credit risk disclosure requirements in IFRS
+7 and, second, amending the two standards so that they can adapt to the characteristics of contracts to buy or sell
+renewable energy. The date of entry into force of this standard proposed by the IASB is 1 January 2026. No significant
+effects on ROVI are expected.
+2.3 Consolidation principles
+a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an entity when
+it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its power over said entity
+to influence these yields. Subsidiaries are consolidated from the date on which control is transferred to the Group and de-
+consolidated from the date that control ceases.
+The Group uses the purchase method to account for business combinations. The consideration transferred for acquisition of a
+subsidiary corresponds to the fair value of the assets transferred, liabilities incurred with the previous owners of the acquiree
+and equity instruments issued by the Group. The consideration transferred includes the fair value of any asset or liability coming
+from a contingent consideration agreement. Identifiable assets acquired and identifiable liabilities and contingencies assumed in
+a business combination are measured initially at their acquisition-date fair value. For each business combination, the Group may
+elect to recognise any non-controlling interest in the acquired entity at fair value or for the non-controlling entity’s proportional
+part in the amounts recognised for the acquiree’s identifiable net assets.
+Acquisition-related costs are recognised as expenses in the period in which they are incurred.
+If the business combination takes place in stages, the acquisition-date carrying amount of the acquirer’s previously-held interest
+in the equity of the acquiree is remeasured at acquisition-date fair value. Any loss or gain arising from this remeasurement is
+recognised in profit and loss.
+Any contingent consideration to be transferred by the Group is recognised at acquisition-date fair value. Subsequent changes in
+the fair value of the contingent consideration that are considered an asset or liability are recognised in accordance with IFRS 9
+in profit and loss. Contingent considerations classified as equity are not remeasured and their subsequent settlement is
+recognised in equity.
+The financial statements of companies with a functional currency other than the euro are translated as follows:
+– Asset and liabilities are translated at the exchange rate on the reporting date.
+– Revenue and expenses are translated at the average exchange rate for the period if there have been no significant
+changes in the exchange rate during the period.
+– Translation differences resulting from applying the above criteria are recognised as exchange differences in equity.
+9

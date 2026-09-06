@@ -1,0 +1,39 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+2.5. Transacciones en moneda extranjera
+(a) Moneda funcional y presentación
+Las partidas incluidas en las cuentas anuales de cada una de las entidades del Grupo se valoran utilizando la moneda
+del entorno económico principal en que cada entidad opera («moneda funcional»). Las cuentas anuales consolidadas se
+presentan en euros, que es la moneda funcional y de presentación del Grupo.
+(b) Transacciones y saldos
+Las transacciones en moneda extranjera se convierten a la moneda funcional utilizando los tipos de cambio vigentes en
+las fechas de las transacciones o de las valoraciones, en el caso de partidas que se han vuelto a valorar. Las pérdidas y
+ganancias en moneda extranjera que resultan de la liquidación de estas transacciones y de la conversión a los tipos de
+cambio de cierre de los activos y pasivos monetarios denominados en moneda extranjera se reconocen en la cuenta de
+resultados, excepto si se difieren en el otro resultado global como las coberturas de flujos de efectivo cualificadas y las
+coberturas de inversiones netas cualificadas. Las pérdidas y ganancias por diferencias de cambio relativas a préstamos
+y efectivo y equivalentes al efectivo se presentan en la cuenta de pérdidas y ganancias en la línea de “Ingresos o gastos
+financieros”. El resto de pérdidas y ganancias por diferencias de cambio se presentan como “Otras ganancias /
+(pérdidas) netas”.
+Los cambios en el valor razonable de títulos monetarios denominados en moneda extranjera clasificados como
+disponibles para la venta se analizan considerando las diferencias de conversión resultantes de cambios en el coste
+amortizado del título y otros cambios en el importe en libros del título. Las diferencias de conversión relativas a
+variaciones en el coste amortizado se reconocen en la cuenta de resultados, y los otros cambios en el importe en libros
+se reconocen en el otro resultado global.
+Las diferencias de conversión sobre partidas no monetarias, tales como instrumentos de patrimonio mantenidos a valor
+razonable con cambios en resultados, se reconocen en la cuenta de resultados como parte de la ganancia o pérdida de
+valor razonable. Las diferencias de conversión sobre partidas no monetarias valoradas a valor razonable, tales como
+instrumentos de patrimonio clasificados como activos financieros disponibles para la venta, se incluyen en el otro
+resultado global.
+2.6. Inmovilizado material
+Los elementos de inmovilizado material se reconocen por su coste menos la amortización y, en su caso, menos las
+pérdidas por deterioro acumuladas correspondientes, excepto en el caso de los terrenos, que se presentan netos de las
+pérdidas por deterioro, en caso de existir.
+El coste histórico incluye los gastos directamente atribuibles a la adquisición de las partidas del inmovilizado material.
+Los costes posteriores se incluyen en el importe en libros del activo, o se reconocen como un activo separado, sólo
+cuando es probable que los beneficios económicos futuros asociados con los elementos vayan a fluir al Grupo y el coste
+del elemento pueda determinarse de forma fiable. El importe en libros del componente sustituido, en su caso, se da de
+baja contablemente en los registros del Grupo. Los gastos de reparaciones y mantenimiento se cargan en la cuenta de
+resultados en el ejercicio en que se incurre en ellos.
+13

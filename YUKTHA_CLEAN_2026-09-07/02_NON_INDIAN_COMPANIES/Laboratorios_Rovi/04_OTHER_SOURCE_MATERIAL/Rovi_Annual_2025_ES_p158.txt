@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Las actividades elegibles con CapEx asociado para ROVI durante el ejercicio 2025 son las que se detallan a continuación:
+Anexo de Mitigación del Cambio Climático Anexo de Prevención de la Contaminación
+Actividad 7.3.
+Actividad 7.4. Actividad 1.1.
+Actividad 7.5. Actividad 1.2.
+Actividad 7.6.
+Para el análisis del numerador, ROVI ha analizado la totalidad de las altas de CapEx efectuadas durante el ejercicio 2025:
+• Para las altas de CapEx relacionadas con al Anexo de Mitigación, ROVI ha llevado a cabo un análisis para verificar que
+cada una de las facturas asociadas a las altas de CapEx cumplen con lo descrito por la normativa relativa a la
+Taxonomía, imputando por tanto en el numerador de CapEx el valor registrado en facturas23.
+• Para las altas de CapEx relacionadas con al Anexo de Prevención de la Contaminación, ROVI ha computado la totalidad
+del alta de CapEx sin realizar el análisis pormenorizado a nivel factura, ya que se entiende que el alta de CapEx
+contribuye en su totalidad a la fabricación de principio activo o a la fabricación de medicamento. Este análisis ha podido
+realizarse segregando por centro de coste para cada una de las altas de CapEx.
+Durante el análisis efectuado, se ha evitado la doble contabilización de partidas, computando a cada actividad taxonómica las
+partidas que se relacionan directamente con el descriptivo de la actividad24.
+Cálculo del % de OpEx
+La proporción de OpEx a que se refiere el artículo 8, apartado 2, letra b), del Reglamento (UE) 2020/852 se calculará como el
+numerador dividido por el denominador; incluyendo este último los costes directos no capitalizados que se relacionan con la
+investigación y el desarrollo, las medidas de renovación de edificios, los arrendamientos a corto plazo, el mantenimiento y las
+reparaciones, así como otros gastos directos relacionados con el mantenimiento diario de activos del inmovilizado material, por
+la empresa o un tercero a quien se subcontraten actividades, y que son necesarios para garantizar el funcionamiento
+continuado y eficaz de dichos activos.
+En ROVI, el indicador de OpEx taxonómico únicamente considera los costes relacionados con la investigación y el desarrollo,
+los arrendamientos a corto plazo y el mantenimiento y las reparaciones. Las medidas de renovación de edificios y otros gastos
+directos relacionados con el mantenimiento diario de activos del inmovilizado material, por la empresa o un tercero a quien se
+subcontraten actividades, y que son necesarios para garantizar el funcionamiento continuado y eficaz de dichos activos, no han
+sido considerados por ROVI como OpEx.
+En este sentido, las actividades elegibles con OpEx asociado para ROVI durante el ejercicio 2025 son las que se detallan a
+continuación:
+Anexo de Mitigación del Cambio Climático Anexo de Prevención de la Contaminación
+Actividad 5.4.
+Actividad 7.3.
+Actividad 1.1.
+Actividad 7.4.
+Actividad 1.2.
+Actividad 7.5.
+Actividad 7.6.
+Para el análisis del numerador del OpEx, ROVI ha analizado las siguientes cuentas contables: “622. Reparaciones y
+conservación” y “621. Arrendamientos y cánones”, así como la cuenta contable relativa al mantenimiento del equipo de I+D:
+23 En aquellos casos en los que las facturas que componen el alta de CapEx no están vinculadas en su totalidad con alguna actividad descrita en la normativa.
+24 A modo de ejemplo, las luminarias LED de un nuevo edificio construido para ampliar la capacidad productiva de ROVI, se han computado a la actividad 7.3.
+del Anexo de Mitigación, mientras que el resto de la inversión efectuada en la construcción de dicho edificio se ha computado a la actividad 1.1./1.2. según
+corresponda a fabricación de principio activo o medicamento.
+46

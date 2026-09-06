@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+impairment losses on non-financial assets (other than goodwill) are reviewed at each reporting date to see whether then
+can be reversed.
+2.10 Financial instruments
+Financial instruments are classified upon initial recognition as financial assets or financial liabilities in accordance with the
+economic nature of the contract and the definitions of financial asset and financial liability set out in IAS 32 “Financial
+Instruments: Presentation”.
+Financial instruments are recognised when the Group becomes an obliged party under a contract or legal transaction in
+accordance with the provisions thereof. The Group recognises financial instrument purchase or sale transactions through
+conventional contracts, defined as those in which the reciprocal obligations of the parties must be performed within a time
+frame established by regulations or market conventions and which cannot be offset against each other, depending on the
+type of asset at the contract or settlement date.
+For measurement purposes, the Group classifies financial instruments in the categories of financial assets and liabilities
+carried at fair value through profit and loss. The Group designates a financial asset or liability as fair value through profit
+and loss upon initial recognition if, by so doing, it eliminates or significantly reduces an inconsistency in the measurement
+or recognition that would arise otherwise, i.e. if the assets or liabilities or the recognition of the gain or loss thereon were
+measured on different bases.
+The Group holds forward contracts for the purchase or sale of foreign currency. Some of these insurance contracts are
+considered derivative financial instruments that meet the conditions to be considered hedging instruments. Hedges that
+cover foreign currency risk on the fair value of monetary financial assets and liabilities in foreign currency, including both
+changes in the market value of the financial instruments designated as hedges and changes in the market value of the
+hedged item caused by the hedged risk, are charged or credited to profit and loss, as appropriate.
+Acquisition of own equity instruments
+The Group classifies a financial instrument as a financial liability, in full or in part, provided that the substance of the
+economic situation represents a direct or indirect contractual obligation for the Group to deliver cash or another financial
+asset or to exchange financial assets and liabilities with third parties under potentially unfavourable conditions.
+Contracts that impose on the Group an obligation to acquire own equity instruments, in cash or by delivering a financial
+asset, are recognised in reserves as a financial liability for the present value of the amount payable. Transaction costs are
+likewise recognised as a decrease in reserves.
+2.11 Financial assets
+a) Financial assets classification
+The Group classifies its financial assets in the following categories: financial assets measured at amortised cost and
+financial assets measured at fair value through other comprehensive income. The classification depends on the purpose
+for which the financial assets were acquired. Management determines the classification of its financial assets at initial
+recognition.
+(i) Financial assets at amortised cost
+Financial assets measured at amortised cost are non-derivative financial assets with fixed or determinable payments that
+are not quoted in an active market. They are included in current assets, except for maturities longer than 12 months after
+the end of the reporting period, which are classified as non-current assets. Financial assets measured at amortised cost
+are classified as “trade and other receivables” and “financial receivables”.
+14

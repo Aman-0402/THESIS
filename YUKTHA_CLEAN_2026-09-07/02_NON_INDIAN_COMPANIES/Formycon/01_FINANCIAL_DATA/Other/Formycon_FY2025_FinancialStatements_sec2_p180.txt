@@ -1,0 +1,48 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 180
+Key terms and parameters for SARs (phantom stock plan)
+Waiting period in years 4.00
+Contractual term in years 10.00
+Expected term 6.72
+Valuation date 31.12.2025
+Vesting date 11.12.2027
+Expiry date 10.12.2033
+Expected exercise date 22.7.2030
+Market price at valuation date 23.31 €
+Subscription price 58.08 €
+Minimum price 25.64 €
+Historical volatility 53.51 %
+Expected dividend yield 0.00 %
+Market value per option as of Dec. 31,2025 4.72 €
+For both plans, a share price volatility of between comparable successor trading system) during the
+35% and 49% was assumed based on historical 60 trading days preceding the actual exercise date,
+data, along with beneficiary reduction (staff turno- with the right to payout upon exercise subject to a
+ver) of approx. 1% and zero dividends. The out- minimum 10% share price appreciation.
+standing stock options have a weighted average
+remaining term of 4.23 years. During the fiscal year no new phantom shares were
+issued (previous year: 0) and 4,000 phantom sub-
+During fiscal year 2025, the total current expense scription rights have expired (Previous year: 500).
+for share-based compensation payments under Based upon the the waiting period, € 228 thou-
+these stock option plans was € 1,424 thousand sand have been recorded as an income (Previous
+(previous year: € 1,565 thousand). As of December year: € 448 thousand (expense)). Because this is a
+31, 2025, the impact of these share-based pay- cash-settled share-based compensation arrange-
+ments on the capital reserve account was ment, a corresponding liability has been recog-
+€ 9,498 thousand (previous year: € 8,074 thou- nized and included under other long-term liabilities.
+sand).
+In the financial year 2024, a Long-Term Incentive
+In addition to the above two share-settled stock op- Plan (LTIP) was set up for members of the Manage-
+tion plans, a cash-settled phantom stock plan was ment Board and other employees in order to align
+approved by the Supervisory Board during the fis- the interests of shareholders and Management
+cal year 2023, under which members of the Man- Board members, to strengthen the loyalty of Man-
+agement Board and certain other employees were agement Board members and other employees
+granted stock appreciation rights (SARs) to shares and to promote their participation in the company's
+in Formycon AG, i.e. subscription rights to phantom future success. The plan provides for the allocation
+shares which are never actually issued. Each SAR of performance share units (PSUs), the number of
+entitles the holder to receive a cash payment equal which is based on the fixed salary of the beneficiar-
+to the difference between the share market price ies (allocation amount). The final number of PSUs to
+upon the actual exercise date and the subscription be issued after the four-year vesting period is de-
+price determined at granting. The term of the SARs termined by multiplying the allocated number by a
+is ten years from the grant date, subject to a four- performance factor. The performance factor is
+year vesting period. The current share market price based on the fulfillment of predefined performance
+for purposes determining the share price apprecia- conditions, which include the following criteria: an
+tion is determined as the average unweighted clos- EBITDA target, an ESG target, an innovation target
+ing price of Formycon shares in Xetra trading (or a and a strategic growth target. The performance

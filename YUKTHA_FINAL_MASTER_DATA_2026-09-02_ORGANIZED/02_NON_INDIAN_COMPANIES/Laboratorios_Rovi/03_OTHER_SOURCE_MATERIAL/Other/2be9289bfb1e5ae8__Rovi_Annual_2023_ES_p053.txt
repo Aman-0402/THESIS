@@ -1,0 +1,45 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+Contribución al sistema público de salud
+Como se indica en Nota 3.19, en España, siguiendo lo establecido en la Ley 29/2006, todas las empresas que venden
+productos de prescripción farmacéutica u otros productos de salud que son pagados con fondos públicos deben realizar
+cada cuatro meses pagos al Sistema Nacional de Salud de entre el 1,5% y 2,0% de sus ventas (dependiendo del
+volumen). Se trata de una tasa cuyo objetivo es regular el margen de una actividad regulada a través de la intervención
+de precios establecida por la ley. La Sociedad registra la contribución al sistema público de salud como una reducción
+del ingreso cuando se realiza la venta. Las cantidades devengadas pero no pagadas se registran en el epígrafe “Otras
+Provisiones”. Existen adicionalmente otras provisiones en Italia y Portugal de idéntica naturaleza a la descrita
+anteriormente.
+Dentro de las contribuciones al sistema público de salud, a 31 de diciembre de 2023 no hay importes registrados
+relacionados con el acuerdo de colaboración entre Farmaindustria y el gobierno español (Nota 3.19), al no existir un
+acuerdo firmado desde el anterior vigente para los años 2017 a 2019. A 31 de diciembre de 2021, existió la voluntad
+cierta de la industria farmacéutica de prorrogar el Acuerdo, por lo cual ROVI provisionó los importes estimados para
+dicho ejercicio (3.214 miles de euros). Finalmente se revirtió en el ejercicio 2022 al no formalizarse acuerdo alguno.
+Aunque estas cantidades no deben ser consideradas como devoluciones o reembolsos a clientes, se registran como
+una reducción de ingresos debido a que el objetivo de la ley es regular los precios y márgenes obtenidos por estos
+productos.
+Los importes por provisiones reconocidos en el balance corresponden a la mejor estimación a la fecha de cierre de los
+desembolsos necesarios para cancelar la obligación presente, una vez considerados los riesgos e incertidumbres
+relacionados con la provisión y, cuando resulte significativo, el efecto financiero producido por el descuento, siempre que
+se pueda determinar con fiabilidad los desembolsos que se van a efectuar en cada periodo. El tipo de descuento se
+determina antes de impuestos, considerando el valor temporal del dinero, así como los riesgos específicos que no han
+sido considerados en los flujos futuros relacionados con la provisión en cada fecha de cierre.
+Las obligaciones aisladas se valoran por el desenlace individual que resulta más probable. Si la obligación implica una
+población importante de partidas homogéneas, ésta se valora ponderando los desenlaces posibles por sus
+probabilidades. Si existe un rango continuo de desenlaces posibles y cada punto del rango tiene la misma probabilidad
+que el resto, la obligación se valora por el importe medio.
+21. Impuestos diferidos
+El detalle de los impuestos diferidos es el siguiente:
+Miles de euros
+2023 2022
+Activos por impuestos diferidos:
+- Diferencias temporarias 1.235 1.239
+1.235 1.239
+Pasivos por impuestos diferidos:
+- Diferencias temporarias (4.111) (4.507)
+(4.111) (4.507)
+Impuestos diferidos netos (2.876) (3.268)
+Los activos y pasivos por impuestos se compensan si en ese momento la Sociedad tiene el derecho exigible de
+compensar los importes reconocidos y tiene la intención de liquidar las cantidades por el neto o de realizar el activo y
+cancelar el pasivo simultáneamente. Los activos y pasivos por impuestos diferidos son los siguientes:
+43

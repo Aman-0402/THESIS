@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Acquisition of own equity instruments
+The Group classifies a financial instrument acquired as a financial liability, in full or in part, when its real economic nature
+represents a direct or indirect contract obligation for the Group to deliver cash or another financial asset or to exchange financial
+assets or liabilities with another entity under potentially unfavourable conditions.
+Contracts that impose an obligation on the Group to acquire its own equity instruments, in cash or by delivering a financial
+asset, are recognised in reserves as a financial liability at the present value of the amount to be paid. Transaction costs are
+likewise recognised as a decrease in reserves.
+2.11 Financial assets
+a) Classification of financial assets
+The Group classifies its financial assets in the following categories: financial assets at amortised cost and financial assets at fair
+value through other comprehensive income. The classification depends on the purpose for which the financial assets were
+acquired. Management determines the classification of its financial assets at initial recognition.
+(i) Financial assets at amortised cost
+Financial assets at amortised cost are non-derivative financial assets with fixed or determinable payments that are not quoted in
+an active market. They are included in current assets, except for maturities longer than 12 months after the end of the reporting
+period, which are classified as non-current assets. Financial assets at amortised cost are classified as “Trade and other
+receivables” and “Financial receivables”.
+Deposits in financial institutions maturing at more than 90 days and less than 12 months are included in this category as current
+assets.
+Trade receivables are measured at amortised cost less provision for impairment. A provision for impairment of trade receivables
+is established when there is objective evidence that the Group will not be able to collect all amounts due according to the
+original terms of the receivables.
+Impairment of financial assets at amortised cost
+Significant financial difficulties of the debtor, the probability that the debtor will become insolvent or require financial
+reorganisation and default or delinquency in payments are considered indicators that a trade receivable is impaired. Impairment
+of financial assets, including loans and receivables, is measured using the expected credit loss model.
+The Group measures provisions for losses at a sum equivalent to the expected losses over the life of the asset.
+Provisions for losses on financial assets measured at amortised cost are presented separately as a reduction in the gross
+carrying amount of the asset.
+In relation to trade receivables, risk exposures in each group are segmented on the basis of the customer type (government or
+non-government) and the age of the debt:
+– The balance receivable from public authority customers relates to receivables from government entities, regarding which,
+based on their nature and the information currently available, ROVI considers the credit risk to be low and, therefore,
+does not recognise any expected losses in relation thereto. The Group is entitled to claim late-payment interest
+originating from delay in collecting these balances from government entities.
+– The balance with non-government entities includes mainly wholesalers, contract manufacturing customers, other
+pharmaceutical companies and private centres. The provision for impairment of balances with non-government
+customers is measured in accordance with the age of the debt.
+Additionally, the provision for impairment includes all those customer balances for which there are indications of impairment,
+even if six months have not yet elapsed since their due date.
+Impairment losses are recognised in the income statement as “Other operating expenses”. When a receivable becomes
+unrecoverable, it is written off against the amount of the impairment. Subsequent recovery of amounts previously written off is
+recognised as a credit item in “Other operating expenses”.
+14

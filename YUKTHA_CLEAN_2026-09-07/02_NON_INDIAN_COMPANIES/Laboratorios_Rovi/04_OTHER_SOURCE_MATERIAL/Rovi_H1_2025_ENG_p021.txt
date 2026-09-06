@@ -1,0 +1,41 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+9. Investment in joint ventures and associated companies
+Movement on investment in joint ventures and associated companies in the period was as follows:
+30 June 30 June
+2025 2024
+Balance at beginning of period 19,516 567
+Additions — 19,091
+Derecognitions (412) —
+Share in profits/(losses) (67) (22)
+Balance at end of period 19,037 19,636
+The nature of investment in joint ventures and associated companies is as follows
+Country of Nature of Measurement
+Name incorporation % interest relationship method
+Terafront Farmatech, S.L. (1) Spain 25.5% a) Equity
+Company under Group
+Cells IA Technologies, S.L. (2) Spain 94.995% b) control
+(1) Company incorporated in 2024.
+(2) Investee since 2023 and fully consolidated since 2025.
+a) Terafront Farmatech, S.L.
+On 13 March 2024, the Group incorporated this company jointly with two other entities: Innvierte Economía Sostenible,
+SME, S.A. (a company controlled by the Spanish authorities through the CDTI —Centro para el Desarrollo Tecnólogico
+Industrial—) and Insud Pharma, S.L., whose corporate purpose is the manufacture of specialty pharmaceuticals. The
+Group holds 25.5% of the shares through Laboratorios Farmacéuticos Rovi, S.A. and the company is consolidated in the
+financial statements of ROVI by the equity method. The investment was made through a capital contribution of 255
+thousand euros, which was settled in full, and a shareholder contribution of 18,835 thousand euros, which was paid in
+December 2024, continuing to meet the milestones set in the Strategic Plan as agreed in the Shareholders’ Agreement
+signed on 13 March 2024.
+b) Cells IA Technologies, S.L.
+On 24 July 2023, the Group acquired 26% of the shares of the company Cells IA Technologies, S.L. through the
+company Gineladius, S.L.U., including it in the consolidated group by the equity method. The interest was acquired by
+contributing capital and share premium to the company for a sum of 600 thousand euros. The corporate purpose of this
+company is the maintenance of information systems and software design and development, as well as all the prior
+phases, in particular related to medical activity. As mentioned in Note 1 above, Gineladius, S.L.U. acquired control of this
+company on 27 January 2025, having acquired interests that raised its percentage holding to 94.995%, giving rise to the
+derecognition of 412 thousand euros of its previous value under the equity method.
+17

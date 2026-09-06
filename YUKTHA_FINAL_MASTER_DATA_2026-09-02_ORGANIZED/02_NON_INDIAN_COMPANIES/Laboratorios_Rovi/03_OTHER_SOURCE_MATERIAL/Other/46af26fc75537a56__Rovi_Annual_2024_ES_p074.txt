@@ -1,0 +1,61 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Informe de gestión 2024
+Esta aprobación se basa en los resultados positivos del estudio pivotal PRISMA-3 sobre la eficacia y la seguridad de
+Risperidona ISM® en pacientes con esquizofrenia1. Los resultados obtenidos en este estudio demuestran que se han
+alcanzado con dos dosis distintas (de 75 mg y 100 mg mensuales) los objetivos pre-especificados en las variables de
+eficacia primaria y secundaria clave para el tratamiento de pacientes con síntomas moderados a graves de la
+esquizofrenia. La variable de eficacia primaria, la puntuación total de la PANSS2 (diferencia media, IC del 95%), mejoró
+significativamente desde el inicio hasta el día 85 con Risperidona ISM® 75 y 100 mg, con diferencias ajustadas con
+placebo de -13,0 (-17,3 a -8,8; p <0,0001) y -13,3 (-17,6 a -8,9; p<0,0001), respectivamente. También se obtuvieron
+cambios medios significativamente mejorados para la variable secundaria clave, la puntuación CGI-S3, desde el inicio
+hasta el día 85, de Risperidona ISM® en comparación con placebo, de -0,7 (-1,0 a -0,5; p<0,0001), para ambas dosis.
+La mejoría estadísticamente significativa para ambos resultados de eficacia se observó ya a los 8 días tras la primera
+inyección. Los eventos adversos notificados con mayor frecuencia fueron el aumento de la prolactina en sangre (7,8%),
+dolor de cabeza (7,3%), hiperprolactinemia (5%) y aumento de peso (4,8%). No se registró información de seguridad
+relevante nueva ni inesperada. Asimismo, a los pacientes que completaron correctamente la fase doble ciego, se les
+ofreció continuar en una fase de extensión a largo plazo (12 meses), en la que el tratamiento con Risperidona ISM® (75
+mg o 100 mg) se administró cada cuatro semanas de forma abierta. En esta fase abierta del estudio también se
+incluyeron pacientes nuevos, clínicamente estables (pacientes “de novo”). Se observó que el tratamiento a largo plazo
+fue eficaz, seguro y bien tolerado en pacientes adultos con esquizofrenia, independientemente de la gravedad inicial de
+su enfermedad o de si fueron tratados previamente con Risperidona ISM® durante una exacerbación aguda o cambiado
+de dosis estables de risperidona oral4. Igualmente, Risperidona ISM® proporcionó una mejora rápida y sostenida en la
+funcionalidad (personal y social) y la calidad de vida relacionada con la salud. Estos hallazgos, junto con un inicio rápido
+de la eficacia, podrían contribuir a reforzar la alianza terapéutica y posiblemente a un alta hospitalaria más temprana.
+Además, la funcionalidad del paciente continuó mejorando o se mantuvo con tratamiento a largo plazo5.
+El 29 de marzo de 2024, ROVI comunicó que la Food and Drug Administration (FDA) de Estados Unidos de América
+había autorizado la comercialización de Risvan® (Risperidona ISM®) para el tratamiento de la esquizofrenia en adultos
+en Estados Unidos. Adicionalmente, la FDA requirió como requisito posterior a la comercialización, la realización de un
+estudio de farmacocinética que evaluase la exposición de Risvan® similar a la administración diaria de 6 mg de
+risperidona oral. El protocolo del estudio clínico estaba previsto que se revisara y acordara previamente con la FDA y el
+informe final del estudio clínico se presentase antes de julio de 2026 sin que este estudio adicional condicionase la
+aprobación ni afectase a la comercialización.
+No obstante, y como indicado más arriba, ROVI ha adoptado ahora la decisión de no comercializar Risvan®
+(Risperidona ISM®) en Estados Unidos, tras una valoración de las incertidumbres y oportunidades asociados a este
+lanzamiento. Los principales factores que han contribuido a esta decisión son:
+– La priorización de las inversiones de la Compañía que se centrarán en el negocio de fabricación a terceros y en
+el desarrollo clínico de una nueva formulación trimestral de Letrozol (en adelante, Letrozol LEBE).
+– La ausencia de un socio que proporcione a la Compañía las capacidades y estructura necesarias para
+asegurar una adecuada y continua distribución de Risvan® en el mercado estadounidense maximizando los
+beneficios que esta terapia inyectable de liberación prolongada de fármacos innovadora presenta para el
+paciente y aprovechando todo el potencial de expansión y desarrollo comercial que ofrece en el campo de la
+esquizofrenia.
+– El retraso en el lanzamiento que coincide con una esperada reducción de los precios en el campo de los
+inyectables de liberación prolongada (Long Acting Injectable o LAIs) para el tratamiento de la esquizofrenia en
+Estados Unidos y con potenciales modificaciones normativas o de la política estadounidense en lo que
+respecta a la industria farmacéutica, lo que supone un riesgo en la consecución de la rentabilidad esperada de
+Risvan®.
+– La inexistencia regulatoria en el mercado estadounidense de una diferenciación o especificación en la ficha
+técnica de los inyectables de liberación prolongada que comparten la misma indicación “Tratamiento de la
+esquizofrenia en pacientes adultos”, que no favorece el posicionamiento de Risvan® en un mercado con
+grandes competidores. A ello habría que añadir el tiempo y coste de los estudios de farmacocinética requeridos
+1 Correll, C.U., Litman, R.E., Filts, Y. et al. Efficacy and safety of once-monthly Risperidone ISM® in schizophrenic patients with an acute exacerbation. npj Schizophr 6, 37 (2020).
+https://doi.org/10.1038/s41537-020-00127-y
+2 Positive and Negative Syndrome Scale: la Escala de Síndrome Positivo y Negativo es una escala médica basada en una entrevista semiestructurada que mide la gravedad de los
+síntomas de los pacientes con esquizofrenia en 3 dimensiones, síntomas positivos, síntomas negativos y síntomas psicopatológicos generales.
+3 Clinical Global Impression-Severity scale: la escala de Impresión Clínica Global–Gravedad mide la gravedad de la esquizofrenia mediante una pregunta que se le hace al médico:
+“¿Teniendo en cuenta su experiencia clínica total con esta población en particular, ¿cómo de enfermo mental está el paciente en este momento?".
+4 Filts Y, Litman RE, Martínez J, Anta L, Naber D, Correll CU. Long-term efficacy and safety of once[4]monthly Risperidone ISM® in the treatment of schizophrenia: Results from a 12-
+month open-label extension study. Schizophr Res. 2021 Nov 27;239:83-91
+5 Litman R, Naber D, Anta L, Martínez J, Filts Y, Correll CU. Personal and Social Functioning and Health[5]Related Quality of Life in Patients with Schizophrenia Treated with the
+Long-Acting Injectable Antipsychotic Risperidone ISM. Neuropsychiatr Dis Treat. 2023 Jan 25;19:219-232
+6

@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+Directly attributable costs that are capitalised as part of the computer software include the costs of the employees
+developing said programmes and an appropriate percentage of overheads.
+Expenses that do not meet these criteria are recognised as expenses when incurred. Expenditure on an intangible asset
+initially recognised in profit and loss will not subsequently be recognised as intangible assets.
+Computer software has a useful life from 4 to 10 years.
+c) Research and development expenses
+Research expenditure is recognised as an expense when incurred. Costs incurred in development projects (relating to the
+design and testing of new or improved products) are recognised as intangible assets when the following requirements are
+met:
+• It is technically possible to complete the production of the intangible asset so it can be available for use or sale;
+• Management intends to complete the intangible asset to be used or sold;
+• There is the capacity to use or sell the intangible asset;
+• It is possible to show evidence of how the intangible asset will generate probable economic benefits in the future;
+• There are the proper technical, financial or other resources available to complete the development and to use or
+sell the intangible asset; and
+• It is possible to measure reliably the expenditure attributable to the intangible asset during development.
+The Group considers that, in the case of the development of pharmaceutical products, the aforementioned requirements
+are met when the drugs have been approved for marketing by the health authorities in the case of new products developed
+under patent, or, in the case of biosimilars or generics, when the application for marketing authorisation is filed.
+The cost of assets generated internally by the Group is measured following the same principles as established for
+determining the production cost of inventories. Production costs are capitalised by crediting the costs attributable to the
+asset to accounts under the heading “Work performed by the Group on non-current assets” in the consolidated income
+statement (consolidated statement of comprehensive income).
+These assets have a useful life of 20 years, consistent with the term of pharmaceutical product patents. ROVI expects to
+obtain a positive return on the development during said period.
+2.8 Borrowing costs
+General and specific interest costs that are directly attributable to the acquisition, construction or production of qualifying
+assets, which are those that necessarily require a substantial time period before they are ready for their planned use or to
+be sold, are added, if applicable, to the cost of these assets until the time when said assets are substantially ready for their
+intended use or to be sold.
+Finance income obtained from the temporary investment of specific loans while they are waiting to be used on the qualifying
+assets are deducted from capitalizable interest costs.
+The rest of the interest costs are expensed in the annual period in which they are incurred.
+2.9 Impairment of non-financial assets
+Intangible assets that have an indefinite useful life and those that are not in a usable condition are not amortised and are
+tested annually for impairment. Amortisable assets are tested for impairment whenever events or changes in circumstances
+indicate that the carrying amount may not be recoverable. An impairment loss is recognised for the amount by which the
+asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an asset’s fair value
+less costs to sell and its value in use. For the purposes of assessing impairment, assets are grouped at the lowest levels
+for which there are separately identifiable cash flows that are largely independent (cash-generating units). Previous
+13

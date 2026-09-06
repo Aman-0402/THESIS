@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+- An increase of, approximately, 0.1 million euros in the cash flows from operating activities, as the result
+of the increase in the gross operating profit, offset by a decrease of the same amount in the cash flows
+from financing activities, since the reimbursement of the portion of the principal of the lease liabilities
+would be classified as cash flows from financing activities, meaning that the generation of cash would
+not be affected.
+• Amendments to IFRS 9 “Financial Instruments”: “Prepayment Features with Negative Compensation”.
+According to this amendment, effective 1 January, 2018, financial assets that can be prepaid with compensation
+may be measured at amortised cost or fair value through other comprehensive income. ROVI will take this
+amendment into account if any asset with these features is prepaid.
+c) Standards, amendments and interpretations of existing standards that cannot be adopted early or that have not been
+endorsed by the European Union.
+At the date of signature of these Consolidated Annual Accounts, the IASB and the IFRS Interpretations Committee had
+published the standards, amendments and interpretations described below which have not yet been endorsed by the
+European Union. ROVI considers that the following could be applicable to the Group:
+• IAS 28 (Amendment), “Long-term Interests in Associates and Joint Ventures ”. This amendment clarifies that an
+entity will apply the requirements of IFRS 9 to long-term interests before the allocation of losses and impairment
+of IAS 28. When applying IFRS 9, the entity will not take any adjustments to the carrying amount of long-term
+interests as a consequence of the application of IAS 28 into account. ROVI will apply this Interpretation when it
+enters into force. The impact is not expected to be significant.
+• Annual Improvements to IFRS 2015–2017 Cycle. The amendments affect IAS 12, IAS 23 and IAS 28. The main
+amendments that may apply to the Group refer to:
+o IAS 12, "Income Taxes”. Clarification of the income tax consequences of payments on financial
+instruments classified as equity.
+o IAS 23, “Borrowing Costs”. The basic principle of this improvement is that borrowing costs directly
+attributable to the acquisition, construction or production of qualifying assets form part of the cost of
+said assets. Other borrowing costs are recognised as an expense.
+o IAS 28, “Investments in Associates and Joint Ventures”. This states that an entity will also apply IFRS 9
+to other financial instruments in an associate or joint venture to which the equity method is not applied.
+• IAS 19 (Amendment) “Employee Benefits”. This amendment requires the entity to use updated assumptions to
+determine current service cost and net interest for the remainder of the annual reporting period after the
+amendment, curtailment or settlement of a plan, and to recognise any reduction in a surplus in profit and loss
+as part of the cost of a past service or a gain or loss on the settlement, even if the surplus has not been
+recognised previously due to the impact of the asset ceiling. ROVI will take this amendment into account in the
+event of a change in the plans for employees.
+15

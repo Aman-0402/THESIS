@@ -1,0 +1,51 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Inter-company transactions and balances and unrealised gains on transactions between Group entities are eliminated.
+Unrealised losses are also eliminated. When necessary, the amounts shown for subsidiaries have been adjusted to adapt them
+to Group accounting policies.
+Appendix 1 to these Notes lists the particulars of the fully-consolidated subsidiaries. All subsidiaries and associates have the
+same annual period as the parent company.
+b) Joint arrangement and associates
+The Group applies IFRS 11 to all joint arrangements. Under IFRS 11, joint arrangements are classified into either joint
+operations or joint ventures, depending on the contractual rights and obligations of each investor. The Group has assessed the
+nature of its joint arrangements and has determined them to be joint ventures. Joint ventures are accounted for using the equity
+method.
+In addition, the Group classifies a company as an associate when it has significant influence, in accordance with IAS 28.
+Significant influence is determined by the percentage interest and other qualitative factors, such as representation on the board
+of directors or equivalent governing body, participation in the policy-making process, material transactions between the investor
+and the investee, interchange of managerial personnel or the provision of essential technical information. Associates are also
+accounted for using the equity method.
+Under the equity method, interests in joint ventures are initially recognised at cost and are then adjusted to recognise the
+Group’s share in post-acquisition profits and losses and movements in other comprehensive income. When the Group’s share in
+the losses of a joint venture equals or exceeds its interests in joint ventures (including any long-term interest that, substantially,
+forms part of the Group’s net investment in joint ventures), the Group does not recognise additional losses unless it has
+acquired obligations or made payments on behalf of the joint ventures.
+Unrealised gains on transactions between the Group and its joint ventures are eliminated to the extent of the Group’s interest in
+the joint ventures. Unrealised losses are also eliminated unless the transaction provides evidence that the assets transferred
+have suffered an impairment loss. The accounting policies for joint ventures have been modified where necessary to ensure
+consistency with the policies adopted by the Group.
+2.4 Segment reporting
+Operating segment reporting is presented consistently with the internal information presented to the chief decision-making
+authority. The chief decision-making authority, which is responsible for allocating resources to the operating segments and
+assessing the performance of said segments, has been identified as the Management Committee, which makes the strategic
+decisions.
+2.5 Foreign currency transactions
+a) Functional and presentation currency
+Items included in the annual accounts of each of the Group’s entities are measured using the currency of the primary economic
+environment in which the entity operates ("the functional currency”). The consolidated annual accounts are presented in euros,
+which is the Group’s functional and presentation currency.
+b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates in force at the transaction
+dates or, if the items have been remeasured, the measurement dates.
+Foreign currency losses and gains that result from the settlement of these transactions are recognised in profit and loss, except
+if deferred in the case of eligible cash flow hedges or eligible net investment hedges. Foreign currency losses and gains relating
+to loans and cash and cash equivalents are shown as “Finance costs – net”. Other foreign currency losses and gains are shown
+as “Other net gains/(losses)”.
+Changes in the fair value of monetary securities denominated in foreign currency and classified as equity securities are
+analysed considering the translation differences resulting from changes in the amortised cost of the security and other changes
+in its carrying amount. Translation differences relating to variations in the amortised cost are recognised in profit and loss and
+the other changes in the carrying amount are recognised in other comprehensive income.
+10

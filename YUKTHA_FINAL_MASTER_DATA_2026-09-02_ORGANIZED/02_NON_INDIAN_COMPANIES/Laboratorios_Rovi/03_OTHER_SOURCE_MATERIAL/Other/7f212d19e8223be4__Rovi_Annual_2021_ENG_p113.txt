@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+Where any Group company purchases shares in the Company (treasury shares), the consideration paid, including any
+directly attributable incremental costs (net of income taxes) is deducted from equity attributable to the Company’s
+shareholders until the shares are cancelled, reissued or resold. Where such shares are subsequently sold or reissued, any
+consideration received, net of any directly attributable incremental transaction costs and the related income tax effect, is
+included in equity attributable to the Company’s shareholders.
+2.15 Government grants
+Grants from the government are recognised at their fair value where there is a reasonable assurance that the grant will be
+received and the Group will comply with all attached conditions. Grants relating to reimbursable advances are recognised
+when these advances are granted to the Group.
+Government grants relating to costs are deferred and recognised in profit and loss over the period necessary to match
+them with the costs that they are intended to compensate.
+Government grants relating to the purchase of property, plant and equipment are included in non-current liabilities as
+deferred government grants and are credited to profit and loss on a straight-line basis over the expected lives of the related
+assets.
+Reimbursable advances at zero interest rate or those with a subsidised interest rate are recognised at fair value at the time
+they are received, subsequently being recognised at amortised cost. The difference between the fair value and the face
+value is registered as “Recognition of government grants on non-financial assets and others” if the loans are financing
+incurred expenses, or are included in non-current liabilities as deferred government grants, and credited to the income
+statement on a straight-line basis over the useful life of the assets which have been funded with said loans.
+2.16 Trade payables
+Trade payables are payment obligations for goods or services acquired from suppliers in the ordinary course of business.
+The payables are classified as current liabilities if they mature at one year or less (or if they mature within a normal operating
+cycle, if longer). Otherwise, they are shown as non-current liabilities.
+Trade payables are initially recognised at fair value and subsequently measured at amortised cost using the effective
+interest rate method.
+2.17 Financial debt
+The different liabilities recorded as financial debt are broken down below:
+a) Financial liabilities measured at amortised cost
+Financial liabilities measured at amortised cost are recognised initially at fair value less transaction costs incurred.
+Subsequently, are measured at amortised cost, any difference between the funds obtained (less the costs necessary to
+obtain them) and the repayment value being recognised in profit and loss over the period of the borrowings in accordance
+with the effective interest rate method.
+Financial liabilities measured at amortised cost are classified as current liabilities unless the Group has an unconditional
+right to defer settlement of the liability for at least 12 months after the end of the reporting period.
+Commissions paid for obtaining a credit line are recognised as debt transaction costs, provided that it is likely that part or
+all of the line will be drawn down. In this case, the commissions are deferred until the line is drawn down. To the extent that
+it is unlikely that all or part of the credit line will be drawn down, the commission will be capitalised as an advance payment
+for liquidity services and amortised over the period for which the credit is available.
+17

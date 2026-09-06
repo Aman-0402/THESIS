@@ -1,0 +1,54 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+7. Activos intangibles
+El movimiento de los activos intangibles es el siguiente:
+Marcas
+comerciales y Aplicaciones
+Desarrollo licencias informáticas Total
+Saldo al 01.01.22
+Coste 8.899 44.929 13.122 66.950
+Deterioro acumulado — (492) — (492)
+Amortización acumulada (1.854) (14.170) (11.876) (27.900)
+Valor neto contable 01.01.22 7.045 30.267 1.246 38.558
+Altas 669 669
+Deterioro — (2) — (2)
+Dotación a la amortización (442) (2.447) (592) (3.481)
+Saldo al 31.12.22
+Coste 8.899 44.929 13.791 67.619
+Deterioro acumulado — (494) — (494)
+Amortización acumulada (2.296) (16.617) (12.468) (31.381)
+Valor neto contable 31.12.22 6.603 27.818 1.323 35.744
+Altas — — 1.393 1.393
+Bajas de amortización — 30 3 33
+Dotación a la amortización (442) (2.373) (453) (3.268)
+Saldo al 31.12.23
+Coste 8.899 44.929 15.184 69.012
+Deterioro acumulado — (494) — (494)
+Amortización acumulada (2.738) (18.960) (12.918) (34.616)
+Valor neto contable 31.12.23 6.161 25.475 2.266 33.902
+A 31 de diciembre de 2023 y de 2022 la totalidad de los activos intangibles del Grupo pertenecen al segmento de
+comercialización.
+El Grupo no ha reconocido ningún inmovilizado intangible relacionado con el cumplimiento de contratos con clientes.
+Desarrollo
+A 31 de diciembre de 2023 y de 2022 los activos incluidos en el epígrafe “Desarrollo” corresponden a los activos relacionados
+con el desarrollo de una heparina de bajo peso molecular, biosimilar de enoxaparina, cuyas ventas se iniciaron en el ejercicio
+2017. El inicio de la amortización de este activo ha venido determinado por la finalización en el primer trimestre de 2017, con
+resultado positivo, del procedimiento Descentralizado utilizado por el Grupo para solicitar la obtención de la autorización de
+comercialización en veintiséis países de la Unión Europea. La vida útil de este inmovilizado es de 20 años, no habiéndose
+detectado en los ejercicios 2023 y 2022 indicios de deterioro del mismo.
+Marcas comerciales y licencias
+En el epígrafe “Marcas comerciales y licencias” se encuentran registrados activos de vida útil indefinida por valor de 5.366
+miles de euros a 31 de diciembre de 2023 y de 2022. La Dirección revisa anualmente la existencia de indicios de deterioro de
+estos activos, sin que hasta el momento se haya materializado ninguno de ellos. El valor recuperable, superior al cierre de
+ambos ejercicios al valor en libros, se ha obtenido calculando el valor en uso mediante la proyección de los flujos de efectivo
+esperados para los siguientes cinco ejercicios. En las proyecciones de flujo de efectivo a 31 de diciembre de 2023 se ha
+considerado una tasa de descuento del 8,7% (un 8,1% al cierre del ejercicio 2022) y se han considerado para cada año los
+márgenes previstos en función de las características de la fabricación del producto para dicho ejercicio. Un cambio del 10% de
+la tasa de descuento aplicada o en los flujos de efectivo considerados no habría supuesto la existencia de deterioro del activo.
+Como consecuencia de una reducción del valor recuperable por debajo del valor neto contable del activo relacionado con la
+adquisición de los derechos de distribución del producto Hirobriz® (perteneciente al segmento “Comercialización”), a 31 de
+diciembre de 2022 la Sociedad tenía reconocido un deterioro de 494 miles de euros. Durante el ejercicio 2023, este activo ha
+sido completamente amortizado y no se han registrado pérdidas adicionales por deterioro en la cuenta de resultados (2 miles
+de euros a 31 de diciembre de 2022).
+32

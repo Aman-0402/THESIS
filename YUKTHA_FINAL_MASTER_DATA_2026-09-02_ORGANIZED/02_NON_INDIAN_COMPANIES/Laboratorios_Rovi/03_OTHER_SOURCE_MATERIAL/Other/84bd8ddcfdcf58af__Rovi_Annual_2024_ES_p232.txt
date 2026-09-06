@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Evaluación de riesgos y oportunidades
+La evaluación de riesgos y oportunidades contempla dos variables principales, el efecto financiero y la probabilidad:
+• Efecto financiero: hace referencia a los efectos derivados de factores ambientales, sociales o de gobernanza que
+pueden influir, ya sea negativamente (riesgo) o positivamente (oportunidad), en la situación financiera de la empresa,
+rendimiento financiero, flujos de efectivo, acceso a la financiación o el coste del capital a corto, medio y largo plazo. El
+efecto financiero se mide en una escala del 1 al 5, siendo 1 leve, y 5 muy importante.
+• Probabilidad: hace referencia a la posibilidad de que un riesgo u oportunidad se llegue a materializar, y se mide en una
+escala de 1 a 5, donde 1 es improbable y 5, cierto. Los riesgos y oportunidades siempre son potenciales por la
+naturaleza de su definición.
+Escalas de valoración de la materialidad financiera
+Efecto Financiero Probabilidad
+Riesgos y oportunidades R&O potenciales
+Magnitud potencial del efecto financiero10 Posibilidad de ocurrencia
+Es improbable que se materialice el riesgo
+< 2,0 millones € El efecto financiero es leve.
+o la oportunidad.
+Es posible que se materialice el riesgo o la
+2,0 -11,8 millones € El efecto financiero es moderado.
+oportunidad.
+Es probable que se materialice el riesgo o
+11,8 – 23,6 millones € El efecto financiero es alto.
+la oportunidad.
+Es muy probable que se materialice el
+23,6 – 47,3 millones € El efecto financiero es importante.
+riesgo o la oportunidad.
+Es cierto que se materializará el riesgo o la
+>47,3 millones € El efecto financiero es muy importante.
+oportunidad.
+Finalmente, tras el establecimiento de las escalas de valoración, se ha procedido a la evaluación de los impactos, riesgos y
+oportunidades por parte de la muestra seleccionada de grupos de interés tanto internos como externos. Se han tenido en
+consideración a todos los grandes bloques de grupos de interés de ROVI, siendo estos los responsables de las distintas áreas
+de ROVI, la fuerza laboral, accionistas e inversores, proveedores, clientes, profesionales sanitarios, comunidad científica,
+pacientes y sociedad. El alcance de las entrevistas mantenidas y cuestionarios distribuidos puede consultarse en el requisito de
+divulgación SBM-2.
+d) Fase de determinación
+La fase de determinación tiene como objetivo identificar y concretar qué asuntos son materiales para el Grupo. En primera
+instancia, se han analizado las evaluaciones de los grupos de interés internos y externos. Tras dicho análisis, se ha establecido
+una ponderación sobre los IROs evaluados, otorgando un 60% a la evaluación del equipo de ESG de la Compañía y un 40% a
+la evaluación del resto de grupos de interés, tanto internos como externos.
+A partir de dicha ponderación y el análisis de resultados consolidados, se ha definido un umbral de materialidad. Este ha sido
+definido en función de los valores máximos y mínimos obtenidos de ambas materialidades:
+• Materialidad de impacto: se ha obtenido un valor mínimo de 0,6 y un valor máximo de 4,7, por lo que los resultados se
+encuentran dispersos entre las escalas establecidas11 resultando en niveles de impacto muy heterogéneos entre todas
+las temáticas.
+• Materialidad financiera: se ha obtenido un valor mínimo de 0,3 y un valor máximo de 3,5, por lo que los resultados se
+encuentran más concentrados en unos valores medio-bajos, indicando niveles de riesgo reducidos entre todas las
+temáticas.
+10 Los rangos financieros se han calculado en función de los datos de las Cuentas Anuales Consolidadas del Grupo relativas al año fiscal 2023. En concreto, se ha
+calculado como % de los ingresos reconocidos en la cuenta de resultados.
+11 Posibilidad de obtener un máximo de [(5*5) = 25] / 5 = 5 y un mínimo de [(1*1) = 1] / 5 = 0,2.
+34

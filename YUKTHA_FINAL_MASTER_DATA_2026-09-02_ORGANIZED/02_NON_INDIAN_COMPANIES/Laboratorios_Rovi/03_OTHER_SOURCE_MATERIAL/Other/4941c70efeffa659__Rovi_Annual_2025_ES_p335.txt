@@ -1,0 +1,49 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2025
+(Expresada en miles de euros)
+Miles de euros
+Menos de Entre 1 y 2 Entre 2 y 5 Más de 5
+Al 31 de diciembre de 2024 un año años años años
+Deudas con entidades de crédito 17.482 35.919 32.646 4.643
+Deudas con organismos oficiales 1.543 3.340 3.179 1.309
+Deudas con empresas de grupo y asociadas 20.811 4.466 6.699 74.733
+Acreedores comerciales y otras cuentas a pagar 213.875 — — —
+253.711 43.725 42.524 80.685
+4.2 Estimación del valor razonable
+El valor razonable de los instrumentos financieros que se comercializan en mercados activos (tales como los títulos a
+valor razonable con cambios en la cuenta de pérdidas y ganancias o patrimonio neto) se basa en los precios de
+mercado a la fecha del balance. El precio de cotización de mercado que se utiliza para los activos financieros es el
+precio corriente comprador.
+El valor razonable de los anticipos reembolsables sin tipo de interés o con tipo de interés subvencionado se determina
+aplicando a los reembolsos a efectuar la curva de tipos de interés en vigor a la fecha de recepción del anticipo,
+añadiendo el spread que normalmente se aplica en los préstamos a la Sociedad. A efectos de la presentación de
+información financiera, el valor razonable se calcula al cierre del cada ejercicio, aplicando a los pagos pendientes la
+curva de tipos en vigor en cada cierre, añadiendo el spread correspondiente. En los préstamos a tipo variable, se ha
+estimado que su valor razonable coincide con el importe por el que están registrados.
+5. Inmovilizado intangible
+El detalle y movimiento de las partidas incluidas en el Inmovilizado intangible es el siguiente:
+Patentes,
+licencias y Aplicaciones
+Desarrollo marcas informáticas Total
+Saldo al 01.01.24
+Coste 9.094 44.075 8.441 61.610
+Deterioro acumulado — (494) — (494)
+Amortización acumulada (3.035) (23.329) (7.504) (33.868)
+Valor neto contable 01.01.24 6.059 20.252 937 27.248
+Altas — 949 1.702 2.651
+Baja — (7) — (7)
+Baja de amortización — 3 — 3
+Dotación a la amortización (455) (2.473) (293) (3.221)
+Saldo al 31.12.24
+Coste 9.094 45.017 10.143 64.254
+Deterioro Acumulado — (494) — (494)
+Amortización acumulada (3.490) (25.799) (7.797) (37.086)
+Valor neto contable 31.12.24 5.604 18.724 2.346 26.674
+Altas — 45 738 783
+Dotación a la amortización (455) (2.357) (693) (3.505)
+Saldo al 31.12.25
+Coste 9.094 45.062 10.881 65.037
+Deterioro Acumulado — (494) — (494)
+Amortización acumulada (3.945) (28.156) (8.490) (40.591)
+Valor neto contable 31.12.25 5.149 16.412 2.391 23.952
+20

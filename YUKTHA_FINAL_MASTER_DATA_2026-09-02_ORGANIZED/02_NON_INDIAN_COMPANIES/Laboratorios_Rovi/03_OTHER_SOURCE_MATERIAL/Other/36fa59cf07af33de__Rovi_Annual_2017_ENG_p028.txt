@@ -1,0 +1,40 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+Contingent liabilities are the possible obligations arising from past events the materialization of which depends on
+whether one or more future events take place irrespective of the Company’s wishes. These contingent liabilities are not
+recognized but details are set forth in the Notes (Note 28).
+3.12 Business combinations
+Transactions of merger, spin-off or non-monetary contribution of a business between group companies are recorded
+applying the rules for transactions with related parties (Note 3.16).
+Other merger, spin-off or non-monetary contribution transactions and business combinations arising from the acquisition
+of all the assets and liabilities of a company or a part of a company that comprises one or more businesses are
+recognized applying the acquisition method.
+For business combinations resulting from the acquisition of shares in the capital of a company, the Company recognizes
+the investment in accordance with the rules for investments in the equity of group, multi-group and associated companies
+(Note 3.4.c).
+3.13 Revenue recognition
+Revenue comprises the fair value of the consideration received or receivable for the sale of goods, rendering of services
+and other revenue received in the ordinary course of the Company’s activties. Revenue is shown net of returns, rebates,
+discounts and value-added tax.
+The Company recognizes revenue when the amount of revenue can be reliably measured, it is probable that future
+economic benefits will flow to the Company and specific criteria have been met for each of the activities as described
+below. The amount of revenue is not considered to be reliably measurable until all contingencies relating to the sale have
+been resolved. The Company bases its estimates on historical results, taking into consideration the type of customer, the
+type of transaction and the specifics of each arrangement.
+a) Sale of goods
+The Company sells pharmaceutical products for which it holds a manufacturing and sale licence in the wholesale market
+and also to retailers. It also acquires and sells pharmaceutical products of other entities.
+Sales of goods are recognized when the Company has delivered products to the customer and there is no unfulfilled
+obligation which could affect the acceptance of the products by the customer. The sale does not take place until the
+products and the obsolescence and loss risks have been transferred to the customer, the customer has accepted the
+products in accordance with the sale contract and the acceptance period has finished, or the Company has objective
+evidence for that the necessary criteria have been met for customer acceptance.
+The products are sold with volume discounts and customers are entitled to return damaged products. Sales are
+recognized at the price fixed in the sale contract, net of volume discounts and returns estimated at the date of sale.
+Volume discounts are measured based on estimated annual purchases. Returns are not significant and they are
+measured based on the Group’s historical experience (Note 2). Sales are carried out with short-term collection periods.
+19

@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+The segment information used by the Management Committee for 2018 was as follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 142,688 287,763 - 430,451 (127,248) 303,203
+Profit/(loss) 17,196 13,218 (7) 30,407 (12,512) 17,895
+Income tax 4,396 (5,550) (2) (1,156) (59) (1,215)
+Profit/(loss) before tax 21,592 7,668 (9) 29,251 (12,571) 16,680
+Finance costs - net 33 (11,578) - (11,545) 12,347 802
+Amortisation 4,795 7,249 - 12,044 - 12,044
+EBITDA (*) 26,420 3,339 (9) 29,750 (224) 29,526
+Amortisation (4,795) (7,249) - (12,044) - (12,044)
+EBIT (**) 21,625 (3,910) (9) 17,706 (224) 17,482
+The 2017 figures were as follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 122,199 242,102 - 364,301 (88,652) 275,649
+Profit/(loss) 11,699 16,978 (94) 28,583 (11,342) 17,241
+Income tax 7,224 (6,296) (30) 898 (617) 281
+Profit/(loss) before tax 18,923 10,682 (124) 29,481 (11,959) 17,522
+Finance costs - net 21 (8,602) 1 (8,580) 9,500 920
+Amortisation 4,108 7,371 - 11,479 - 11,479
+EBITDA (*) 23,052 9,451 (123) 32,380 (2,459) 29,921
+Amortisation (4,108) (7,371) - (11,479) - (11,479)
+EBIT (**) 18,944 2,080 (123) 20,901 (2,459) 18,442
+(*) EBITDA is calculated as profit before taxes, interest and amortization.
+(**) EBIT is calculated as profit before taxes and interest.
+Inter-segment transactions included on the finance gain/(loss) lines are principally dividends paid between Group
+companies.
+Each segment’s sales to customers in 2018 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 142,688 287,763 - 430,451
+Inter-segment revenues (88,113) (39,135) - (127,248)
+Revenues from external customers 54,575 248,628 - 303,203
+34

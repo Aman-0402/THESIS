@@ -1,0 +1,40 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+3.11 Employee benefits
+a) Pension commitments
+The Company holds a defined-contribution plan exclusively on behalf of certain employees.
+A defined-contribution plan is a pension plan under which the Company pays fixed contributions into a separate entity.
+The Company has no legal, contractual or constructive obligations to pay further contributions if the fund does not hold
+sufficient assets to pay all the commitments assumed.
+For defined-contribution plans, the Company pays contributions to privately- or publicly-managed pension insurance
+plans on a mandatory, contractual or voluntary basis. Once the contributions have been paid, the Company is not obliged
+to make any further payments. The contributions are recognised as employee benefits when accrued. Contributions paid
+in advance are recognised as an asset to the extent to which a cash refund or reduction in future payments is available.
+The Company recognises a liability for contributions to be made when, at the end of the reporting period, contributions
+have accrued but not been settled.
+b) Termination benefits
+Termination benefits are payable when employment is terminated by the Company before the normal retirement date, or
+whenever an employee accepts voluntary redundancy in exchange for these benefits. The Company recognises
+termination benefits when it is demonstrably committed to either terminating the employment of current employees
+according to a detailed formal plan without possibility of withdrawal; or providing termination benefits as a result of an
+offer made to encourage voluntary redundancy. Benefits falling due more than 12 months after the end of the reporting
+period are discounted to present value.
+3.12 Provisions and contingent liabilities
+Provisions for environmental restoration, restructuring costs and legal claims are recognised when the Company has a
+present legal or constructive obligation as a result of past events, it is probable that an outflow of resources will be
+required to settle the obligation and the amount can be reliably estimated. Restructuring provisions comprise lease
+termination penalties and employee termination payments. Provisions are not recognised for future operating losses.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a
+pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the obligation.
+The increase in the provision due to passage of time is recognised as a finance cost as accrued.
+Provisions maturing at one year or less with an insignificant financial effect are not discounted.
+When part of the expenditure necessary to settle the provision is expected to be reimbursed by a third party, the
+reimbursement is recognised as a separate asset, provided it is almost certain to be received.
+Contingent liabilities are the possible obligations arising from past events the materialisation of which depends on
+whether one or more future events take place irrespective of the Company’s wishes. These contingent liabilities are not
+recognised but details are set forth in the Notes (Note 28).
+16

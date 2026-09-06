@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Under the equity method, interests in joint ventures are initially recognized at cost and are then adjusted to recognize the
+Group’s share in post-acquisition profits and losses and other movements in other comprehensive income. When the
+Group’s share in the losses of a joint venture equals or exceeds its interests in joint ventures (including any long-term
+interest that, substantially, forms part of the Group’s net investment in joint ventures), the Group does not recognize
+additional losses unless it has acquired obligations or made payments on behalf of the joint ventures.
+Unrealized gains on transactions between the Group and its joint ventures are eliminated to the extent of the Group’s
+interest in the joint ventures. Unrealized losses are also eliminated unless the transaction provides evidence that the
+assets transferred have suffered an impairment loss. The accounting policies for joint ventures have been modified
+where necessary to ensure consistency with the policies adopted by the Group.
+2.4. Segment reporting
+Operating segment reporting is presented consistently with the internal information presented to the chief decision-
+making authority. The chief decision-making authority, which is responsible for allocating resources to the operating
+segments and assessing the performance of said segments, has been identified as the Management Committee, which
+makes the strategic decisions.
+2.5. Foreign currency transactions
+(a) Functional and presentation currency
+Items included in the Annual Accounts of each of the Group’s entities are measured using the currency of the primary
+economic environment in which the entity operates ("the functional currency”). The Consolidated Annual Accounts are
+presented in euros, which is the Group’s functional and presentation currency.
+(b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates in force at the
+transaction dates or, if the items have been remeasured, the measurement dates. Foreign currency losses and gains
+that result from the settlement of these transactions and the translation of the monetary assets and liabilities
+denominated in foreign currencies at the rates in force at the end of the reporting period are recognized in profit and loss,
+except if deferred in other comprehensive income, as is the case with eligible cash flow hedges and eligible net
+investment hedges. Foreign currency losses and gains relating to loans and cash and cash equivalents are presented as
+“Finance income or expenses” in the income statement. Other foreign currency losses and gains are presented as “Other
+net gains / (losses)”.
+Changes in the fair value of monetary securities denominated in foreign currency and classified as available for sale are
+analyzed considering the translation differences resulting from changes in the amortized cost of the security and other
+changes in its carrying amount. Translation differences relating to variations in the amortized cost are recognized in proift
+and loss and the other changes in the carrying amount are recognized in other comprehensive income.
+Translation differences on non-monetary items, such as equity instruments held at fair value through profit and loss, are
+recognized in profit and loss as part of the fair value gain or loss. Translation differences on non-monetary items
+measured at fair value, such as equity instruments classified as available-for-sale financial assets, are included in other
+comprehensive income.
+12

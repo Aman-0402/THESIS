@@ -1,0 +1,67 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+6. CONSOLIDATED INCOME STATEMENT (UNDER IFRS ADOPTED)
+Units: thousands of euros ACCUMULAT
+ACCUMULA
+CURRENT PREVIOUS ED
+TED
+PERIOD PERIOD PREVIOUS
+PERIOD
+(2nd HALF) (2nd HALF) PERIOD
+31/12/2021
+31/12/2020
+(+) Net revenue 1205 358.627 228.832 648.677 419.961
+(+/-) Change in inventories of finished products and work in
+1206 345 (19.176) 782 17.659
+progress
+(+) Work performed by the company on its assets 1207
+(-) Supplies 1208 (127.902) (80.073) (264.637) (196.311)
+(+) Other operating income 1209
+(-) Employee benefit expenses 1217 (45.093) (37.877) (89.803) (74.429)
+(-) Other operating expenses 1210 (57.786) (40.363) (93.502) (73.706)
+(-) Amortization and depreciation charges 1211 (10.692) (10.052) (21.364) (19.593)
+(+) Allocation of grants for non-financial assets and other 1212 748 556 1.334 1.157
+(+/-) Impairment of intangible assets and property, plant &
+1214 (95) (56) (95) (56)
+equipment
+(+/-) Gains/(losses) on disposal of intangible assets and
+1216
+property, plant & equipment
+(+/-) Other gains/(losses) 1215
+= OPERATING PROFIT/(LOSS) 1245 118.152 41.791 181.392 74.682
+(+) Finance income 1250 3 2 68 4
+a) Interest income calculated using the effective interest rate
+1262 3 2 68 4
+method
+b) Other 1263
+(-) Finance expenses 1251 (449) (221) (905) (1.072)
+(+/-) Change in fair value of financial instruments 1252 (96) (1.330) 908 (796)
+(+/-) Gains/(losses) due to the reclassification of financial
+assets held at amortised cost to financial assets held at fair 1258
+value
+(+/-) Gains/(losses) due to the reclasification of financial
+assets held at fair value through other comprehensive income 1259
+to financial assets held at fair value
+(+/-) Exchange rate differences 1254 (104) 18 (178) 39
+(+/-) Impairment on disposal of financial instruments 1255
+(+/-) Gains/(losses) on disposal of financial instruments 1257 1.161 (511) 1.161 (245)
+a) Financial instruments at amortised cost 1260
+b) Rest of financial instruments 1261 1.161 (511) 1.161 (245)
+= FINANCE PROFIT/(LOSS) 1256 515 (2.042) 1.054 (2.070)
+(+/-) Profit/(loss) of entities measured using the equity method 1253 52 (9) 182 (31)
+= PROFIT/(LOSS) BEFORE TAX 1265 118.719 39.740 182.628 72.581
+(+/-) Corporate income tax 1270 (16.665) (8.276) (29.551) (11.524)
+= PROFIT/(LOSS) FOR PERIOD FROM CONTINUING
+1280 102.054 31.464 153.077 61.057
+OPERATIONS
+(+/-)Profit/(loss) for period from discontinued operations, net
+1285
+of taxes
+= CONSOLIDATED PROFIT/(LOSS) FOR PERIOD 1288 102.054 31.464 153.077 61.057
+a) Profit/(loss) attributed to parent company 1300 102.054 31.464 153.077 61.057
+b) Profit/(loss) attributed to non-controlling interests 1289
+AMOUNT AMOUNT AMOUNT AMOUNT
+EARNINGS PER SHARE
+(X.XX euros) (X.XX euros) (X.XX euros) (X.XX euros)
+Basic 1290 1,84 0,57 2,76 1,10
+Diluted 1295

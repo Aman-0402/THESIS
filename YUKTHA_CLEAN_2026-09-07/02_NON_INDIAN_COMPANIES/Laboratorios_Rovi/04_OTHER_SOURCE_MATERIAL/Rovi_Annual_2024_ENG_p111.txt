@@ -1,0 +1,53 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+In this respect, for each performance obligation identified, the Group determines whether it will satisfy the obligation over time or
+at a point in time.
+a) Sales of goods
+The Group’s “Sales of goods” are derived from the sale of pharmaceutical products, contrast agents and other hospital products,
+and other non-prescription pharmaceutical products, where control transfers to the customers and the performance obligations
+are satisfied when the goods are made available to other pharmaceutical companies or, for the remaining customers, at the time
+of delivery. Invoices are usually due in a maximum period of 60 days.
+IFRS 15 states that that an entity that grants the right to return the product should recognise revenue for the amount of the
+consideration to which it expects to be entitled in exchange for transferring the promised goods or services to a customer, as
+well as a refund liability and an asset for the right to recover the goods. ROVI recognises revenue net of the estimated returns at
+the date of sale, while also recognising a refund liability. The Group does not recognise an asset for the right to recover the
+goods because, in the light of its experience and the type of product sold, returned items can no longer form part of the Group’s
+inventories.
+The amount of revenue recognised is adjusted for expected returns, which are estimated considering the average returns rates
+of recent years.
+Discounts granted to government customers are recorded as a deduction from revenue at the time the related revenues are
+recorded. Where appropriate, a liability is calculated on the basis of historical experience, which requires the use of judgement
+by the management.
+Therefore, ROVI’s revenue from sales of products is subject to variable consideration for rebates, refunds and returns. This
+variable consideration is only recognised if it is highly probable that there will be no significant reversal in the amount of the
+cumulative revenue recognised when the uncertainty associated with the variable consideration subsequently disappears.
+b) Sales of services
+The main services provided by the Group consist of manufacturing and packaging services for third parties (contract
+manufacturing). In this service, control is deemed to be transferred to the customer and the performance obligations are
+deemed to have been completed when the manufactured and packaged goods are made available to the customer. Invoices are
+usually payable between 30 and 120 days.
+Occasionally, before providing the manufacturing service, ROVI, in accordance with certain defined milestones, carries out work
+to adapt, fit out and validate the facilities and machinery –which may be either its own or acquired or subcontracted from third
+parties– without which it would not be possible to provide the service under the conditions required by the customers. Therefore,
+if the final cost of this work is paid by the customer, ROVI recognises the revenue from each one of the services provided on the
+basis of the percentage of completion of the work performed, in accordance with the milestones defined for each one of them. If
+the percentage of completion includes a determined acquisition of assets, the margin is not recognised until they are finally
+installed.
+ROVI has entered into commitments with certain customers to reserve production capacities at its plants in exchange for a
+financial consideration. The reservation of capacity is defined as a contract whereby ROVI receives advance payments from
+customers with whom a performance obligation exists, consisting of being ready to produce, over a period of time, certain
+production volumes. This production is reserved and is not carried out if the customer does not request it.
+The capacity reservations are settled annually and therefore, do not entail any estimates.
+The Group recognises the amounts collected as a liability, which is derecognised and recognised as revenue when the
+performance obligation is met in the following scenarios:
+– If the customer has requested the whole of the reserved production, the Group will not recognise any revenue for the
+reservation of capacity and will refund the amounts received for this item.
+– If the customer requests part of the reserved production, the amounts that must be refunded to the customer and
+those that the Group can recognise as revenue for the reservation of capacity will be evaluated in accordance with
+certain ranges defined in the contract.
+– If the customer does not request any of the reserved production, the Group will recognise revenue for all the amounts
+received in relation to the reservation of capacity, since there will be no obligation to refund these payments.
+19

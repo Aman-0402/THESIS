@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+Los pasivos financieros a coste amortizado se clasifican como pasivos corrientes a menos que el Grupo tenga un derecho
+incondicional a diferir su liquidación durante al menos 12 meses después de la fecha del balance.
+Las comisiones abonadas por la obtención de líneas de crédito se reconocen como costes de transacción de la deuda siempre
+que sea probable que se vaya a disponer a de una parte o de la totalidad de la línea. En este caso, las comisiones se difieren
+hasta que se produce la disposición. En la medida en que no sea probable que se vaya a disponer de todo o parte de la línea
+de crédito, la comisión se capitalizará como un pago anticipado por servicios de liquidez y se amortiza en el periodo al que se
+refiere la disponibilidad del crédito.
+b) Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias
+Los pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias se reconocen inicialmente por su
+valor razonable. Los costes de transacción directamente atribuibles a la compra o emisión se reconocen posteriormente como
+gasto a medida que se incurren. El valor razonable de un instrumento financiero en el momento inicial es habitualmente el
+precio de la transacción, salvo que dicho precio contenga elementos diferentes del instrumento, en cuyo caso, el Grupo
+determina el valor razonable del mismo.
+Con posterioridad a su reconocimiento inicial, se reconocen a valor razonable registrando las variaciones en resultados. Las
+variaciones del valor razonable incluyen el componente de intereses y dividendos. El valor razonable no se reduce por los
+costes de transacción en que se pueda incurrir por su eventual venta o disposición por otra vía.
+El grupo clasifica como pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias los derivados
+que no han sido calificados como instrumentos de cobertura.
+2.18 Impuestos corrientes y diferidos
+El gasto por impuestos del periodo comprende los impuestos corrientes y diferidos. Los impuestos se reconocen en el
+resultado, excepto en la medida en que estos se refieran a partidas reconocidas en el otro resultado global o directamente en el
+patrimonio neto. En este caso, el impuesto también se reconoce en el otro resultado global o directamente en patrimonio neto,
+respectivamente.
+El gasto por impuesto corriente se calcula en base a las leyes aprobadas o a punto de aprobarse a la fecha de balance en los
+países en los que opera el Grupo y en los que generan bases positivas imponibles. La dirección evalúa periódicamente las
+posiciones tomadas en las declaraciones de impuestos respecto a las situaciones en las que la regulación fiscal aplicable está
+sujeta a interpretación, y, en caso necesario, establece provisiones en función de las cantidades que se espera pagar a las
+autoridades fiscales.
+Los impuestos diferidos se reconocen por las diferencias temporarias que surgen entre las bases fiscales de los activos y
+pasivos y sus importes en libros en las cuentas anuales consolidadas. Sin embargo, los impuestos diferidos no se contabilizan
+si surgen del reconocimiento inicial de un activo o pasivo en una transacción, distinta de una combinación de negocios, que, en
+el momento de la transacción, no afecta ni al resultado contable ni a la ganancia o pérdida fiscal.
+El impuesto diferido se determina usando tipos impositivos (y leyes) aprobados o a punto de aprobarse en la fecha del balance
+y que se espera serán de aplicación cuando el correspondiente activo por impuesto diferido se realice o el pasivo por impuesto
+diferido se liquide.
+Los activos por impuestos diferidos se reconocen sólo en la medida en que es probable que vaya a disponerse de beneficios
+fiscales futuros con los que poder compensar las diferencias temporarias.
+Los activos por impuestos diferidos y los pasivos por impuestos diferidos se compensan si, y solo si, existe un derecho
+legalmente reconocido de compensar los activos por impuesto corriente con los pasivos por impuesto corriente y cuando los
+activos por impuestos diferidos y los pasivos por impuestos diferidos se derivan del impuesto sobre las ganancias
+correspondientes a la misma autoridad fiscal, que recaen sobre la misma entidad o sujeto fiscal, o diferentes entidades o
+sujetos fiscales, que pretenden liquidar los activos y pasivos fiscales corrientes por su importe neto.
+18

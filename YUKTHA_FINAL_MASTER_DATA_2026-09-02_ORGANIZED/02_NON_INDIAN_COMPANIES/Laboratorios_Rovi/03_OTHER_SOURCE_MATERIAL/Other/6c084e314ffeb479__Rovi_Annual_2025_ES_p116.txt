@@ -1,0 +1,62 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Estándar Requisito de Parámetros / Importes Información sobre las fuentes de
+Páginas
+Temático divulgación monetarios incertidumbre de medida
+Un fallo en los contadores de la planta de San
+Sebastián de los Reyes ha derivado en la
+NEIS E3 estimación de los datos tanto de agua
+Agua y Consumo de Consumo de agua reutilizada y consumida como de agua reutilizada. Para ello
+86
+recursos agua (E3-4) almacenada (m3) se han tomado los datos de agua correctamente
+marinos registrada a través de la lectura de los
+contadores y se ha extrapolado para calcular el
+agua durante el periodo de fallo de los mismos.
+En la planta de Alcalá de Henares, el caudal de
+vertido se estima a partir de la media de las dos
+mediciones semestrales realizadas durante el
+año y se extrapola a un año completo
+NEIS E3 multiplicándolo por el total de horas anuales,
+Agua y Consumo de obteniendo así el volumen estimado en m³.
+Agua vertida (m3) 87
+recursos agua (E3-4) En la planta de Escúzar – derivado de un fallo
+marinos de contador, el volumen de agua vertido se ha
+estimado en función de la superficie de cubierta
+en cada punto de vertido y la precipitación media
+anual de la zona, a partir de fuentes
+meteorológicas oficiales.
+Para la estimación de la parte elegible conforme
+a la Taxonomía Europea de la actividad 7.3.
+“Instalación, mantenimiento y reparación de
+equipos de eficiencia energética”, se aplica un
+ratio que refleja la proporción del sistema de
+climatización destinada a áreas de proceso y
+salas consideradas elegibles según criterios del
+Taxonomía Análisis de la Ratios de elegibilidad en equipos RITE. Este ratio es proporcionado por el
+40
+Europea elegibilidad de climatización responsable de cada planta, quien determina el
+valor en función de los parámetros técnicos
+disponibles (potencia instalada, cargas térmicas,
+superficies servidas u otros elementos de
+diseño). Asimismo, el responsable facilita una
+breve justificación del motivo por el que dicho
+ratio representa de forma adecuada la
+contribución del sistema a los usos elegibles.
+Ajustes metodológicos efectuados sobre el periodo anterior
+Las cifras relativas a Taxonomía de la Unión Europea del año 2024, en concreto los KPIs de Ingresos y CapEx, han sido
+reexpresadas:
+• Ingresos: el dato publicado en el ejercicio anterior no incluía la información relativa a los ingresos percibidos por
+Laboratorios Farmacéuticos ROVI, S.A. por la venta directa de medicamentos propios.
+• CapEx: el dato publicado en el ejercicio anterior no incluía la información relativa a los activos relacionados con la
+fabricación de medicamentos propios utilizando tecnología ISM®.
+Esta corrección refleja la realidad del negocio de ROVI y garantiza la comparabilidad de la información con la reportada en el
+presente ejercicio. Para ampliar información, véase el capítulo “Taxonomía de la Unión Europea”.
+Por último, en el Anexo I del presente Informe detalla aquella información requerida por la Ley 11/2018 que no se contempla
+entre los requerimientos de las NEIS y en el Anexo II se presenta el índice de contenidos Ley/2018 y su vinculación con las
+NEIS.
+b. Gobernanza
+• El papel de los órganos de administración, dirección y supervisión (GOV-1)
+En el presente requisito de divulgación se detalla la composición de los órganos de administración, dirección y supervisión, sus
+funciones y responsabilidades, así como su acceso a conocimientos especializados y capacidades en relación con las
+cuestiones de sostenibilidad.
+4

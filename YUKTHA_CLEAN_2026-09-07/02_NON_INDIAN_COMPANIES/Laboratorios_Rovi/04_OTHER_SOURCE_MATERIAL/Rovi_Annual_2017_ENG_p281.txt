@@ -1,0 +1,28 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+3. INDIVIDUAL STATEMENT OF CHANGES IN EQUITY
+INDIVIDUAL STATEMENT OF RECOGNIZED INCOME AND EXPENSES (PREPARED USING THE
+NATIONAL ACCOUNTING STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2017 31/12/2016
+A) PROFIT/(LOSS) FOR PERIOD (from Income Statement) 0305 18.673 29.932
+B) INCOME OR EXPENSES CREDITED OR CHARGED DIRECTLY TO EQUITY: 0310 286 306
+1. Measurement of financial instruments 0320 1 (1)
+a) Available-for-sale financial assets 0021 1 (1)
+b) Other income /(expenses) 0323
+2. Cash flow hedges 0330
+3. Grants, donations and legacies received 0340 381 409
+4. Actuarial gains and losses and other adjustments 0344
+5. Other income or expenses credited or charged directly to equity 0343
+6. Tax effect 0345 (96) (102)
+C) TRANSFERS TO PROFIT AND LOSS: 0350 (700) (811)
+1. Measurement of financial instruments 0355
+a) Available-for-sale financial assets 0356
+b) Other income /(expenses) 0358
+2. Cash flow hedges 0360
+3. Grants, donations and legacies received 0366 (935) (1.082)
+4. Other income or expenses credited or charged directly to equity 0365
+5. Tax effect 0370 235 271
+TOTAL RECOGNIZED INCOME/(EXPENSES) (A+B+C) 0400 18.259 29.427

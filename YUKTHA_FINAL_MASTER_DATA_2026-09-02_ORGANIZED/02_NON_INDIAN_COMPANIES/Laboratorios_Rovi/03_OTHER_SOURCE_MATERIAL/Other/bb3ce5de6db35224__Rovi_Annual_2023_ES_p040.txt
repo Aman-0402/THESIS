@@ -1,0 +1,50 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+10. Activos financieros a coste amortizado
+Miles de euros
+2023 2022
+Préstamos y partidas a cobrar a largo plazo:
+- Depósitos (a) 1.327 1.327
+- Crédito con entidades de crédito (b) 65 65
+- Créditos a empresas del grupo (Nota 31.i) 53.001 38.351
+- Fianzas 19 19
+- Acciones 25 —
+54.437 39.762
+Préstamos y partidas a cobrar a corto plazo:
+- Clientes (c) 56.584 55.078
+- Cuentas a cobrar a partes vinculadas (Nota 31.i) 106.669 82.746
+- Deudores varios 26 26
+- Personal 43 —
+163.322 137.850
+a) Depósitos
+Al 31 de diciembre de 2023 y de 2022 los depósitos incluyen imposiciones a un tipo de interés que oscila entre el 2 y 3%
+pignorados a favor del Banco Santander. La Sociedad considera que el riesgo de crédito asociado a estos depósitos es
+bajo y, por lo tanto, no se han registrado pérdidas esperadas asociados a los mismos.
+b) Deuda con entidades de crédito a largo plazo
+El importe incluido en “Deudas con entidades de crédito a largo plazo” corresponde a los pagos realizados al Banco
+Santander en virtud de un contrato de subrogación de deuda por el cual dicha entidad financiera asume el pago de un
+anticipo reembolsable concedido por organismos oficiales a la Sociedad (Nota 18.b).
+c) Clientes
+La Dirección estima que el valor razonable de los activos financieros a coste amortizado no difiere significativamente de
+su valor corriente, al consistir fundamentalmente en saldos a cobrar a menos de un año y estar sujetos a posible
+repercusión de intereses si su cobro no se realiza en dicho plazo.
+A 31 de diciembre de 2023 el saldo a cobrar de la Seguridad Social y Organismos Públicos asciende a 11.934 miles de
+euros (9.897 miles de euros a 31 de diciembre de 2022) y se distribuye geográficamente de la siguiente forma:
+Rating 2023 Saldo 2023 Rating 2022 Saldo 2022
+Portugal BBB+ 1.463 BBB+ 1.225
+Cataluña BB 1.579 BB 952
+Valencia BB 2.317 BB 1.902
+Madrid A- 2.029 A- 1.731
+Aragón BBB+ 926 BBB+ 866
+País Vasco AA- 229 AA- 282
+Andalucía BBB+ 1.312 BBB+ 944
+Canarias A 150 A 212
+Cantabria BBB 269 BBB 556
+Castilla La Mancha BBB- 87 BBB- 90
+Otros — 1.573 — 1.137
+11.934 9.897
+Al 31 de diciembre de 2023 existen cuentas a cobrar vencidas por importe de 11.207 miles de euros (13.923 miles de
+euros al 31 de diciembre de 2022), si bien no habían sufrido pérdida por deterioro. Del importe correspondiente a 2023 y
+2022, casi la totalidad de la deuda superior a seis meses correspondía a la Seguridad Social y Organismos Públicos.
+30

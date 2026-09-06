@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+7. Analysis of financial instruments
+7.1 Analysis by category
+The carrying amounts of each one of the financial instrument categories established in the recognition and measurement
+rules for “Financial instruments” , except investments in the equity of group, multi-group and associated companies (Note
+8), were as follows:
+a) Financial assets
+Thousand euros
+Credits and other
+Equity instruments financial assets
+2024 2023 2024 2023
+Financial assets at amortised cost (Nota 10) — 25 51,614 54,412
+Non-current — 25 51,614 54,412
+Financial assets at amortised cost (Note 10) — — 153,872 163,322
+Cash and cash equivalents (Note 13) — — 16,557 13,023
+Current — — 170,429 176,345
+TOTAL — 25 222,043 230,757
+b) Financial liabilities
+Thousand euros
+Bank borrowings Financial liabilities
+2024 2023 2024 2023
+Financial liabilities at amortised cost (Note 18) 70,659 31,250 82,344 107,107
+Non-current 70,659 31,250 82,344 107,107
+Financial liabilities at amortised cost (Note 18) 16,280 6,495 233,996 209,187
+Current 16,280 6,495 233,996 209,187
+TOTAL 86,939 37,745 316,340 316,294
+7.2 Credit rating of financial assets
+The credit rating of financial assets which have not yet matured and have suffered no impairment loss can be assessed
+based on the credit rating assigned by external organisations or by their historical delinquency rates:
+Thousand euros
+Cash and cash equivalents Rating 2024 2023
+A+ 708 1,762
+A 1,756 6,085
+A- 13,610 140
+No rating 483 5,036
+Total cash and cash equivalents (Note 13) 16,557 13,023
+Thousand euros
+Other non-current financial assets Rating 2024 2023
+A+ 1,392 1,392
+Other 196 19
+Total other non-current financial assets (Nota 10) 1,588 1,411
+23

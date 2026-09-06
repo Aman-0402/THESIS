@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+25. Cash flows from operating activities
+Thousands of euros
+2018 2017
+Pre-tax profit for the year 11,052 12,229
+Adjustments to the profit:
+- Amortisation/deprec. of intangible assets & property, plant & equipment (Notes 5 y
+6) 7,753 7,891
+- Finance income (Note 24.a) (54) (89)
+- Finance costs (Note 24.a) 684 987
+- Adjustments for change in value of financial instruments 33 -
+- Net change in provisions 3,718 630
+- Grant for non-financial assets and distribution licence revenue (1,806) (2,006)
+- Other gains and losses 1,816 (651)
+23,196 18,991
+Changes in working capital:
+- Inventories (7,562) 1,122
+- Debtors and other receivables (84,985) 32,722
+- Creditors and other payables 56,451 (43,401)
+(36,096) (9,557)
+Other cash flows from operating activities:
+- Income tax received/(paid) (3,141) 113
+- Other amounts received/(paid) (Note 19) 5,927 128
+2,786 241
+Cash flows generated (used) in operating activities (10,114) 9,675
+26. Cash flows from investing activities
+Thousands of euros
+2018 2017
+Payments for investments:
+- Group and associated companies (Note 8) - (5)
+- Intangible assets (Note 5) (9,881) (5,194)
+- Property, plant and equipment (Note 6) (5,461) (6,560)
+(15,342) (11,759)
+Amounts received for disinvestments:
+- Group and associated companies (Note 8) 50 (450)
+- Property, plant and equipment (Note 6) 2,199 25
+- Other assets (Note 24.a) 342 377
+2,591 (48)
+Cash flows generated (used) in investing activities (12,751) (11,807)
+55

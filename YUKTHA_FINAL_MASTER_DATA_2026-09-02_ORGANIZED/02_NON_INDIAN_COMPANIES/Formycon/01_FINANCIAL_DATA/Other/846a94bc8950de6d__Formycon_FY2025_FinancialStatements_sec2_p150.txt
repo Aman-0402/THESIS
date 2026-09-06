@@ -1,0 +1,31 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 150
+Consolidated Statement of Comprehensive Income for the period from January 1, 2025 to December 31, 2025 in € thousand
+Explenatory note Jan. 1 – Dec. 31, 2025 Jan. 1 – Dec. 31, 2024
+Revenue 8 44,476 69,674
+Cost of sales 9 -40,900 -54,840
+Research and development expenses 10 -12,673 -16,503
+Selling expenses 11 -1,316 -1,302
+Administrative expenses 11 -18,995 -20,085
+Other expenses 11 -1,686 -567
+Other income 11 593 78
+Operating profit/loss (EBIT) -30,500 -23,543
+Income from investments accounted for 12, 19 -16,663 -15,174
+using the equity method
+Finance income 12 19,522 24,777
+Finance expense 12 -3,297 -1,137
+Change in Impairments based on the 12 40 78
+expected credit loss model
+Net finance income -398 8,543
+Impairments on Goodwill and 18 -59,597 -129,253
+Other intangible assets
+Profit before tax -90,495 -144,253
+Income tax expense 15 25,799 18,582
+Profit (loss) / Comprehensive income (loss) -64,696 -125,672
+for the period
+Basic (undiluted) earnings per share (in €) 13 -3.66 € -7.18 €
+Average number of 17,666,810 17,491,811
+shares outstanding (undiluted)
+Diluted earnings per share (in €) 13 -3.66 € -7.18 €
+Average number of 17,832,377 17,633,367
+shares outstanding (diluted)
+Consolidated Statement of Comprehensive Income

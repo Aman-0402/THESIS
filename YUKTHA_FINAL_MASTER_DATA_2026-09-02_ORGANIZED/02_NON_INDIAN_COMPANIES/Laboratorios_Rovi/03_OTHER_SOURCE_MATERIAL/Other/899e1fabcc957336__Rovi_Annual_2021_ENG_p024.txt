@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+The Company classifies a financial instrument as a financial liability, in full or in part, provided that the substance of the
+economic situation represents a direct or indirect contractual obligation for the Company to deliver cash or another financial
+asset or to exchange financial assets and liabilities with third parties under potentially unfavourable conditions.
+Contracts that impose on the Company an obligation to acquire own equity instruments, in cash or by delivering a financial
+asset, are recognised in reserves as a financial liability for the present value of the amount payable. Transaction costs are
+likewise recognised as a decrease in reserves.
+3.8 Financial liabilities
+a) Financial liabilities at amortised cost
+The Company classifies all liabilities in this category except when they must be measured at fair value through profit and
+loss. The category includes trade and non-trade debts. These debts are classified as current liabilities unless the Company
+has an unconditional right to defer settlement for at least 12 months after the reporting date.
+These debts are recognised initially at fair value, net of transaction costs directly incurred, and are subsequently stated at
+amortised cost applying the effective interest rate method. This effective interest rate is the discount rate that makes the
+carrying amount of the instrument equal to the expected flow of future payments forecast until maturity of the liability.
+Notwithstanding the foregoing, trade debits maturing at no more than one year that do not have a contractual interest rate
+are measured, both initially and subsequently, at their face value when the effect of not discounting the cash flows is not
+significant.
+b) Financial liabilities at fair value through profit and loss
+Financial liabilities at fair value through profit and loss are those held for trading that the Company has irrevocably
+designated in this category and certain hybrid financial liabilities.
+These financial liabilities are measured, both initially and in subsequent measurements, at their fair value, recognising any
+changes in profit and loss for the period.
+Transaction costs directly allocable to issuance are recognised in profit and loss in the period in which they arise.
+3.9 Grants received
+Reimbursable grants are recognised as liabilities until they meet the conditions not to be considered non-reimbursable,
+while non-reimbursable grants are recognised as income directly in the equity on a systematic and rational basis in
+correlation with the expenses derived from the grant.
+In this respect, a grant is considered non-reimbursable when there is an individual decision to award the grant, all the
+conditions fixed for awarding it have been met and there is no reasonable doubt that it will be received.
+Monetary grants are recognised at the fair value of the amount awarded and non-monetary grants at the fair value of the
+item received. In both cases, the values refer to the time of recognition.
+Non-reimbursable grants related to the acquisition of intangible assets, property, plant and equipment and real estate
+investments are allocated as income for the period in proportion to the amortisation or depreciation of the related assets
+or, if applicable, when the assets are disposed of, there is a value adjustment for impairment or they are derecognised in
+the statement of financial position. Non-reimbursable grants related to specific expenses are recognised in profit and loss
+in the same period as the related expenses are accrued, while those awarded to offset an operating deficit are recognised
+in the period in which they are granted, except when they are intended to offset operating deficits in future periods, in which
+case they will be allocated to the period in question.
+15

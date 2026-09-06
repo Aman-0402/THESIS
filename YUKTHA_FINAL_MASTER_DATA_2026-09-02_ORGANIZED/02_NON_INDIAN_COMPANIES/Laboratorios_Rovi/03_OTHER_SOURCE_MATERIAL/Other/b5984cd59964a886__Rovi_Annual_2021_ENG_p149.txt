@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+24. Other operating expenses
+2021 2020
+Advertising costs 12,713 11,409
+Services from third parties 11,881 9,502
+Supplies 24,192 12,242
+Transport and warehouse expenses 7,764 6,860
+Repairs and maintenance 4,987 4,173
+Operating leases 839 327
+Other taxes 5,707 6,404
+Other operating expenses 25,419 22,789
+93,502 73,706
+During 2021, the “Other operating expenses” caption was affected by non-recurring expenses for a total amount of 1,522
+thousand euros, due to COVID-19. Likewise, also as a result of COVID-19, certain operating expenses were reduced,
+mainly those included under the advertising costs caption derived from the reduction in the activity of the sales force.
+Total operating expenses at 31 December, 2021 included R&D-related expenses of 19,061 thousand euros (16,800
+thousand euros at 31 December, 2020, Note 7), most of which are registered under the “Other operating expenses” caption.
+25. Operating leases
+At 31 December, 2021 and 2020, there were no minimum future payments on uncancellable operating leases.
+26. Finance income/costs
+2021 2020
+Interest income 68 4
+Total finance income 68 4
+IOnttheerer sftin caonsctse costs (669) (806)
+Total finance costs (236) (266)
+Interest income (905) (1,072)
+Proceeds on disposal of financial instruments 1,161 (245)
+Change in fair value of financial instruments 908 (796)
+Impairment and gain/(loss) on measurement of financial instruments 2,069 (1,041)
+Exchange rate differences (178) 39
+(178) 39
+Net finance income/(cost) 1,054 (2,070)
+The caption “Other finance costs” shows the finance cost derived from application of IFRS 16 “Leases” (Note 2.2.a).
+At 31 December, 2020, the Group held financial derivatives of 13,500 million dollars to minimise the impact of exchange
+rate risk. The measurement of these financial derivatives at fair value represented a loss of 925 thousand euros at the 31
+December, 2020 reporting date. In 2021, these assets, as well as other acquired during 2021, were liquidated, incurring a
+profit of 1,161 thousand euros on the liquidations (loss of 245 thousand euros in 2020). At 31 December, 2021, there were
+current contracts of this nature of 5,000 thousand dollars, the measurement of which at the 2021 reporting date represented
+a loss of 17 thousand euros.
+53

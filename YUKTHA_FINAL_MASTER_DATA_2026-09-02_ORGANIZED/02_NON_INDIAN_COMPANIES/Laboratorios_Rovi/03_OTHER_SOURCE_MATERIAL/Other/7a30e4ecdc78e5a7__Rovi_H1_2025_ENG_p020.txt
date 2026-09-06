@@ -1,0 +1,51 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+Trademarks Computer
+Development & Licences software Total
+Balance at 01.01.24
+Cost 8,899 44,929 15,184 69,012
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (2,738) (18,960) (12,918) (34,616)
+Net carrying amt 01.01.24 6,161 25,475 2,266 33,902
+Additions — — 645 645
+Retirements — (30) — (30)
+Removal from amortisation — 23 — 23
+Amortisation charge (221) (976) (311) (1,508)
+Balance at 30.06.24
+Cost 8,899 44,899 15,829 69,627
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (2,959) (19,913) (13,229) (36,101)
+Net carrying amt 30.06.24 5,940 24,492 2,600 33,032
+The Group has not recognised any intangible asset related to the performance of customer contracts.
+Development
+At 30 June, 2025 and 31 December, 2024, the assets included under the “Development” caption were related to the
+development of a low-molecular-weight heparin, an enoxaparin biosimilar, sales of which began in 2017. The
+commencement of amortisation of this asset was determined by the successful completion, in the first quarter of 2017, of
+the decentralized procedure used by the Group to apply for marketing authorization in twenty-six European Union
+countries. The useful life of this intangible asset is 20 years and no indications of impairment had been detected at either
+30 June 2025 or 31 December 2024.
+Trademarks and licences
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 30 June 2025 and 31 December 2024. Management reviews these assets for indications of
+impairment on an annual basis, although there has been none to date. At 31 December 2024, the recoverable value of
+this asset was significantly higher than its carrying amount and, therefore, the Group did not re-estimate the recoverable
+value as of 30 June 2025, since no events that could eliminate said difference had occurred.
+As the result of the fact that the recoverable value of the asset related to the distribution rights of the product Hirobriz®
+(belonging to the marketing segment) had fallen below its net carrying amount, at 31 December 2023, the Company had
+recognised impairment of 494 thousand euros. In 2024 and 2023, this asset was fully amortised and no additional
+impairment losses were recognised in profit and loss.
+The Group holds insurance policies to cover the risks the property, plant and equipment is exposed to. The insurance
+cover of these policies is considered sufficient to cover the net carrying amount of the assets included in this category.
+Total research and development expenses incurred in the six-month period ended 30 June 2025 were 16,791 thousand
+euros (12,175 thousand euros in the same period of 2024), mainly concentrated on the ISM® platform. Of the total
+research and development expenditure incurred in the first six months of 2025, 5,794 thousand euros were recognised
+under the “Employee benefit expenses” caption (5,559 thousand euros in the same period of 2024) and 10,997 thousand
+euros under “Other operating expenses” (6,616 thousand euros in the same period of 2024).
+Goodwill
+At 30 June 2025, the total amount of goodwill was linked to obtaining control of the company Cells IA Technologies, S.L.,
+which took place on 27 January 2025 (Note 1).
+16

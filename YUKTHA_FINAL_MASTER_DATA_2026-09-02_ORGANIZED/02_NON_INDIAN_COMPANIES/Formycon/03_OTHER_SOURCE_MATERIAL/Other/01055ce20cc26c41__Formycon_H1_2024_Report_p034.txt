@@ -1,0 +1,58 @@
+Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 66 Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 67
+All judgements and assumptions applied in prepar- — Valuation of conditional purchase price pay-
+ing this Interim Financial Statements are compara- ments in determining and allocating the
+Geographical breakdown of revenue in €K
+ble tot those made in the financial statements for purchase price (see Note 15 “Financial instru-
+2023. ments”),
+Region Jan. 1 – June 30, 2024 Jan. 1 – June 30, 2023
+— Valuation of obligations arising from share set-
+Measurement of fair values
+tled as well as cash-settled share-based com- Germany 7,373 14,181
+pensation arrangements (see Note 10 “Share-
+A number of the Group’s accounting policies and Switzerland 19,520 29,608
+based compensation arrangements”)
+disclosures require the measurement of fair val-
+Total 26,893 43,789
+ues, for both financial and non-financial assets and
+liabilities.
+4. Changes in accounting and
+When measuring the fair value of an asset or liabili- valuation methods 5. Segment Information Geographical breakdown of revenue
+ty, the Group uses observable market data as far as
+possible. Fair values are categorized into different Accounting methods For the reporting period reportable segments During the period, and based upon customer domi-
+levels in a fair value hierarchy based on the inputs developed as shown on pages 68 – 69. cile, the Group’s revenues were generated entirely
+used in the valuation techniques as follows: The accounting principles applied in the preparation in Germany and Switzerland, the details of which
+of these Financial Statements correspond in full to may be found in the accompanying table “Geo-
+— Level 1: Quoted prices (unadjusted) in active those used in the preparation of the consolidated fi- 6. Revenue graphical breakdown of revenue”.
+markets for identical assets and liabilities nancial statements of Formycon Group for the fiscal
+year ending December 31, 2023. Revenue streams The revenue generated in Germany during fiscal
+— Level 2: Inputs other than quoted prices includ-
+year 2024 and 2023 corresponds to FYB203 seg-
+ed in Level 1 that are observable for the asset or
+The amendments to existing International Financial During the period, Formycon generated revenue by ment revenue.
+liability, either directly (i.e. as prices) or indirectly
+Reporting Standards regarding the classification providing development services to the respective
+(i.e. derived from prices)
+of liabilities as non-current or current and lease development partners for its partnered development Contract assets
+— Level 3: Inputs for the asset or liability that are Liabilties in a sale and leaseback transaction which projects FYB201 and FYB203, as well as FYB202.
+not based on observable market data (unob- are to be applied for the first time for fiscal years These costs include not only product development Assets arising from contracts with customers are
+servable inputs) beginning January 1, 2024, had no effect on the costs but also costs incurred for the management of included as both trade receivables and contract as-
+preparation of these Financial Statements. clinical studies. In addition, Formycon generates rev- sets. As of the reporting date, such receivables from
+If the inputs used to measure the fair value of an
+enue through license income from the granting of customers were € 5,621 thousand (Dec. 31, 2023:
+asset or a liability are categorized in different levels
+exclusive marketing rights to Bioeq AG for FYB201. € 6,757 thousand), while receivables from services
+of the fair value hierarchy, then the fair value mea-
+Such license revenues are recognized only from not yet invoiced and separately reported as contract
+surement is categorized in its entirety in the same
+the point at which they can be reliably determined. assets were € 28,806 thousand (Dec. 31, 2023:
+level of the fair value hierarchy as the lowest level
+During the reporting period, a total of € 3,760 thou- € 16,561 thousand).
+input that is significant to the entire measurement.
+sand (1H 2023: € 1,149 thousand) was recognized as
+Assumptions have been made in measuring fair
+license revenue from FYB201.
+values in the following cases:
+In addition, revenue from partial realization of devel-
+opment milestone from the marketing agreement
+for FYB202 was recognizes at € 11,347 thousand (1H
+2023: € 23,664 thousand).

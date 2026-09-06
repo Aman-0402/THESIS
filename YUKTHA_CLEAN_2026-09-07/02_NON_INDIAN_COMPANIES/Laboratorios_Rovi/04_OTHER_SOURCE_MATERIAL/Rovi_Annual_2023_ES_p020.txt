@@ -1,0 +1,52 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+Los costes de ampliación, modernización o mejora de los bienes del inmovilizado material se incorporan al activo como
+mayor valor del bien exclusivamente cuando suponen un aumento de su capacidad, productividad o alargamiento de su
+vida útil, y siempre que sea posible conocer o estimar el valor contable de los elementos que resultan dados de baja del
+inventario por haber sido sustituidos.
+Los costes de reparaciones importantes se activan y se amortizan durante la vida útil estimada de los mismos, mientras
+que los gastos de mantenimiento recurrentes se cargan en la cuenta de pérdidas y ganancias durante el ejercicio en que
+se incurre en ellos.
+La amortización del inmovilizado material, con excepción de los terrenos que no se amortizan, se calcula
+sistemáticamente por el método lineal en función de su vida útil estimada, atendiendo a la depreciación efectivamente
+sufrida por su funcionamiento, uso y disfrute. Las vidas útiles estimadas son:
+Construcciones - 40 años
+Instalaciones técnicas y maquinaria – entre 4 y 14 años
+Otras instalaciones, utillaje y mobiliario – entre 5 y 10 años
+Otro inmovilizado material – entre 4 y 5 años
+El valor residual y la vida útil de los activos se revisa, ajustándose si fuese necesario, en la fecha de cada balance.
+Cuando el valor contable de un activo es superior a su importe recuperable estimado, su valor se reduce de forma
+inmediata hasta su importe recuperable.
+Las pérdidas y ganancias por la venta de inmovilizado material se calculan comparando los ingresos obtenidos por la
+venta con el valor contable y se registran en la cuenta de pérdidas y ganancias.
+3.3 Pérdidas por deterioro del valor de activos no financieros
+Los activos intangibles que tienen una vida útil indefinida o los activos intangibles que no están en condiciones de
+poderse utilizar no están sujetos a amortización y se someten anualmente a pruebas para pérdidas por deterioro de
+valor.
+Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre considerando diversas
+circunstancias internas y externas, entre las que se incluyen:
+– Indicios observables de disminución del valor de mercado.
+– Evaluación de aquellos eventos que puedan tener una incidencia adversa, tanto externos (por ejemplo, la
+inflación o cambios en el entorno legal) o internos (por ejemplo, planes de reestructuración u ociosidad del
+activo).
+– Incrementos en los tipos de interés de mercado del activo.
+– Información sobre la obsolescencia o deterioro físico del activo.
+– Evidencias de informes internos donde se indique que el rendimiento del activo va a ser peor de lo esperado.
+Se reconoce una pérdida por deterioro de valor por el importe por el que el importe en libros del activo excede su
+importe recuperable. El importe recuperable es el mayor entre el valor razonable del un activo menos los costes para la
+venta y el valor en uso. A efectos de evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo
+para el que hay flujos de entrada de efectivo en gran medida independientes (unidades generadoras de efectivo). Las
+pérdidas por deterioro de valor previas de activos no financieros (distintos al fondo de comercio) se revisan para su
+posible reversión en cada fecha en la que se presenta la información financiera.
+3.4 Activos financieros
+a) Clasificación de los activos financieros
+La Sociedad clasifica sus activos financieros en las siguientes categorías:
+1) Activos financieros a coste amortizado: Los activos financieros a coste amortizado son activos financieros no
+derivados con cobros fijos o determinables que no cotizan en un mercado activo. Se incluyen en activos
+corrientes, excepto para vencimientos superiores a 12 meses desde de la fecha del balance que se clasifican
+como activos no corrientes. Los activos financieros a coste amortizado se incluyen en “Créditos a empresas” y
+“Deudores comerciales y otras cuentas a cobrar” en el balance.
+Los depósitos en entidades bancarias con un vencimiento superior a 90 días y menos de 12 meses son incluidos
+en esta categoría.
+10

@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+d) Financial derivatives
+At 31 December, 2021, financial derivatives were measured at 17 thousand euros (925 thousand euros in 2020). In 2021
+and 2020, the financial derivatives were not classified as hedging instruments and, therefore, were included in the category
+of financial liabilities held for trading.
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and the deferred income taxes assets and liabilities relate to income taxes levied by the same
+taxation authority. A breakdown of the estimated periods for offsetting is as follows:
+2021 2020
+Deferred tax assets:
+– Deferred tax assets to be recovered at more than 12 months 104 3,450
+– Deferred tax assets to be recovered within 12 months 3,746 7,655
+3,850 11,105
+Deferred tax liabilities
+– Deferred tax liabilities to be recovered at more than 12 months 758 874
+– Deferred tax liabilities to be recovered within 12 months 18 55
+776 929
+Net movement on the deferred tax account was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January, 2020 14,660 (1,078) 13,582
+(Charged)/credited to profit and loss (Note 27) (3,555) 149 (3,406)
+At 31 December, 2020 11,105 (929) 10,176
+(Charged)/credited to profit and loss (Note 27) (7,255) 153 (7,102)
+At 31 December, 2021 3,850 (776) 3,074
+Movement on deferred tax assets was as follows:
+Tax credits 30%
+Negative not yet amortisation
+tax bases applied 13 &14 Provisions Other Total
+At 1 January, 2020 6,720 5,642 911 359 1,028 14,660
+(Charged)/credited to profit and loss (2,755) (1,231) (117) 579 (31) (3,555)
+At 31 December, 2020 3,965 4,411 794 938 997 11,105
+(Charged)/credited to profit and loss (3,965) (4,411) (151) 2,044 (772) (7,255)
+At 31 December, 2021 — — 643 2,982 225 3,850
+The amounts for deferred tax assets shown in the “30% amortisation/depreciation 2013 & 2014” column relate to the tax
+effect of the 30% of the amortisation/depreciation charge for the period, which was not tax deductible in the years 2013
+and 2014, as established in Royal Decree-Law 16/2012 of 27 December, whereby various measures intended to
+consolidate public finance and stimulate economic activity were adopted. Additionally, the “Provisions” column includes the
+amounts related to booking non-tax deductible provisions in the years reported.
+48

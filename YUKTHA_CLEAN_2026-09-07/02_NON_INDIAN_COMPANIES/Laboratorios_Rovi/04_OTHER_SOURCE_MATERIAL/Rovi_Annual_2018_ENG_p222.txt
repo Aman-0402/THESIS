@@ -1,0 +1,39 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+21. Provisions for other liabilities and charges
+Movement on the provisions for other liabilities and charges for the 2017 and the breakdown at 31 December, 2017 were
+as follows:
+Contribution to
+public health
+Returns system Other Total
+At 1 January 2017 665 2.093 120 2.878
+Additions 699 2.690 119 3.508
+Applications (665) (2.093) (120) (2.878)
+At 1 December 2017 699 2.690 119 3.508
+Due to the entry into force of IFRS 15 in 2018, these liabilities have been reclassified under the caption “Trade and other
+payables” (Note 17).
+23. Revenues
+Revenues are broken down into the following items:
+2018 2017
+Sales of goods 248,409 214,309
+Sales of services 54,575 61,099
+Revenue from distribution licences 219 241
+303,203 275,649
+Total sales of goods fell by 18,252 thousand euros in 2018 (14,679 thousand euros in 2017) as a consequence of the
+rebates furnished to the National Health System (Note 2.23). 3,467 thousand euros of the total amount of rebates to the
+National Health System were related to the co-operation agreement signed between Farmaindustria and the Spanish
+government (Note 17).
+As of 31 December, 2018 “Sales of good” caption includes 673 thousand euros related to royalties received on the basis
+of enoxaparin distribution agreements signed with third parties.
+The breakdown of “Sales of goods” by product group was as follows:
+2018 2017
+Pharmaceutical products 216,563 183,166
+Contrast agents and other hospital products 29,688 28,541
+Non-prescription pharmaceutical products 1,408 1,800
+Other 750 802
+248,409 214,309
+59

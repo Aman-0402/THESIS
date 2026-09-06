@@ -1,0 +1,49 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+1. INDIVIDUAL FINANCIAL STATEMENTS (PREPARED USING THE NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE) (2/2)
+Units: thousands of euros
+LIABILITIES AND EQUITY CURRENT PREVIOUS
+PERIOD PERIOD
+30/06/2025 31/12/2024
+A) EQUITY (A.1 + A.2 + A.3) 0195 24.229 60.284
+A.1) EQUITY 0180 23.392 59.283
+1. Capital: 0171 3.074 3.074
+a) Authorized capital 0161 3.074 3.074
+a) Less: uncalled capital 0162
+2. Share premium 0172 87.636 87.636
+3. Reserves 0173 7.032 7.032
+4. Less: treasury stock 0174 (4.613) (5.545)
+5. Retained earnings 0178 (81.773) (108.460)
+6. Other shareholder contributions 0179
+7. Profit or loss for period 0175 12.036 75.546
+8. Less: interim dividend 0176
+9. Other equity instruments 0177
+A.2) ADJUSTMENTS FOR CHANGES IN VALUE 0188 (32) (28)
+1. Available-for-sale financial assets 0181
+2. Hedging transactions 0182
+3. Other 0183 (32) (28)
+A.3) GRANTS, DONATIONS AND LEGACIES RECEIVED 0194 869 1.029
+B) NON-CURRENT LIABILITIES 0120 168.662 157.655
+1. Non-current provisions 0115
+2. Non-current debt: 0116 92.626 80.503
+a) Bank borrowings and debentures or other negotiable instruments 0131 83.581 70.659
+b) Other financial liabilities 0132 9.045 9.844
+3. Non-current debt with group and associated companies 0117 72.500 72.500
+4. Deferred tax liabilities 0118 1.571 2.834
+5. Other non-current liabilities 0135
+6. Non-current accruals 0119 1.965 1.818
+C) CURRENT LIABILITIES 0130 339.104 268.870
+1. Liabilities associated with non-current assets held for sale 0121
+2. Current provisions 0122 11.372 14.116
+3. Current debt: 0123 22.966 17.823
+a) Bank borrowings and debentures or other negotiable instruments 0133 21.412 16.280
+b) Other financial liabilities 0134 1.554 1.543
+4. Current debt with group and associated companies 0129 17.370 18.578
+5. Trade and other payables: 0124 286.922 217.989
+a) Trade payables 0125 225.725 207.243
+b) Other payables 0126 55.185 8.875
+c) Current tax liabilities 0127 6.012 1.871
+6. Other current liabilities 0136
+7. Current accruals 0128 474 364
+TOTAL EQUITY AND LIABILITIES (A + B + C) 0200 531.995 486.809

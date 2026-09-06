@@ -1,0 +1,43 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+24. Resultado financiero
+Miles de euros
+2023 2022
+Ingresos financieros:
+De valores negociables y otros instrumentos financieros
+- De empresas del grupo y asociadas (Nota 31.f) 911 610
+- De terceros 512 1.765
+1.423 2.375
+Gastos financieros:
+Por deudas con terceros (2.205) (893)
+(2.205) (893)
+Variación en el valor razonable de instrumentos financieros:
+Derivados 28 (11)
+28 (11)
+Diferencias de cambio:
+Diferencias de cambio (104) (570)
+(104) (570)
+Deterioro y resultado por enajenaciones de instrumentos financieros:
+Resultados por enajenaciones y otras 1.097 1.828
+1.097 1.828
+Resultado financiero 239 2.729
+A 31 de diciembre de 2023, la Sociedad no tiene contratados instrumentos financieros derivados. A 31 de diciembre de
+2022 la Sociedad tenía contratados instrumentos financieros derivados para minimizar el impacto del riesgo de tipo de
+cambio por valor de 3.000 miles de dólares, cuya valoración a valor razonable supuso, al cierre de diciembre de 2022,
+una pérdida de 28 miles de euros.
+El epígrafe de "Deterioro y resultado por enajenaciones de instrumentos financieros" se ha visto afectado principalmente
+en 2023 por un impacto positivo de 1.797 miles de euros relacionados con la venta de la sociedad Enervit Nutrition,S.L
+participada hasta entonces al 50% por la Sociedad (Nota 9) y por un impacto negativo relacionado con la dotación del
+deterioro de las participaciones en las sociedades Bertex Pharma GmbH y Rovi Biotech sp.z.o.o.por un importe total de
+784 miles de euros (Nota 8).
+Los ingresos financieros recibidos de empresas del grupo y asociadas corresponden a los dividendos percibidos de las
+sociedades del Grupo ROVI, del que la Sociedad es sociedad dominante. En los ejercicios 2023 y 2022 no se han
+recibido ingresos por este concepto.
+En lo referente a los ingresos financieros de valores negociables y otros instrumentos financieros provenientes de
+terceros, a 31 de diciembre de 2023 la Sociedad ha reconocido un ingreso financiero de 512 miles de euros
+correspondiente a las liquidaciones de depósitos (1.765 miles de euros a 31 de diciembre de 2022, relacionado con la
+baja de las inversiones en instrumentos de patrimonio por importe de 5.870 miles de euros que mantenía en 4
+Agrupaciones de Interés Económico (AIEs), al cumplir los requisitos para poder imputar 7.634 miles de euros de créditos
+fiscales provenientes de dichas entidades (Ver nota 23)).
+50

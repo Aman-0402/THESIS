@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+b) Sales of services
+The services provided by the Company consist of promoting third-party pharmaceutical products and providing
+manufacturing services.
+In relation to the manufacturing services, the Company holds service agreements consisting of the realisation of certain
+phases of the production process of pharmaceutical products for other entities. Revenue is recognised as the milestones
+recognised in the contract accrue.
+Occasionally, before providing the manufacturing service, ROVI, in accordance with certain defined milestones, carries out
+work to adapt, fit out and validate the facilities and machinery –which may be either its own or acquired or subcontracted
+from third parties– without which it would not be possible to provide the service under the conditions required by the
+customers. If the final cost of this work is paid by the customer, ROVI recognises the revenue from the service provided on
+the basis of the percentage of completion of the work performed, in accordance with the defined milestones. If the
+percentage of completion includes a determined acquisition of assets, the margin is not recognised until they are finally
+installed.
+c) Interest income
+Interest income is recognised in accordance with the effective interest method. When a receivable is impaired, the
+Company reduces the carrying amount to its recoverable amount, discounting the estimated future cash flow at the original
+effective interest rate of the instrument, and continues unwinding the discount as less interest income. Interest income on
+impaired loans is recognised using the effective interest rate method.
+d) Dividend income
+Dividend income is recognised in profit and loss when the right to receive payment is established. Notwithstanding the
+foregoing, if the dividends distributed come from profits generated before the acquisition date, they are not recognised as
+income and are shown as a decrease in the carrying amount of the investment.
+e) Other revenues: granting of exclusive distribution licences
+The revenue received from the granting of exclusive distribution licenses for ROVI products to other companies is
+recognised on an accruals basis in accordance with the substance of the corresponding contracts.
+To date, the Company has granted several exclusive licences to third parties to sell its products in specific territories. Under
+these agreements, ROVI has received a single amount for transfer of licence, with no refund obligation or the possibility of
+refund under very restrictive terms, when the product has been authorised for distribution in a given territory.
+In addition, the Company undertakes, for the term of the contract, to sell the products under contract to the distributor at
+the prices agreed in the contract. The amount received on the transfer of the licence is recorded as “net sales” on a straight-
+line basis over the term of the contract. The non-accrued portion is recorded as a non-current liability if it is to be recognised
+in revenues after a period longer than a year.
+3.15 Leases
+When the Company is the lessee – Operating lease
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as
+operating leases. Payments made under operating leases (net of any incentives received from the lessor) are recognised
+in profit and loss in the period in which they accrue on a straight-line basis over the lease term.
+19

@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+El ámbito de aplicación de la política abarca a toda persona que trabaje o colabore con la Compañía y que sea usuaria de
+los recursos TIC por el mero hecho de utilizarlos. También es aplicable para cualquier persona que trate datos de carácter
+personal mediante los sistemas informáticos.
+Dicha política, que ha sido aprobada por el Presidente de ROVI, cuenta con un anexo que debe ser firmado para confirmar
+la aceptación de los trabajadores del Grupo.
+Actuaciones y recursos relacionados con la digitalización y la Inteligencia Artificial
+El objetivo del presente requisito de divulgación es informar sobre las actuaciones relacionadas con el uso de la
+digitalización y la Inteligencia Artificial, así como el enfoque de ROVI sobre las oportunidades materiales relacionadas con lo
+mismo. Adicionalmente, cabe destacar que, las cuantías consolidadas del CapEx durante el ejercicio 2024 pueden
+consultarse en la Nota 6 “Inmovilizado material” y la Nota 7 “Activos Intangibles”, y las del OpEx en la Nota 25 “Otros gastos
+de explotación” de las Cuentas Anuales Consolidadas.
+Área de Sistemas de Información
+ROVI integra la digitalización a través de sus operaciones de IT. Por un lado, el Grupo está enfocado en reducir el uso de
+papel mediante un sistema integral de gestión documental. Este sistema, implementado en diversos complejos, busca
+digitalizar todos los documentos, registros y formularios procedimentales, mejorando la eficiencia de los procesos de
+revisión. La nueva herramienta RoviQMS supera a su predecesora al gestionar también las copias de documentos,
+marcando un paso significativo en la transformación digital de los procesos industriales de ROVI. La inversión asociada ha
+sido de un total de 269.000 €. En 2025 se añadirán las funcionalidades de gestión de eventos de calidad (controles de
+cambio, incidencias, CAPAs, etc).
+Por otro lado, la iniciativa de digitalización se extiende al sistema de Registros Electrónicos de Lotes (EBR, por sus siglas
+en inglés). Este sistema reemplaza la extensa documentación en papel asociada a cada lote de producción por registros
+electrónicos, capturando datos críticos como temperaturas y presiones. El sistema EBR, además de digitalizar el dossier y
+los libros de registro, automatiza procesos integrándose con el ERP de la Compañía, descargando las órdenes de
+fabricación y notificando los consumos de materiales de forma automática, de esta forma permite realizar una revisión del
+lote por excepción terminando con la liberación de lotes por parte de calidad según los requisitos regulatorios. El complejo
+de Escúzar ha implementado con éxito este sistema en dos productos, al tiempo que el desarrollo avanza en el complejo
+de Granada y se trabaja activamente en su implementación en los complejos de San Sebastián de los Reyes y Julián
+Camarillo para su arranque en 2025. La inversión acometida durante el ejercicio 2024 ha sido de un total de 1.650.000 €.
+Además, se ha extendido al complejo de Escúzar el sistema de registro de Información y Gestión del Laboratorio (LIMS,
+por sus siglas en inglés), un sistema de registro de información de análisis electrónico que en todos los laboratorios facilita
+la gestión de muestras y resultados de análisis, reduciendo aún más la dependencia del papel. Se ha ampliado el alcance
+de LIMs en el resto de complejos. La inversión acometida en el 2024 ha sido de un total de 200.000 €. En 2025 se
+incorporará la funcionalidad de Cuaderno Electrónico en el complejo de Julián Camarillo.
+Por otra parte, la integración de la Industria 4.0 es otro punto relevante para ROVI, involucrando la captación de señales
+por centro de trabajo de diversos sistemas y equipos, incluyendo el monitoreo de partículas. Todos estos datos forman
+parte del batch record59, ofreciendo el uso de los mismos para prevenir fallos en equipos, como motores o válvulas,
+gracias al análisis estadístico o la Inteligencia Artificial. Sin embargo, aún no se ha establecido un plan concreto para
+aprovechar estas capacidades, lo que indica espacio para futuros avances en mantenimiento predictivo y eficiencia
+operativa.
+Adicionalmente, ROVI ha digitalizado diversos procesos a través de herramientas como Workday o Campus ROVI, que
+incorporan los procesos de desempeño y de formación del empleado, respectivamente. El gasto asociado a Campus
+ROVI del 2024, ha sido de un total de 12.500 €.
+59 Batch record, registro de lotes en español, se refiere al documento o sistema que registra todo el proceso de fabricación de un lote, asegurando
+trazabilidad y calidad.
+148

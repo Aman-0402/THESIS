@@ -1,0 +1,41 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+27. Cash flows from financing activities
+Thousands of euros
+2020 2019
+Amounts received from and paid for financial liability instruments:
+a) Issue
+- Bank borrowings (Note 18) - 45,000
+- Other debt (Note 18) 1,430 2,033
+1,430 47,033
+b) Reimbursement and repayment
+- Bank borrowings (7,116) (15,600)
+- Debt with Group and associated companies (Note 31 g) (3,135) (1,276)
+- Other debt (2,230) (1,850)
+- Interest payments (299) (93)
+(12,780) (18,819)
+Dividend payments and remuneration of other equity instruments:
+- Dividends (Note 15 b) & d) (9,700) (4,420)
+- Transactions with treasury shares (Note 15 c) 233 153
+(9,467) (4,267)
+Cash flows generated (used) in financing activities (20,817) 23,947
+28. Contingencies
+At 31 December, 2020, the Company held bank guarantees amounting to 2,385 thousand euros (2,770 thousand euros in
+2019). These guarantees were granted principally to enable group companies to participate in public tenders and to receive
+grants and reimbursable advances.
+29. Commitments
+a) Operating lease commitments
+The minimum future payments under non-cancellable operating leases at 31 December, 2020 were 726 thousand euros
+(1,868 thousand euros at 31 December, 2019), 661 thousand euros of which related to payments due at less than one
+year (1,180 thousand euros at less than one year at 31 December, 2019).
+The operating lease expense recognised in profit and loss in 2020 was 2,649 thousand euros (2,628 thousand euros in,
+2019).
+b) Acquisition of Bertex Pharma GmbH
+Future payment commitments derive from the agreement for the purchase of the company Bertex Pharma GmbH in
+2007. The purchase agreement fixes a variable component that will depend upon the successful completion of clinical
+trials for the development of products and the subsequent marketing. The commitments related to this transaction are:
+53

@@ -1,0 +1,44 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+La NIIF 15 establece que una entidad que concede el derecho a devolver el producto deberá reconocer los ingresos por
+importe igual a la contraprestación a la que se espera tener derecho a cambio de transferir los bienes o servicios
+prometidos a un cliente, así como un pasivo por reembolso y un activo por el derecho a recuperar los productos. ROVI
+reconoce sus ingresos netos de las devoluciones estimadas a la fecha de venta, al tiempo que se reconoce un pasivo
+por reembolso. El Grupo no reconoce un activo por el derecho a recuperar los bienes debido a que, según la
+experiencia y al tipo de producto comercializado, los materiales devueltos no podrán ser reincorporados al inventario del
+Grupo.
+El importe de los ingresos reconocidos se ajusta en función de las devoluciones previstas, que se estiman teniendo en
+cuenta la tasa de devolución media de los últimos años.
+Los descuentos concedidos a clientes públicos se registran como una deducción de los ingresos en el momento en que
+se registran los ingresos correspondientes. En su caso, se calcula un pasivo sobre la base de la experiencia histórica, lo
+que implica la realización de juicios por parte de la dirección.
+Por tanto, los ingresos de ROVI derivados de la venta de productos están sujetos a una contraprestación variable por
+descuentos, reembolsos y devoluciones. Esta contraprestación variable sólo se registra si es altamente probable que no
+se produzca una reversión significativa en el importe de ingresos acumulados reconocidos cuando la incertidumbre
+asociada con la contraprestación variable se resuelva posteriormente.
+b) Prestación de servicios
+La principal prestación de servicios del Grupo consiste la prestación de servicios de fabricación y empaquetado a
+terceros (contract manufacturing). En este servicio se considera que se transfiere el control al cliente y se entienden
+realizadas las obligaciones de desempeño cuando los bienes fabricados y empaquetados son puestos a disposición del
+cliente. Las facturas generalmente vencen en un periodo de entre 30 y 120 días.
+En ocasiones ROVI realiza, de forma previa a la prestación del servicio de fabricación, y de acuerdo a determinados
+hitos definidos, labores de adaptación, acondicionamiento y validación de sus instalaciones y de maquinaria, propia o
+adquirida o subcontratada a terceros, sin las cuales no sería posible prestar el servicio en las condiciones requeridas por
+los clientes. Por ello, en el caso de que el coste final de estas labores sea asumido por el cliente, ROVI registra el
+ingreso correspondiente a cada uno de los servicios prestados en base al grado de avance de los trabajos realizados,
+según los hitos definidos para cada uno de ellos. En el caso que el grado de avance incorpore determinada adquisición
+de activos, el margen no se reconoce hasta su final instalación.
+ROVI ha contraído con determinados clientes el compromiso de reservar capacidades de producción en sus plantas, a
+cambio de una contraprestación económica. Las condiciones que regulan dichos compromisos de reserva son
+diferentes en función de las condiciones establecidas en cada contrato. En algún caso, el devengo del ingreso va ligado
+a la consecución de un único hito, fijado contractualmente, y que puede consistir en estar preparado para producir o en
+llegar al final del plazo acordado sin que el tercero haya solicitado la producción reservada. Adicionalmente, pueden
+establecerse reservas de capacidad vinculadas a la producción realizada en determinados periodos de tiempo,
+pudiendo ser reembolsables en función de la producción llevada a cabo. En estos casos, dicha reserva de capacidad
+actuaría como un pago mínimo del servicio de producción.
+c) Ingresos por intereses
+Los ingresos por intereses se reconocen usando el método del tipo de interés efectivo.
+d) Ingresos por dividendos
+Los ingresos por dividendos se reconocen cuando se establece el derecho a recibir el pago.
+21

@@ -1,0 +1,48 @@
+Free translation of the 2021 Consolidated Management Report originally issued in Spanish. In the event of discrepancy,
+the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+2021 Consolidated Management Report
+conducted by ROVI, the manufacturing issue only impacted the lots that were included in the suspension. The following
+steps have been taken by ROVI to correct and prevent future defects:
+– Full inspection of the manufacturing line;
+– Improving standard operating procedure for changeover of manufacturing line; and
+– Setting alert inspection limits in the automatic visual inspection, as an internal process control.
+Takeda, as the Japan Marketing Authorization Holder, is planning to initiate the recall of the three suspended lots 3004667,
+3004734, and 3004956 from the market as of September 2, 2021, in consultation with MHLW and Osaka Prefecture.
+Moderna as the Global Marketing Authorization Holder is in full agreement with this decision.
+Preliminary Particulate Analysis
+According to Moderna’s independent analysis, the particle from lot 3004667 has been thoroughly analyzed and is
+confirmed to be grade 316 stainless steel. This is consistent with the root cause determination described above. Grade
+316 is a high grade of stainless steel commonly used in manufacturing and in food processing.
+Current Medical Safety Assessment
+After a health assessment conducted by Moderna and Takeda, the rare presence of stainless steel particles in the Moderna
+COVID-19 vaccine does not pose an undue risk to patient safety and it does not adversely affect the benefit/risk profile of
+the product.
+Metallic particles of this size injected into a muscle may result in a local reaction, but are unlikely to result in other adverse
+reactions beyond the local site of the injection. Stainless steel is routinely used in heart valves, joint replacements and
+metal sutures and staples. As such, it is not expected that injection of the particles identified in these lots in Japan would
+result in increased medical risk.
+Investigation of Two Deaths Following Administration of Vaccine
+At this time, there is no evidence that the two tragic deaths following administration of the Moderna COVID-19 vaccine
+(from lot 3004734) were in any way related to administration of the vaccine. The relationship is currently considered to be
+coincidental. It is important to conclude a formal investigation to confirm this. The investigation is being conducted with the
+greatest sense of urgency, transparency and integrity and is of the highest priority.
+To date, more than 200 million doses of the Moderna COVID-19 vaccine have been administered to more than 110 million
+individuals in 45 countries, representing a critical component of the global fight against COVID-19.
+For additional updates and resources about the COVID-19 vaccine program in Japan please go to the official COVID-19
+information center.
+2.3.8 ROVI informs on the evolution of the investigation of particulate matter having been seen in certain drug product vials
+of the Moderna COVID-19 vaccine distributed in Japan
+ROVI, as an entity participating in the manufacturing process of Moderna’s vaccine against COVID-19, and in relation to
+the notification of particulate matter having been seen in certain drug product vials of the vaccine distributed in Japan,
+announced (by publication of the relevant information number 11399 dated 29th of August of 2021) that the investigation
+on this event continued to be conducted to determine what happened in the drug product fill/finish manufacturing process
+of the related batch. As reported publicly by the laboratory owning the vaccine, Moderna, and the company in charge of
+distributing the vaccine in Japan, Takeda, unfortunately, the death of two individuals who had received the Moderna COVID-
+19 vaccine had been reported. There is no evidence up-to-date that these deaths are caused by the Moderna covid-19
+vaccine. In any event, there is a formal investigation underway to determine whether there is any connection. As recently
+reported, the detection of this particulate matter in certain drug product vials is an event that is in the process of being
+investigated by ROVI in coordination with Moderna, Takeda and the health authorities. ROVI will continue to proactively
+assist in the investigation of this matter, waiting for its finalisation and the publishing of the relevant conclusions by Moderna
+and Takeda.
+10

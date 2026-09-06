@@ -1,0 +1,21 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Changes in Equity for the annual periods ended 31 December, 2017 and 2016
+(Thousands of euros)
+A) STATEMENT OF RECOGNIZED INCOME AND EXPENSES (thousands of euros)
+Annual period ended
+31 December
+Note 2017 2016
+Profit for the year 16 18,673 29,932
+Income and expenses credited or charged directly to the equity 286 306
+Measurement of financial instruments
+- Available-for-sale financial assets 11 1 (1)
+Grants, donations and legacies received 17 381 409
+Tax effect 21 (96) (102)
+Transfers to profit and loss (700) (811)
+Grants, donations and legacies received 17 (935) (1,082)
+Tax effect 21 235 271
+TOTAL RECOGNIZED INCOME AND EXPENSES 18,259 29,427
+4

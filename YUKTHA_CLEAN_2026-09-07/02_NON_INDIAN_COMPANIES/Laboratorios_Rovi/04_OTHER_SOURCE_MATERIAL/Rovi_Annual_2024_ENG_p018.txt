@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+b.1) Revenue recognition
+b.1.1) Sales of goods
+The Company has recognised the total sales of goods marketed in 2024 as revenue and, where applicable, has claimed
+late-payment interest from the public authorities. The buyer has the right to return the goods sold. Although the Company
+believes that, based on previous experience, the level of returns will not be very meaningful, it has recognised ordinary
+revenue for its sales together with the related provision against ordinary revenue for estimated returns. If the estimates
+changed by 1%, changes in revenue would not be significant.
+b.1.2) Sales of services
+The Company’s principal sales of services are the provision of manufacturing services to third parties. In these services,
+control is deemed to be transferred to the customer and the service obligations are considered to have been fulfilled
+based on the percentage of completion of the work performed, in accordance with the defined milestones. In the event
+that the percentage of completion includes a determined acquisition of assets, the margin is not recognised until they are
+finally installed.
+Occasionally, before providing the manufacturing service, ROVI carries out work to adapt, fit out and validate the facilities
+and machinery –which may be either its own or acquired or subcontracted from third parties– without which it would not
+be possible to provide the service under the conditions required by the customers. Revenue is calculated on the basis of
+the percentage of completion of the work performed. Additionally, if the percentage of completion includes a determined
+acquisition of assets, the margin is not recognised until they are finally installed.
+Determining the percentage of completion of the service provision takes account of Management’s best estimate
+regarding meeting the defined milestones and the costs incurred or yet to be incurred in relation to the work to be
+performed. Likewise, the Company must make a technical evaluation of whether the work to adapt, fit out and validate
+the facilities and machinery has been performed when determining the time at which they are ready for production.
+b.2) Capitalisation of development expenses
+ROVI considers that its development project for a low-molecular-weight heparin, an enoxaparin biosimilar, has met all the
+requirements since the last quarter of 2014, when the application to obtain marketing authorisation for this biosimilar in
+Europe was filed with the European health authorities. Therefore, from that time until the beginning of the effective
+marketing of this biosimilar in Europe, all the expenses incurred in this project were capitalised. The commencement of
+the amortisation of this asset was determined by the completion, with a favourable result, of the decentralised procedure
+used by the Company to apply for marketing authorisation in twenty-six European Union countries in the first quarter of
+2017. These assets have a useful life of 20 years, which is consistent with the term of pharmaceutical product patents.
+ROVI considers that it will obtain a positive return on the aforementioned development over said period.
+For the rest of the Research and Development projects that it is undertaking, ROVI considers that the requirements
+established in the rules on capitalisation of the associated development expenses have not yet been met.
+b.3) Provisions for discounts, commercial transaction, contributions to the public health system and others subject to a
+high degree of uncertainty
+The provisions for returns, discounts, contributions to the public health system and other commercial transactions are
+recognised under “Current provisions” (Note 20). The provision is Management’s best estimate based on both the
+Company’s historical information related to product obsolescence, the regulatory framework and product cycles, and an
+assessment of the potential risks inherent to the activity.
+c) Grouping of items
+In order to facilitate an understanding of the statement of financial position, income statement, statement of changes in
+equity and statement of cash flows, the items on these statements are presented in groups and the required breakdowns
+are included in the relevant Notes to the annual accounts.
+8

@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+On 12 June, 2019, the General Meeting of Shareholders approved the distribution of the 2018 profit, which included a
+dividend to be distributed to shareholders for a maximum total amount of 4,474 thousand euros (0.0798 euros gross per
+share). This dividend was paid out in July 2019.
+f) Application of profit
+The proposed application of the profit for the period 2020 of the parent company, determined on the basis of generally-
+accepted accounting principles in Spain, that will be submitted to the General Meeting of Shareholders, together with the
+application approved for 2019 based on the profit of the parent company, is as follows:
+2020 2019
+Basis of application
+Profit for the year 71,137 25,553
+Application
+Dividend 21,373 9,818
+Retained earnings 49,764 15,735
+71,137 25,553
+17. Trade and other payables
+2020 2019
+Trade payables 63,452 68,770
+Payables to related parties (Note 31) 2,070 1,673
+Outstanding remuneration 4,564 5,264
+Public authorities 4,936 4,703
+Other payables 16,342 11,504
+91,364 91,914
+At 31 December, 2020 and 2019, the “Other payables” caption included the following liabilities:
+2020 2019
+Returns 1,438 1,365
+Contribution to public health system 14,096 8,437
+Other 7 25
+15,541 9,827
+Contribution to public health system
+In Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or other health products
+paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending on the volume) into the
+National Health System. This is a levy aimed to adjust the margin on a regulated activity through the price intervention
+established by the Law. The Group recognises the contribution to the public health system as a reduction in revenue
+when the sale is made. The sums accrued but not yet paid are recognised under the “Other payables” caption.
+Additionally, 10,424 thousand euros of the total amount of rebates to the National Health System were related to the co-
+operation agreement signed between Farmaindustria, the Spanish pharmaceutical industry association, and the Spanish
+government (5,641 thousand euros at 31 December, 2019) (Note 2.24).
+47

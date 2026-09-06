@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+b) Debt with government entities
+Since 2001, the Company has been receiving reimbursable grants from different Ministries to finance a number of R&D
+projects. The amounts recorded as non-current debits and payables for this item at 31 December, 2021 amounted to 8,191
+thousand euros (8,822 thousand euros at 31 December, 2020). The transactions do not accrue interest and have been
+recognised at their initial fair values. The difference between the initial fair value and the face value accrues at market
+interest rates (Euribor and the interest rate on Spanish Treasury debt plus a spread in accordance with the Company’s
+risk). This means that this debt accrues interest at effective interest rates ranging from 2.9% to 4.9%.
+b.1) Advances received in 2021:
+In 2021, the Company received various reimbursable advances from different entities, details of which are shown below:
+Thousand euros Years
+Face Initial fair Repayment Grace
+Company Entity Project value value period period
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 54 46 13 4
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 28 24 12 3
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 46 40 12 3
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 12 10 13 4
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 148 122 7 1
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 200 179 11 4
+Lab. Farm. Rovi Industrial Technological Development Centre (2) 106 92 16 4
+Lab. Farm. Rovi Industrial Technological Development Centre (2) 94 80 16 3
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 279 248 10 3
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 373 310 7 1
+1,340 1,151
+(1) Funds the projects to develop drugs with ISM technology.
+(2) Funds the projects for development of a biosimilar.
+b.2) Advances received in 2020:
+In 2020, the Company received various reimbursable advances from different entities, details of which are shown below:
+Thousand euros Years
+Face Initial fair Repayment Grace
+Company Entity Project value value period period
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 68 57 9 4
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 58 50 12 3
+Lab. Farm. Rovi Technological Corporation of Andalusia (1) 127 110 12 3
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 648 582 10 3
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 354 302 10 3
+Lab. Farm. Rovi Industrial Technological Development Centre (1) 175 156 10 3
+1,430 1,257
+(1) Funds the projects to develop drugs with ISM technology.
+43

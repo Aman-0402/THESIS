@@ -1,0 +1,49 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+Bajo el método de la participación, los intereses en negocios conjuntos se reconocen inicialmente a su coste y se ajusta
+a partir de entonces para reconocer la participación del Grupo en los beneficios y pérdidas posteriores a la adquisición y
+movimientos en otro resultado global. Cuando la participación del Grupo en las pérdidas en un negocio conjunto iguala o
+supera sus intereses en negocios conjuntos (lo que incluye cualquier interés a largo plazo que, en sustancia, forme
+parte de la inversión neta del Grupo en los negocios conjuntos), el Grupo no reconoce pérdidas adicionales, a menos
+que haya incurrido en obligaciones o hecho pagos en nombre de los negocios conjuntos.
+Las ganancias no realizadas en transacciones entre el Grupo y sus negocios conjuntos se eliminan en la medida de la
+participación del Grupo en los negocios conjuntos. Las pérdidas no realizadas también se eliminan a menos que la
+transacción proporcione evidencia de una pérdida por deterioro del valor del activo transferido. Las políticas contables
+de los negocios conjuntos se han modificado cuando es necesario para asegurar la uniformidad con las políticas
+adoptadas por el Grupo.
+2.4 Información financiera por segmentos
+La información sobre los segmentos de explotación se presenta de acuerdo con la información interna que se suministra
+a la máxima autoridad en la toma de decisiones. Se ha identificado como la máxima autoridad en la toma de decisiones,
+que es responsable de asignar los recursos y evaluar el rendimiento de los segmentos de explotación, al Comité de
+Dirección encargado de la toma de decisiones estratégicas.
+2.5 Transacciones en moneda extranjera
+a) Moneda funcional y presentación
+Las partidas incluidas en las cuentas anuales de cada una de las entidades del Grupo se valoran utilizando la moneda
+del entorno económico principal en que cada entidad opera («moneda funcional»). Las cuentas anuales consolidadas se
+presentan en euros, que es la moneda funcional y de presentación del Grupo.
+b) Transacciones y saldos
+Las transacciones en moneda extranjera se convierten a la moneda funcional utilizando los tipos de cambio vigentes en
+las fechas de las transacciones o de las valoraciones, en el caso de partidas que se han vuelto a valorar. Las pérdidas y
+ganancias en moneda extranjera que resultan de la liquidación de estas transacciones y de la conversión a los tipos de
+cambio de cierre de los activos y pasivos monetarios denominados en moneda extranjera se reconocen en la cuenta de
+resultados, excepto si se difieren en el otro resultado global como las coberturas de flujos de efectivo cualificadas y las
+coberturas de inversiones netas cualificadas. Las pérdidas y ganancias por diferencias de cambio relativas a préstamos
+y efectivo y equivalentes al efectivo se presentan en la cuenta de pérdidas y ganancias en la línea de “Ingresos o gastos
+financieros”. El resto de pérdidas y ganancias por diferencias de cambio se presentan como “Otras ganancias /
+(pérdidas) netas”.
+Los cambios en el valor razonable de títulos monetarios denominados en moneda extranjera clasificados como valores
+de renta variable se analizan considerando las diferencias de conversión resultantes de cambios en el coste amortizado
+del título y otros cambios en el importe en libros del título. Las diferencias de conversión relativas a variaciones en el
+coste amortizado se reconocen en la cuenta de resultados, y los otros cambios en el importe en libros se reconocen en
+el otro resultado global.
+Las diferencias de conversión sobre partidas no monetarias, tales como instrumentos de patrimonio mantenidos a valor
+razonable con cambios en resultados, se reconocen en la cuenta de resultados como parte de la ganancia o pérdida de
+valor razonable. Las diferencias de conversión sobre partidas no monetarias valoradas a valor razonable, tales como
+instrumentos de patrimonio clasificados como valores de renta variable, se incluyen en el otro resultado global.
+2.6 Inmovilizado material
+Los elementos de inmovilizado material se reconocen por su coste menos la amortización y, en su caso, menos las
+pérdidas por deterioro acumuladas correspondientes, excepto en el caso de los terrenos, que se presentan netos de las
+pérdidas por deterioro, en caso de existir.
+El coste histórico incluye los gastos directamente atribuibles a la adquisición de las partidas del inmovilizado material.
+11

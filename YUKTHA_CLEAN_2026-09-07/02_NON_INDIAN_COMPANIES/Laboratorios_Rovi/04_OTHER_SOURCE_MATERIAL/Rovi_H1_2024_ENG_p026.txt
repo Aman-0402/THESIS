@@ -1,0 +1,47 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+16.Trade and other payables
+31
+30 June December
+2024 2023
+Trade payables 80,876 107,593
+Debt with related parties (Note 9 & 25) 21,058 2,299
+Outstanding remuneration 7,270 7,598
+Public authorities 5,838 6,126
+Other payables
+76,130 18,279
+191,172 141,895
+At 30 June 2024 and 2023, the “Other payables” caption included the following liabilities, among others:
+31
+30 June December
+2024 2023
+Contribution to the public health system and other rebates 14,120 15,107
+Returns 1,464 1,644
+Other trading transactions 929 1,528
+Dividend payable (Note 24) 59,617 —
+76,130 18,279
+Contribution to the public health system
+In Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or other healthcare
+products paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending on the
+volume) into the National Health System every four months. This is a levy aimed to adjust the margin on a regulated
+activity through the price intervention established by the Law. The Group recognises the contribution to the public health
+system as a reduction in revenue when the sale is made. The sums accrued but not yet paid are recognised under the
+“Other payables” caption.
+Additionally, there are liabilities in other European countries where the Group operates that have similar characteristics to
+those described in the preceding paragraph and also form part of this caption.
+Although these amounts should not be considered as amounts returned or reimbursed to customers, they are recognised
+as a reduction in revenue, since the objective of the Law is to regulate the prices and margins obtained on these
+products.
+17. Financial debt
+The breakdown of the financial debt at 30 June 2024 and 31 December 2023 is as follows:
+31
+30 June December
+2024 2023
+Non-current financial debt 98,144 52,242
+Current financial debt 23,015 13,185
+121,159 65,427
+22

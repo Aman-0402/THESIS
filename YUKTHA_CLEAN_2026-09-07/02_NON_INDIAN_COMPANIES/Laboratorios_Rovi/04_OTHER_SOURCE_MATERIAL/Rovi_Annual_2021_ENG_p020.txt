@@ -1,0 +1,37 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+Amortisable assets are tested for impairment whenever any event or change in circumstances indicates that their carrying
+amount may not be recoverable.
+c) Computer software
+Licences for computer software acquired from third parties are capitalised on the basis of the cost incurred in acquiring
+them and preparing them to use the specific programme. These costs are amortised over their estimated useful lives (from
+4 to 10 years).
+Expenses related to software maintenance are recognised as an expense when incurred.
+3.2 Property, plant and equipment
+Items included in property, plant and equipment are measured at purchase price or production cost less accumulated
+depreciation less recognised impairment losses, adjusted in accordance with Law 9/1983 of 13 July, promulgated by the
+Administration. In addition, the Company applied the balance sheet restatement at 31 December, 1996, in accordance with
+Royal Decree Law 7/1996 of 7 June.
+The costs of expansion, modernisation or improvement of items included in property, plant and equipment are included in
+the asset as an increase in its value only when they represent an increase in its capacity, productivity or useful life and
+provided it is possible to know or estimate the carrying amounts of the elements that have been derecognised in the
+inventory because they have been replaced.
+Major repair costs are capitalised and are depreciated over their useful lives, while recurring maintenance expenses are
+recognised in profit and loss in the period in which they are incurred.
+Depreciation of property, plant and equipment, except for land, which is not depreciated, is calculated systematically using
+the straight-line method in accordance with the estimated useful lives, taking into account the actual impairment suffered
+as a result of the use and enjoyment of the items. The estimated useful lives are:
+Buildings - 40 years
+Technical facilities and machinery – between 4 and 14 years
+Other facilities, fittings and equipment and furniture – between 5 and 10 years
+Other property, plant and equipment– between 4 and 5 years
+The assets’ residual values and useful lives are reviewed and, if appropriate, adjusted at each reporting date.
+An asset’s carrying amount is written down immediately to its recoverable amount if the asset’s carrying amount is greater
+than its estimated recoverable amount.
+Losses and gains on disposals are determined by comparing proceeds with carrying amount and are recognised in profit
+and loss.
+11

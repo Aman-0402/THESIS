@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+• Eliminación de by-pass de válvulas de 3 vías en baterías de calor en las UTAS del circuito de agua caliente y control de
+velocidad de bombas de recirculación. El CapEx taxonómico asociado asciende a un total de 5.531,87 €.
+• Nueva curva de compensación climática para poder modificar el punto de consigna de la UTA 1 en función de la
+temperatura exterior. Esta actuación no ha requerido de una inversión significativa por parte del Grupo.
+• Cambio de consigna de temperatura de retorno del sub-lazo frío del lazo WFI 1 a una consigna de temperatura menos
+exigente energéticamente. Esta actuación no ha requerido de una inversión significativa por parte del Grupo.
+• Instalación de vinilos solares en cristaleras de planta baja. El CapEx taxonómico asociado se detalla con anterioridad en
+el alcance 1.
+Complejo de Escúzar:
+• Seguimiento y análisis de datos consumos energéticos a través de la plataforma de monitorización y facturas. El CapEx
+taxonómico asociado se detalla con anterioridad en el alcance 1.
+Alcance 3:
+En lo que respecta a la gestión de residuos, ROVI está trabajando para reducir y, en última instancia, eliminar todos los
+tratamientos de destrucción, sustituyéndolos por procesos de valorización. También se está promoviendo el traslado de estos
+residuos a centros de tratamiento más cercanos a las instalaciones donde se generan. Adicionalmente, a partir de 2024 se
+requerirá que los operadores logísticos contratados por el Grupo presenten planes de descarbonización. En caso de que no
+dispongan de dichos planes, se establecerá la obligación de desarrollarlos durante los dos primeros años de colaboración con
+ROVI.
+Por otro lado, se están evaluando alternativas para sustituir los materiales de acondicionamiento. El Grupo ya cuenta con
+cuatro líneas que empaquetan productos en cartón en lugar de plástico para uno de sus principales clientes, además de estar
+trabajando en la viabilidad de la introducción de blísteres de plástico reciclado y reciclable en algunos productos.
+Objetivos del año en curso
+Pese a la existencia de dichas actuaciones, tanto realizadas como en proceso de análisis, ROVI no lleva a cabo una
+monitorización de las reducciones logradas y previstas de las emisiones de GEI. No obstante, durante el ejercicio 2024, el
+Grupo ha estado enfocado en alcanzar una serie de objetivos, como mitigar el 100% de las emisiones de CO generadas en el
+2
+2023 en cada centro ocasionadas por el consumo eléctrico y de combustibles (alcances 1 y 2 de la huella de carbono). El gasto
+asociado a dicha actuación asciende a un total de 50.616 €. Adicionalmente, existen objetivos específicos para cada complejo
+industrial28:
+Julián Camarillo:
+• No incrementar en más de un 5% el consumo de la electricidad en función del volumen de producción respecto al 2023.
+Alcalá de Henares:
+• No aumentar en más de un 16% el consumo en electricidad y en más de un 4% el consumo de gas natural en función
+del aumento del volumen de producción respecto al año 2023.
+Granada y Escúzar:
+• Generación durante el 2024 de al menos 200.000 kWh/año más de energía de autoconsumo con respecto al total de la
+energía consumida en cada centro durante el 2023.
+Por último, cabe mencionar que las actuaciones anteriormente descritas se verán reflejadas, en su caso, con las actividades
+taxonómicas pertinentes y los indicadores clave de resultados. Dicho detalle podrá consultarse en el apartado de la Taxonomía
+Europea (actividades elegibles y alineadas). Las cuantías consolidadas del CapEx durante el ejercicio 2024 pueden consultarse
+en la Nota 6 “Inmovilizado material” y la Nota 7 “Activos Intangibles”, y las del OpEx en la Nota 25 “Otros gastos de explotación”
+de las Cuentas Anuales Consolidadas.
+28 No se han establecido objetivos concretos en el complejo de San Sebastián de los Reyes.
+79

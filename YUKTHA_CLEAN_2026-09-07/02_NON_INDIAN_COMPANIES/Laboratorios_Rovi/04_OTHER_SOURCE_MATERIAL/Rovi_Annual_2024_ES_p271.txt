@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Por otra parte, de manera separada, se analizó el riesgo de fallo de equipos por eventos de calor extremo, para el cual se
+estableció una escala diferente de medición basada en una temperatura umbral de calor establecida en el percentil 99 de la
+temperatura máxima anual en la ubicación específica de cada activo.
+Los resultados bajo un escenario RCP 8.5 revelan que el porcentaje de fallo debido a eventos de calor extremo aumenta un
+17.89% de media en 2030 y un 52,72% en 2050 para todos los activos analizados. Del mismo modo, bajo un escenario RCP
+2.6, el porcentaje de fallo debido a eventos de calor extremo aumenta un 14,01% de media en 2030 y un 25,09% en 2050.
+Riesgos climáticos físicos crónicos
+Durante el ejercicio 2023, se identificó el estrés hídrico como el peligro climático físico potencial de tipo crónico que podría
+afectar a las cinco instalaciones industriales de la Compañía, al estar todas ubicadas en España, considerado un país dentro
+de la categoría de estrés hídrico alto. La sequía podría generar escasez de agua y posibles cortes en el suministro, lo que
+impactaría el proceso productivo en las instalaciones industriales de ROVI.
+Los escenarios climáticos considerados para la evaluación fueron los mismos que los utilizados para los riesgos físicos
+aguados: escenarios RCP 2.6 y 8.5, así como los horizontes temporales de 2030, 2045 y 2070. El umbral utilizado para definir
+que el Grupo necesitaba revisar sus opciones de gestión de sequías era duplicar el riesgo de sequía desde el año base, 1990,
+cuando el nivel de sequía presentó un período de retorno de 1 en 20 (5% de probabilidad anual).
+Los resultados del análisis indicaron que Granada era la región más crítica en relación con el riesgo de estrés hídrico para los
+centros productivos de ROVI, donde se anticipó un aumento significativo del riesgo a medio y largo plazo bajo el escenario 8.5,
+el cual representa el peor escenario, en el que las emisiones continúan creciendo durante el siglo XXI, también conocido como
+"business as usual".
+Por otro lado, el riesgo de estrés hídrico no se consideró significativo para los tres complejos ubicados en Madrid hasta el año
+2070, bajo las condiciones del escenario RCP 8.5, el más desfavorable.
+2. Riesgos climáticos de transición
+En cuanto a los riesgos y oportunidades climáticas de transición, ROVI también siguió las recomendaciones del TCFD. En este
+contexto, el Grupo llevó a cabo una identificación y evaluación de los riesgos y oportunidades de transición que podrían afectar
+a nivel corporativo. En el análisis, se utilizaron los escenarios del informe World Energy Outlook (WEO) de la Agencia
+Internacional de la Energía (IEA, por sus siglas en inglés) que se correlacionan con los escenarios correspondientes al quinto
+informe del IPCC utilizados en la evaluación de los riesgos climáticos físicos y agudos llevada a cabo por ROVI.
+El Grupo identificó los siguientes riesgos relacionados con sus operaciones durante el 2023:
+Riesgos regulatorios
+• Nuevas regulaciones más estrictas relacionadas con el cambio climático que podrían afectar tanto a los costes
+operativos y de la cadena de suministro, como al incremento de las obligaciones de reporting.
+• Nuevos impuestos al carbono.
+• Mandatos y regulación de los productos y servicios existentes (Sistemas de Salud Net Zero).
+Riesgos tecnológicos
+• Costes de transición hacia tecnología de bajas emisiones.
+Riesgos reputacionales
+• Incapacidad de responder a las solicitudes de informes mejorados sobre la gestión y objetivos en materia de cambio
+climático (en particular de bancos y fondos).
+• Incremento en la demanda de información, preocupaciones y expectativas de los grupos de interés, lo que requiere
+dedicar una mayor cantidad de recursos por parte de la Compañía para dar respuesta a las mismas.
+73

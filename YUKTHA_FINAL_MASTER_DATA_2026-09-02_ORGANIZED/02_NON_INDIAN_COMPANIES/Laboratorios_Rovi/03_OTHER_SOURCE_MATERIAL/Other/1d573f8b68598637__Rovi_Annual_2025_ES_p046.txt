@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+9. Calidad crediticia de los activos financieros
+La calidad crediticia de los activos financieros que todavía no han vencido y que tampoco han sufrido pérdidas por deterioro se
+puede evaluar en función de la clasificación crediticia (“rating”) otorgada por organismos externos al Grupo o bien, en el caso
+de clientes sin rating, distinguiendo aquellos correspondientes a Seguridad Social y Organismos Públicos que, por su
+naturaleza, no están sujetos a deterioro:
+Efectivo y equivalentes de efectivo Rating 2025 2024
+A+ 69.974 2.016
+A 570 10.372
+A- 26.435 13.758
+BBB+ 447 —
+BBB — 487
+Sin rating 550 553
+Total efectivo y equivalentes al efectivo (Nota 14) 97.976 27.186
+Cuentas financieras a cobrar Rating 2025 2024
+A — 65
+Total cuentas financieras a cobrar (Nota 13) — 65
+Clientes Rating 2025 2024
+AA 303 1.121
+A1 1.120 2.582
+Centros e instituciones públicas (Nota 13) 17.336 16.576
+Otros (mayoristas, farmacias, sanatorios) 144.799 94.934
+Total clientes (Nota 13) 163.558 115.176
+Otros Depósitos Rating 2025 2024
+A+ 1.327 1.327
+Sin rating 621 603
+Total otros depósitos (Nota 13) 1.948 1.930
+10. Inversión en negocios conjuntos y asociadas
+El movimiento del periodo de las participaciones en negocios conjuntos y asociadas ha sido el siguiente:
+2025 2024
+Saldo inicial 19.516 567
+Altas — 19.090
+Bajas (Nota 1) (412) —
+Participación en beneficio/pérdida 60 (141)
+Saldo final 19.164 19.516
+La naturaleza de la inversión en negocios conjuntos y asociadas a 31 de diciembre de 2025 y de 2024 es la siguiente:
+Naturaleza
+País de % de la de la
+Nombre constitución participación relación Método de valoración
+Terafront Farmatech, S.L. (1) España 25,5 % a) Participación
+Cells IA Technologies, S.L (2) España 94,995 % b) Sociedad bajo control del Grupo
+(1) Sociedad constituida en el ejercicio 2024.
+(2) Sociedad participada desde 2023 y consolidada mediante integración global desde el 2025.
+36

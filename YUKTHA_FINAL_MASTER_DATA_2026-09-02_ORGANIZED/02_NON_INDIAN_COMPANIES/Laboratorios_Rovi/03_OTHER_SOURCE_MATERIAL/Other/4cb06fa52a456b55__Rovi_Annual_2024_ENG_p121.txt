@@ -1,0 +1,53 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+6. Property, plant and equipment
+Details of the movements on the different categories of property, plant and equipment are shown in the following table:
+Property
+, plant
+Land Technical and
+and facilities, Furniture, IT equipme
+building machinery fittings and equipment Rights of nt in
+s and tools other and vehicles use progress Total
+Balance at 01.01.23
+Cost 45,119 280,489 3,876 19,412 32,807 40,174 421,877
+Accumulated depreciation (19,199) (151,975) (2,943) (16,863) (15,356) — (206,336)
+Net carrying amount 01.01.23 25,920 128,514 933 2,549 17,451 40,174 215,541
+Additions 8,269 40,613 414 1,662 5,795 2,836 59,589
+Retirements — (427) — (354) — — (781)
+Eliminations from depreciation (6) 93 — 279 — — 366
+Transfers 7,257 26,702 462 120 — (34,541) —
+Depreciation charge (405) (14,345) (124) (1,297) (4,892) — (21,063)
+Balance at 31.12.23
+Cost 60,645 347,377 4,752 20,840 38,602 8,469 480,685
+Accumulated depreciation (19,610) (166,227) (3,067) (17,881) (20,248) — (227,033)
+Net carrying amount 31.12.23 41,035 181,150 1,685 2,959 18,354 8,469 253,652
+Additions 6,552 42,897 378 1,218 3,351 8,074 62,470
+Retirements (2) (10,661) (40) (508) (106) — (11,317)
+Eliminations from depreciation — 6,233 39 518 — — 6,790
+Transfers 7,602 (2,105) 11 26 — (5,534) —
+Depreciation charge (871) (16,535) (215) (1,340) (6,012) — (24,973)
+Balance at 31.12.24
+Cost 74,797 377,508 5,101 21,576 41,847 11,009 531,838
+Accumulated depreciation (20,481) (176,529) (3,243) (18,703) (26,260) — (245,216)
+Net carrying amount 31.12.24 54,316 200,979 1,858 2,873 15,587 11,009 286,622
+La
+Additions recognised in 2024 and 2023 mostly relate to investment in ROVI’s manufacturing plants, principally:
+– 2.8 million euros was invested in the Madrid injectables plant, compared with the 2.6 million euros invested in 2023.
+– 3.3 million euros was invested in the San Sebastián de los Reyes injectables plant, compared with the 2.6 million euros
+invested in 2023.
+– 1.5 million euros was invested in the Granada plant, compared with the 1.2 million euros invested in 2023.
+– 3.7 million euros was invested in the Alcalá de Henares plant, compared with the 4.3 million euros invested in 2023.
+– 3.2 million euros was invested in the industrialisation of ISM®, compared with the 9.1 million euros invested in 2023.
+– 1.9 million euros was invested in the construction, currently in progress, of the new heparin plant in Escúzar (Granada),
+compared with the 6.3 million euros invested in 2023.
+– 8,1 million euros was invested in the Glicopepton Biotech, S.A. plant, compared to the 2.8 million euros invested in
+2023.
+– 2.6 thousand euros was invested in maintenance and other, compared to the 2.2 thousand euros invested in 2023.
+– 35.3 million euros was invested in the new vial filling line andthe expansion of operations at the Madrid, San Sebastián
+de los Reyes and Alcalá de Henares plants, compared with the 24.0 million invested in 2023.
+Property, plant and equipment in progress includes the assets related to the construction of the production plant at Glicopepton
+Biotech, S.L.
+29

@@ -1,0 +1,61 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+the reduction of Scope 3 emissions. Thus, the efficacy of its climate change policy and the actions related to the IRO’s identified
+in the double materiality assessment are monitored.
+Lastly, mention should be made of the fact that the energy consumption targets are defined at the beginning of the year, once
+the energy consumed in the preceding period has been analysed (in the case of Escúzar, said goal has now been defined,
+oriented to generating at least 260,528 kWh/year more energy for self-consumption in 2025 compared to the total energy
+consumed in the industrial complex in 2024 and, for the Granada Complex, the goal is to reduce electricity and gas consumption
+by 2.2% and 2.87%, respectively, compared to 2024).
+◦ Disclosure Requirement E1-5: Energy consumption and mix
+The objective of this Disclosure Requirement is to provide a clear understanding of the Group’s energy consumption and mix.
+Companies operating in high climate impact sectors must provide a more detailed disaggregation of their energy consumption
+from fossil fuels. Under this framework, ROVI belongs to a high climate impact sector given that pharmaceutical product
+manufacturing is classified in section C of the statistical classification of economic activities of the European Union, NACE,
+corresponding to the manufacturing industry.
+The information on the company’s total energy consumption in its own operations is set out below, disaggregated into the total
+consumption of energy from fossil fuels and renewable sources, in addition to the percentage of the type of energy in the global
+energy mix. Attention should be drawn to the fact that 100% of the electricity consumed by all the ROVI Group’s production
+complexes and its main offices are from renewable sources with guarantee of origin.
+Energy consumption by origin (MWh)
+Alcalá de
+2024 Escúzar Granada Madrid SSRR Distribution Total
+Henares
+Fuel consumption from coal and coal
+0.00 0.00 0.00 0.00 0.00 0.00 0.00
+products
+Fuel consumption from crude oil and
+0.00 0.00 0.00 15.62 41.45 8,222.52 8,279.59
+petroleum products
+Fuel consumption from natural gas 4,129.70 3,708.62 4,848.13 9,531.18 13,718.35 0.00 35,935.98
+Fuel consumption from other fossil
+0.00 0.00 0.00 0.00 0.00 0.00 0.00
+sources
+Consumption of purchased or acquired
+0.00 0.00 0.00 0.00 0.00 109.43 109.43
+electricity from non-renewable sources
+Total energy consumption from fossil
+4,129.70 3,708.62 4,848.13 9,546.80 13,759.80 8,331.95 44,325.00
+sources
+Proportion of fossil sources in total
+0.54 0.46 0.43 0.50 0.56 0.93 0.56
+energy consumption (%)
+Fuel consumption from nuclear sources 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Proportion of nuclear sources in total
+0.00 0.00 0.00 0.00 0.00 0.00 0.00
+energy consumption (%)
+Fuel consumption from renewable
+sources including biomass (also
+comprising industrial and municipal
+0.00 0.00 0.00 0.00 0.00 0.00 0.00
+waste of biologic origin), biofuels,
+biogas, hydrogen from renewable
+sources, etc.
+Consumption of purchased or acquired
+electricity, heat, steam, and cooling 3,553.53 4,420.67 6,386.42 9,393.17 11,015.70 633.77 35,403.26
+from renewable sources
+Consumption of self-generated non-fuel
+0.00 0.00 0.00 0.00 0.00 0.00 0.00
+renewable energy
+Total renewable energy consumption 3,553.53 4,420.67 6,386.42 9,393.17 11,015.70 633.77 35,403.26
+74

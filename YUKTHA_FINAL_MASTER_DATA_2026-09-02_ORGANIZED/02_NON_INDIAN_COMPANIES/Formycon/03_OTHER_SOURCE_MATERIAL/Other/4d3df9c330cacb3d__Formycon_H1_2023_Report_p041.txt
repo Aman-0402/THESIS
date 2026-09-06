@@ -1,0 +1,41 @@
+80 INTERIM FINANCIAL STATEMENTS OF FORMYCON GROUP FORMYCON AG HALF-YEAR REPORT 2023 81
+Calculation of 11. Earnings before
+deferred tax liabilities
+interest, tax, depreciation
+In € K and amortization (EBITDA)
+The Executive Board additionally presents Group’s financial performance. EBITDA is derived
+June 30, 2023 December 31, 2022 EBITDA in the accompanying table “Calculation of and calculated from reported operating profit
+EBITDA” because it relies upon consolidated (EBIT). While EBITDA is not a defined performance
+Deferred tax Deferred tax Deferred tax Deferred tax EBITDA as a key performance measure in measure under the IFRS cost of sales method, the
+assets liabilities assets liabilities managing the Group and believes that this Group’s definition of EBITDA is consistent with
+measure is relevant to an understanding of the usual definitions.
+Valuation of 255 172
+participation in affiliate
+Valuation of 90 95
+non-current assets
+Right-of-use (ROU) assets 64 38
+and corresponding leasing obligations
+Calculation of
+Arising from purchase price allocation 119,116 119,116 EBITDA
+to capitalized assets
+In € K
+Capitalization of internally generated 14,202 7,137
+intangible assets
+Revenue recognition in accordance 356
+with IFRS 15
+Tax loss carryforwards – 14,514 11,659
+Formycon AG corporate tax (Körperschaftssteuer) Jan. 1 – June 30, 2023 Jan. 1 – June 30, 2022
+Tax loss carryforwards – 7,537 5,580
+Operating profit 6,358 -8,515
+Formycon AG trade tax (Gewerbesteuer) (EBIT)
+Tax loss carryforwards – 2,334 5,203 Depreciation of property, 265 354
+FYB202 Project GmbH plant and equipment
+Amortization of right-of-use (ROU) 547 505
+assets
+Offset (netting) of deferred tax assets -6,711 -6,711 -6,830 -6,830
+Amortization of 92 75
+and liabilities
+intangible assets
+Valuation adjustment -18,350 -15,823 EBITDA 7,262 -7,581
+to deferred tax assets
+Total - 126,697 - 119,518

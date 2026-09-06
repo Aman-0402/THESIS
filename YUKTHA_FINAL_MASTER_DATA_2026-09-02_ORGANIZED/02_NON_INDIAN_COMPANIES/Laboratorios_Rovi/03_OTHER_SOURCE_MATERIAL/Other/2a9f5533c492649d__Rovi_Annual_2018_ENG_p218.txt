@@ -1,0 +1,36 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+The fair values of current financial debt are equal to their corresponding nominal amounts since the effect of discounting
+is not significant. The fair values are based on cash flows discounted at a rate of 2%, based on the borrowing rate (2% in
+2017).
+To calculate the fair value of fixed rate non-current bank borrowings at 31 December, 2018, the interest rate of the last
+variable interest loan received by the Company was taken as a reference: Euribor at 3 months plus a 0.844% spread (as
+at 31 December, 2017 the reference was given by the only variable interest loan existig at that date, Euribor at 12
+months plus a 0.70% spread).
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and when the deferred income taxes assets and liabilities relate to income taxes levied by
+the same taxation authority. A breakdown of the estimated periods for offsetting is as follows:
+2018 2017
+Deferred tax assets:
+– Deferred tax assets to be recovered at more than 12 months 11.332 5.816
+– Deferred tax assets to be recovered within 12 months 4.704 6,077
+16,036 11,893
+Deferred tax liabilities:
+– Deferred tax liabilities to be settled at more than 12 months 1.033 1.206
+– Deferred tax liabilities to be settled within 12 months 210 232
+1,243 1,438
+Net movement on the deferred tax account was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January, 2017 10,252 (1,640) 8,612
+(Charged) / credited to the income statement 1,641 202 1,843
+At 31 December, 2017 11,893 (1,438) 10,455
+(Charged) / credited to the income statement (Note 28) 4.277 195 4,472
+Tax charged to equity (134) - (134)
+At 31 December, 2018 16,036 (1,243) 14,793
+55

@@ -1,0 +1,36 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2016
+(Expresada en miles de euros)
+3. Criterios contables
+3.1 Inmovilizado intangible
+a) Gastos de investigación y desarrollo
+Los gastos de investigación se reconocen como gasto cuando se incurre en ellos, mientras que los gastos de desarrollo
+incurridos en un proyecto se reconocen como inmovilizado intangible cuando se cumplen los siguientes requisitos:
+- el proyecto es viable desde una perspectiva técnica y comercial,
+- se dispone de recursos técnicos y financieros suficientes para completarlo,
+- los costes incurridos pueden determinarse de forma fiable y
+- la generación de beneficios es probable.
+La Sociedad considera que su proyecto de desarrollo de una heparina de bajo peso molecular, biosimilar de
+enoxaparina, cumple todos los requisitos mencionados desde el último trimestre de 2014, momento en el que presentó
+ante las autoridades sanitarias europeas la solicitud para la obtención de la comercialización en Europa de este
+biosimilar. Por lo tanto, desde ese momento, todos los gastos incurridos en este proyecto están siendo activados. Estos
+activos tienen una vida útil de 20 años.
+Cuando el valor contable de un activo es superior a su importe recuperable estimado, su valor se reduce de forma
+inmediata hasta su importe recuperable.
+En caso de que varíen las circunstancias favorables del proyecto que permitieron capitalizar los gastos de desarrollo, la
+parte pendiente de amortizar se lleva a resultado en el ejercicio en que dichas circunstancias cambian.
+b) Licencias y marcas
+Las licencias y los registros de productos se presentan a coste histórico. Los que tienen una vida útil definida se llevan a
+coste menos amortización acumulada y menos correcciones por deterioro de valor reconocidas. La amortización se
+calcula por el método lineal para asignar el coste de las marcas y licencias durante su vida útil estimada, entre 10 y 15
+años. Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre que algún suceso
+o cambio en las circunstancias indique que el importe en libros puede no ser recuperable.
+A 31 de diciembre de 2015 en esta categoría se encontraban registrados activos con vida útil indefinida. Tras la entrada
+en vigor del Real Decreto 602/2016, de 2 de diciembre, por el que se modifica el Plan General de Contabilidad y otras
+normas contables, estos activos han dejado de considerarse de vida útil indefinida y han comenzado a amortizarse con
+fecha 1 de enero de 2016, por un periodo de 10 años.
+c) Aplicaciones informáticas
+Las licencias para programas informáticos adquiridas a terceros se capitalizan sobre la base de los costes en que se ha
+incurrido para adquirirlas y prepararlas para usar el programa específico. Estos costes se amortizan durante sus vidas
+útiles estimadas (de 4 a 10 años).
+9

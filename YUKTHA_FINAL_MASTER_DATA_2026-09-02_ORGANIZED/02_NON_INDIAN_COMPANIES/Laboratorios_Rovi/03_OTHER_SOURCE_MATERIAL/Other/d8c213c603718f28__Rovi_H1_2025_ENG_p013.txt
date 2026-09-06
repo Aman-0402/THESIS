@@ -1,0 +1,60 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+To determine the consideration to be settled, ROVI took the following circumstances into account:
+– The fixed price totalling 1,440 thousand euros paid to the two shareholders and the capital increase and share
+premium of 2,250 thousand euros were included in the cost of the consideration settled. Also included was a
+sum of 187 thousand euros relating to components of Earn-out 1, considered very likely to materialise as of 30
+June 2025, the balancing item of which is recognised under the “Other non-current liabilities” caption (this
+provision accrues monthly interest and totalled 189 thousand euros at 30 June 2025). Elements that, as of said
+date, were considered unlikely to materialise and remuneration based on the continuity of key personnel were
+not considered part of the cost of the business transaction.
+– Control was obtained starting from a prior interest that furnished significant influence over Cells IA Technologies,
+S.L,, recognised in Gineladius, S.L.U. for an amount of 600 thousand euros. Since the company was
+consolidated by the equity method until 27 January 2025, its value was 412 thousand euros and, therefore,
+ROVI remeasured its old shares at the price paid on 27 January 2025, leading to recognition of revenue of 467
+thousand euros in profit and loss.
+The consideration settled is summarised below:
+Consideration settled Amount
+Capital increase and premium 2,250
+Fixed payments 1,440
+Highly likely contingent payments 187
+Prior interest at cost 600
+Adjustment equity method (188)
+Remeasurement with 27 January 2025 transactions 467
+Total 4,756
+IFRS 3 states that the acquirer must measure the identifiable assets acquired and the liabilities assumed at their
+acquisition-date fair value. No differences have been noted between the fair value and the carrying amount. The
+following shows a breakdown of the assets acquired and the liabilities assumed on the first consolidation of Cells IA
+Technologies, S.L. under the full consolidation method:
+Cells IA Technologies, S.L. Amount in thousand euros
+Intangible assets (Note 8) 4
+Property, plant and equipment (Note 7) 16
+Deferred tax assets 32
+Trade and other receivables 315
+Cash and cash equivalents 2,064
+TOTAL ASSETS 2,431
+Share capital 20
+Share premium 2,909
+Profit/(loss) (136)
+Reserves (631)
+Equity 2,162
+Trade and other payables 269
+TOTAL EQUITY AND LIABILITIES 2,431
+Additionally, acquisition-date goodwill must be recognised as the difference between the consideration paid and the fair
+value of the identifiable net assets acquired. The following table shows the goodwill generated on the transaction:
+First consolidation difference Amount
+Consideration settled 4,756
+Net assets at fair value (2,162)
+Non-controlling interests 108
+Goodwill 2,702
+Finally, when accounting for business combinations, there is a 12-month period to allow the events and circumstances
+existing at the time of the acquisition to be evaluated, meaning that the measurement as of 30 June 2025 is considered
+provisional.
+In relation to the first half of 2024, on 13 March 2024, the company Terafront Farmatech, S.L., with registered address at
+Calle Julián Camarillo, 35, Madrid (Spain), joined the consolidated group. This company is held 25.5% by Laboratorios
+Farmacéuticos Rovi, S.A. and is consolidated using the equity method.
+9

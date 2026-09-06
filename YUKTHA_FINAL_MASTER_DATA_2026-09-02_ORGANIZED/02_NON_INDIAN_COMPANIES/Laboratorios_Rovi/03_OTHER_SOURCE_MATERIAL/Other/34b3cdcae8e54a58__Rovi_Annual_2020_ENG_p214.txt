@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+At 31 December, 2020 and 2019, financial liabilities for leases matured as follows:
+Year 2020 2019
+2020 - 3,460
+2021 3,069 2,957
+2022 1,977 1,974
+2023 2,006 2,003
+2024 2,036 2,033
+2025 2,067 2,064
+2026 onward 6,391 6,380
+17,546 20,871
+Non-current 14,477 17,411
+Current 3,069 3,460
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and the deferred income taxes assets and liabilities relate to income taxes levied by the
+same taxation authority. A breakdown of the estimated periods for offsetting is as follows:
+2020 2019
+Deferred tax assets:
+– Deferred tax assets to be recovered at more than 12 months 3,450 7,955
+– Deferred tax assets to be recovered within 12 months 7,655 6,705
+11,105 14,660
+Deferred tax liabilities:
+– Deferred tax liabilities to be recovered at more than 12 months 874 884
+– Deferred tax liabilities to be recovered within 12 months 55 194
+929 1,078
+Net movement on the deferred tax account was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January, 2019 16,036 (1,243) 14,793
+(Charged) / credited to the income statement (Note 28) 1,624 165 1,789
+Derecognition due to monetization (Note 27) (3,000) - (3,000)
+At 31 December, 2019 14,660 (1,078) 13,582
+(Charged) / credited to the income statement (Note 28) (3,555) 149 (3,406)
+At 31 December, 2020 11,105 (929) 10,176
+52

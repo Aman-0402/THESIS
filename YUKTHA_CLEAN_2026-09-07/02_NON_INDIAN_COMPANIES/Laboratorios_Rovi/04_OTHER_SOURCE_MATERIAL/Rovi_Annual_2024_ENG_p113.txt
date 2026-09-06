@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Similar estimates are applied in Italy, France, United Kingdom and Portugal with their respective national health systems and the
+Group accounts for the provisions applying similar criteria. Calculating the provision in these territories follows the same
+principle and, therefore, the judgement likewise consists of estimating the sales subject to the different taxes, which are
+calculated in accordance with the actual sales indicators of the present and preceding periods.
+Additionally, the Group calculates and books a liability for discounts applied in Germany. It is a discount for sales volume agreed
+by contract with private customers that are usually mutual or other insurance companies. This amount is calculated in
+accordance with the conditions set out in the contract, based on the estimated sales with each customer in the period
+considered. In this case, since payment is made after the accrual period, the Group makes an estimate based on the
+outstanding amount and recognises it as a provision. In this case, the judgement focuses mainly on estimating the sales volume
+during the period covered by the contract and is made in accordance with forecast sales based on historical records and
+knowledge of the customers, to which the percentage discount determined in the conditions of the contract is applied.
+In 2010, the government approved two packages of measures to reduce pharmaceutical spending. The first one focused on
+generic products, which are those out of patent, for which it established an average reduction of 25% in the selling price to
+laboratories. The second package addressed pharmaceutical products under patent. Since that time, a 7.5% discount has been
+applied to the selling price to the public. The Group recognises the amounts relating to these measures as a decrease in sales.
+From 2017 onwards, the Spanish government and the members of Farmaindustria, to which ROVI belongs, signed different
+agreements whereby the members assumed a commitment to make certain contributions to the public health system. The
+Group recognised the amounts accrued for these commitments as a reduction in sales. No additional agreement has been
+signed since the last agreement ended in 2019.
+3. Financial risk management
+3.1 Financial risk factors
+The Group’s activities expose it to a variety of financial risks: market risk (including interest rate risk, foreign exchange risk and
+price risk), credit risk and liquidity risk. The Group’s risk management programme focuses on the unpredictability of the financial
+markets and seeks to minimise potential adverse effects on the Group’s financial performance.
+Risk management is carried out by the group Treasury Department following policies approved by the Board of Directors. Group
+Treasury identifies, assesses and hedges financial risks in close co-operation with the Group’s operating units. The Audit
+Committee analyses policies for global risk management, as well as policies covering specific areas, such as, interest rate risk,
+liquidity risk and the investment of excess liquidity.
+a) Market risk
+(i) Foreign exchange risk
+Foreign exchange risk is low because (i) most of the Group’s assets and liabilities are in euros; (ii) a large part of the
+transactions with foreign parties are carried out in euros; and (iii) transactions for a significant amount in currencies other than
+the euro are hedged with financial instruments that minimise the impact of exchange-rate risk. At 31 December 2024 and 2023,
+the Group did not hold any instruments of this kind.
+At 31 December 2024, there were assets of 6,500 pounds sterling, 718 thousand zlotys and 190 thousand Swiss francs on the
+balance sheet (4,919 thousand pounds sterling, 1,208 thousand zlotys and 212 thousand Swiss francs at 31 December 2023). If
+the exchange rate at the reporting date had been 10% higher, the value in euros of the assets denominated in pounds sterling,
+zlotys and Swiss francs would have decreased by 746 thousand euros (561 thousand euros in 2023) and, if the exchange rate
+had been 10% lower, their value would have increased by 912 thousand euros (685 thousand euros at 31 December 2023).
+At 31 December 2024, there were liabilities of 6,137 thousand pounds sterling, 3,623 thousand zlotys and 18 thousand Swiss
+francs on the balance sheet (4,929 thousand pounds sterling, 3,136 thousand zlotys and 26 thousand Swiss francs at 31
+December 2023). If the exchange rate at the reporting date had been 10% higher or lower, these liabilities would have
+decreased or increased by 751 and 919 thousand euros, respectively (584 and 714 thousand euros at 31 December 2023), with
+the corresponding effect on profit and loss.
+21

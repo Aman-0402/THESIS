@@ -1,0 +1,52 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2025
+(Expresada en miles de euros)
+3.3 Pérdidas por deterioro del valor de activos no financieros
+Los activos intangibles que no están en condiciones de poderse utilizar no están sujetos a amortización y se someten
+anualmente a pruebas para pérdidas por deterioro de valor.
+Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre considerando diversas
+circunstancias internas y externas, entre las que se incluyen:
+– Indicios observables de disminución del valor de mercado.
+– Evaluación de aquellos eventos que puedan tener una incidencia adversa, tanto externos (por ejemplo, la
+inflación o cambios en el entorno legal) o internos (por ejemplo, planes de reestructuración u ociosidad del
+activo).
+– Incrementos en los tipos de interés de mercado del activo.
+– Información sobre la obsolescencia o deterioro físico del activo.
+– Evidencias de informes internos donde se indique que el rendimiento del activo va a ser peor de lo esperado.
+Se reconoce una pérdida por deterioro de valor por el importe por el que el importe en libros del activo excede su
+importe recuperable. El importe recuperable es el mayor entre el valor razonable del un activo menos los costes para la
+venta y el valor en uso. A efectos de evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo
+para el que hay flujos de entrada de efectivo en gran medida independientes (unidades generadoras de efectivo). Las
+pérdidas por deterioro de valor previas de activos no financieros (distintos al fondo de comercio) se revisan para su
+posible reversión en cada fecha en la que se presenta la información financiera.
+3.4 Activos financieros
+a) Clasificación de los activos financieros
+La Sociedad clasifica sus activos financieros en las siguientes categorías:
+1) Activos financieros a coste amortizado: Los activos financieros a coste amortizado son activos financieros no
+derivados con cobros fijos o determinables que no cotizan en un mercado activo. Se incluyen en activos
+corrientes, excepto para vencimientos superiores a 12 meses desde de la fecha del balance que se clasifican
+como activos no corrientes. Los activos financieros a coste amortizado se incluyen en “Créditos a empresas” y
+“Deudores comerciales y otras cuentas a cobrar” en el balance.
+Los depósitos en entidades bancarias con un vencimiento superior a 90 días y menos de 12 meses son incluidos
+en esta categoría.
+También se reconocen en esta categoría los valores representativos de deuda con cobros fijos o determinables y
+vencimiento fijo, que se negocien en un mercado activo y que la dirección de la Sociedad tiene la intención
+efectiva y la capacidad de mantener hasta su vencimiento. Si la Sociedad vendiese un importe que no fuese
+insignificante de estos activos financieros, los activos se reclasificarían como activos financieros a valor
+razonable con cambios en patrimonio neto. Estos activos financieros se incluyen en activos no corrientes,
+excepto aquellos con vencimiento inferior a 12 meses a partir de la fecha del balance que se clasifican como
+activos corrientes.
+Estos activos financieros se valoran inicialmente por su valor razonable, incluidos los costes de transacción que
+les sean directamente imputables, y posteriormente a coste amortizado reconociendo los intereses devengados
+en función de su tipo de interés efectivo, entendido como el tipo de actualización que iguala el valor en libros del
+instrumento con la totalidad de sus flujos de efectivo estimados hasta su vencimiento. No obstante, lo anterior, los
+créditos por operaciones comerciales con vencimiento no superior a un año se valoran, tanto en el momento de
+reconocimiento inicial como posteriormente, por su valor nominal siempre que el efecto de no actualizar los flujos
+no sea significativo.
+Al menos al cierre del ejercicio, se efectúan las correcciones valorativas necesarias por deterioro de valor si
+existe evidencia objetiva de que no se cobrarán todos los importes que se adeudan.
+El importe de la pérdida por deterioro del valor es la diferencia entre el valor en libros del activo y el valor actual
+de los flujos de efectivo futuros estimados, descontados al tipo de interés efectivo en el momento de
+reconocimiento inicial. Las correcciones de valor, así como en su caso su reversión, se reconocen en la cuenta
+de pérdidas y ganancias.
+10

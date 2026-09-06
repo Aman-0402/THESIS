@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+The fair values of quoted investments are based on current bid prices. If the market for a financial asset is not active (and
+for unlisted securities), the Group establishes fair value on the basis of an analysis of discounted cash flows.
+At the end of each reporting period, the Group assesses whether there is objective evidence that a financial asset or a
+group of financial assets is impaired. In the case of securities classified as financial assets measured at fair value through
+other comprehensive income, a significant or prolonged decline in the fair value of the security below its cost is considered
+an indicator that the securities are impaired. If any such evidence exists for financial assets measured at fair value through
+other comprehensive income, the cumulative loss –measured as the difference between the acquisition cost and the
+current fair value, less any impairment loss on that financial asset previously recognised in profit or loss– is removed from
+equity and recognised in profit and loss. Impairment losses on equity instruments recognised in profit and loss are not
+reversed through profit and loss. The expected credit loss is recognised in other reserves and does not reduce the fair
+value of the assets.
+b) Derecognition of financial assets
+The Group applies the criteria for derecognising financial assets to part of a financial asset or to part of a group of similar
+financial assets or to a financial asset or to a group of similar financial assets.
+Financial assets are derecognised in the accounts when the rights to receive cash flows related to them have expired or
+been transferred and the Group has substantially transferred the risks and rewards of ownership. Likewise, if the Group
+retains the contractual rights to receive the cash flows from the financial assets, these financial assets are derecognised
+only when contractual obligations that determine payment of said flows to one or more recipients have been assumed and
+the following requirements are met:
+• Payment of the cash flows depends on their having been received previously;
+• The Group cannot sell or pledge the financial asset; and
+• The cash flows received on behalf of the final recipients are remitted without significant delay and the Company is
+not able to reinvest the cash flows. An exception is made for investments in cash or cash equivalents made by the
+Group during the settlement period, running from the date on which the cash flows are received and the remittance
+date agreed with the final recipients, provided that any interest accrued is attributed to the final recipients.
+Derecognition of a financial asset in full implies the recognition of a gain or loss for the difference between its carrying
+amount and the total consideration received, net of transaction costs, including any assets acquired or liabilities assumed
+and any loss or gain deferred in other comprehensive income.
+2.12 Inventories
+Inventories are measured at the lower of cost and net realisable value. Cost is determined using the weighted average
+cost method. The cost of finished goods and work in progress comprises raw materials, direct labour, other direct costs
+and related production overheads (based on normal operating capacity). It excludes borrowing costs. Net realisable value
+is the estimated selling price in the ordinary course of business, less applicable variable selling expenses.
+2.13 Cash and cash equivalents
+Cash and cash equivalents include cash in hand, deposits held at call with banks and other short-term highly liquid
+investments with original maturities of three months or less.
+2.14 Share capital
+The subscribed share capital is represented by ordinary shares.
+Incremental costs directly attributable to the issue of new shares, face value reductions or the write-off of existing shares
+are shown in equity as a deduction, net of tax, from the proceeds.
+16

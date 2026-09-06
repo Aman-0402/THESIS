@@ -1,0 +1,58 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 161
+acquisition of the asset, the deferred income is receipts over the expected life of the financial in-
+then amortized over the period of the asset's useful strument to the net book value of the financial as-
+life and recognized in profit and loss as other in- set, or in the case of a financial liability to the re-
+come. Grants which compensate the Group for ex- maining amount thereof.
+penses incurred are recognized as a reduction in
+expense in the period(s) in which the relevant ex- In calculating interest income and expense, the ef-
+penses are recognized, unless the grant conditions fective interest rate is applied to the gross book
+are not met until after the related expenses have value of the asset, provided that the asset is not
+been recognized. In this case, the grant is recog- credit impaired, or in the case of a financial liability
+nized in the period during which the entitlement to the remaining amount thereof. In the case of fi-
+arises. nancial assets which have become credit-impaired
+subsequent to initial recognition, interest income is,
+The Group is currently receiving grants to cover re- however, instead calculated by applying the effec-
+search and development expenditures incurred in tive interest rate to the amortized cost of the finan-
+connection with the development of the FYB207 cial asset. Should the asset no longer be creditim-
+project. Accordingly, the grants are recorded as a paired, the calculation of interest income reverts to
+reduction in research and development expenses, the gross basis.
+and are reflected in the same way as the expenses
+and presented in the Consolidated Statement of Income tax expense
+Cash Flows under cash flows from operating activi-
+ties. Income tax expense consists of current tax ex-
+pense and deferred tax expense. Both are recog-
+Finance income and finance expense nized in profit or loss, except to the extent that they
+relate to a business combination or to an item rec-
+The Group’s finance income and finance expens in- ognized directly in equity or other comprehensive
+clude: income (OCI). The Group has determined that inter-
+est and penalties on income taxes, as well as un-
+— interest income, certain tax items, do not meet the definition of in-
+come tax expense, and therefore accounts for
+these in accordance with IAS 37.
+— interest expense,
+Current taxes
+— gains and losses of investments accounted for
+using the equity method,
+Current tax expense is the expected tax liability or
+tax receivable on taxable income or tax loss for the
+— write-downs of financial assets valued at equity,
+year, based on tax rates enacted or certain to be
+soon enacted as of the reporting date, along with
+— foreign currency gains and losses on financial
+any adjustments to tax liability for prior years. The
+assets and financial liabilities, and
+amount of the expected tax liability or tax receiva-
+ble is the best estimate of the tax amount expected
+— gains and losses arising from the measurement to be paid or received, but also reflecting any tax
+of fair value of contingent consideration classi-
+uncertainties. Current tax receivables and liabilities
+fied as a financial liability.
+are only offset (netted) under certain specific condi-
+tions.
+Interest income and expenses are recognized in
+profit or loss using the effective interest method.
+Deferred taxes
+The effective interest rate is the interest rate that
+Deferred taxes are recognized in respect of tempo-
+exactly discounts the estimated future payments or
+rary differences between the carrying amounts of

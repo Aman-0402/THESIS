@@ -1,0 +1,38 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+Gains and losses on disposals are determined by comparing proceeds with carrying amount and are recognised in profit
+and loss.
+3.3 Impairment losses on non-financial assets
+Assets that have an indefinite useful life are not subject to amortisation/depreciation and are tested annually for
+impairment. Assets subject to amortisation/depreciation are reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount may not be recoverable. An impairment loss is recognised for the
+amount by which the asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the higher of
+an asset’s fair value less costs to sell or its value in use. For the purposes of assessing impairment, assets are grouped
+at the lowest levels for which there are separately identifiable cash flows (cash-generating units). Non-financial assets
+other than goodwill that have suffered impairment are reviewed at the end of each reporting period to see whether the
+impairment has been reversed.
+3.4 Financial assets
+(a) Classification of financial assets
+The Company classifies its financial assets into the following categories:
+a) Loans and receivables: Loans and receivables are non-derivative financial assets with fixed or determinable
+payments that are not listed on an active market. They are included in current assets, except for maturities at
+more than 12 months after the reporting date, which are classified as non-current assets. Loans and other
+receivables are included in “Credits to companies” and “Trade and other receivables” in the statement of financial
+position.
+Bank deposits maturing at more than 90 days and less than 12 months are included in this category.
+These financial assets are recognised initially at fair value, including transaction costs directly attributable to them,
+and subsequently measured at amortised cost, recognising the interest accrued in accordance with the effective
+interest rate, defined as the discount rate that equals the carrying amount of the instrument to the totality of its
+estimated cash flows until maturity. Notwithstanding the foregoing, credits for trading operations maturing at more
+than one year are measured, both upon initial recognition and subsequently, at their face value, provided that the
+effect of not discounting the flows is not significant.
+At least at the end of the reporting period, the measurement adjustments required due to impairment will be made
+if there is objective evidence that not all the amounts outstanding will be received.
+The amount of the impairment loss is the difference between the carrying amount of the asset and the present
+value of the estimated future cash flows, discounted at an effective interest rate upon initial recognition.
+Impairment losses and, if applicable, the reversal thereof are recognised in profit and loss.
+11

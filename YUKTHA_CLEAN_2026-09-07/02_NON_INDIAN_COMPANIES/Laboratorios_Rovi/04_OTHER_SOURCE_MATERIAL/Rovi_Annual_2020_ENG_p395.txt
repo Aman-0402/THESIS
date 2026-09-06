@@ -1,0 +1,51 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+8. CONSOLIDATED STATEMENT OF CHANGES IN TOTAL EQUITY (UNDER IFRS ADOPTED) (1/2)
+Units: thousands of euros
+Equity attributed to parent company
+Equity
+Profit/
+CURRENT PERIOD Adjust- Non-
+Share (loss) for Other Total
+ments for controlling
+Share premium Treasury the per. equity equity
+changes in interests
+capital and stock attributed instru-
+value
+reserves to parent ments
+company
+Closing balance at 01/01/2020 3110 3.364 290.093 (10.341) 39.273 (3) 322.386
+Adjustments for changes in
+3111
+accounting policies
+Adjustments for errors 3112
+Adjusted opening balance 3115 3.364 290.093 (10.341) 39.273 (3) 322.386
+I. Total recognized
+3120 61.057 61.057
+income/(expenses)
+II. Transactions with
+3125 10.077 (9.844) (9.700) (9.467)
+shareholders or owners
+1. Capital increases/(reductions) 3126
+2. Conversion of financial
+3127
+liabilities to equity
+3. Distribution of dividends 3128 (9.700) (9.700)
+4. Treasury stock transactions
+3129 10.077 (9.844) 233
+(net)
+5.Increases/(reductions) due to
+3130
+business combinations
+6. Other transactions with
+3132
+shareholders or owners
+III. Other equity transactions 3135 29.297 (29.573) (276)
+1. Payments based on equity
+3136
+instruments
+2. Transfers between equity
+3137 29.573 (29.573)
+items
+3. Other changes 3138 (276) (276)
+Closing balance at 31/12/2020 3140 3.364 329.467 (20.185) 61.057 (3) 373.700

@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+6. Property, plant and equipment
+Details of and movement on the items included in property, plant and equipment are as follows:
+Technical
+facilities &
+other
+Land and property, plant
+buildings & equipment Total
+Balance at 01.01.19
+Cost 7,284 70,874 78,158
+Accumulated amortisation (1,280) (35,594) (36,874)
+Carrying amount 01.01.19 6,004 35,280 41,284
+Additions 590 10,668 11,258
+Retirements - (75) (75)
+Non-monetary contribution (590) - (590)
+Amortisation charge (136) (4,999) (5,135)
+Balance at 31.12.19
+Cost 7,284 81,467 88,751
+Accumulated amortisation (1,416) (40,593) (42,009)
+Carrying amount 31.12.19 5,868 40,874 46,742
+Additions - 10,915 10,915
+Retirements - (76) (76)
+Eliminations from amortisation - 56 56
+Amortisation charge (136) (5,371) (5,507)
+Balance at 31.12.20
+Cost 7,284 92,306 99,590
+Accumulated amortisation (1,552) (45,908) (47,460)
+Carrying amount 31.12.20 5,732 46,398 52,130
+On 4 December, 2019, ROVI incorporated the company Rovi Escúzar, S.L. through a non-monetary contribution of two
+plots of land for an amount of 590 thousand euros (Note 31.d).
+At 31 December, 2020 and 2019, the additions to property, plant and equipment were mainly related to investments in
+the Company’s Granada plant and the pilot plants for development of ISM® technology.
+a) Impairment losses
+In the periods 2020 and 2019, no significant impairment losses were either recognised or reversed in relation to any
+individual item of property, plant and equipment.
+b) Fixed-asset acquisition commitments
+At 31 December, 2020 and 2019, the Company held commitments to acquire property, plant and equipment related to
+the normal course of business.
+24

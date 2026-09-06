@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+The 2020 figures were as follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 239,683 463,737 — 703,420 (283,459) 419,961
+Profit/(loss) 24,602 71,138 (28) 95,712 (34,655) 61,057
+Income tax 8,671 4,188 (9) 12,850 (1,326) 11,524
+Profit/(loss) before tax 33,273 75,326 (37) 108,562 (35,981) 72,581
+Finance costs – net 542 (29,170) (2) (28,630) 30,700 2,070
+Amortisation/depreciation 7,703 11,890 — 19,593 — 19,593
+EBITDA (*) 41,518 58,046 (39) 99,525 (5,281) 94,244
+Amortisation/depreciation (7,703) (11,890) — (19,593) — (19,593)
+EBIT (**) 33,815 46,156 (39) 79,932 (5,281) 74,651
+(*) EBITDA is calculated as profit before tax, interest, depreciation and amortisation.
+(**) EBIT is calculated as profit before tax and interest.
+Inter-segment transactions included on the finance gain/(loss) lines are principally dividends paid between Group
+companies.
+Each segment’s sales to external customers in 2021 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 471,788 383,975 — 855,763
+Inter-segment revenues (207,096) 10 — (207,086)
+Revenues from external customers 264,692 383,985 — 648,677
+In 2020, sales to external customers were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 239,683 463,737 — 703,420
+Inter-segment revenues (148,126) (135,333) — (283,459)
+Revenues from external customers 91,557 328,404 — 419,961
+At 31 December, 2021, the breakdown of assets and liabilities by segment was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 373,226 491,838 483 865,547
+Of which:
+Investments in group companies — 9,489 — 9,489
+Increases in non-current non financial assets 35,190 9,827 — 45,017
+Total liabilities (222,497) (149,283) (8) (371,788)
+28

@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+◦ Requisito de divulgación relacionado con NEIS 2 SBM-3: Incidencias, riesgos y
+oportunidades de importancia relativa y su interacción con la estrategia y el modelo
+de negocio
+El objetivo del requisito de divulgación es describir la resiliencia de la estrategia y del modelo de negocio de ROVI en relación
+con el cambio climático.
+Como punto de partida del análisis de resiliencia, ROVI ha evaluado los peligros relacionados con el clima, tanto físicos como
+de transición para determinar posibles riesgos a los que podría verse expuesto.
+Los riesgos físicos derivan del incremento de fenómenos meteorológicos extremos (agudos) o de los impactos a largo plazo por
+el cambio en las características del clima (crónicos), mientras que los riesgos de transición derivan directa o indirectamente del
+proceso de ajuste a una economía más baja en carbono y más sostenible desde el punto de vista ambiental. En este sentido,
+se identificaron como significativos los riesgos que se detallan a continuación:
+Riesgos climáticos físicos
+• Fallo de equipos derivados de episodios de temperatura extrema (riesgo físico agudo).
+• Estrés hídrico en los complejos de Granada y Escúzar (riesgo físico crónico).
+Con respecto al potencial fallo de equipos, con el objetivo de incrementar la resiliencia operativa del Grupo frente a futuros
+eventos relacionados con el calor extremo, ROVI elaboró un plan de adaptación donde se identificaron todos aquellos equipos
+e instalaciones que podrían ver afectado su funcionamiento al superar temperaturas de 42,3ºC en los complejos de Madrid y
+43,5ºC en los complejos de Granada. Para cada equipo e instalación, se propuso un conjunto de medidas específicas de
+prevención y/o adaptación, las cuales se están teniendo en consideración en la actualidad.
+Por otro lado, más allá de la resiliencia operativa, ROVI ha considerado su resiliencia estratégica (planificación y recursos
+financieros) ante posibles cambios, acontecimientos o incertidumbres relacionados con el cambio climático. En este sentido, los
+acuerdos de fabricación a terceros con clientes estratégicos y la apertura durante el ejercicio de 2023 del nuevo centro del
+Grupo, Escúzar, para la producción del principio activo de heparinas, requieren de la anticipación de ROVI ante los riesgos
+climáticos identificados y de la inversión monetaria en activos que le permitan ser resiliente.
+En cuanto al riesgo de estrés hídrico, el resultado del análisis indica que los complejos ubicadas en Granada y Escúzar podrían
+sufrir un decrecimiento de su capacidad productiva por potenciales cortes en el suministro de agua. Por ello, el equipo de
+ingeniería de ambos centros ha desarrollado un plan de adaptación con el objetivo de implementar las acciones durante el
+ejercicio 2025. Dicho plan contempla diversas medidas, entre las cuales se contempla la posibilidad de aumentar el volumen de
+almacenamiento de agua, así como los objetivos de reducción de agua que se han establecido para los complejos de Granada
+y Escúzar: una reducción de 1,5% y 2,5% respectivamente.
+Riesgos climáticos de transición
+El análisis de riesgos climáticos de transición analiza cómo la transición hacia una economía hipocarbónica y resiliente podría
+afectar a las tendencias macroeconómicas vinculadas al Grupo, a su consumo y combinación energética, así como a su
+despliegue tecnológico. No obstante, en el caso de ROVI el único riesgo potencialmente significativo, el incremento del coste
+de las emisiones de CO resultó no ser significativo en los distintos escenarios y horizontes temporales planteados (corto,
+2,
+medio, ni largo plazo), por lo tanto, no se desarrolló un plan de mitigación.
+Plan General de Continuidad de Negocio
+Por otra parte, con el objetivo de robustecer la resiliencia tanto operativa como estratégica del Grupo, ROVI ha aprobado
+durante el 2024 un Plan General de Continuidad del Negocio. Como se ha mencionado con anterioridad, como elemento clave
+de este Plan, se ha realizado un análisis de riesgos de continuidad del negocio, con el objetivo de identificar y evaluar las
+posibles amenazas y vulnerabilidades que podrían comprometer las operaciones de ROVI. Este estudio ha permitido detectar
+una serie de riesgos inherentes que podrían tener un impacto significativo en la capacidad de ROVI para garantizar la
+69

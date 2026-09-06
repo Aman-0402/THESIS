@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+All the financial liabilities at 31 December 2024 and 2023 fell within the category of financial liabilities at amortised cost, except
+the financial derivatives, which were included in current financial debt and belong to the category of financial liabilities at fair
+value through profit and loss. In trade and other payments, the balance payable to the public authorities is excluded from the
+above table.
+9. Credit rating of financial assets
+The credit quality of financial assets which have not yet matured and which have suffered no impairment loss can be assessed
+based on the credit rating assigned by organisations external to the Group or, in the case of unrated customers, by separating
+those corresponding to Social Security authorities and government entities which, due to their nature, are not subject to
+impairment:
+Cash and cash equivalents Rating 2024 2023
+A+ 2,016 1,307
+A 10,372 16,381
+A- 13,758 226
+BBB+ — 20
+BBB 487 2,268
+Not rated 553 5,120
+Total cash and cash equivalents (Note 14) 27,186 25,322
+Financial receivables Rating 2024 2023
+A 65 65
+Total financial receivables (Note 13) 65 65
+Equity securities Rating 2024 2023
+Not rated — 24
+Total equity securities (Note 11) — 24
+Trade receivables Rating 2024 2023
+AA 1,121 979
+A1 2,582 330
+Public centres and institutions (Note 13) 16,539 16,223
+Other (wholesalers, pharmacies, hospitals) 94,934 107,536
+Total trade receivables (Note 13) 115,176 125,068
+Other deposits Rating 2024 2023
+A+ 1,327 1,327
+Not rated 603 113
+Total other deposits (Note 13) 1,930 1,440
+10. Investment in joint ventures and associates
+Movement on interests in joint ventures in the period was as follows:
+2024 2023
+Balance at beginning of year 567 2,193
+Additions 19,090 600
+Eliminations — (2,101)
+Share in profits (141) (125)
+Balance at end of year 19,516 567
+32

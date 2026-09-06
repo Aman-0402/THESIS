@@ -1,0 +1,41 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+Deferred income tax is recognised, using the liability method, on temporary differences arising between the tax bases of
+assets and liabilities and their carrying amounts. However, deferred income tax is not recognised if it arises from initial
+recognition of an asset or liability in a transaction other than a business combination that, at the time of the transaction,
+affects neither accounting nor tax profit or loss. Deferred income tax is determined using the rules and tax rates that have
+been approved or are on the point of approval at the end of the reporting period and are expected to apply when the
+related deferred income tax asset is realised or the deferred income tax liability is settled.
+Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available
+against which the temporary differences can be offset.
+3.11 Employee benefits
+a) Pension commitments
+The Company holds a defined-contribution plan exclusively on behalf of certain employees.
+A defined-contribution plan is a pension plan under which the Company pays fixed contributions into a separate entity.
+The Company has no legal, contractual or constructive obligations to pay further contributions if the fund does not hold
+sufficient assets to pay all the commitments assumed.
+For defined-contribution plans, the Company pays contributions to privately- or publicly-managed pension insurance
+plans on a mandatory, contractual or voluntary basis. Once the contributions have been paid, the Company is not obliged
+to make any further payments. The contributions are recognised as employee benefits when accrued. Contributions paid
+in advance are recognised as an asset to the extent to which a cash refund or reduction in future payments is available.
+The Company recognises a liability for contributions to be made when, at the end of the reporting period, contributions
+have accrued but not been settled.
+b) Termination benefits
+Termination benefits are payable when employment is terminated by the Company before the normal retirement date, or
+whenever an employee accepts voluntary redundancy in exchange for these benefits. The Company recognises
+termination benefits when it is demonstrably committed to either terminating the employment of current employees
+according to a detailed formal plan without possibility of withdrawal; or providing termination benefits as a result of an
+offer made to encourage voluntary redundancy. Benefits falling due more than 12 months after the end of the reporting
+period are discounted to present value.
+3.12 Provisions and contingent liabilities
+Provisions for environmental restoration, restructuring costs and legal claims are recognised when the Company has a
+present legal or constructive obligation as a result of past events, it is probable that an outflow of resources will be
+required to settle the obligation and the amount can be reliably estimated. Restructuring provisions comprise lease
+termination penalties and employee termination payments. Provisions are not recognised for future operating losses.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a
+pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the obligation.
+16

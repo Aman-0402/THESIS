@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+a) Deferred revenue from non-reimbursable capital grants
+These are taken to profit and loss in proportion to the amortisation charge in the period for the assets whose purchase is
+subsidised. The most significant non-reimbursable grants that have not yet been taken to profit and loss are related to
+construction of the Granada bemiparin plant, which came into operation in 2009. In said reporting period, the allocation of a non-
+reimbursable grant of 5,431 thousand euros, awarded by the Innovation and Development Agency of Andalusia (Innovation,
+Science and Business Department), to profit and loss commenced. This grant was received in November 2008. The amount
+recognised for this grant under the caption “Current and non-current deferred revenues from grants” at 31 December 2024 was
+859 thousand euros (1,154 thousand euros at 31 December 2023).
+b) Deferred revenue from reimbursable grants
+These relate to grants with an implicit interest rate derived from recognising reimbursable grants awarded at a zero interest rate
+at fair value (Note 18.b). The most significant amounts recognised as deferred revenues in relation to reimbursable grants
+awarded by government entities relate mainly to a number of research and development projects. They are taken to profit and
+loss on the basis of accrual of the expenses for which the reimbursable grant was awarded.
+22. Revenues
+Revenues are broken down into the following items:
+2024 2023
+Sales of goods 427,163 419,893
+Sales of services 336,221 409,277
+Revenue from distribution licences (Note 20) 365 339
+763,749 829,509
+a) Sales of goods
+At 31 December 2024, revenue from services to promote third-party products is not included (292 thousand euros at 31
+December 2023).
+Additionally, at 31 December 2024, the “Sales of goods caption included 3,146 thousand euros (6.013 thousand euros at the
+2023 reporting date) relating to royalties received on the basis of enoxaparin distribution agreements signed with third parties.
+Total sales of goods fell by 13,039 thousand euros in 2024 (14,523 thousand euros in 2022) as a consequence of the rebates
+furnished to the National Health System (Note 2.24). Of the total amount of discounts to the National Health System, no revenue
+related to the collaboration agreement signed between Farmaindustria and the Spanish government was recognised in either
+2024 or 2023 (Note 17).
+Details of “Sales of goods” by product group are as follows:
+2024 2023
+Specialty pharmaceuticals 373,046 373,186
+Contrast agents and other hospital products 53,021 45,673
+Other 1,096 1,034
+427,163 419,893
+b) Sales of services
+Details of sales of services are as follows:
+2024 2023
+Manufacturing of medicines 310,099 384,883
+Manufacturing of active ingredients 26,122 24,394
+336,221 409,277
+51

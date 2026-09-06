@@ -1,0 +1,52 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+• Materialidad financiera: un valor mínimo de 0,3 y un valor máximo de 3,5, por lo que los resultados se encuentran más
+concentrados en unos valores medio-bajos, indicando niveles de riesgo reducidos entre todas las temáticas.
+Debido a dicha diferencia entre las valoraciones obtenidas, se establecieron dos umbrales con el objetivo de determinar las
+temáticas, sub-temáticas y sub-sub-temáticas NEIS materiales:
+• Materialidad de impacto: el umbral seleccionado fue el percentil 50, siendo este el dato que se encuentra en el punto
+medio de la distribución. El valor del percentil 50 para las valoraciones obtenidas fue 2,6, implicando que los impactos
+que queden por encima de este umbral se consideran materiales y, los que queden por debajo, se consideran no
+materiales.
+• Materialidad financiera: el umbral seleccionado fue el percentil 30. El valor del percentil 30 para las valoraciones
+obtenidas fue 1,2, implicando que los riesgos y oportunidades que queden por encima de este umbral se consideran
+materiales y, los que queden por debajo, se consideran no materiales.
+El motivo de establecer un percentil inferior para la materialidad financiera se debe a que las valoraciones obtenidas son
+inferiores en una escala del 1 al 5 con respecto a la materialidad de impacto. Por lo tanto, si se hubiese seleccionado el
+percentil 50, el número de riesgos y oportunidades materiales sería mínimo.
+• Requisitos de divulgación establecidos en las NEIS cubiertos por el Informe de la
+empresa (IRO-2)
+En el presente requisito de divulgación se detallan los criterios que la empresa debe seguir para asegurar la transparencia en
+su Informe. El propósito de dichos criterios es facilitar la comprensión de los requisitos de divulgación que se incluyen en el
+Informe y destacar los temas que se han omitido por no ser considerados materiales al llevar a cabo el proceso de evaluación.
+El listado de requisitos de divulgación deriva del proceso de evaluación meticuloso de todas las temáticas, sub-temáticas y sub-
+sub-temáticas establecidas en el AR 16 de la NEIS 1 y basada en el principio de doble materialidad. Para mayor detalle sobre
+dicho proceso y los requisitos de divulgación cubiertos en el presente Informe, así como los puntos de datos incluidos en
+normas transversales y en normas temáticas derivados de otra legislación de la Unión Europea (UE), véase el Anexo IV.
+ii. Requisito de divulgación de las políticas y actuaciones
+ROVI dispone de políticas corporativas y certificaciones relacionadas con los estándares temáticos materiales en materia
+medioambiental, social y de gobernanza.
+• Políticas adoptadas para gestionar las cuestiones de sostenibilidad materiales
+(MDR-P)
+A continuación, se presentan las políticas y certificaciones de los diferentes sistemas de gestión disponibles en la página web
+corporativa del Grupo, con el detalle requerido por los requisitos mínimos de divulgación (MDR-P):
+Nivel de
+Política Contenido fundamental Alcance
+aprobación
+Establece el compromiso de ROVI con la lucha contra el cambio
+climático mediante la promoción de una cultura corporativa que Todas las
+Política contra el Cambio Presidente de la
+fomente la sensibilización de todos sus grupos de interés, sociedades del
+Climático Compañía
+identificando acciones concretas en los ámbitos de la mitigación y Grupo
+adaptación al cambio climático.
+Establece el compromiso de ROVI con el medio ambiente,
+entendiendo la protección y la conservación del entorno como eje
+Todas las
+Política de Gestión de Medio de las actividades del Grupo. Define principios de actuación en Presidente de la
+sociedades del
+Ambiente relación con las emisiones y vertidos, la economía circular, el uso Compañía
+Grupo
+de recursos, así como la transparencia, el trabajo en equipo y la
+mejora continua.
+32

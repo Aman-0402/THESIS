@@ -1,0 +1,43 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 149
+Consolidated Statement of Financial Position as of December 31, 2025 in € thousand
+Explanatory note Dec. 31, 2025 Dec. 31, 2024
+Assets
+Non-current assets
+Other intangible assets 18 414,028 444,116
+Right-of-use (ROU) assets 17, 27 9,912 10,749
+Property, plant and equipment 17 3,752 3,821
+Investment accounted for 19 135,207 151,870
+using the equity method
+Financial assets 19 51,597 66,134
+Total non-current assets 614,496 676,691
+Current assets
+Inventories 2,054 262
+Trade and other receivables 26 19,156 23,693
+Contract assets 8 12,860 7,016
+Other financial assets 1 6
+Prepayments and other assets 26 21,867 22,123
+Income tax receivables 15 249 91
+Cash and cash equivalents 68,845 41,834
+Total current assets 125,031 95,024
+Total assets 739,527 771,715
+Equity and liabilities
+Equity
+Subscribed capital 20 17,673 17,664
+Capital reserve 20 498,002 496,021
+Accumulated profit/loss carryforward 20 -51,843 73,829
+Period income (loss) 20 -64,696 -125,672
+Total equity capital 399,136 461,843
+Non-current liabilities
+Non-current lease obligations 27 8,082 9,097
+Other non-current liabilities 23 202,551 164,726
+Deferred tax liabilities 15 76,198 102,156
+Total non-current liabilities 286,831 275,979
+Current liabilities
+Current lease obligations 27 1,478 1,496
+Other current liabilities 22 24,033 12,932
+Trade payables 24 25,839 17,437
+Current income tax liabilities 15 2,210 2,028
+Total current liabilities 53,560 33,893
+Total liabilities 340,391 309,872
+Total equity and liabillities 739,527 771,715
+Consolidated Statement of Financial Position

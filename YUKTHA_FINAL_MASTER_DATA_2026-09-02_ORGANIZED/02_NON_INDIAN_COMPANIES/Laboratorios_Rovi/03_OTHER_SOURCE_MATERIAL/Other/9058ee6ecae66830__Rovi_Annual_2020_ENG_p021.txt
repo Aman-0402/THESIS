@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+If there is objective evidence that the carrying amount is not recoverable, the applicable value adjustments will be
+made for the difference between the carrying amount and the recoverable amount, defined as the higher of the
+fair value less sale costs and the present value of the cash flows derived from the investment. Unless there is
+other evidence of the recoverable amount, when estimating the impairment of these investments, the equity of the
+investee adjusted by any tacit capital gains that may exist at the measurement date, will be used. The value
+adjustment and, if applicable, the reversal thereof, will be recognised in profit and loss in the period in which it
+takes place.
+d) Available-for-sale financial assets: This category includes securities representing debt and equity instruments not
+classified in any of the preceding categories. They are included in non-current assets unless Management intends
+to dispose of the investment within the 12 months after the end of the reporting period.
+They are measured at fair value, recognising any changes that take place directly in the equity until the asset is
+disposed of or impaired, when the losses and gains accumulated in the equity are taken to profit and loss,
+provided it is possible to determine the aforementioned fair value. Otherwise, they are recognised at cost less
+impairment losses.
+For available-for-sale financial assets, value adjustments are made if there is objective evidence that they have
+been impaired as the result of a reduction or delay in the estimated future cash flows in the case of debt
+instruments acquired or the non-recoverability of the carrying amount of the asset in the case of investments in
+equity instruments. The value adjustment is the difference between the cost or amortised cost less, if applicable,
+any value adjustment previously recognised in profit and loss, and the fair value at the time the measurement is
+made. In the case of equity instruments measured at cost because it is not possible to determine their fair value,
+the value adjustment is determined in the same way as for investments in the equity of group, multi-group and
+associated companies.
+If there is objective evidence of impairment, the Company recognises the accumulated losses from a decrease in
+the fair value which were previously recognised in the equity in profit and loss. Impairment losses on equity
+instruments recognised in profit and loss are not reversed through profit and loss.
+The fair values of listed investments are based on current bid prices. If the market for a financial asset is not
+active (and for unlisted securities), the Company fixes a fair value using measurement techniques that include the
+use of recent transactions between interested and duly-informed parties, references to other instruments that are
+substantially the same, methods employing the discount of estimated future cash flows and option price-fixing
+methods, making maximum use of data observable in the market and placing as little confidence as possible in
+the Company’s subjective considerations.
+Financial assets are derecognised in the statement of financial position when all the risks and rewards of
+ownership of the asset are substantially transferred. In the specific case of receivables, this is deemed to take
+place, in general, when the risks of default and delinquency are transferred.
+b) Derecognition of financial assets
+The Company applies the criteria of derecognising financial assets to part of a financial asset or to part of group of
+similar financial assets or to a financial asset or to a group of similar financial assets.
+12

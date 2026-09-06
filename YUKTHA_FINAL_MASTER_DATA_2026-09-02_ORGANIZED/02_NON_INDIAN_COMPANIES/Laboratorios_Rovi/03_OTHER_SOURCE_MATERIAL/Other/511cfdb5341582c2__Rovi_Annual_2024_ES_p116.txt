@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+En ocasiones ROVI realiza, de forma previa a la prestación del servicio de fabricación, y de acuerdo a determinados hitos
+definidos, labores de adaptación, acondicionamiento y validación de sus instalaciones y de maquinaria, propia o adquirida o
+subcontratada a terceros, sin las cuales no sería posible prestar el servicio en las condiciones requeridas por los clientes. Por
+ello, en el caso de que el coste final de estas labores sea asumido por el cliente, ROVI registra el ingreso correspondiente a
+cada uno de los servicios prestados en base al grado de avance de los trabajos realizados, según los hitos definidos para cada
+uno de ellos. En el caso de que el grado de avance incorpore determinada adquisición de activos, el margen no se reconoce
+hasta el final de su instalación.
+ROVI ha contraído con determinados clientes el compromiso de reservar capacidades de producción en sus plantas, a cambio
+de una contraprestación económica. La reserva de capacidad se define como un acuerdo contractual por el cual ROVI percibe
+cobros anticipados de clientes con los que existe una obligación de desempeño, que consiste en estar preparado para fabricar
+durante un período de tiempo unos determinados volúmenes de producción que quedan reservados y respecto de los que no
+se lleva a cabo la producción porque no la solicita el cliente.
+Las reservas de capacidad se liquidan anualmente por lo que no cuentan con un componente estimativo.
+Los cobros anticipados son registrados por el Grupo como un pasivo, y son dados de baja y reconocidos como ingreso en el
+momento en el que se satisface la obligación de desempeño siguiendo los siguientes escenarios:
+– Si el cliente hubiera solicitado la totalidad de la producción reservada, el Grupo no reconocería ningún ingreso ordinario
+por la reserva de capacidad y procedería a la devolución de los cobros recibidos por este concepto.
+– Si el cliente solicitara parcialmente la producción reservada, se evaluaría según determinadas horquillas delimitadas
+contractualmente, qué cobros deben ser devueltos al cliente y cuáles pueden ser reconocidos por el Grupo como
+ingresos ordinarios en concepto de reserva de capacidad.
+– Si el cliente no llegara a solicitar ninguna parte de la producción reservada, el Grupo procedería a reconocer un ingreso
+por la totalidad de los cobros recibidos relativos a la reserva de capacidad, al no existir obligación alguna de devolver
+dichos cobros.
+Los cobros anticipados funcionan como un “pago mínimo del servicio de producción”, esto es, aunque finalmente no se llegaran
+a los volúmenes de fabricación acordados contractualmente, el Grupo tendría derecho, como mínimo a estos cobros
+percibidos.
+c) Ingresos por intereses
+Los ingresos por intereses se reconocen usando el método del tipo de interés efectivo.
+d) Ingresos por dividendos
+Los ingresos por dividendos se reconocen cuando se establece el derecho a recibir el pago.
+e) Otros ingresos ordinarios: concesión de licencias de distribución en exclusividad
+Ocasionalmente el Grupo concede a otras compañías farmacéuticas licencias para vender sus productos en exclusiva en un
+territorio específico, comprometiéndose además a fabricar el producto farmacéutico para el cliente. Para estos acuerdos, el
+Grupo cobra un pago inicial por la transferencia de la licencia, el cual o no es reintegrable o puede ser reintegrado al cliente
+bajo estrictas condiciones si el producto no es finalmente autorizado para la distribución en el territorio pactado. En estos
+contratos firmados con terceros por los que ROVI concede las licencias de distribución, las obligaciones surgen de la concesión
+de las mismas y están siempre ligadas al suministro y fabricación del producto, ya que ninguna otra compañía puede fabricar el
+mismo. Como el cliente no puede obtener beneficios de la licencia de distribución sin que ROVI fabrique el producto, la licencia
+y el servicio de fabricación no son separables y, por lo tanto, el Grupo las registra como una única obligación de servicio.
+Adicionalmente, en este tipo de contratos el Grupo tiene un derecho exigible al pago de la ejecución completada en fecha, ya
+que la entidad tendría derecho a una cantidad que, al menos, compense al Grupo por su ejecución completada en fecha en
+caso de que el cliente u otra parte rescinda el contrato por motivos distintos de la falta de cumplimiento de la entidad según lo
+pactado. En consecuencia, el Grupo reconoce los ingresos a lo largo del tiempo y los difiere en función del número de unidades
+producidas.
+21

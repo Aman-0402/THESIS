@@ -1,0 +1,41 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+c) Liquidity risk
+Management monitors the liquidity estimates of the Company in accordance with the expected cash flows. ROVI
+maintains sufficient cash and marketable securities to meet its liquidity requirements. In 2017, the Company signed a
+financing agreement with the European Investment Bank, which it can draw down over the next two years as from
+signature of the agreement a total amount of 45 million euros. In July 2018, ROVI had drawn 5,000 thousand euros (Note
+18.a).
+ROVI’s liquidity increased in 2018 as a consequence of the capital increase for a total amount of 88,000 euros carried
+out in October 2018 (Notes 1 and 14).
+In 2017, the Company signed a non-recourse factoring contract, which led to an increase in the balance of cash
+equivalents, while the receivables for which these contracts were requested were derecognised. At 31 December, 2018,
+no factoring agreements were in force.
+The following table analyses the Company’s financial liabilities grouped by maturity dates based on the periods
+outstanding at reporting date through to the maturity date stipulated in the contract, including the related interest. The
+amounts shown in the table correspond to cash flows stipulated in the contract, which have not been discounted. Given
+that these amounts have not been discounted and that they include future interest accruals, they cannot be matched with
+figures on the statement of financial position for borrowings, derivative instruments and trade and other payables.
+Thousands of euros
+Less than Between Between Over
+At 31 December, 2018 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 15,694 2,344 2,184 2,730
+Debt with government entities 1,893 3,709 3,736 2,913
+Trade and other payables 114,799 - - -
+132,386 6,053 5,920 5,643
+Thousands of euros
+Less than Less than Less than Less than
+At 31 December, 2017 1 year 1 year 1 year 1 year
+Bank borrowings 13,328 17,784 - -
+Debt with government entities 2,809 3,840 3,748 2,626
+Trade and other payables 53,056 - - -
+69,193 21,624 3,748 2,626
+4.2 Fair value estimation
+The fair value of financial instruments traded in active markets (such as held-for-sale and available-for-sale securities) is
+based on quoted market prices at the end of the reporting period. The quoted market price used for financial assets is
+the current bid price.
+22

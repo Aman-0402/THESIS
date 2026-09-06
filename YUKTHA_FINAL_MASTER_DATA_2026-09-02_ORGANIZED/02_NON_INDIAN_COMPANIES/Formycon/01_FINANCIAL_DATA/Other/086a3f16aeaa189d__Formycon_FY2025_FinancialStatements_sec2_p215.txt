@@ -1,0 +1,73 @@
+215
+Our audit approach Finally, we assessed whether the notes to the finan-
+cial statements regarding the impairment of the net
+We obtained an understanding of the Company’s investment in Bioeq AG are appropriate.
+process for identifying indicators of impairment and
+determining recoverable amounts through discus- Our conclusions
+sions with finance department staff and an assess-
+ment of the Group’s accounting policies. We ana- The approach underlying the impairment test for
+lyzed the indicators of impairment identified by the the shares in associated companies (Bioeq AG) is
+Company and evaluated them based on the infor- appropriate and consistent with the applicable valu-
+mation obtained during our audit. ation principles. The assumptions and data used by
+the Company are appropriate. The related notes to
+With the involvement of our valuation specialists, the financial statements are appropriate.
+we assessed, among other things, the appropriate-
+ness of the Company’s key assumptions and calcu-
+lation methods. To this end, we discussed the ex-
+The recoverability of the capitalized
+pected sales of the FYB201 product with the plan-
+development costs for the FYB202 product
+ning managers. In addition, we performed reconcili-
+ations with other internally available forecasts, e.g.,
+for tax purposes, and the budget prepared by the
+For the accounting and valuation principles applied,
+legal representatives, and assessed their internal
+as well as the assumptions used, we refer to Note 6
+consistency. The appropriateness of the assump-
+of the consolidated financial statements. Infor-
+tions was also evaluated against external market
+mation on the amount of capitalized development
+assessments.
+costs for the FYB202 product and the amount of
+the impairment charge can be found in Note 18 of
+Furthermore, we verified the Company’s historical
+the consolidated financial statements. Explanations
+forecasting accuracy by comparing plans from pre-
+regarding the economic development of the
+vious fiscal years with the results actually achieved
+FYB202 project can be found in the summary man-
+and analyzing any variances.
+agement report in the section on asset, revenue,
+and earnings development.
+We compared the assumptions and data underlying
+the discount rate, in particular the risk-free interest
+Risk to the financial statements
+rate, the market risk premium, and the beta factor,
+with our own assumptions and publicly available
+As of December 31, 2025, the capitalized develop-
+data.
+ment costs for the FYB202 product amount to EUR
+306.6 million and, at 41% of total assets, represent a
+To assess the methodologically and mathematically
+significant portion of the company’s assets.
+sound implementation of the valuation method, we
+reproduced the valuation performed by the com-
+Capitalized development costs are measured at
+pany using our own calculations and analyzed any
+cost less accumulated amortization and accumu-
+deviations.
+lated impairment losses. Since approval in the
+fourth quarter of 2024, the Company has been
+To account for existing forecast uncertainty, we also
+amortizing the capitalized development costs for
+examined the effects of possible changes in the
+the FYB202 product on a straight-line basis over its
+discount rate and expected cash inflows on the re-
+estimated useful life of up to 15 years. If there are
+coverable amount by calculating alternative scenar-
+indications of an impairment of the capitalized de-
+ios and comparing them with the Company’s valua-
+velopment costs for the FYB202 product, the Com-
+tion results (sensitivity analysis).
+pany determines the recoverable amount as of the
+balance sheet date and compares it with the

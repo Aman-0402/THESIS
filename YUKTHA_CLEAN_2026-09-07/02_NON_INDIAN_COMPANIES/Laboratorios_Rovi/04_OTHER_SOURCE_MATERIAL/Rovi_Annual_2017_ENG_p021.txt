@@ -1,0 +1,39 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+The Company considers that, in the case of the development of pharmceutical products, the aforementioned
+requirements are met when the drugs have been approved for marketing by the health authorities in the case of new
+products developed under patent, or, in the case of biosimilars or generics, when the application for marketing
+authorization is filed.
+When the carrying amount of an asset is higher than its recoverable amount, its value is immediately written down to the
+recoverable amount.
+In the event that the favourable circumstances of the project that have allowed the development expenses to be
+capitalized were to change, the portion that had not yet been amortized would be taken to profit and loss in the reporting
+period in which the change in circumstances took place.
+b) Licences and trademarks
+Product licences and trademarks are shown at historical cost. Those that have a finite useful life and are carried at cost
+less accumulated amortization and recognized impairment losses. Amortization is calculated using the straight-line
+method to allocate the cost of trademarks and licenses over their estimated useful lives, which are between 10 and 15
+years. Amortizable assets are tested for impairment whenever any event or change in circumstances indicates that their
+carrying amount may not be recoverable.
+At 31 December, 2015, some assets in this category had indefinite useful lives. After the entry into force of Royal Decree
+602/2016 of 2 December, which modified the General Chart of Accounts and other accounting rules, these assets
+ceased to have indefinite useful lives and, on 1 January, 2016, began to be amortized over a 10-year period.
+c) Computer software
+Licences for computer software acquired from third parties are capitalized on the basis of the cost incurred in acquiring
+them and preparing them to use the specific program. These costs are amortized over their estimated useful lives (from 4
+to 10 years).
+Expenses related to software maintenance are recognized as an expense when incurred.
+3.2 Property, plant and equipment
+Items included in property, plant and equipment are recognized at purchase price or production cost less accumulated
+depreciation less recognized impairment losses, adjusted in accordance with Law 9/1983 of 13 July, promulgated by the
+Administration. In addition, the Company applied the balance sheet restatement at 31 December, 1996, in accordance
+with Royal Decree Law 7/1996 of 7 June.
+The costs of expansion, modernization or improvement of items included in property, plant and equipment are included in
+the asset as an increase in its value only when they represent an increase in its capacity, productivity or useful life and
+provided it is possible to know or estimate the carrying amounts of the elements that have been derecognized in the
+inventory because they have been replaced.
+12

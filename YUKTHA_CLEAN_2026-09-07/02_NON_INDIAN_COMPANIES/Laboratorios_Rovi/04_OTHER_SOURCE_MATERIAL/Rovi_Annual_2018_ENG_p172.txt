@@ -1,0 +1,37 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+a) Classification and measurement of financial assets and financial liabilities
+Trade and other receivables and Cash and cash equivalents that were classified as loans and receivables
+under International Accounting Standard (“IAS”) 39 “Financial instruments: recognition and measurement” are
+now classified at amortised cost. At 31 December, 2017, trade and other receivables were recognised initially at
+fair value and subsequently measured at amortised cost using the effective interest rate method, less provision
+for impairment.
+Equity securities represent investments that the Group intends to hold in the future. As permitted by IFRS 9, the
+Group has designated these investments at the date of initial application as measured at fair value through
+profit and loss. The valuation of this type of assets was the same at 31 December, 2017.
+b) Impairment of financial assets
+IFRS 9 replaces the ‘incurred loss’ model in IAS 39 with an ‘expected credit loss’ (ECL) model. The new
+impairment model applies to financial assets measured at amortised cost, contract assets and debt investments
+at FVOCI. Under IFRS 9, credit losses are recognised earlier than under IAS 39. The impairment of financial
+assets, including trade and lease receivables, is now assessed using an expected credit loss model; previously,
+the incurred loss model was used.
+The financial assets at amortised cost consist mainly of trade receivables.
+The Group measures loss allowances at an amount equal to lifetime ECLs.
+Loss allowances for financial assets measured at amortised cost are presented separately as deductions from
+the gross carrying amount of the assets.
+Given the nature of ROVI´s financial assets, the entry into force of IFRS 9 has not had a sngificant impact on
+its allowances for doubtful accounts or impairment.
+The Group has taken an exemption not to restate comparative information for prior periods with respect to
+classification and measurement (including impairment) requirements.
+Exposures within each group were segmented based on the type of customer (government and non government
+customers) and the months past due:
+- At 1 January, 2018, government customers amounted to 5,663 thousand of euros. Trade and other
+receivables of this type of customer relate to accounts receivables from government entities, on which,
+in view of their nature and the information currently available, ROVI considers there to be a low credit
+risk and thus no expected losses have been recorded The Group has a legal right to claim late
+payment interest on these receivable from the different government entities.
+9

@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+3.16 Foreign currency transactions
+a) Functional and presentation currency
+The Company’s annual accounts are presented in thousands of euros. The euro is the Company’s functional and
+presentation currency.
+b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the
+transaction dates. Foreign exchange gains and losses resulting from the settlement of such transactions and from the
+translation at reporting-date exchange rates of monetary assets and liabilities denominated in foreign currencies are
+recognised in profit and loss, except when deferred in equity as eligible cash flow hedges and eligible net investment
+hedges.
+Changes in the fair value of monetary securities denominated in foreign currency and classified as available for sale are
+analysed considering the translation differences resulting from changes in the amortised cost of the security and other
+changes in its carrying amount. Translation differences relating to variations in the amortised cost are recognised in profit
+and loss and other changes in the carrying amount are recognised in equity.
+Translation differences on non-monetary items, such as equity instruments held at fair value through profit and loss, are
+presented as part of the gain or loss in the fair value. Translation differences on non-monetary items such as equity
+instruments classified as available-for-sale financial assets are included in equity.
+3.17 Related-party transactions
+In general, transactions between group companies are initially recognised at fair value. When applicable, if the agreed
+price differs from the fair value, the difference is recorded in accordance with the actual economic value of the transaction.
+Subsequent recognition is in accordance with the provisions set forth in the applicable rules.
+Notwithstanding the foregoing, in transactions of merger, spin-off or non-monetary contribution of a business, the elements
+that form the business acquired are measured at the amount that corresponds to them, once the transaction has been
+performed, in the consolidated annual accounts of the group or subgroup.
+When the parent company of the group or subgroup and its subsidiary is not involved, the annual accounts to be considered
+in this respect will be those of the largest group or subgroup of which the assets and liabilities form part the parent company
+of which is Spanish.
+In these cases, any difference that may arise between the net value of the assets and liabilities of the company acquired,
+adjusted by the balance of the groups of grants, donations and legacies received and adjustments for changes in value,
+and any amount of capital and/or share premium, if applicable, are recorded in reserves by the absorbing company.
+3.18 Contributions to the public health system
+As the result of the 2005 General State Budget Act (Law 2/2004 of 27 December), Additional Provision 48, a health tax,
+levied by Ministry of Health, came into force on 1 January, 2005. This tax applies to individuals and legal entities in Spain
+engaging in the manufacture and importation of medicines that are prescribed in Spanish territory on official National Health
+Service prescriptions. The amounts payable to the Ministry of Health and Consumer Affairs are calculated on a scale fixed
+by the aforementioned Additional Provision 48 and subsequently amended by Additional Provision 6 of Law 29/2006 of 29
+July, on Guarantees and Rational Use of Drugs and Healthcare Products. The Company records the accrued health tax
+as a sales discount at the time the sale is made. There is a provision at the end of the period for the estimated amount
+accrued but unpaid and the possible adjustment of the tax to the actual sales for the period.
+20

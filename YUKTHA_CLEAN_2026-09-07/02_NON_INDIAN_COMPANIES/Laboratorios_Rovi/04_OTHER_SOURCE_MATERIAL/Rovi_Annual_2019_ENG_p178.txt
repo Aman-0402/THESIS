@@ -1,0 +1,38 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+2.5. Foreign currency transactions
+(a) Functional and presentation currency
+Items included in the Annual Accounts of each of the Group’s entities are measured using the currency of the primary
+economic environment in which the entity operates ("the functional currency”). The Consolidated Annual Accounts are
+presented in euros, which is the Group’s functional and presentation currency.
+(b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates in force at the
+transaction dates or, if the items have been remeasured, the measurement dates. Foreign currency losses and gains
+that result from the settlement of these transactions and the translation of the monetary assets and liabilities
+denominated in foreign currencies at the rates in force at the end of the reporting period are recognised in profit and loss,
+except if deferred in other comprehensive income, as is the case with eligible cash flow hedges and eligible net
+investment hedges. Foreign currency losses and gains relating to loans and cash and cash equivalents are presented as
+“Finance income or expenses” in the income statement. Other foreign currency losses and gains are presented as “Other
+net gains / (losses)”.
+Changes in the fair value of monetary securities denominated in foreign currency and classified as equity securities are
+analysed considering the translation differences resulting from changes in the amortised cost of the security and other
+changes in its carrying amount. Translation differences relating to variations in the amortised cost are recognised in proift
+and loss and the other changes in the carrying amount are recognised in other comprehensive income.
+Translation differences on non-monetary items, such as equity instruments held at fair value through profit and loss, are
+recognised in profit and loss as part of the fair value gain or loss. Translation differences on non-monetary items
+measured at fair value, such as equity instruments classified as equity securities, are included in other comprehensive
+income.
+2.6. Property, plant and equipment
+Items included in property plant and equipment are recognised at cost less depreciation and, when appropriate, less
+accumulated impairment losses, except in the case of land, which is presented net of impairment losses, if these exist.
+Historical cost includes expenditure that is directly attributable to the acquisition of the items of property, plant and
+equipment.
+Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as appropriate, only
+when it is probable that future economic benefits associated with the item will flow to the Group and the cost of the item
+can be measured reliably. The carrying amount of any replaced part is derecognised. All other repairs and maintenance
+are charged to profit and loss during the reporting period in which they are incurred.
+15

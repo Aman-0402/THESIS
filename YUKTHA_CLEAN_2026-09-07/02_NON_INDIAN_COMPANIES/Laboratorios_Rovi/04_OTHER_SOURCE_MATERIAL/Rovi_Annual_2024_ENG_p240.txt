@@ -1,0 +1,53 @@
+the sale of bemiparin and enoxaparin is intercompany revenue, since it is received by Laboratorios Farmacéuticos ROVI on the
+sale to ROVI Pharma Industrial Services.
+Activity 1.2: “Manufacture of medicinal products”. As a pharmaceutical company, ROVI generates revenue from the
+manufacture of medicines using its own active ingredients that it produces (bemiparin and enoxaparin) or using active
+ingredients produced by a third party, adding the required excipients.
+In this respect, both activities generate revenue, in addition to having CapEx and OpEx associated to them. Consequently, the
+eligibility of the two activities is determined on the basis of the revenue obtained and the CapEx and OpEx incurred by the
+Group in 2024.
+The following table shows the rationale applied by the Group to compute each one of the indicators to the taxonomy activity that
+is applicable as per the Pollution Prevention Annex:
+Turnover CapEx OpEx
+For the Moderna
+Activity 1.1. Activity 1.1. Activity 1.1.
+vaccine
+Manufacture of
+active ingredients
+Bemiparin and
+Intercompany Activity 1.2. (*) Activity 1.2. (*)
+Enoxaparin
+Own API + added
+Activity 1.2. Activity 1.2. Activity 1.2.
+excipients
+Manufacture of
+medicinal products
+Third-party API +
+Activity 1.2. Activity 1.2. Activity 1.2.
+added excipients
+*Note: The assumption adopted is that the CapEx items for for the manufacture of own API are computed in activity 1.2, since the purpose of this API is to
+manufacture a medicine (considering the activity overall).
+Non-eligible as Taxonomy activities
+Healthcare material Medicine packaging Medicine distribution
+Summary of eligible activities as numerator
+Turnover CapEx OpEx
+noitagitiM
+egnahC
+etamilC
+5.4. Renewal of waste water collection and treatment x ✔ ✔
+7.3. Installation, maintenance and repair of energy efficiency x ✔ ✔
+equipment
+7.4 Installation, maintenance and repair of charging stations for
+electric vehicles in buildings (and parking spaces attached to x ✔ ✔
+buildings)
+7.5. Installation, maintenance and repair of charging stations for
+electric vehicles in buildings (and parking spaces attached to x ✔ ✔
+buildings)
+7.6. Installation, maintenance and repair of renewable energy x ✔ ✔
+technologies
+noitulloP noitneverP
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+1.1. Manufacture of active pharmaceutical ingredients (API) or ✔ ✔ ✔ active substances
+1.2. Manufacture of medicinal products ✔ ✔ ✔
+51

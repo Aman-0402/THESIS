@@ -1,0 +1,41 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2016
+(Expresada en miles de euros)
+4.2 Estimación del valor razonable
+El valor razonable de los instrumentos financieros que se comercializan en mercados activos (tales como los títulos
+mantenidos para negociar y los disponibles para la venta) se basa en los precios de mercado a la fecha del balance. El
+precio de cotización de mercado que se utiliza para los activos financieros es el precio corriente comprador.
+El valor razonable de los anticipos reembolsables sin tipo de interés o con tipo de interés subvencionado se determina
+aplicando a los reembolsos a efectuar la curva de tipos de interés en vigor a la fecha de recepción del anticipo,
+añadiendo el spread que normalmente se aplica en los préstamos a la Sociedad. A efectos de la presentación de
+información financiera, el valor razonable se calcula al cierre del cada ejercicio, aplicando a los pagos pendientes la
+curva de tipos en vigor en cada cierre, añadiendo el spread correspondiente. En los préstamos a tipo variable, se ha
+estimado que su valor razonable coincide con el importe por el que están registrados.
+5. Inmovilizado intangible
+El detalle y movimiento de las partidas incluidas en el Inmovilizado intangible es el siguiente:
+Patentes,
+licencias y Aplicaciones
+Desarrollo marcas informáticas Anticipos Total
+Saldo al 01.01.15
+Coste o valoración - 15.462 4.055 - 19.517
+Amortización acumulada - (1.636) (1.929) - (3.565)
+Valor neto contable 01.01.15 - 13.826 2.126 - 15.952
+Altas 2.002 200 945 - 3.147
+Traspasos (netos de amortización) 1.081 (1.081) (20) 20 -
+Dotación a la amortización - (966) (850) - (1.816)
+Saldo al 31.12.15
+Coste o valoración 3.094 14.570 4.980 20 22.664
+Amortización acumulada (11) (2.591) (2.779) - (5.381)
+Valor neto contable 31.12.15 3.083 11.979 2.201 20 17.283
+Altas 1.157 6.451 347 - 7.955
+Traspasos - 20 - (20) -
+Dotación a la amortización - (1.782) (953) - (2.735)
+Saldo al 31.12.16
+Coste o valoración 4.251 21.041 5.327 - 30.619
+Amortización acumulada (11) (4.373) (3.732) - (8.116)
+Valor neto contable 31.12.16 4.240 16.668 1.595 - 22.503
+a) Patentes, licencias y marcas
+Durante el ejercicio 2016 se han registrado altas en este epígrafe relativas, principalmente, a la adquisición de los
+derechos de comercialización en España de Neparvis®, medicamento indicado para el tratamiento en adultos de la
+insuficiencia cardiaca crónica.
+23

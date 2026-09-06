@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Debido a dicha diferencia entre las valoraciones obtenidas para impactos y para riesgos y oportunidades, se han establecido
+dos umbrales con el objetivo de determinar las temáticas, sub-temáticas y sub-sub-temáticas NEIS que resultan materiales
+desde la perspectiva de impacto, financiera o ambas:
+• Materialidad de impacto: el umbral seleccionado es el percentil 50, siendo este el dato que se encuentra en el punto
+medio de la distribución. El valor del percentil 50 para las valoraciones obtenidas es 2,6, implicando que los impactos
+que queden por encima de este umbral se consideran materiales y, los que queden por debajo, se consideran no
+materiales.
+• Materialidad financiera: el umbral seleccionado es el percentil 30. El valor del percentil 30 para las valoraciones
+obtenidas es 1,2, implicando que los riesgos y oportunidades que queden por encima de este umbral se consideran
+materiales y, los que queden por debajo, se consideran no materiales.
+El motivo de establecer un percentil inferior para la materialidad financiera se debe a que las valoraciones obtenidas son
+inferiores en una escala del 1 al 5 con respecto a la materialidad de impacto. Por lo tanto, si se hubiese seleccionado el
+percentil 50 los riesgos y oportunidades materiales serían mínimos.
+Adicionalmente, cabe mencionar que el proceso de doble materialidad ha cambiado significativamente en comparación con el
+anterior ejercicio llevado a cabo en 2022, debido a la publicación de los Estándares NEIS en Julio de 2023:
+• En el anterior análisis llevado a cabo, no se consideró la cadena de valor, sino únicamente las operaciones propias del
+Grupo.
+• La anterior materialidad únicamente consideraba posibles impactos generados por la actividad de ROVI, pero no se
+identificaron riesgos y oportunidades asociados a cuestiones de sostenibilidad.
+• La metodología de evaluación no contemplaba las variables de gravedad ni probabilidad para los impactos, sino un
+enfoque generalista de relevancia de los asuntos.
+Por todo ello, el actual análisis llevado a cabo supone un esfuerzo significativo que el Grupo ha efectuado para dar estricto
+cumplimiento a las disposiciones recogidas en las NEIS. En este sentido, ROVI espera revisar su análisis de doble materialidad
+en el medio plazo (1-5 años) en función de los avances del sector y de si existen cambios significativos en el modelo de
+negocio, operativa o perímetro del Grupo.
+Por último, cabe mencionar que ROVI integrará el proceso y los resultados del análisis de doble materialidad en el SCIINF de la
+Compañía, una vez se cuente con años de reporte previos que permitan detectar riesgos y controles. Dicha integración tiene
+como objetivo garantizar la calidad y fiabilidad de los procesos de generación, elaboración y reporte de la información no
+financiera.
+◦ Requisito de divulgación IRO-2: Requisitos de divulgación establecidos en las NEIS
+cubiertos por el Informe de la empresa
+El presente requisito de divulgación tiene como objetivo establecer los criterios que la empresa debe seguir para asegurar la
+transparencia en su Informe. El propósito de dichos criterios es facilitar la comprensión de los requisitos de divulgación que se
+incluyen en el informe y destacar los temas que se han omitido por no ser considerados materiales al llevar a cabo el proceso
+de evaluación.
+El listado de requisitos de divulgación deriva del proceso de evaluación meticuloso de todas las temáticas, sub-temáticas y sub-
+sub-temáticas establecidas en el AR 16 de la NEIS 1 y basada en el principio de doble materialidad.
+De todas las temáticas enunciadas en el AR 16 de la NEIS 1, la temática S3 Colectivos afectados se ha considerado como no
+aplicable para ROVI desde el inicio del análisis. Esto es debido a que la actividad del Grupo no impacta sobre colectivos que
+viven en zonas adyacentes a las operaciones de la empresa (colectivos locales) ni en los que viven a distancia. Tampoco
+impacta sobre pueblos indígenas con sus relaciones comerciales a lo largo de la cadena de valor. Se considera que el principal
+colectivo al que impacta el Grupo son los consumidores o usuarios finales que adquieren sus productos. En este sentido, como
+dicha temática ha sido descartada desde la fase de entendimiento, no se han llegado a identificar impactos, riesgos y
+oportunidades asociados.
+35

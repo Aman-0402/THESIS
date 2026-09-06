@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+22. Revenues
+Revenues are broken down into the following items:
+2021 2020
+Sales of goods 378,845 327,460
+Sale of services 264,692 91,557
+Revenue from distribution licenses (Note 20) 5,140 944
+648,677 419,961
+a) Sales of goods
+As of 31 December, 2021, the “Sales of goods” caption included 1,792 thousand euros related to services to promote third-
+party products (3,179 thousand euros at 31 December, 2020).
+Additionally, as of 31 December 2021, the “Sales of good” caption included 3,419 thousand euros (3,514 thousand euros
+at the 2020 reporting date) related to royalties received on the basis of enoxaparin distribution agreements signed with
+third parties.
+Total sales of goods fell by 11,909 thousand euros in 2021 (19,393 thousand euros in 2020) as a consequence of the
+rebates furnished to the National Health System (Note 2.24). 2,564 thousand euros of the total amount of rebates to the
+National Health System were related to the co-operation agreement signed between Farmaindustria and the Spanish
+government (6,306 thousand euros at 31 December, 2020) (Note 17).
+The breakdown of “Sales of goods” by product group was as follows:
+2021 2020
+Specialty pharmaceuticals 342,237 296,031
+Contrast agents and other hospital products 35,494 30,736
+Other 1,114 693
+378,845 327,460
+b) Sales of services
+At 31 December, 2021, the “Sales of services” caption included 64,006 thousand euros (11,829 thousand euros at 31
+December, 2020) relating to the work to adapt, fit out and validate ROVI’s facilities and machinery, which may be either
+owned by ROVI or acquired or subcontracted from third parties, to subsequently provide manufacturing services to certain
+customers, as well as reserve manufacturing capacity as agreed with customers (Note 2.21.b).
+c) Breakdown by geographical market and segment
+The breakdown of revenue by geographical market and segment at 31 December, 2021 was as follows:
+Manufacturing Marketing TOTAL
+Spain 7,000 249,698 256,698
+European Union 34,678 84,954 119,632
+Other countries 223,014 49,333 272,347
+264,692 383,985 648,677
+51

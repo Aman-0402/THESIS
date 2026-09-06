@@ -1,0 +1,47 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+a) Bank borrowings
+At 30 June 2025 and 31 December 2024, the conditions of the financing the Group had signed with the EIB were as
+follows:
+– A drawdown of 5,000 thousand euros in 2018 at an annual interest rate of Euribor 3 months plus a spread of
+0.844%, maturing at 10 years with a 3-year grace period.
+– A drawdown of 40,000 thousand euros in 2019 at an annual interest rate of Euribor 3 months plus a spread of
+0.681%, maturing at 10 years with a 3-year grace period.
+– A drawdown of 10,000 thousand euros in 2024 at an annual interest rate of Euribor 3 months plus a spread of
+0.65%, maturing at 10 years with a 3-year grace period.
+At 31 December 2024, the Group met the financial ratios established in the financing contract signed with the European
+Investment Bank (EIB). The ratios at said date were certified in the first half of 2025.
+Additionally, ROVI signed two loans in June 2024, each of which which consisted of principal of 25,000 thousand euros
+at a fixed annual rate (3.49% and 3%), maturing at 5 years with no grace period. In June 2025, the loan with the 3.49%
+interest rate was fully repaid for a sum of 21,321 thousand euros and, subsequently, a new contract for 46,521 thousand
+euros was signed, with a reduction of the interest rate to 2.75%, maturity at 5 years and no grace period. The loan with
+the 3% interest rate maintains the original conditions with no changes.
+Lastly, ROVI had signed 3 credit facilities at 30 June 2025 and 31 December 2024: the first was signed in September
+2023 for an amount of 20 million euros, maturing in 2026. The second, also for 20 million euros, was signed in March
+2024 and matures in 2027. Both are tied to Euribor 3 months plus a 0.50% spread. The third facility was signed in June
+2024 for 20 million euros with an initial interest rate of Euribor 3 months + 0.65%. It was renewed until 2027 in June
+2025, maintaining the amount but adjusting the conditions to Euribor 3 months + 0.50%. At 30 June 2025, ROVI did not
+have any funds drawn on any of these credit facilities (186 thousand euros at 31 December 2024).
+b) Debt with government entities
+Since 2001, the Group has been receiving reimbursable grants from different ministries to finance a number of R&D
+projects. These transactions do not accrue interest and, therefore, have been recognised at their initial fair values. The
+difference between the initial fair value and the face value accrues at market interest rates (Euribor and the interest rate
+on Spanish Treasury debt plus a spread in accordance with the Group’s risk), meaning that said debt accrues at effective
+interest rates ranging from 2.9% to 4.9%.
+No loans were received in the first six months of 2025.
+b.1) Loans received in the first six months of 2024 were as follows:
+Thousand euros Years
+Face Initial fair Repayment Grace
+Company Government entity Project value value period period
+ROVI Ministry of Science and Innovation (1) 12 8 10 3
+ROVI Industrial Technological Development Centre (2) 134 121 8 —
+ROVI Industrial Technological Development Centre (3) 412 352 13 —
+558 481
+(1) Funds heparin development projects.
+(2) Funds the projects to develop drugs with ISM technology.
+(3) Funds the projects to develop a biosimilar.
+25

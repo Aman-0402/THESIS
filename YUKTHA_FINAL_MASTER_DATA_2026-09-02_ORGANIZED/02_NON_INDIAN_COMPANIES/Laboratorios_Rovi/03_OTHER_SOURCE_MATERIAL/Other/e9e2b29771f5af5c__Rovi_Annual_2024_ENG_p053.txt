@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+22. Revenue and expenses
+a) Net sales
+The net amount of the sales from the Company’s ordinary activities was geographically distributed as follows:
+%
+Market 2024 2023
+Spain 77 % 77 %
+Germany 3 % 4 %
+Italy 5 % 6 %
+France 1 % 1 %
+Portugal 2 % 1 %
+Greece 1 % 2 %
+Other 11 % 10 %
+100 % 100 %
+a.1) Sales
+The breakdown of sales by product group was as follows:
+Thousand euros
+2024 2023
+Specialty pharmaceuticals 285,118 287,712
+Contrast agents and other hospital products 53,021 45,673
+Distribution licensing 365 339
+Sales to other group companies (Note 31.a) 202,007 217,514
+Other 5 33
+540,516 551,271
+The total amount of sales of goods was reduced by 13,039 thousand euros in 2024 (14,523 thousand euros in 2023) as a
+result of the rebates to the National Health System (Nota 3.19). The total amount of rebates to the National Health
+System did not include any revenue in relation to the collaboration agreement between Farmaindustria and the Spanish
+government in 2024 or 2023 (Note 20).
+a.2) Sales of services
+At 31 December 2024, sales of services included a reverse of 1,557 thousand euros relating to the work to adapt, fit out
+and validate the facilities and machinery –which may either belong to ROVI or be acquired or subcontracted from third
+parties– for customers in order to subsequently provide manufacturing services and reserve the manufacturing capacity
+agreed with them (21,822 thousand euros at 31 December 2023). The rest of all services were related to other group
+companies at 31 December 2024 (1,600 thousand euros at 31 December 2023).
+b) Goods, raw materials and other consumables used
+Thousand euros
+2024 2023
+Purchases 434,439 434,822
+Change in inventories (29,317) 16,375
+405,122 451,197
+c) Ancillary and current management income
+This caption includes principally revenue from administration services rendered and the assignment of the sales force to
+other group companies (Note 31.a).
+43

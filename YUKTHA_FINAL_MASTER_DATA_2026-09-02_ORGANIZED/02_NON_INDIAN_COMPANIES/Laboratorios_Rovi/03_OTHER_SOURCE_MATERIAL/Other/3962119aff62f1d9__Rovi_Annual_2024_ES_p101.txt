@@ -1,0 +1,53 @@
+CUENTAS ANUALES CONSOLIDADAS DE LABORATORIOS FARMACÉUTICOS ROVI,
+S.A. Y SOCIEDADES DEPENDIENTES AL 31 DE DICIEMBRE DE 2024
+ESTADO DE FLUJOS DE EFECTIVO CONSOLIDADO
+(En miles de euros)
+A 31 de diciembre de
+Nota 2024 2023
+Flujo de efectivo de las actividades de explotación
+Beneficios antes de impuestos 177.690 220.408
+Ajustes de partidas que no implican movimientos de tesorería:
+Amortizaciones 6 y 7 28.015 24.331
+Ingresos financieros 27 (259) (1.504)
+Correcciones valorativas por deterioro 12 y 13 (4.117) 3.232
+Ajustes por cambios de valor de instrumentos derivados — (28)
+Resultado por baja de activos y pasivos financieros (81) 219
+Diferencias de cambio 27 (296) 86
+Gastos financieros 27 2.350 948
+Ingresos por subvenciones, licencias de distribución y otros ingresos diferidos (1.206) (1.119)
+Participación en el resultado de asociadas y negocios conjuntos 10 141 125
+Pérdidas por enajenación de inmovilizado o disposición por otra vía 4.394 —
+Cambios en capital circulante:
+Clientes y otras cuentas a cobrar 13.410 19.471
+Existencias 11.871 (29.294)
+Otros activos corrientes (gastos anticipados) 40 (702)
+Proveedores y otras cuentas a pagar (16.361) (23.923)
+Otros cobros y pagos:
+Flujos de efectivo por prestación de servicios de fabricación 20 (33.876) (58.402)
+Cobros por licencias de distribución 20 793 255
+Flujo de efectivo por impuestos (44.230) (40.856)
+Flujos netos de efectivo generados (utilizados) en las actividades de
+explotación 138.278 113.247
+Flujo de efectivo por actividades de inversión
+Adquisición de activos intangibles 7 (3.100) (1.393)
+Adquisición de inmovilizado material 6 (59.119) (53.794)
+Venta de inmovilizado material 6 37 382
+Venta de inversiones financieras 80 88
+Intereses cobrados 134 1.489
+Inversión en empresas asociadas y negocios conjuntos 10 c) (19.090) (600)
+Venta de participaciones de asociadas y negocios conjuntos — 1.800
+Flujos netos de efectivo generados (utilizados) en actividades de inversión (81.058) (52.028)
+Flujo de efectivo por actividades de financiación
+Pago de deuda financiera (51.711) (13.654)
+Deuda financiera recibida 18 96.952 734
+Intereses pagados (1.769) (388)
+Compra de acciones propias 16 d) (89.708) (133.900)
+Reemisión de acciones propias 16 d) 41.921 52.639
+Dividendos pagados 16 c) (56.451) (69.049)
+Aportación de capital en sociedades dependientes 5.410 2.776
+Flujos netos de efectivo generados (utilizados) en actividades de financiación (55.356) (160.842)
+Variación neta de efectivo y equivalentes 1.864 (99.623)
+Efectivo y equivalentes al inicio del ejercicio 9 y 14 25.322 124.945
+Efectivo y equivalentes al final del ejercicio 9 y 14 27.186 25.322
+Las Notas 1 a 36 y el Anexo 1 adjunto son parte integrante de estas Cuentas anuales consolidadas.
+6

@@ -1,0 +1,46 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+10. Equity securities
+The breakdown of these financial assets measured at fair value through other comprehensive income (FVOCI) is as
+follows:
+30 June 30 June
+2024 2023
+Balance at beginning of the period 24 9
+Net gains/(losses) recorded in equity — 1
+Derecognitions (24) (10)
+Additions — 24
+Balance at end of period — 24
+Less: non-current portion — 24
+Current portion — —
+The maximum credit risk exposure at the reporting date was the fair value of the debt securities classified as equity
+securities.
+31
+30 June December
+2024 2023
+Non-listed securities
+– Variable-income securities (equity securities) — 24
+— 24
+At 30 June 2024 and 30 December 2023, these securities were denominated in euros.
+11. Inventories
+31
+30 June December
+2024 2023
+Raw materials and other consumables 115,400 169,368
+Work in progress and semi-finished goods 148,990 80,505
+Finished goods produced internally 65,761 62,884
+Commercial inventories 25,335 25,211
+355,486 337,968
+In the six-month period ended 30 June 2024, the Group increased the value of its inventories by 1,454 thousand euros
+(write-down of 3,270 thousand euros at 31 December 2023) due to obsolescence and expiration of the products. The
+reduction in the value of the inventories is recognised under the “Raw materials and consumables used” and “Change in
+stocks of finished goods and work in progress” captions in the income statement. In the first six months of 2024, the
+provision for the reduction in value of the Group’s inventories amounted to 24,216 thousand euros (25,670 thousand
+euros at 31 December 2023).
+The inventories purchase/sale commitments for the Group at the reporting date were as normal in the course of its
+business. Management estimates that meeting these commitments will not generate losses for the Group. The Group
+holds insurance policies to cover the risks the inventories are exposed to. The insurance cover is considered sufficient.
+18

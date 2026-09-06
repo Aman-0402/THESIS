@@ -1,0 +1,57 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+se encargan de la mejora o desarrollo de procesos digitales. Desde el área de Transformación, en concreto, se detectan,
+definen, diseñan y desarrollan soluciones MPV (Mínimo Producto Viable)57 centradas en la experiencia digital del empleado
+de ROVI, desde un punto de vista de la eficiencia en tiempos, control de los procedimientos y trazabilidad y seguridad de la
+información.
+Por otro lado, en materia de Inteligencia Artificial, el área de Hospitales y Relaciones Institucionales ha desarrollado un
+proyecto de salud digital que enmarca distintas iniciativas dentro de este nuevo campo de expansión de la industria
+farmacéutica.
+◦ Estrategia
+El objetivo del presente apartado es informar sobre cómo la estrategia y el modelo de negocio de ROVI integran los
+intereses, opiniones y derechos tanto de los consumidores y usuarios finales como del resto de partes interesadas.
+A nivel estratégico, la digitalización y la Inteligencia Artificial se encuentran en proceso de desarrollo e implementación que
+irá cambiando en función de las necesidades de los clientes y la evolución del sector.
+ROVI ha llevado a cabo un análisis de doble materialidad en el que ha analizado su contexto, examinando su estrategia y
+modelo de negocio para poder detectar los aspectos que pueden influir en su relación con sus partes interesadas. El
+proceso seguido por el Grupo para determinar los impactos, riesgos y oportunidades materiales relacionados con la
+digitalización y la Inteligencia Artificial, se encuentra detallado en el requisito de divulgación IRO-1 de la NEIS 2 donde se
+describen las cuatro fases del análisis de doble materialidad: entendimiento, identificación, evaluación y determinación.
+Como resultado de dicho análisis, a continuación, se detallan las oportunidades58 que han resultado significativas en
+materia de digitalización e Inteligencia Artificial:
+Nivel de la Temática Impacto/
+Real/ Horizonte
+cadena de entity- Descripción IRO Riesgo/
+Potencial temporal
+valor specific Oportunidad
+Digitalización Uso de IA para descubrir y desarrollar fármacos, mejorar
+Operaciones
+e Inteligencia procesos de investigación, reposicionar medicamentos y Oportunidad Potencial > 5 años
+propias
+Artificial reducir estudios (animales) y ensayos clínicos (humanos).
+Digitalización
+Operaciones La IA en farmacología optimiza ensayos clínicos, mejora
+e Inteligencia Oportunidad Potencial > 5 años
+propias diagnósticos y ofrece tratamientos más personalizados.
+Artificial
+Medidas innovadoras (modelo Pharma 4.0) integran la
+Digitalización
+Operaciones producción industrial con tecnologías de información y
+e Inteligencia Oportunidad Potencial 1-5 años
+propias comunicación y crean procesos de producción
+Artificial
+autogobernados.
+◦ Gestión de incidencias, riesgos y oportunidades
+Políticas relacionadas con la digitalización y la Inteligencia Artificial
+El presente requisito de divulgación tiene como objetivo informar sobre las políticas relacionadas con la digitalización y la
+Inteligencia Artificial con las que cuenta el Grupo.
+En este contexto, ROVI cuenta con la Política de Uso de los Recursos TIC, en la que se detallan las normas de uso y
+procedimientos que deben ser aplicados en el uso de los recursos de tecnologías de la información y de comunicación. El
+objetivo de la misma es establecer las obligaciones de los usuarios en materia de seguridad y uso de los recursos TIC,
+teniendo en cuenta la normativa de Protección de Datos de Carácter Personal, la ciberseguridad, el artículo 20 del Estatuto
+de los Trabajadores de los sistemas informáticos y las obligaciones de control establecidas en el artículo 31 bis del Código
+Penal español.
+57 Un Mínimo Producto Viable (MPV) es una versión simplificada de un producto con características esenciales, diseñada para validar una idea, obtener
+retroalimentación de usuarios y realizar mejoras antes del desarrollo completo.
+58 Téngase en cuenta que no se han identificado impactos y riesgos materiales.
+147

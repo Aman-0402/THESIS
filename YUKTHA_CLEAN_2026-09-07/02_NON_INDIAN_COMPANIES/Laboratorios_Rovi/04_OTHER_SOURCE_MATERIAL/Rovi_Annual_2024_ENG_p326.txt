@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+Value chain Entity- Impact/Risk/ Actual/ Time
+Description IRO
+level specific topic Opportunity Potential horizon
+Digitalisation Use of AI to discover and develop drugs, improve research
+Own
+and artificial processes, reposition medicines and reduce studies Opportunity Potential > 5 years
+operations
+intelligence (animals) and clinical trials (humans).
+Digitalisation
+Own In pharmacology, AI optimises clinical trials, improves
+and artificial Opportunity Potential > 5 years
+operations diagnoses and provide more personalised treatments.
+intelligence
+Digitalisation Innovative measures (Pharma 4.0 measures) integrate
+Own
+and artificial industrial production with information and communication Opportunity Potential 1-5 years
+operations
+intelligence and create self-governed production processes.
+◦ Management of impacts, risks and opportunities
+Policies related to digitalisation and artificial intelligence
+The objective of this Disclosure Requirement is to provide an understanding of the Group’s policies related to digitalisation and
+artificial intelligence.
+In this context, ROVI has a Policy on Use of ICT Resources, which sets out the rules of use and procedures that must be
+applied in the use of information technology and communication resources. The objective is to establish the obligations of the
+users in relation to security and the use of ICT resources, taking account of the Personal Data Protection regulations,
+cybersecurity, article 20 of the Workers’ Statute on information systems, and the control obligations established in article 31 bis
+of the Spanish Criminal Code.
+The scope of application of the policy covers all persons who work or collaborate with the Company and are ICT resource-users
+simply because they use them. It is also applicable to any person who processes personal data using the information systems.
+This policy, which was approved by the chairman of ROVI, has an annex that Group workers must sign to confirm that they
+accept it.
+Actions and resources related to digitalisation and artificial intelligence
+The objective of this Disclosure Requirement is to provide an understanding of actions related to the use of digitalisation and
+artificial intelligence and ROVI’s approach to the related material opportunities. Additionally, it should be noted that the
+consolidated CapEx figures for 2024 may be consulted in Note 6 “Property Plant and Equipment” and Note 7 “Intangible Assets”
+of the Consolidated Annual Accounts, while the OpEx figures may be consulted in Note 25 “Other Operating Expenses”
+Information systems area
+ROVI integrates digitalisation through its IT operations. First, the Group is focusing on reducing the user of paper through
+comprehensive document management system. This system, which has been implemented at several complexes, seeks to
+digitalise all procedure-related documents, records and forms, improving the efficiency of the review processes. The new
+RoviQMS tool surpasses its predecessor because it also manages document copies, marking a significant step in the digital
+transformation of ROVI’s industrial processes. The associated investment totalled €269,000. In 2025, the functionalities of
+quality event management (change management incidents, CAPAs. etc.) were added.
+In addition, the digitalisation initiative extends to the Electronic Batch Record (EBR) system. This system replaces the
+extensive paper documentation associated to each production batch by electronic records, capturing critical data such as
+temperatures and pressures. In addition to digitalising the dossier and record books, the EBR system automates processes by
+integrating with the Company’s ERP, downloading the manufacturing orders and notifying the consumption of materials
+automatically, thus allowing the batch to be checked by exception, ending with the release of batches by the Quality
+Department in accordance with the regulatory requirements. The Escúzar complex has implemented this system successfully
+for two products, while, at the same time, development is progressing at the Granada complex and active work is taking place
+137

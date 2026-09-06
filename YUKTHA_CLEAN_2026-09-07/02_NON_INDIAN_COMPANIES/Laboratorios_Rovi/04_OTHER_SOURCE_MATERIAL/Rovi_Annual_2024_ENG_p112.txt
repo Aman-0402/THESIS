@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+The advance payments operate as a “minimum payment for the production service”, i.e. even if the manufacturing volumes
+agreed by contract are not finally reached, the Group will have the right to at least the payments it has received.
+c) Interest income
+Interest income is recognised in accordance with the effective interest method.
+d) Dividend income
+Dividend income is recognised when the right to receive payment is established.
+e) Other revenue: granting of exclusive distribution licences
+Occasionally the Group grants licenses to other pharmaceutical companies to sell its products on an exclusive basis in a
+specific territory and also promises to manufacture the pharmaceutical product for the customer. For these agreements, the
+Group collects a single down-payment for the transfer of the license, which is either non-refundable or may be refunded to the
+customer under very strict terms if the product is finally not authorised for distribution in the agreed territory. In these contracts
+signed with third parties whereby ROVI grants the distribution licenses, the obligations arising from the granting of these
+licenses are always linked to the obligation to supply and manufacture the product, since no other entity can manufacture it. As
+the customer cannot benefit from the licence unless ROVI manufactures the product, the licence and the manufacturing service
+cannot be separated and, therefore, the Group recognises them as a single service obligation.
+Additionally, in these types of contracts the Group has an enforceable right to payment for performance completed to date, as
+the entity would be entitled to an amount that at least compensated the Group for its performance completed to date in the event
+that the customer or another party were to terminate the contract for reasons other than the entity's failure to perform as
+promised. Consequently, the Group recognises the revenue over time and defers revenue from the granting of product
+distribution licenses over the number of units produced.
+2.22 Leases
+When a Group company is the lessee – Operating lease
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as operating
+leases. Payments made under operating leases (net of any incentives received from the lessor) are charged to profit and loss
+on a straight-line basis over the period of the lease.
+2.23 Dividend distribution
+Dividend distribution to the Company’s shareholders is recognised as a liability in the Group’s consolidated annual accounts in
+the period in which the dividends are approved by the Company’s shareholders.
+2.24 Contributions to the public health systems and other discounts
+As the result of the 2005 General State Budget Act (Law 2/2004 of 27 December), Additional Provision 48, a health tax, levied
+by the Ministry of Health, came into force on 1 January 2005. This tax applies to individuals and legal entities in Spain engaging
+in the manufacture and importation of medicines that are officially prescribed in Spanish territory on official National Health
+System prescriptions. The amounts payable to the Ministry of Health and Consumer Affairs are calculated on a scale fixed by
+the aforementioned Additional Provision 48, subsequently amended by Additional Provision 6 of Law 29/2006 of 29 July on
+Guarantees and Rational Use of Drugs and Healthcare Products. The Group records the accrued health tax as a sales discount
+when the sale is made.
+The tax calculated under Law 29/2006 is paid or settled with a time lag of approximately one year. Sales subject to the tax relate
+to certain Group products that are placed on the market by third parties that do not belong to the Group through official National
+Health System prescriptions. This circumstance forces the Group to estimate the outstanding tax obligation and recognise it as
+a provision in its financial statements.
+To calculate the provision, the Group must estimate the sales placed on the market in the year through official prescriptions that
+are subject to Law 29/2006, to which it will apply the coefficients established in said law. To estimate the sales, the sales history
+comparing the Company’s total sales with the National Health System sales considered will be taken as a basis and this
+corrective factor will be applied to the sales of said products in the period under consideration.
+20

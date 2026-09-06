@@ -1,0 +1,63 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 157
+estimates that affect the application of accounting volatility and future staff turnover, both of which
+policies and the reported amounts of assets and li- may have a significant influence on the valua-
+abilities, income and expense. Actual results may tion of the options at the time of issuance. The
+differ from these estimates. Estimates and underly- correctness of these estimates depends upon
+ing assumptions are reviewed on an ongoing basis. actual future staff turnover and, in the case of
+Revisions to estimates are recognized prospec- the phantom stock program, on the actual de-
+tively. velopment of the share price, both of which
+may deviate from the original estimates used in
+Judgements preparing these Financial Statements and may
+thus lead to significant corrections in future pe-
+Judgements exercised by the Management Board
+riods (see Note 14).
+have an impact on the following specific issues pre-
+sented herein:
+— Determination of book value of investment par-
+ticipations in jointly controlled companies: Key
+— Lease term: Determination of whether the exer-
+assumptions for impairment testing in accord-
+cise of lease extension options is reasonably
+ance with IAS 28 (see Note 19)
+certain (see Note 27)
+Measurement of fair values
+— Internally generated intangible assets: Point in
+time at which the criteria of IAS 38 (“Intangible A number of the Group’s accounting policies and
+Assets”) are met, thereby resulting in an obliga- disclosures require the measurement of fair values,
+tion to capitalize the asset (see Note 18) for both financial and non-financial assets and liabil-
+ities.
+— Identification of multiple performance obliga-
+tions under the development partnerships for When measuring the fair value of an asset or liabil-
+purposes of revenue recognition (see Note 8) ity, the Group uses observable market data as far
+and separation thereof between development as possible. Fair values are categorized into differ-
+services and granting of license ent levels in a fair value hierarchy based on the in-
+puts used in the valuation techniques as follows:
+Assumptions and estimate uncertainties
+— Level 1: Quoted prices (unadjusted) in active
+Significant assumptions and estimates which could
+markets for identical assets and liabilities.
+result in the risk of necessary adjustments in subse-
+quent periods to the amounts recognized herein
+have been made in the following specific cases: — Level 2: Inputs other than quoted prices in-
+cluded in Level 1 that are observable for the as-
+set or liability, either directly (i.e. as prices) or in-
+— Recognition of deferred tax assets: Availability
+directly (i.e. derived from prices).
+of future taxable profit against which deducti-
+ble temporary differences and tax losses car-
+ried forward can be used (see Note 15) — Level 3: Inputs for the asset or liability that are
+not based on observable market data (unob-
+servable inputs).
+— Impairment test of intangible assets and good-
+will: Key assumptions underlying the calculation
+If the inputs used to measure the fair value of an
+of the recoverable amounts (see Note 18)
+asset or a liability are categorized in different levels
+of the fair value hierarchy, then the fair value meas-
+— Valuations under IFRS 2 (including phantom
+urement is categorized in its entirety in the same
+shares): The determination of the fair value of
+level of the fair value hierarchy as the lowest level
+sharebased payment arrangements is based,
+input that is significant to the entire measurement.
+among other factors, upon future share price

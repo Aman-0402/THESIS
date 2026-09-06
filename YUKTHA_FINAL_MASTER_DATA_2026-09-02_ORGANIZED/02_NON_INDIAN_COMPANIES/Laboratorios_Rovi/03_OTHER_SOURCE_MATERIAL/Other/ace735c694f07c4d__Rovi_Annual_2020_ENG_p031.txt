@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+Thousands of euros
+Less than Between Between Over
+At 31 December, 2019 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 2,415 1,474 19,983 25,190
+Debt with government entities 1,893 3,788 3,703 2,870
+Trade and other payables 62,294 - - -
+66,602 5,262 23,686 28,060
+4.2 Fair value estimation
+The fair value of financial instruments traded in active markets (such as held-for-sale and available-for-sale securities) is
+based on quoted market prices at the end of the reporting period. The quoted market price used for financial assets is
+the current bid price.
+The fair value of the reimbursable advances without a rate of interest or with a subsidised rate of interest is determined
+by applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made,
+adding the spread normally applied in loans to the Company. For financial reporting purposes, fair value is calculated at
+the end of each reporting period by applying the interest rate curve then in force to the outstanding payments and adding
+the corresponding spread. For loans at variable rates of interest, fair value has been regarded as coinciding with the
+amount for which they are recognised.
+5. Intangible assets
+Details of the items included in Intangible assets and the movement on these items are as follows:
+Patents,
+licences & Computer
+Development trademarks software Total
+Balance at 01.01.19
+Cost 9,094 30,076 6,524 45,694
+Accumulated amortisation (760) (8,239) (5,077) (14,076)
+Carrying amount 01.01.19 8,334 21,837 1,447 31,618
+Additions - 13,999 507 14,506
+Impairment - (341) - (341)
+Amortisation charge (455) (3,148) (593) (4,196)
+Balance at 31.12.19
+Cost 9,094 44,075 7,031 60,200
+Accumulated Impairment - (341) - (341)
+Accumulated amortisation (1,215) (11,387) (5,670) (18,272)
+Carrying amount 31.12.19 7,879 32,347 1,361 41,587
+Additions - - 159 159
+Impairment - (56) - (56)
+Amortisation charge (455) (3,191) (557) (4,203)
+Balance at 31.12.20
+Cost 9,094 44,075 7,190 60,359
+Accumulated Impairment - (397) - (397)
+Accumulated amortisation (1,670) (14,578) (6,227) (22,475)
+Carrying amount 31.12.20 7,424 29,100 963 37,487
+22

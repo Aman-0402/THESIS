@@ -1,0 +1,45 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 162
+assets and liabilities for financial reporting pur- Inventories
+poses and the amounts used for taxation purposes.
+Deferred taxes are not recognized for: Inventories are measured at the lower of cost and
+net realizable value. The cost of inventories is
+— temporary differences upon initial recognition based on the first-in, first-out (FIFO) method of allo-
+of assets or liabilities in a transaction which is cation. In the case of manufactured inventories,
+not a business combination and which affects cost includes an appropriate share of production
+neither accounting nor taxable profit or loss; overheads based on normal operating capacity.
+— temporary differences related to investments in Cash and cash equivalents
+subsidiaries, associates and joint ventures
+where the Group is able to control the timing of Cash and cash equivalents comprise cash on hand
+the reversal of the temporary differences and it and demand deposits, together with other short-
+is probable that they will not reverse in the term, highly liquid investments maturing within 90
+foreseeable future; and days from the date of acquisition that are readily
+convertible into known amounts of cash and which
+— taxable temporary differences arising upon ini- are subject to an insignificant risk of changes in
+tial recognition of goodwill. value.
+Deferred tax assets are recognized for unused tax
+losses, unused tax credits and deductible tempo-
+rary differences to the extent that it is probable that
+future taxable profits will be available against which
+they can be used. Future taxable profits are deter-
+mined based on the reversal of relevant taxable
+temporary differences. If the amount of taxable
+temporary differences is insufficient to recognize a
+deferred tax asset in full, then future taxable profits,
+adjusted for reversals of existing temporary differ-
+ences, are considered, based on the business
+plans for individual subsidiaries in the Group. De-
+ferred tax assets are reviewed at each reporting
+date and reduced to the extent that it is no longer
+probable that the related tax benefit will be real-
+ized; such reductions are reversed when the proba-
+bility of future taxable profits improves.
+The measurement of deferred tax reflects the tax
+consequences that would follow from the manner
+in which the Group expects, at the reporting date,
+to recover or settle the carrying amount of its as-
+sets and liabilities.
+Deferred tax assets and deferred tax liabilities re-
+sulting from the application of IFRS 16 “Leases” are
+offset (netted). All other deferred tax assets and de-
+ferred tax liabilities are only offset under certain
+specific conditions.

@@ -1,0 +1,41 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+Estas modificaciones serán efectivas para ejercicios anuales que comiencen a partir de 1 de enero de 2017 y
+serán aplicadas por el Grupo en la presentación en la información financiera presentada a partir de dicha fecha.
+• NIC 12 (Modificación) “Reconocimiento de activos por impuesto diferido para pérdidas no realizadas”. Las
+modificaciones a la NIC 12 aclaran los requisitos para reconocer activos por impuesto diferido sobre pérdidas
+no realizadas. Las modificaciones clarifican, entre otros, el tratamiento contable del impuesto diferido cuando
+un activo se valora a valor razonable y ese valor razonable está por debajo de la base fiscal del activo.
+También aclara otros aspectos de la contabilización de los activos por impuesto diferido. Estas modificaciones
+serán efectivas para ejercicios anuales que comiencen a partir de 1 de enero de 2017 y serán aplicadas por el
+Grupo a partir de dicha fecha.
+• Mejoras Anuales de las NIIF. Ciclo 2014 – 2016. Las modificaciones afectan a NIIF 1, NIIF 12 y NIC 28 y
+aplicarán a los ejercicios anuales que comiencen a partir de 1 de enero de 2018 en el caso de las
+modificaciones a las NIIF 1 y NIC 28 y 1 de enero de 2017 para las correspondientes a la NIIF 12, todas ellas
+sujetas a su adopción por la UE. Las principales modificaciones que pueden aplicar al Grupo se refieren a:
+o NIIF 12, "Revelación de participaciones en otras entidades". Aclaración sobre el alcance de la Norma.
+o NIC 28, “Inversiones en entidades asociadas y en negocios conjuntos”. Valoración de una inversión en
+una asociada o un negocio conjunto a valor razonable.
+2.3. Principios de consolidación
+(a) Dependientes
+Dependientes son todas las entidades (incluidas las entidades estructuradas) sobre las que el Grupo tiene control. El
+Grupo controla una entidad cuando está expuesto, o tiene derecho, a obtener unos rendimientos variables por su
+implicación en la participada y tiene la capacidad de utilizar su poder sobre ella para influir sobre esos rendimientos. Las
+dependientes se consolidan a partir de la fecha en que se transfiere el control al Grupo, y se excluyen de la
+consolidación en la fecha en que cesa el mismo.
+Para contabilizar las combinaciones de negocios el Grupo aplica el método de adquisición. La contraprestación
+transferida por la adquisición de una dependiente se corresponde con el valor razonable de los activos transferidos, los
+pasivos incurridos con los anteriores propietarios de la adquirida y las participaciones en el patrimonio emitidas por el
+Grupo. La contraprestación transferida incluye el valor razonable de cualquier activo o pasivo que proceda de un
+acuerdo de contraprestación contingente. Los activos identificables adquiridos y los pasivos y pasivos contingentes
+asumidos en una combinación de negocios se valoran inicialmente a su valor razonable en la fecha de adquisición. Para
+cada combinación de negocios, el Grupo puede optar por reconocer cualquier participación no dominante en la
+adquirida por el valor razonable o por la parte proporcional de la participación no dominante de los importes reconocidos
+de los activos netos identificables de la adquirida.
+Los costes relacionados con la adquisición se reconocen como gastos en el ejercicio en que se incurre en ellos.
+Si la combinación de negocios se realiza por etapas, el importe en libros en la fecha de adquisición de la participación
+en el patrimonio neto de la adquirida anteriormente mantenido por la adquirente se vuelve a valorar al valor razonable
+en la fecha de adquisición; cualquier pérdida o ganancia que surja de esta nueva valoración se reconoce en el resultado
+del ejercicio.
+11

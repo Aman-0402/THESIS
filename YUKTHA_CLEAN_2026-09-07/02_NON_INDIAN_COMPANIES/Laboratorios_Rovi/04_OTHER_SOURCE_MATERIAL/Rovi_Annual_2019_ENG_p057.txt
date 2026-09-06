@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+Movement on deferred tax assets and liabilities during the period without taking the offsetting of balances into account
+was as follows:
+Grants
+donations and Freedom of
+Deferred tax liabilities
+legacies amortisation/
+received depreciation Other Total
+At January 1, 2018 (1,159) (1,262) (230) (2,651)
+(Charged)/credited to profit and loss - 471 14 485
+Charged directly to equity 120 - - 120
+At 31 December, 2018 (1,039) (791) (216) (2,046)
+(Charged)/credited to profit and loss - 328 (757) (429)
+Charged directly to equity 127 - - 127
+At 31 December, 2019 (912) (463) (973) (2,348)
+Deferred tax liabilities credited to profit and loss in 2019 for 327 thousand euros (471 thousand euros charged to the
+2018 profit) in the column “Freedom of amortisation/depreciation” relate principally to the application of the free
+amortisation/depreciation system to the assets attached to R&D activity and to maintaining jobs.
+Available-for-
+Tax credits sale
+Deferred tax assets
+pending financial
+application assets Provisions Other Total
+At January 1, 2018 7,549 (1) 190 913 8,651
+(Charged)/credited to profit and loss 2,077 - 50 10 2,137
+At 31 December, 2018 9,626 (1) 240 923 10,788
+(Charged)/credited to profit and loss (1,795) - 117 (3) (1,681)
+Derecognition due to monetization
+(3,000) - - - (3,000)
+(Note 23)
+At 31 December, 2019 4,831 (1) 357 920 6,107
+The column “Other” shows, among other items, the deferred tax asset relating to the tax effect of 30% of the amortisation
+and depreciation expense for the period, which was not tax deductible in the periods 2013 and 2014 in accordance with
+Royal Decree-Law 16/2012 of 27 December, whereby various various tax measures aimed to consolidate public finance
+and stimulate economic activity were adopted.
+Deferred taxes charged to equity in the year were as follows:
+Thousands of euros
+2019 2018
+Grants, donations and legacies received 127 120
+127 120
+48

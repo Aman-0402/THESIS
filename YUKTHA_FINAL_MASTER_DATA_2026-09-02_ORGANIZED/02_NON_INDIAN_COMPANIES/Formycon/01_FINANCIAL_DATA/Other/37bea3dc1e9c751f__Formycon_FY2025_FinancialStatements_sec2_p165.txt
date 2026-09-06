@@ -1,0 +1,63 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 165
+Financial instruments — It is held within a business model whose objec-
+tive is to hold financial assets in order to collect
+Recognition and initial measurement contractual cash flows.
+Trade receivables and debt securities issued are in- — The contractual terms of the financial asset
+itially recognized from the date they arise or are is- give rise, on specified dates, to cash flows that
+sued. All other financial assets and financial liabili- are solely payments of principal and interest on
+ties are initially recognized when the Group be- the principal amount outstanding.
+comes a party to the contractual terms of the instru-
+ment. A financial asset (unless it is a trade receiva-
+A debt investment is classified as an FVOCI instru-
+ble without a significant financing component) or fi-
+ment if it meets both of the following conditions
+nancial liability is initially measured at fair value
+and is not designated as an FVTPL instrument:
+plus or minus, for an item not at FVTPL (i.e. fair
+value with changes in value through profit or loss),
+— It is held within a business model whose objec-
+transaction costs directly attributable to its acquisi-
+tive is achieved by both collecting contractual
+tion or issue. Trade receivables without a significant
+cash flows and selling financial assets.
+financing component are initially recognized at the
+transaction price.
+— Its contractual terms give rise, on specified
+dates, to cash flows that are solely payments of
+Classification and subsequent measurement
+principal and interest on the principal amount
+outstanding.
+Financial assets
+Upon initial recognition, a financial asset is classi-
+Upon initial recognition of an equity investment that
+fied and measured as:
+is not held for trading, the Group may irrevocably
+elect to present subsequent changes in the fair
+— an instrument at amortized cost
+value of the investment in OCI. This election is
+made individually for each investment.
+— an FVOCI debt instrument (investment in a debt
+instrument measured at fair value with changes
+All financial assets not classified as measured at
+through other comprehensive income)
+amortized cost or FVOCI as described above are
+measured at FVTPL. This includes all derivative fi-
+— an FVOCI equity investment (equity investment nancial assets. Upon initial recognition, the Group
+measured at fair value with changes through
+may irrevocably designate a financial asset that
+other comprehensive income)
+otherwise meets the requirements to be measured
+at amortized cost or at FVOCI as an FVTPL instru-
+— an FVTPL instrument (at fair value with changes ment if doing so eliminates or significantly reduces
+through profit or loss) an accounting mismatch that would otherwise
+arise.
+Financial assets are not reclassified subsequent to
+their initial recognition unless the Group changes Financial assets:
+its business model for managing financial assets, in Business model assessment
+which case all affected financial assets are reclassi- The Group makes its assessment of the objective
+fied on the first day of the first reporting period fol- of the business model in which a financial asset is
+lowing the change in the business model. held through an assessment of each individual
+portfolio. The information considered includes:
+A financial asset is measured at amortized cost if it
+meets both of the following conditions and is not — the stated objectives for the investment, includ-
+designated as an FVTPL instrument: ing whether management’s strategy focuses on

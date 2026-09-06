@@ -1,0 +1,40 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Financial Position at 31 December, 2018 and 2017
+(Thousands of euros)
+At 31 December
+Note 2018 2017
+EQUITY 248,421 155,187
+Equity 245,296 151,700
+Capital 14 3,364 3,000
+Share premium 14 87,636 -
+Reserves 15 6,959 6,959
+(Treasury shares) 15 (8,812) (8,407)
+Retained earnings 15 140,568 131,475
+Profit for the year 16 15,581 18,673
+Adjustments for change in value (3) (2)
+Available-for-sale financial assets (3) (2)
+Grants, donations and legacies received 17 3,128 3,489
+NON-CURRENT LIABILITIES 24,440 29,947
+Non-current debt 16,131 26,461
+Bank borrowings 7 & 18 7,113 17,716
+Other financial liabilities 7 & 18 9,018 8,745
+Deferred tax liabilities 21 2,046 2,651
+Non-current accruals 19 6,263 835
+CURRENT LIABILITIES 141,099 73,990
+Current provisions 20 7,226 3,508
+Current debt 17,496 16,031
+Bank borrowings 7 & 18 15,603 13,222
+Other financial liabilities 7 & 18 1,893 2,809
+Current debt with Group & associated companies 7 & 18 141 129
+Trade and other payables 115,877 54,243
+Trade payables 7 & 18 28,554 27,241
+Trade payables, Group & associated companies 7 & 18 81,620 21,732
+Sundry creditors 7 & 18 51 38
+Employees (outstanding remuneration) 7 & 18 4,433 3,916
+Other debts with the public authorities 23 1,219 1,316
+Current accruals 19 359 79
+TOTAL EQUITY AND LIABILITIES 413,960 259,124
+2

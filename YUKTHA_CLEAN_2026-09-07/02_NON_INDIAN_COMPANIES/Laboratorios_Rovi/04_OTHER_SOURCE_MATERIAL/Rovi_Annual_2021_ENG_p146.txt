@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+b) Other contracts
+This caption includes sums billed to customers for the adaptation, fitting-out and validation of the facilities and machinery
+– either owned by ROVI or acquired or subcontracted from third parties– that, at the year end, had not yet been taken to
+profit and loss as revenue from services provided, since it had not yet accrued in accordance with the percentage of
+completion. It totalled 38,575 thousand euros at 31 December, 2021 (2,943 thousand euros in 2020). Likewise, it includes
+the sum of 8,784 thousand euros in 2021 (17,284 thousand euros in 2020) for reserved capacity, which, at the end of the
+period, had not yet been taken to consolidated profit and loss as revenue from services provided because the contractual
+milestones that determine accrual of this revenue had not yet been reached (Note 2.21.b). These milestones are expected
+to be reached in the short term. Finally, this caption includes an amount billed and received for a purchase of materials for
+production that will take place in 2021, the costs of which are borne by the customer. Revenue recognition is linked to the
+use of said materials in the production process for customers in 2021.
+21. Deferred income
+2021 2020
+Non-current 2,331 2,712
+2,331 2,712
+Current 485 498
+485 498
+2,816 3,210
+The deferred revenue caption recognises sums collected for grants received from government entities, which are classified
+into two broad blocks:
+2021 2020
+a) Deferred revenues from non-reimbursable capital grants 2,565 3,030
+b) Deferred revenues from reimbursable capital grants 252 180
+2,816 3,210
+a) Deferred revenue from non-reimbursable capital grants
+These are taken to profit and loss in proportion to the provision made in the period for the assets whose purchase is
+subsidised. The most significant non-reimbursable grants that have not yet been taken to profit and loss are related to
+construction of the Granada bemiparin plant, which came into operation in 2009. In said reporting period, the allocation of
+a non-reimbursable grant of 5,431 thousand euros, awarded by the Innovation and Development Agency of Andalusia
+(Innovation, Science and Business Department), to profit and loss commenced. This grant was received in November
+2008. The amount recognised for this grant under the caption “Current and non-current deferred revenues from grants” at
+31 December, 2021 was 1,744 thousand euros (2,039 thousand euros at 31 December, 2020).
+b) Deferred revenue from reimbursable grants
+These relate to grants with an implicit interest rate derived from recognising reimbursable grants awarded at a zero interest
+rate at fair value (Note 18.b). The most significant amounts recognised as deferred revenues in relation to reimbursable
+grants awarded by government entities relate mainly to a number of research and development projects. They are taken
+to profit and loss on the basis of accrual of the expenses for which the reimbursable grant was awarded.
+50

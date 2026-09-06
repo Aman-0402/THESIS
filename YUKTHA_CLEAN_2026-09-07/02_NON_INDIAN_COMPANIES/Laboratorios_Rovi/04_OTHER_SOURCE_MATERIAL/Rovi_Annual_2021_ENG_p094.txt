@@ -1,0 +1,27 @@
+6
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+REPORT ON OTHER LEGAL AND REGULATORY REQUIREMENTS
+European Single Electronic Format ________________________________________
+We have examined the digital files of Laboratorios Farmacéuticos Rovi, S.A. and its subsidiaries for
+2021 in European Single Electronic Format (ESEF), which comprise the XHTML file that includes the
+consolidated annual accounts for the aforementioned year and the XBRL files tagged by the
+Company, which will form part of the annual financial report.
+The Directors of Laboratorios Farmacéuticos Rovi, S.A. are responsible for the presentation of the
+2021 annual financial report in accordance with the format and mark-up requirements stipulated in
+Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 (hereinafter the “ESEF
+Regulation”). In this regard, they have incorporated the Annual Corporate Governance Report and
+the Annual Report on Directors’ Remuneration by means of a reference thereto in the consolidated
+directors’ report.
+Our responsibility consists of examining the digital files prepared by the Directors of the Parent, in
+accordance with prevailing legislation regulating the audit of accounts in Spain. This legislation
+requires that we plan and perform our audit procedures to determine whether the content of the
+consolidated annual accounts included in the aforementioned digital files fully corresponds to the
+consolidated annual accounts we have audited, and whether the consolidated annual accounts and
+the aforementioned files have been formatted and marked up, in all material respects, in accordance
+with the requirements of the ESEF Regulation.
+In our opinion, the digital files examined fully correspond to the audited consolidated annual
+accounts, and these are presented and marked up, in all material respects, in accordance with the
+requirements of the ESEF Regulation.
+Additional Report to the Audit Committee of the Parent ____________________
+The opinion expressed in this report is consistent with our additional report to the Parent's audit
+committee dated 22 February 2022.

@@ -1,0 +1,55 @@
+Rank_Overall,Rank_Group,Group,Company,Country,Relevance_Text,Relevance,Annual_Score,Quarterly_Score,CashFlow_Score,Daily,Historical_Score,Historical_Years,ML_Score,Target,N_Obs,MissingPenalty,QualityPenalty,ZeroPenalty,Score,Quality_Issues
+1,1,Non-Indian,Amgen,United States,Biosimilar-focused,3,3.0,2.0,2.0,1.0,3,36.4,2,1,48,0.75,0,0,28.25,None major
+2,2,Non-Indian,Biogen,United States,Biosimilar-focused,3,3.0,2.0,1.0,1.0,2,13.0,2,1,49,0.5,0,0,26.5,None major
+3,3,Non-Indian,Teva Pharmaceutical,Israel,Pharmaceutical,1,3.0,2.0,2.0,1.0,3,33.7,2,1,48,0.75,0,0,24.25,None major
+4,4,Non-Indian,Novartis,Switzerland,Uncertain,0,3.0,2.0,2.0,1.0,3,25.7,2,1,49,0.75,0,0,22.25,None major
+5,5,Non-Indian,3SBio,China,Biopharmaceutical,2,3.0,1.0,2.0,1.0,3,20.6,1,1,20,1.5,0,0,21.5,None major
+6,1,Indian,Biocon,India,Biosimilar-focused,3,2.0,1.0,2.0,1.0,3,18.3,1,1,31,1.5,0,0,21.5,None major
+7,6,Non-Indian,Fresenius SE,Germany,Uncertain,0,3.0,2.0,2.0,1.0,2,13.0,2,1,48,0.75,0,0,21.25,None major
+8,7,Non-Indian,Merck & Co.,United States,Uncertain,0,3.0,2.0,2.0,1.0,2,13.0,2,1,49,0.75,0,0,21.25,None major
+9,8,Non-Indian,Baxter International,United States,Uncertain,0,3.0,2.0,2.0,1.0,2,14.4,2,1,49,1.0,0,0,21.0,None major
+10,9,Non-Indian,Viatris,United States,Uncertain,0,3.0,2.0,2.0,1.0,2,12.6,2,1,49,1.0,0,0,21.0,None major
+11,10,Non-Indian,Mabwell Bioscience,China,Biopharmaceutical,2,3.0,1.0,2.0,1.0,1,7.6,1,1,18,1.5,0,0,19.5,None major
+12,11,Non-Indian,Bio-Thera Solutions,China,Biopharmaceutical,2,3.0,1.0,1.0,1.0,1,9.6,1,1,25,1.5,0,0,18.5,None major
+13,12,Non-Indian,Jiangsu Hengrui Pharma,China,Pharmaceutical,1,3.0,1.0,2.0,1.0,2,12.6,1,1,47,1.5,0,0,18.5,None major
+14,13,Non-Indian,Shanghai Fosun Pharma,China,Pharmaceutical,1,3.0,1.0,2.0,1.0,2,12.6,1,1,47,1.5,0,0,18.5,None major
+15,14,Non-Indian,Zhejiang Hisun Pharma,China,Pharmaceutical,1,3.0,1.0,2.0,1.0,2,12.6,1,1,12,1.5,0,0,18.5,None major
+16,15,Non-Indian,Pfizer,United States,Uncertain,0,3.0,1.0,2.0,1.0,3,43.5,1,1,17,1.25,0,0,17.75,None major
+17,2,Indian,Aurobindo Pharma,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,3,23.2,1,1,24,1.75,0,0,17.25,None major
+18,3,Indian,Glenmark Pharmaceuticals,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,3,23.2,1,1,24,1.75,0,0,17.25,None major
+19,4,Indian,Sun Pharmaceutical,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,3,26.8,1,1,24,1.75,0,0,17.25,None major
+20,5,Indian,Torrent Pharmaceuticals,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,3,20.9,1,1,24,1.75,0,0,17.25,None major
+21,16,Non-Indian,Sanofi,France,Uncertain,0,3.0,1.0,2.0,1.0,2,13.5,1,1,27,1.25,0,0,16.75,None major
+22,17,Non-Indian,Formycon,Germany,Uncertain,0,3.0,1.0,2.0,1.0,2,12.6,1,1,16,1.5,0,0,16.5,None major
+23,6,Indian,Alembic Pharmaceuticals,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,13.5,1,1,21,1.75,0,0,16.25,None major
+24,7,Indian,Natco Pharma,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,13.5,1,1,24,1.75,0,0,16.25,None major
+25,8,Indian,Ajanta Pharma,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,12.4,1,1,22,2.0,0,0,16.0,None major
+26,9,Indian,J. B. Chemicals & Pharma,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,12.3,1,1,15,2.0,0,0,16.0,None major
+27,10,Indian,Marksans Pharma,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,13.1,1,1,24,2.0,0,0,16.0,None major
+28,11,Indian,Strides Pharma Science,India,Pharmaceutical,1,2.0,1.0,2.0,1.0,2,12.4,1,1,21,2.0,0,0,16.0,None major
+29,18,Non-Indian,Akeso,China,Uncertain,0,3.0,1.0,2.0,1.0,1,7.6,1,1,10,1.5,0,0,15.5,None major
+30,12,Indian,Cipla,India,Uncertain,0,2.0,1.0,2.0,1.0,3,27.2,1,1,24,1.75,0,0,15.25,None major
+31,13,Indian,Jubilant Pharmova,India,Uncertain,0,2.0,1.0,2.0,1.0,3,20.8,1,1,24,1.75,0,0,15.25,None major
+32,14,Indian,Lupin,India,Uncertain,0,2.0,1.0,2.0,1.0,3,20.4,1,1,24,1.75,0,0,15.25,None major
+33,15,Indian,Zydus Lifesciences,India,Uncertain,0,2.0,1.0,2.0,1.0,3,16.7,1,1,24,1.75,0,0,15.25,None major
+34,16,Indian,Wockhardt,India,Uncertain,0,2.0,1.0,2.0,1.0,2,13.5,1,1,24,1.75,0,0,14.25,None major
+35,17,Indian,Eris Lifesciences,India,Uncertain,0,2.0,1.0,2.0,1.0,2,12.4,1,1,18,2.0,0,0,14.0,None major
+36,18,Indian,Shilpa Medicare,India,Uncertain,0,2.0,1.0,2.0,1.0,2,13.1,1,1,22,2.0,0,0,14.0,None major
+37,19,Indian,Zenotech Laboratories,India,Uncertain,0,2.0,1.0,2.0,1.0,2,12.6,1,1,24,2.0,0,0,14.0,None major
+38,20,Indian,Panacea Biotec,India,Biopharmaceutical,2,3.0,0.5,2.0,1.0,2,12.4,0,1,,1.75,2.5,0,13.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+39,19,Non-Indian,Innovent Biologics,China,Biopharmaceutical,2,3.0,0.5,2.0,1.0,1,9.6,0,1,,1.75,2.5,0,12.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+40,21,Indian,Dr Reddy's Laboratories,India,Uncertain,0,3.0,1.0,2.0,1.0,3,25.2,0,1,,1.25,2.5,0,12.0,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+41,20,Non-Indian,Hikma Pharmaceuticals,United Kingdom/Jordan,Pharmaceutical,1,3.0,0.5,2.0,1.0,2,12.6,0,1,,1.75,2.5,0,11.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+42,21,Non-Indian,Laboratorios Rovi,Spain,Uncertain,0,3.0,0.5,2.0,1.0,2,12.6,0,1,,1.75,2.5,0,9.5,Missing quarterly balance; Requires supervisor decision; Not in official 37; observation count unknown
+43,22,Indian,Gufic Biosciences,India,Biopharmaceutical,2,2.0,1.0,2.0,0.0,2,12.8,0,0,,2.5,6.5,0,1.75,No daily stock; Exclusion reason undocumented; Requires supervisor decision; Not in official 37 and insufficient coverage
+44,22,Non-Indian,Gedeon Richter,Hungary,Uncertain,0,3.0,0.5,2.0,0.0,2,12.2,0,0,,2.25,5.5,0,0.5,Missing quarterly income; No daily stock; Requires supervisor decision; Not in official 37 and insufficient coverage
+45,23,Non-Indian,GC Biopharma,South Korea,Biopharmaceutical,2,1.0,0.5,0.0,0.0,2,11.5,0,0,,3.25,5.5,0,-2.5,Missing quarterly balance; No daily stock; Requires supervisor decision; Not in official 37 and insufficient coverage
+46,24,Non-Indian,Takeda Pharmaceutical,Japan,Pharmaceutical,1,0.0,0.0,0.0,1.0,2,13.0,0,0,,3.25,4.5,0,-3.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+47,25,Non-Indian,AstraZeneca,United Kingdom,Uncertain,0,0.0,0.0,0.0,1.0,3,28.7,0,0,,3.25,4.5,0,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+48,26,Non-Indian,Bristol Myers Squibb,United States,Uncertain,0,0.0,0.0,0.0,1.0,3,49.6,0,0,,3.25,4.5,0,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+49,23,Indian,Gland Pharma,India,Pharmaceutical,1,0.0,0.0,0.0,1.0,1,6.1,0,0,,3.25,4.5,0,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+50,27,Non-Indian,GSK,United Kingdom,Uncertain,0,0.0,0.0,0.0,1.0,3,43.9,0,0,,3.25,4.5,0,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+51,28,Non-Indian,Johnson & Johnson,United States,Uncertain,0,0.0,0.0,0.0,1.0,2,13.0,0,0,,3.25,4.5,0,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+52,29,Non-Indian,LG Chem,South Korea,Diversified healthcare/pharma,0,0.0,0.0,0.0,1.0,2,13.0,0,0,,3.25,4.5,0,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+53,30,Non-Indian,Nippon Kayaku,Japan,Uncertain,0,0.0,0.0,0.0,1.0,2,13.0,0,0,,3.25,4.5,0,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+54,24,Indian,Syngene International,India,Uncertain,0,0.0,0.0,0.0,1.0,2,11.4,0,0,,3.25,4.5,0,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage

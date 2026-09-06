@@ -1,0 +1,51 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Movement on the deferred tax assets was as follows:
+30%
+Negative amortiz.
+tax bases 13&14 Provisions Other Total
+At 1 January 2023 — 516 1,529 33 2,078
+(Charged)/credited to profit and loss 288 (140) 81 286 515
+(Charged)/credited to equity — (234) (16) — (250)
+At 31 December 2023 288 142 1,594 319 2,343
+(Charged)/credited to profit and loss (56) (142) 305 (187) (80)
+At 31 December 2024 232 — 1,899 132 2,263
+The amounts for deferred tax assets shown in the column “30% amortisation/depreciation 13 & 14” relate to the tax effect of the
+30% of the amortisation/depreciation charge for the period, which was not tax deductible in the years 2013 and 2014, as
+established in Royal Decree-Law 16/2012 of 27 December, whereby various measures intended to consolidate public finance
+and stimulate economic activity were adopted. Additionally, the column “Provisions” shows the amounts related to booking non-
+tax deductible provisions in the years reported. Lastly, the column “Other” shows, among other concepts, the effect of the non-
+deductibility in 2023 of 50% of the negative tax bases contributed to the Spanish consolidated tax group by certain companies
+(Note 28), in accordance with additional provision 19 of Law 27/2024 of 27 November on Corporate Income Tax.
+Movement on the deferred tax liabilities was as follows:
+Freedom of
+amortisation/
+depreciation Other Total
+At 1 January 2023 51 626 677
+Charged/(credited) to profit and loss (71) 522 451
+At 31 December 2023 269 118 387
+Charged/(credited) to profit and loss 249 1,266 1,515
+(Charged)/credited to profit and loss (49) (1,100) (1,149)
+At 31 December 2024 200 166 366
+The deferred tax liabilities described as “Other” show the liabilities arising from the elimination of margins on internal inventory
+and fixed-asset transactions, as well as the net deferred tax related to application of IFRS 16 “Leases”. Regarding the deferred
+tax assets and liabilities arising from application of IFRS 16 “Leases, at 31 December 2024, it showed a net liability position of
+120 thousand euros (110 thousand euros at 31 December 2023), composed of 3,896 thousand euros of assets and 4,016
+thousand euros of liabilities (4,588 thousand euros of assets and 4,498 thousand euros of liabilities at 31 December 2023).
+The deferred tax liabilities included as “Freedom of amortisation/depreciation” refer to the application of the free amortisation/
+depreciation system associated to assets attached to R&D activity and maintaining jobs.
+20. Contract liabilities
+Movement on contract liabilities in 2024 and 2023 was as follows:
+Distribution
+licences Other contracts Total
+At 1 January 2023 1,839 114,607 116,446
+Additions 255 76,912 77,167
+(Charged)/credited to profit and loss (339) (152,799) (153,138)
+At 31 December 2023 1,755 38,720 40,475
+Additions 793 66,274 67,067
+(Charged)/credited to profit and loss (365) (100,555) (100,920)
+At 31 December 2024 2,183 4,439 6,622
+49

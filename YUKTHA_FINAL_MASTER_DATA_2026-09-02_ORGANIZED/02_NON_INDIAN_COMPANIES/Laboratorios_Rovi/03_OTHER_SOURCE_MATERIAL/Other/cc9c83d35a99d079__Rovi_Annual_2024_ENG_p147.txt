@@ -1,0 +1,53 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+The tax on the Group’s pre-tax profit differs from the notional amount that would have been calculated using the 25% tax rate
+applicable to the profits of the consolidated companies as follows:
+2024 2023
+Profit before tax 177,690 220,408
+Tax calculated at domestic tax rate of 25% (44,422) (55,102)
+Share of profits in joint ventures (35) (31)
+Movement on negative tax bases (56) 288
+Adjustment corporate income tax expense prior years 905 659
+Non-tax deductible expenses (929) (372)
+Tax differences in results of subsidiaries (517) (221)
+R&D tax credits used 4,459 4,923
+Movement on capitalised R&D tax credits (24) (23)
+International double taxation tax credit (195) (230)
+Income tax expense (40,814) (50,109)
+The non-deductible expenses and non-taxable income captions include principally the permanent differences of the companies
+at individual level, mainly related to donations.
+The current tax for Spain, Portugal, United Kingdom and Italy for for 2024, after deducting the amount of payments on account
+and withholdings during the year, generated a current tax payable of 2,384 thousand euros, while current income tax in
+Germany and Austria generated a receivable of 81 thousand euros (payable of 5,255 thousand euros at 31 December 2023 for
+all the tax jurisdictions).
+Tax credits
+The Group generated tax credits of 4,435 thousand euros in 2024 (4,900 thousand euros in 2023) and was likewise entitled to
+offset tax credits of 24 thousand euros from previous years (23 thousand euros at 31 December 2023). In 2024, tax credits of
+4,459 thousand euros were applied (4,923 thousand euros in 2023), meaning that there were thus no further tax credits to be
+offset in future years (tax credits of 24 thousand euros were pending application at 31 December 2023).
+Negative tax bases
+At 31 December 2024, the Group had recognised negative tax bases amounting to 232 thousand euros (288 thousand euros at
+31 December 2023).
+Pillar Two
+ROVI falls within the scope of Pillar Two. Pillar Two was agreed within the Inclusive Framework of the initiative against base
+erosion and profit shifting (BEPS) of the OECD and the G-20 and approved through the Model Rules on 14 December 2021.
+The Model Rules and, in short, Pillar Two have established a global minimum tax of 15%. Thus, Pillar Two require the affected
+groups to calculate their effective tax rate for each jurisdiction in which they operate in accordance with specific rules. Regarding
+jurisdictions in which the effective rate is lower than 15%, the Group must settle an additional tax corresponding to the difference
+between the effective tax rate of the jurisdiction in question and the minimum 15% rate.
+The Council of the European Union adopted Directive 2022/2523, thus incorporating this initiative into the European legal
+framework. This Directive substantially includes the content of the Model Rules
+The process of transposing the Directive into Spanish legislation concluded with the approval of Law 7/2024 of 20 December
+and the year starting 1 January 2024 was the first year of application.
+As of the 2024 reporting date, the Group made an analysis of its potential exposure to the income tax derived from Pillar Two,
+based on applying the Transitional Safe Harbour provisions, and concluded that the top-up tax provided for in Law 7/2024 was
+not applicable. Likewise, a transitional regime was established that provides that the top-up tax is not payable in the tax periods
+commencing between 31 December 2023 and 31 December 2026, in which country information is submitted by admissible
+country, jurisdiction and period. This country by country information is submitted by Norbel Inversiones, S.L. (the Spanish
+parent company of the Norbel Group) to the Spanish authorities and, on the basis thereof, at 31 December 2024, ROVI met the
+Transitional Safe Harbour requirements for application of the simplified rate in the jurisdictions in which it operates, finding that
+the top-up tax provided for in Law 7/2024 of 20 December was not applicable.
+55

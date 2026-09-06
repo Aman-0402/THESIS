@@ -1,0 +1,57 @@
+fabricación de principio activo y/o medicamento. No obstante, y aunque estas inversiones optimizan la eficiencia energética del
+proceso productivo de ROVI, no es posible lograr alineamiento con la actividad 7.3 del Anexo de Mitigación al no cumplir con
+los criterios técnicos del RITE.
+El presente cuadro esquematiza el racional seguido por el Grupo para computar cada uno de los indicadores a la actividad
+taxonómica que resulta de aplicación bajo el Anexo de Prevención de la Contaminación durante el ejercicio 2025:
+Ingresos CapEx OpEx
+Para la vacuna de Moderna Actividad 1.1. Actividad 1.1. Actividad 1.1.
+Fabricación de
+principios activos
+Para Bemiparina y
+Intercompany Actividad 1.2* Actividad 1.2*
+Enoxaparina
+API propio + añadido
+Actividad 1.2 Actividad 1.2 Actividad 1.2
+excipientes
+Fabricación de
+medicamentos
+API de un tercero +
+Actividad 1.2 Actividad 1.2 Actividad 1.2
+añadido excipientes
+*Nota: se adopta la hipótesis en la que las altas de CapEx destinadas a la fabricación de API propio computan en la actividad 1.2, dado que el fin de ese principio
+activo es fabricar un medicamento (se entiende la actividad en su conjunto).
+No Elegible bajo actividades taxonómicas
+Acondicionamiento primario y
+Distribución de medicamento Material Sanitario
+secundario de medicamentos
+Resumen de actividades elegibles como numerador
+Volumen de
+CapEx OpEx
+ingresos
+ocitámilc
+oibmac
+led
+nóicagitiM
+5.4. Renovación de la recogida y el tratamiento x x ✔
+de aguas residuales
+7.3. Instalación, mantenimiento y reparación de x ✔ ✔
+equipos de eficiencia energética
+7.4. Instalación, mantenimiento y reparación de
+estaciones de recarga para vehículos eléctricos x ✔ ✔
+en edificios (y en las plazas de aparcamiento
+anexas a los edificios)
+7.5. Instalación, mantenimiento y reparación de
+instrumentos y dispositivos para medir, regular y x ✔ ✔
+controlar la eficiencia energética de los edificios
+7.6. Instalación mantenimiento y reparación de x ✔ ✔
+tecnologías de energía renovable
+al
+ed
+nóicneverP
+nóicanimatnoc
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+1.1. Fabricación de ingredientes farmacéuticos
+✔ ✔ ✔ activos (IFA) o sustancias activas
+1.2. Fabricación de medicamentos ✔ ✔ ✔
+42

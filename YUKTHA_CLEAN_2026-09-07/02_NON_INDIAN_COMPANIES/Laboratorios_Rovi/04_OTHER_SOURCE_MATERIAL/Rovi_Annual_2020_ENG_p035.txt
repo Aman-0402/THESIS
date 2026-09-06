@@ -1,0 +1,33 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+7. Analysis of financial instruments
+7.1 Analysis by category
+The carrying amounts of each one of the financial instrument categories established in the “Financial instruments”
+recognition and measurement rules, except investments in the equity of group, multi-group and associated companies
+(Note 8), were as follows:
+a) Financial assets
+Thousands of euros
+Equity Credits and other
+Instruments financial assets
+2020 2019 2020 2019
+Available-for-sale financial assets (Note 11) 63 63 - -
+Loans and receivables (Note 10) - - 33,225 30,421
+Non-current 63 63 33,225 30,421
+Loans and receivables (Note 10) - - 293,067 142,478
+Cash and cash equivalents (Note 13) - - 34,144 51,317
+Current - - 327,211 193,795
+TOTAL 63 63 360,436 224,216
+b) Financial liabilities
+Thousands of euros
+Bank borrowings Financial liabilities
+2020 2019 2020 2019
+Debits and payables (Note 18) 44,825 45,000 8,822 9,662
+Non-current 44,825 45,000 8,822 9,662
+Debits and payables (Note 18) 175 7,116 142,433 64,316
+Current 175 7,116 142,433 64,316
+TOTAL 45,000 52,116 151,255 73,978
+26

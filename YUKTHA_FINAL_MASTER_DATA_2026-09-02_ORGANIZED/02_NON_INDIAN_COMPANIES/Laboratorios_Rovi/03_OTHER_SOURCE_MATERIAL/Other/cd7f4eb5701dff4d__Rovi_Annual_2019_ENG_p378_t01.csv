@@ -1,0 +1,54 @@
+,,CURRENT,PREVIOUS
+,,PERIOD,PERIOD
+,,31/12/2019,31/12/2018
+A) EQUITY (A.1 + A.2 + A.3),1195,322.386,287.472
+A.1) EQUITY,1180,322.389,287.475
+1. Capital:,1171,3.364,3.364
+a) Authorized capital,1161,3.364,3.364
+b) Less: uncalled capital,1162,,
+2. Share premium,1172,87.636,87.636
+3. Reserves,1173,673,600
+4. Less treasury stock,1174,(10.341),(8.812)
+5. Retained earnings,1178,201.784,186.792
+6. Other shareholder contributions,1179,,
+7. Profit or loss for period,1175,39.273,17.895
+8. Less: interim dividend,1176,,
+9. Other equity instruments,1177,,
+A.2) ACCUMULATED OTHER COMPREHENSIVE INCOME,1188,(3),(3)
+1. Items not reclassified to profit and loss for the period,1186,,
+a) Equity instruments held at fair value through other comprehensive income,1185,,
+b) Other,1190,,
+2. Items that may be reclassified to profit and loss for the period,1187,(3),(3)
+a) Hedging transactions,1182,,
+b) Hedging differences,1184,,
+c) Share in other comprehensive income of joint ventures and other,1192,,
+d) Debt instruments held at fair value through other comprehensive income,1191,,
+e) Other,1183,(3),(3)
+EQUITY ATTRIBUTED TO PARENT COMPANY (A.1 + A.2),1189,322.386,287.472
+A.3) NON-CONTROLLING INTERESTS,1193,,
+B) NON-CURRENT ASSETS,1120,82.116,27.716
+1. Grants,1117,,
+2. Non-current provisions,1115,,
+3. Non-current financial liabilities:,1116,72.104,16.589
+a) Bank borrowings and debentures or other negotiable securities,1131,45.000,7.113
+b) Other financial liabilities,1132,27.104,9.476
+4. Deferred tax liabilities,1118,1.078,1.243
+5. Non-current derivatives,1140,,
+a) Hedging instruments,1141,,
+b) Other,1142,,
+6. Other non-current liabilities,1135,8.934,9.884
+C) CURRENT LIABILITIES,1130,106.709,87.512
+1. Liabilities related to current assets held for sale,1121,,
+2. Current provisions,1122,,
+3. Current finanacial liabilities:,1123,12.572,17.635
+a) Bank borrowings and debentures or other negotiable securities,1133,7.116,15.603
+b) Other financial liabilities,1134,5.456,2.032
+4. Trade and other payables:,1124,91.914,68.165
+a) Trade payables,1125,68.770,47.875
+b) Other payables,1126,23.144,20.290
+c) Current tax liabilities,1127,,
+5. Current derivatives,1145,129,-
+a) Hedging instruments,1146,129,-
+b) Other,1147,,
+5. Other current liabilities,1136,2.094,1.712
+TOTAL EQUITY AND LIABILITIES (A + B + C),1200,511.211,402.700

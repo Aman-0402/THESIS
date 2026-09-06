@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+Significant financial difficulties of the debtor, the probability that the debtor will become insolvent or require financial
+reorganisation and default or delinquency in payments are considered indicators that a trade receivable is impaired. The
+amount of the provision is the difference between the asset’s carrying amount and the present value of estimated future
+cash flows, discounted at the effective interest rate. The carrying amount of the asset is reduced when the amount of the
+provision is used and the amount of the loss is recognised in the income statement within “other operating expenses”.
+When a trade receivable is unrecoverable, it is written off against the provision for trade receivables. Subsequent
+recoveries of amounts previously written off are credited against “other operating expenses”.
+Equity securities
+Equity securities are non-derivatives that are either designated in this category or not classified in any of the other
+possible categories. They are included in non-current assets unless Management intends to dispose of the investment
+within 12 months of the end of the reporting period.
+Purchases and sales of investments are recognised on the trade date, i.e. the date on which the Group commits to
+purchase or sell the asset. Investments are initially recognised at fair value plus transaction costs. Equity securities are
+subsequently carried at fair value. Investments are derecognised when the rights to receive cash flows from the
+investments have expired or been transferred and the Group has substantially transferred all risks and rewards of
+ownership.
+Dividends from equity securities instruments are recognised in the income statement as “Finance costs-net” when the
+Group’s right to receive payment is established.
+The fair values of quoted investments are based on current bid prices. If the market for a financial asset is not active (and
+for unlisted securities), the Group establishes fair value on the basis of an analysis of discounted cash flows.
+At the end of each reporting period, the Group assesses whether there is objective evidence that a financial asset or a
+group of financial assets is impaired. In the case of equity securities classified as available for sale, a significant or
+prolonged decline in the fair value of the security below its cost is considered an indicator that the securities are
+impaired. If any such evidence exists for equity securities, the cumulative loss –measured as the difference between the
+acquisition cost and the current fair value, less any impairment loss on that financial asset previously recognised in profit
+or loss– is removed from equity and recognised in profit and loss. Impairment losses on equity instruments recognised in
+profit and loss are not reversed through profit and loss.
+b) Derecognition of financial assets
+The Company applies the criteria of derecognising financial assets to part of a financial asset or to part of a group of
+similar financial assets or to a financial asset or to a group of similar financial assets.
+Financial assets are derecognised in the accounts when the rights to receive cash flows related to them have expired or
+been transferred and the Company has substantially transferred the risks and rewards of ownership. Likewise, if the
+Group retains the contractual rights to receive the cash flows from the financial assets, these financial assets are
+derecognised only when contractual obligations that determine payment of said flows to one or more recipients have
+been assumed and the following requirements are met:
+• Payment of the cash flows depends on their having been received previously;
+22

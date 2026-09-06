@@ -1,0 +1,38 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+Los índices de apalancamiento al 31 de diciembre de 2016 y 2015 han sido los siguientes:
+2016 2015
+Deuda financiera (Nota 18) 33.794 42.778
+Menos: Efectivo y equivalentes al efectivo (Nota 14) (41.378) (29.251)
+Menos: Activos financieros disponibles para la venta (Nota 11) (70) (70)
+Menos: Depósitos (Notas 9 y 13) (1.359) (1.389)
+Deuda/(Caja) neta (9.013) 12.068
+Patrimonio neto 183.406 164.785
+Índice de apalancamiento -4,91% 7,32%
+Adicionalmente la deuda/caja neta del Grupo a 31 de diciembre de 2016 y de 2015 ha sido la siguiente:
+2016 2015
+Deuda financiera (Nota 18) 33.794 42.778
+Menos: Efectivo y equivalentes al efectivo (Nota 14) (41.378) (29.251)
+Menos: Activos financieros disponibles para la venta (Nota 11) (70) (70)
+Menos: Depósitos (Notas 9 y 13) (1.359) (1.389)
+Deuda/(Caja) neta (9.013) 12.068
+3.3. Estimación del valor razonable
+Las valoraciones a mercado de instrumentos financieros se clasifican en:
+- Nivel 1. Precios cotizados en mercados activos para instrumentos idénticos.
+- Nivel 2. Inputs observables para el instrumento, ya sea directamente (precios) o indirectamente (basados en
+precios).
+- Nivel 3. Inputs que no están basados en datos observables en el mercado.
+Las valoraciones a mercado de los activos financieros del Grupo registrados a valor razonable, que corresponden en su
+totalidad como disponibles para la venta (Nota 11), se clasifican en el Nivel 1.
+El valor razonable de los instrumentos financieros que se comercializan en mercados activos (tales como los activos
+financieros disponibles para la venta) se basa en los precios de mercado al cierre del ejercicio. El precio de mercado
+usado por el Grupo para los activos financieros es el precio corriente comprador.
+El valor razonable de los anticipos reembolsables sin tipo de interés o con tipo de interés subvencionado se determina
+aplicando a los reembolsos a efectuar la curva de tipos de interés en vigor a la fecha de recepción del anticipo,
+añadiendo el spread que normalmente se aplica en los préstamos al Grupo. A efectos de la presentación de información
+financiera, el valor razonable se calcula al cierre del cada ejercicio, aplicando a los pagos pendientes la curva de tipos
+en vigor en cada cierre, añadiendo el spread correspondiente. En los préstamos a tipo variable, se ha estimado que su
+valor razonable coincide con el importe por el que están registrados (Nota 18). La valoración a mercado de los anticipos
+reembolsables sin tipo de interés se clasifica en el Nivel 2.
+26

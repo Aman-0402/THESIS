@@ -1,0 +1,57 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+4. INDIVIDUAL STATEMENT OF CASH FLOWS (PREPARED USING NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2019 31/12/2018
+A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) 0435 (30.035) (10.114)
+1.Profit/(loss) before tax 0405 25.712 11.052
+2. Adjustments to profit/(loss) 0410 12.152 12.144
+(+) Amortization and depreciation of intangible assets and property, plant and
+0411 9.331 7.753
+equipment
+(+/-) Other adjustments to profit/(loss) (net) 0412 2.821 4.391
+3. Changes in working capital 0415 (60.206) (36.096)
+4. Other cash flows from operating activities: 0420 (7.693) 2.786
+(-) Payment of interest 0421
+(+) Proceeds from dividends 0422
+(+) Proceeds from interest 0423
+(+/-) Proceeds from/(payments for) corporate income tax 0430 (8.087) (3.141)
+(+/-) Other proceeds from/(payments for) operating activities 0425 394 5.927
+B) CASH FLOWS FROM INVESTING ACTIVITIES (1+2) 0460 (26.382) (12.751)
+1. Payments of investments: 0440 (26.539) (15.342)
+(-) Group companies, associates and business units 0441 (775) -
+(-) Property, plant and equipment, intangible assets and investment property 0442 (25.764) (15.342)
+(-) Other financial assets 0443
+(-) Non-current assets and liabilities classified as held for sale 0459
+(-) Other assets 0444
+2. Proceeds from disinvestments 0450 157 2.591
+(+) Group companies, associates and business units 0451 - 50
+(+) Property, plant and equipment, intangible assets and investment property 0452 75 2.199
+(+) Other financial assets 0453
+(+) Non-current assets and liabilities classified as held for sale 0461
+(+) Other assets 0454 82 342
+C) CASH FLOWS FROM FINANCING ACTIVITIES (1+2+3) 0490 23.947 71.126
+1. Proceeds from and (payments for) equity instruments: 0470 153 87.848
+(+) Issue 0471 - 88.000
+(-) Amortization 0472
+(-) Acquisition 0473 (4.718) (1.138)
+(+) Disposal 0474 4.871 986
+(+) Grants, donations and legacies received 0475
+2. Proceeds from and (payments for) financial liability instruments: 0480 28.214 (10.770)
+(+) Issue 0481 47.033 7.043
+(-) Repayment and amortization 0482 (18.819) (17.813)
+3. Payment of dividends and remuneration of other equity instruments 0485 (4.420) (5.952)
+D) EFFECT OF EXCHANGE RATE CHANGES 0492
+E) NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+D) 0495 (32.470) 48.261
+F) CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 0499 83.787 35.526
+G) CASH AND CASH EQUIVALENTS AT END OF PERIOD (E+F) 0500 51.317 83.787
+CURRENT PREVIOUS
+COMPONENTS OF CASH AND CASH EQUIVALENTS AT END OF PERIOD PERIOD PERIOD
+31/12/2019 31/12/2018
+(+) Cash in hand and at bank 0550 51.317 83.787
+(+) Other financial assets 0552
+(-) Less: bank overdrafts repayable on demand 0553
+TOTAL CASH AND CASH EQUIVALENTS AT END OF PERIOD 0600 51.317 83.787

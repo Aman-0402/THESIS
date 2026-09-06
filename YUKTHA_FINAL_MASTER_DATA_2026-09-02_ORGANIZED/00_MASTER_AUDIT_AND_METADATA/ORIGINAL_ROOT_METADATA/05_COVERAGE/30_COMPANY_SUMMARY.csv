@@ -1,0 +1,31 @@
+﻿company,region,relevant_source_files,primary_reports,merged_stock_series,merged_financial_series,daily_stock,weekly_stock,monthly_stock,quarterly_financial,annual_financial
+Biocon,Indian,785,80,5,1,True,True,True,False,False
+Aurobindo Pharma,Indian,792,75,3,1,True,False,True,False,False
+Glenmark Pharmaceuticals,Indian,792,75,3,1,True,False,True,False,False
+Sun Pharmaceutical,Indian,786,71,3,1,True,False,True,False,False
+Torrent Pharmaceuticals,Indian,786,71,3,1,True,False,True,False,False
+Alembic Pharmaceuticals,Indian,779,71,3,1,True,False,True,False,False
+Natco Pharma,Indian,792,75,3,1,True,False,True,False,False
+Ajanta Pharma,Indian,214,66,1,1,True,False,False,False,False
+Marksans Pharma,Indian,210,64,1,1,True,False,False,False,False
+Strides Pharma Science,Indian,205,64,1,1,True,False,False,False,False
+Cipla,Indian,504,71,3,1,True,False,True,False,False
+Jubilant Pharmova,Indian,788,71,3,1,True,False,True,False,False
+Lupin,Indian,788,71,3,1,True,False,True,False,False
+Zydus Lifesciences,Indian,786,71,3,1,True,False,True,False,False
+Zenotech Laboratories,Indian,330,156,0,0,False,False,False,False,False
+Amgen,Non-Indian,553,52,3,2,True,False,True,False,True
+Biogen,Non-Indian,553,57,4,2,True,True,True,False,True
+Teva Pharmaceutical,Non-Indian,835,52,3,3,True,False,True,True,True
+Novartis,Non-Indian,682,52,2,1,True,False,True,False,False
+Laboratorios Rovi,Non-Indian,14881,53,0,1,False,False,False,False,True
+Fresenius SE,Non-Indian,905,52,2,1,True,False,True,False,False
+Merck & Co.,Non-Indian,549,48,3,2,True,False,True,False,True
+Baxter International,Non-Indian,329,41,1,1,True,False,False,False,False
+Viatris,Non-Indian,327,41,1,1,True,False,False,False,False
+Jiangsu Hengrui Pharma,Non-Indian,329,41,1,1,True,False,False,False,False
+Shanghai Fosun Pharma,Non-Indian,17,0,3,7,True,True,True,True,True
+Zhejiang Hisun Pharma,Non-Indian,17,0,3,7,True,True,True,True,True
+Pfizer,Non-Indian,553,52,3,2,True,False,True,False,True
+Sanofi,Non-Indian,833,48,3,1,True,False,True,False,False
+Formycon,Non-Indian,1321,319,1,2,True,False,False,True,False

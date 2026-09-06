@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+9. Credit rating of financial assets
+The credit quality of financial assets which have not yet matured and which have suffered no impairment loss can be
+assessed based on the credit rating assigned by organisations external to the Group or, in the case of unrated customers,
+by separating those corresponding to Social Security authorities and government entities which, due to their nature, are
+not subject to impairment:
+Cash and cash equivalents Rating 2021 2020
+A+ 53,221 705
+A 21,035 23,720
+A- 165 24,853
+BBB+ 5,014 202
+BBB 19,565 1,698
+BBB- — 1,260
+Baa2 — 682
+Sin rating 35 42
+Total cash (Note 14) 99,035 53,162
+Financial receivables Rating 2021 2020
+A 65 65
+Total financial receivables (Note 13) 65 65
+Equity securities Rating 2021 2020
+A- 13 12
+No rating 59 59
+Total equity securities (Note 11) 72 71
+Trade receivables Rating 2021 2020
+AA (27) 138
+A1 1,357 554
+Public centres and institutions (Note 13) 9,026 9,394
+Other (wholesalers, pharmacies, hospitals) 119,502 53,244
+Total trade receivables (Note 13) 129,858 63,330
+Other deposits Rating 2021 2020
+A 1,327 1,327
+No rating 100 72
+Total other deposits (Note 13) 1,427 1,399
+10. Interests in joint ventures
+Movement on interests in joint ventures in the period was as follows:
+2021 2020
+Balance at beginning of the year 1,812 1,843
+Share in profits 182 (31)
+Balance at end of the year 1,994 1,812
+33

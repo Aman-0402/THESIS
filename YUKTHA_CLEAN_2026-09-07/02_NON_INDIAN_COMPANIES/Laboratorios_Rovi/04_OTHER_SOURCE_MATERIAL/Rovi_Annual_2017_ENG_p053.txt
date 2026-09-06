@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+b) Debt with government entities
+Since 2001, the Company has been receiving reimbursable grants from different Ministries to finance a number of R&D
+projects. The amounts recorded as non-current financial debt for this item at 31 December, 2017 amounted to 8,746
+thousand euros (9,170 thousand euros at 31 December, 2016). The transactions do not accrue interest and have been
+recognized at their initial fair values. The difference between the initial fair value and the face value accrues at market
+interest rates (Euribor and the interest rate on Spanish Treasury debt plus a spread in accordance with the Company’s
+risk). This means that this debt accrues interest at effective interest rates ranging from 2.9% to 4.9%.
+b.1) Advances received in 2017:
+In 2017, the Company received various reimbursable advances from different entities, details of which are shown below:
+Thousands of euros Years
+Face Initial fair Repayment Grace
+Entity Project value value period period
+Technological Corporation of Andalusia (1) 229 188 10 4
+Technological Corporation of Andalusia (1) 77 64 10 4
+Technological Corporation of Andalusia (1) 28 23 10 4
+Industrial Technological Development Centre (1) 140 118 7 4
+Industrial Technological Development Centre (1) 1,575 1,314 8 4
+Technological Corporation of Andalusia (1) 84 69 10 4
+Industrial Technological Development Centre (1) 160 133 7 4
+Torres Quevedo Programme (2) 57 50 3 3
+2,350 1,959
+(1) Funds the project to develop drugs with ISM technology.
+(2) Funds the recruitment of qualified personnel for R&D&I activities.
+b.2) Advances received in 2016:
+In 2016, the Company received various reimbursable advance from different entities, details of which are shown below:
+Thousands of euros Years
+Face Initial fair Repayment Grace
+Entity Project value value period period
+Technological Corporation of Andalusia (1) 105 67 10 4
+Industrial Technological Development Centre (1) 160 134 8 4
+Technological Corporation of Andalusia (1) 174 144 10 4
+Technological Corporation of Andalusia (1) 30 25 10 4
+Technological Corporation of Andalusia (2) 152 122 10 4
+Technological Corporation of Andalusia (2) 82 66 10 4
+Technological Corporation of Andalusia (2) 94 79 10 4
+797 637
+(1) Funds the project to develop drugs with ISM technology.
+(2) Funds the project to obtain new anticoagulants based on heparin derivatives.
+44

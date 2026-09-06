@@ -1,0 +1,44 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+c. Parámetros y metas
+◦ Requisito de divulgación S4-5: Metas relacionadas con la gestión de incidencias
+negativas de importancia relativa, el impulso de incidencias positivas y la gestión
+de riesgos y oportunidades de importancia relativa
+El presente requisito de divulgación tiene como objetivo informar sobre las metas fijadas por ROVI para abordar los
+impactos, riesgos y oportunidades asociadas a los consumidores y usuarios finales.
+Desde el área de Calidad, se analizan los resultados de los objetivos una vez ha finalizado el ejercicio anterior (2024) y
+durante el primer trimestre del 2025 se trabaja en el establecimiento de metas relativas a la calidad de sus productos, que
+sean mesurables orientadas a resultados y sujetas a plazos, con el objetivo de abordar los IROs materiales relacionados
+con sus consumidores y usuarios finales.
+En relación con la farmacovigilancia, el Grupo cuenta con métricas e indicadores internos del área orientados a medir el
+cumplimiento de los plazos de notificación de casos y otra información de seguridad a Autoridades Sanitarias, afiliadas y
+socios, así como el cumplimiento de otras actividades. Adicionalmente, desde el departamento se lleva a cabo un
+seguimiento de la eficacia de sus procesos mediante auditorías periódicas, confirmando que el balance riesgo-beneficio de
+los productos del Grupo se mantiene favorable para los pacientes, así como para mantener la autorización de
+comercialización pertinente.
+El objetivo final de la farmacovigilancia no es solo proteger a los usuarios de posibles reacciones adversas, sino también
+garantizar un uso seguro de los medicamentos en situaciones especiales, como durante el embarazo, en niños, en casos
+de uso indebido o cuando se consume un medicamento fuera de su fecha de validez.
+En lo que respecta al marketing ético, ROVI se ha marcado el objetivo de llevar a cabo supervisiones desde el
+departamento de Cumplimiento corporativo en las filiales de Portugal e Italia. Estas revisiones consisten en una supervisión
+de los proyectos de promoción y comercialización de sus productos para asegurar que se realizan en línea con la Política
+de Marketing Ético del Grupo y el resto de los códigos aplicables. Estas se llevan a cabo de manera adicional a las
+realizadas por los departamentos de Cumplimiento de los países.
+Por último, en términos de I+D+i no se divulgarán objetivos concretos orientados a resultados ni sus plazos debido a la
+naturaleza sensible de dicha información. No obstante, se seguirá avanzando en los proyectos en curso relacionados con la
+plataforma de tecnología ISM.
+d. Información específica de la entidad: Digitalización e Inteligencia Artificial
+El objetivo del presente capítulo es proporcionar información detallada sobre cómo ROVI tiene en consideración la
+digitalización y el uso de la Inteligencia Artificial (IA) en el desarrollo de sus actividades principales: la I+D y la fabricación y
+comercialización de productos farmacéuticos y sanitarios.
+◦ Gobernanza
+El presente apartado tiene como objetivo informar sobre cómo el Grupo integra el buen gobierno en sus prácticas de
+digitalización e Inteligencia Artificial.
+En ROVI, la digitalización y la Inteligencia Artificial se engloban dentro del marco de buen gobierno corporativo vinculado a
+su objetivo de contribuir a la mejora continua de la asistencia sanitaria y el desarrollo de soluciones que mejoren la salud de
+los pacientes.
+En el ámbito de la digitalización, la Compañía cuenta con normas y protocolos internos para el uso de los recursos TIC
+(Tecnologías de la Información y la Comunicación), respaldados por un equipo de trabajo multidisciplinar compuesto por el
+Responsable de Seguridad IT (Tecnología de la Información, por sus siglas en inglés), la Directora de Propiedad Industrial y
+la Directora de Cumplimiento. Asimismo, el área de Transformación, Eficiencia y Mejora y el área Industrial y Automatización
+146

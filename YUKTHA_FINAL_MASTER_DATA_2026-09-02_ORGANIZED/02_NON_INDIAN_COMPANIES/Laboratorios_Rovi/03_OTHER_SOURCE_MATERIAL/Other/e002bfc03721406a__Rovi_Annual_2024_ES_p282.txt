@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+– Límites de la organización: las emisiones de GEI se consolidan bajo el enfoque de control, contabilizando el 100% de
+las emisiones de las operaciones controladas directamente por ROVI. En este cálculo se incluyen las categorías 1, 2,
+3 y 4:
+– Categoría 1: consumo en instalaciones fijas (gas natural y gasoil), fugas/recargas de gases fluorados y la
+flota de vehículos controlada por ROVI.
+– Categoría 2: consumo eléctrico.
+– Categoría 3: movilidad interna/externa (aguas arriba y abajo) y transporte de residuos.
+– Categoría 4: consumo de materias primas y pernoctaciones.
+– Emisiones y remociones directas de GEI: se cuantifican separadamente las emisiones directas de CO, CH , N O,
+2 4 2
+NF , SF y otros GEI (HFC, PFC) en toneladas de CO eq. Actualmente, no se registran remociones de GEI.
+3 6 2
+– Emisiones indirectas de GEI: la evaluación de emisiones indirectas significativas sigue el anexo H de la norma ISO
+14064-1:2019, considerando cinco criterios cualitativos:
+– Nivel de influencia: posibilidad de medir y reducir las emisiones de esta categoría.
+– Riesgo u oportunidad: impactos en regulaciones, reputación o acceso a mercados.
+– Utilidad para usuarios: facilita decisiones confiables a los usuarios previstos.
+– Ausencia de incertidumbre: datos trazables y certeros para el cálculo.
+– Actividad esencial: asociada a actividades subcontratadas clave para el negocio.
+En cuanto a la metodología de evaluación, se verifica el cumplimiento de los cinco criterios anteriores y si al menos tres son
+favorables, se analiza el último criterio: la magnitud cuantitativa, determinando si la categoría representa un peso significativo
+en la huella de carbono total. En este sentido, se incorporan al inventario aquellas emisiones indirectas cuyo valor estimado
+supera el 5% del total (directas e indirectas) y dicha fase define la lista final de fuentes de emisiones indirectas de GEI. Para
+llevar a cabo el proceso de cálculo, ROVI lleva a cabo una combinación de los datos de actividad de la Compañía con los
+factores de emisión obtenidos de fuentes oficiales y pertinentes cada año. Los resultados de este cálculo se expresan en
+toneladas de CO equivalente (CO eq).
+2 2
+◦ Requisito de divulgación E1-7: Absorciones de GEI y proyectos de mitigación de GEI
+financiados mediante créditos de carbono
+El objetivo del presente requisito de divulgación es permitir una comprensión de las actuaciones que lleva a cabo ROVI para
+mitigar emisiones de GEI de la atmósfera a través de proyectos financiados mediante créditos de carbono.
+Durante el ejercicio 2024, ROVI ha llevado a cabo dos proyectos de mitigación de emisiones de CO , tanto a nivel nacional
+2
+como internacional.
+En el ámbito nacional, ROVI ha participado en el proyecto denominado “Ibereucaliptos, S.A.”, que consiste en un proyecto de
+reforestación y gestión forestal sostenible. El proyecto tiene como objetivo recuperar los terrenos afectados por un incendio que
+ocurrió en 2019 y que afectó a la finca “El Vinagre”, ubicada en los municipios de Paterna del Campo y Berrocal, en la provincia
+de Huelva. Gracias a este proyecto, ROVI ha obtenido el sello “compenso” asociado al registro de Huella de Carbono del
+Ministerio para la Transición Ecológica y el Reto Demográfico (MITERD). Los créditos de carbono procedentes de dicho
+proyecto de eliminación de tCO , proceden de sumideros biogénicos y han supuesto un coste total de 49.676,55€
+2
+compensando un total de 1.500 tCO
+2.
+En el ámbito internacional, ROVI ha participado en el proyecto hidroeléctrico Zhejiang Tangcun, que es un proyecto de
+ampliación de la planta de 9,13 MW a 32 MW. Este proyecto utiliza el caudal de agua del embalse existente para mejorar la
+eficiencia de producción y aumentar la cantidad de electricidad generada. Los créditos de carbono procedentes de dicho
+proyecto de reducción de tCO están sustentados por la Convención Marco de Naciones Unidas sobre el Cambio Climático y
+2
+han supuesto un coste total de 10.064,25 $ compensando un total de 13.500 tCO
+2.
+84

@@ -1,0 +1,69 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 190
+18. Goodwill and other Impairment testing
+intangible assets
+As the part of the business combination involving
+Capitalized development expenditures FYB202 Project GmbH, goodwill of € 44,534 thou-
+sand was recognized for the first time in 2022. The
+As part of a business combination, all rights to the
+entire amount of this goodwill was assigned to the
+FYB202 project, which was still under develop-
+FYB202 cash-generating unit (CGU), which corre-
+ment, were reacquired in 2022 by Formycon and
+sponds to the FYB202 operating segment. The an-
+recognized accordingly. All internal and external
+nual impairment test was conducted upon comple-
+costs for the further development of the project
+tion of the Group’s budget planning for 2026 and
+were recognized as development costs for the pro-
+subsequent years and based upon financial figures
+ject from May 1, 2022, to January 31, 2023, in addi-
+as of December 31, 2025. The book value of the
+tion to the book value due to the advanced stage
+CGU was accordingly established at € 293,141
+of maturity. Starting from February 1, 2023, all sub-
+thousand, including internally generated intangible
+sequent development costs were expensed as in-
+assets (€ 366,200 thousand), current assets
+curred and included in cost of sales due to the part-
+(€12,650 thousand), deferred tax liabilities (€81,873
+nership. With the receipt of the approvals for
+thousand), and current liabilities (€3,835 thousand).
+FYB202 in Europe and the US, the asset is amor-
+The recoverable amount of the CGU for impairment
+tized over its expected useful life. The remaining
+testing was determined using the value in use
+useful life is 15 years. During the reporting period,
+method, and thus at Level 3 in the fair value hierar-
+€5,013 thousand was recognized as capitalized de-
+chy, with fair value determined on the basis of cur-
+velopment costs for the FYB202 auto-injector,
+rent planning for the FYB202 project using dis-
+which will be amortized over an expected useful
+counted cash flows. The Group’s planning is based
+life of 14 years from the date of initial use.
+upon analyses of the market for the original prod-
+uct, internal information regarding potential com-
+In the case of the FYB206 development project, petitors, market analyses of biosimilar products in
+technical proof of similarity (TPoS) was reached in general, and internal empirical values developed
+2022. Upon attainment of TPoS, the Group capital- together with the contractual partner for marketing
+izes all subsequent internal and external develop- the product as well as external advisors. Assump-
+ment costs due to market proximity. As of Decem- tions were made with regard to the overall future
+ber 31, 2025, the amount of capitalized develop- market size, the market share for all biosimilars, the
+ment expenditures for this project was market share specifically for FYB202, units for sale,
+€ 97,635 thousand (previous year: € 50,781 thou- and price reductions, which are then used as a ba-
+sand). sis for calculating expected future product sales.
+The FYB208 project reached the TPoS milestone in As disclosed in the ad hoc announcement dated
+the fiscal year. Upon reaching TPoS, the Group pro- March 4, 2026, although license revenues from
+spectively capitalizes all internal and external de- product sales for FYB202 increased significantly in
+velopment costs. The carrying amount of develop- the fourth quarter, the product is still in the early
+ment in progress as of December 31, 2025, stages of commercialization and has not yet grown
+amounts to € 4,378 thousand (previous year: as strongly as expected. According to marketing
+€ 0 thousand). partners, the marketing of FYB202 is developing
+positively, but it can still be assumed that the phar-
+During the fiscal year, borrowing costs of macy benefit market (PBM) in the US will only open
+€ 477 thousand (previous year: € 300 thousand) up gradually despite positive political signals.
+were allocated to the qualifying development pro-
+jects FYB206 and FYB208 in accordance with IAS The planning for the product was updated based
+23, and capitalized as part of their production costs. on the latest available information and taken into
+The capitalization rate used was 2.32%. account in the annual impairment test. For the
+years 2026 to 2040, annual market sales of the

@@ -1,0 +1,32 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+7. Análisis de instrumentos financieros
+7.1 Análisis por categorías
+El valor en libros de cada una de las categorías de instrumentos financieros establecidas en la norma de registro y
+valoración de “Instrumentos financieros”, excepto las inversiones en el patrimonio de empresas del grupo, multigrupo y
+asociadas (Nota 8), es el siguiente:
+a) Activos financieros
+Miles de euros
+Instrumentos de Créditos y otros activos
+patrimonio financieros
+2022 2021 2022 2021
+Act. Finan. Valor razonable cambios Pat. Neto (Nota 11) 5 64 — —
+Activos financieros a coste amortizado (Nota 10) — — 39.762 27.384
+No corrientes 5 64 39.762 27.384
+Activos financieros a coste amortizado (Nota 10) — — 137.850 186.083
+Efectivo y equivalentes de efectivo (Nota 13) — — 67.213 37.964
+Corrientes — — 205.063 224.047
+TOTAL 5 64 244.825 251.431
+b) Pasivos financieros
+Miles de euros
+Deudas con entidades de
+crédito Pasivos financieros
+2022 2021 2022 2021
+Pasivos financieros a coste amortizado (Nota 18) 37.679 44.107 88.214 8.191
+No corrientes 37.679 44.107 88.214 8.191
+Pasivos financieros a coste amortizado (Nota 18) 6.428 714 112.051 68.045
+Pas. Finan. a VR cambios en la cuenta de PyG (Nota 18) — — 28 17
+Corrientes 6.428 714 112.079 68.062
+TOTAL 44.107 44.821 200.293 76.253
+24

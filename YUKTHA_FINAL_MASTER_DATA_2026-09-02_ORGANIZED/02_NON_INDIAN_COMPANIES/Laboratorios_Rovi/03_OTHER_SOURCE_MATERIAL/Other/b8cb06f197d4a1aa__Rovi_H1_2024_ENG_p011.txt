@@ -1,0 +1,54 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30
+June 2024
+CONDENSED CONSOLIDATED INTERIM STATEMENT OF CASH FLOWS
+(Thousand euros)
+Six-month period ended
+30 June
+Note 2024 2023
+Cash flows from operating activities
+Profit before income tax 56,142 85,832
+Adjustments for non-monetary transactions
+Amortisation and depreciation 7 & 8 13,446 11,865
+Finance income (100) (766)
+Loss allowance 11 & 12 (1,531) 579
+Adjustments for changes in value of derivatives — (24)
+Gain or loss on derecognitions of financial assets and liabilities (67) (48)
+Finance expenses 644 366
+Exchange rate differences (163) (166)
+Grants, distribution licences and other deferred income 19 & 20 (397) (323)
+Share in profit/(loss) of joint ventures and associated companies 9 22 13
+Changes in working capital:
+Trade and other receivables 27,042 54,176
+Inventories (16,064) (40,063)
+Other current assets (prepaid expenses) (1,352) (2,743)
+Trade and other payables (29,005) (21,567)
+Other collections and payments:
+Proceeds from contract manufacturing services 18 (13,926) (23,270)
+Proceeds from distribution licences 18 608 185
+Income tax cash flow (5,550) (11,507)
+Net cash generated (used) in operating activities 29,749 52,539
+Cash flows from investing activities
+Acquisition of intangible assets 8 (645) (173)
+Acquisition of property, plant & equipment (not including rights of use) 7 (18,026) (17,998)
+Proceeds from sale of property, plant and equipment 7 16 10
+Proceeds from sale of financial assets 80 10
+Investment in associated companies and joint ventures 9 (255) —
+Interest received 100 766
+Net cash generated (used) in investing activities (18,730) (17,385)
+Cash flows from financing activities
+Repayments of financial debt (16,154) (6,822)
+Proceeds from financial debt 17 70,158 663
+Interest paid (322) (186)
+Purchase of treasury shares 15 (52,112) (48,739)
+Reissue of treasury shares 15 4,097 48,626
+Capital contributions in subsidiaries 2,570 171
+Net cash generated (used) in financing activities 8,237 (6,287)
+Net (decrease)/increase in cash and cash equivalents 19,256 28,867
+Cash and cash equivalents at beginning of the period 25,322 124,945
+Cash and cash equivalents at end of the period 13 44,578 153,812
+Notes 1 to 28 are an integral part of these condensed consolidated interim financial statements.
+7

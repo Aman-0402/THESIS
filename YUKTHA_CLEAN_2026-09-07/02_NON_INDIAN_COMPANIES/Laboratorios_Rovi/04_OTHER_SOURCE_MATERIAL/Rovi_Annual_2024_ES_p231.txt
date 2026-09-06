@@ -1,0 +1,63 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+c) Fase de evaluación
+La fase de evaluación tiene como objetivo determinar qué asuntos son materiales para el Grupo, estableciendo un mecanismo
+para evaluar los impactos, riesgos y oportunidades. Para realizar la evaluación, se han considerado las escalas de valoración
+que figuran en el mapa de riesgos corporativos de ROVI, con el objetivo de alinear la evaluación de la materialidad con los
+procesos internos de la Compañía, así como con el procedimiento de evaluación establecido por las NEIS.
+ROVI ha mantenido la fórmula recomendada por las NEIS, siendo ésta gravedad multiplicado por probabilidad para la
+materialidad de impacto, y efecto financiero multiplicado por probabilidad, para la materialidad financiera.
+Adicionalmente, ROVI ha tenido en consideración las recomendaciones de la Guía de la OCDE y de los Principios Rectores de
+la ONU en materia de Derechos Humanos, que establecen que cuando la gravedad de un impacto negativo es superior a la
+probabilidad de ocurrencia del mismo, prevalece la gravedad sobre la probabilidad. Tras analizar los resultados, se han
+identificado un total de 11 impactos relacionados con temáticas de Derechos Humanos, de los cuales 5 son negativos. En este
+sentido, ROVI ha utilizado la fórmula de prevalencia de la gravedad, resultando 4 (de los 5 impactos negativos) materiales. No
+obstante, ROVI se compromete a monitorizar los 5 impactos negativos, los cuales están contemplados en la Política de
+Derechos Humanos desarrollada por la Compañía.
+Evaluación de impactos
+Al evaluar los impactos, se tienen en consideración cuatro variables: la magnitud, el alcance, la irremediabilidad, que juntas
+forman el concepto de gravedad, y la probabilidad. Asimismo, la evaluación de los impactos difiere en función de si son
+positivos o negativos y reales o potenciales:
+• Magnitud: hace referencia a la intensidad o el tamaño del impacto sobre el medio ambiente o sobre la sociedad, y se
+mide en una escala de 1 a 5, donde 1 es un impacto leve y 5 un impacto muy importante.
+• Alcance: hace referencia a la extensión o repercusión de los impactos, ya sean negativos o positivos. Para impactos
+ambientales, el alcance puede referirse a la extensión del daño o a un perímetro geográfico específico. Para impactos
+sociales, puede implicar el número de personas afectadas, positiva o negativamente. El alcance se mide en una escala
+de 1 a 5, siendo 1 el alcance mínimo y 5 el alcance global.
+• Irremediabilidad: hace referencia a la facilidad o dificultad para remediar un impacto negativo y en qué medida se puede
+restaurar el medio ambiente o restablecer el estado anterior en el que se encontraban las personas afectadas. Se mide
+de 1 a 5, donde 1 indica una necesidad mínima de remediación y 5 una máxima dificultad de remediación.
+• Probabilidad: hace referencia a la posibilidad de que un impacto se llegue a materializar, y se mide en una escala del 1
+al 5, donde 1 es improbable y 5 es cierto.
+Escalas de valoración de la materialidad de impacto
+Gravedad Probabilidad
+Impactos positivos y negativos Impactos negativos Impactos potenciales
+Irremediabilidad del
+Magnitud del impacto Alcance del impacto Posibilidad de ocurrencia
+impacto
+No se necesitan medidas
+Impacto leve sobre el medioambiente y/o Impacto mínimo sobre el Es improbable que se
+correctivas para restablecer la
+sociedad. medioambiente y/o sociedad. materialice el impacto.
+situación la anterior.
+Impacto moderado sobre el
+Impacto limitado sobre el Fácil de restaurar una situación Es posible que se materialice
+medioambiente y/o
+medioambiente y/o sociedad. equivalente a la anterior. el impacto.
+sociedad.
+No es fácil restaurar una
+Impacto medio sobre el medioambiente y/o Impacto medio sobre el Es probable que se
+situación equivalente a la
+sociedad. medioambiente y/o sociedad. materialice el impacto.
+anterior.
+Dificultad para restaurar una
+Impacto importante sobre el Impacto generalizado sobre el Es muy probable que se
+situación equivalente a la
+medioambiente y/o sociedad. medioambiente y/o sociedad. materialice el impacto.
+anterior.
+Muy difícil o imposible de
+Impacto muy importante sobre el Impacto global sobre el Es cierto que se materializará
+restaurar una situación
+medioambiente y/o sociedad medioambiente y/o sociedad. el impacto.
+equivalente a la anterior.
+33

@@ -1,0 +1,42 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+La existencia de dificultades financieras significativas por parte del deudor, la probabilidad de que el deudor entre en
+concurso de acreedores o reorganización financiera y la falta o mora en los pagos se consideran indicadores de que la
+cuenta a cobrar se ha deteriorado. El importe de la provisión es la diferencia entre el importe en libros del activo y el
+valor actual de los flujos futuros de efectivo estimados, descontados al tipo de interés efectivo. El importe en libros del
+activo se reduce mediante la utilización de la cuenta de provisión y la pérdida se reconoce en la cuenta de resultados
+dentro de “otros gastos de explotación”. Cuando una cuenta a cobrar sea incobrable, se regulariza contra la cuenta de
+provisión para las cuentas a cobrar. La recuperación posterior de importes dados de baja con anterioridad se reconoce
+como una partida al haber de “otros gastos de explotación”.
+En algunas ocasiones el Grupo cede a entidades financieras, mediante el pago en efectivo, su obligación de devolución
+a los organismos oficiales de los anticipos reembolsables recibidos. El importe pagado se reconoce como un activo
+financiero, que devenga intereses al tipo de interés efectivo calculado en la fecha del contrato con la entidad financiera,
+hasta que el correspondiente organismo oficial reconoce que la institución financiera ha asumido la deuda, liberando de
+ella al Grupo. En ese momento el Grupo da de baja el correspondiente pasivo por el anticipo reembolsable y el referido
+activo financiero, reconociendo en resultados la diferencia que surja.
+(b) Activos financieros disponibles para la venta
+Los activos financieros disponibles para la venta son no-derivados que se designan en esta categoría o no se clasifican
+en ninguna de las otras posibles categorías. Se incluyen en activos no corrientes a menos que la Dirección pretenda
+enajenar la inversión en los 12 meses siguientes a la fecha del balance.
+Las adquisiciones y enajenaciones de inversiones se reconocen en la fecha de negociación, es decir, la fecha en que el
+Grupo se compromete a adquirir o vender el activo. Las inversiones se reconocen inicialmente por el valor razonable
+más los costes de la transacción. Los activos financieros disponibles para la venta se contabilizan posteriormente por su
+valor razonable. Las inversiones se dan de baja contable cuando los derechos a recibir flujos de efectivo de las
+inversiones han vencido o se han transferido y el Grupo ha traspasado sustancialmente todos los riesgos y ventajas
+derivados de su titularidad.
+Los dividendos de instrumentos de patrimonio neto disponibles para la venta se reconocen en la cuenta de resultados
+como “ingresos financieros” cuando se establece el derecho del Grupo a recibir el pago.
+Los valores razonables de las inversiones que cotizan se basan en precios de compra corrientes. Si el mercado para un
+activo financiero no es activo (y para los títulos que no cotizan), el Grupo establece el valor razonable a partir del
+análisis de flujos de efectivo descontados.
+El Grupo evalúa en la fecha de cada balance si existe evidencia objetiva de que un activo financiero o un grupo de
+activos financieros puedan haber sufrido pérdidas por deterioro. En el caso de títulos de capital clasificados como
+disponibles para la venta, para determinar si los títulos han sufrido pérdidas por deterioro se considerará si ha tenido
+lugar un descenso significativo o prolongado en el valor razonable de los títulos por debajo de su coste. Si existe
+cualquier evidencia de este tipo para los activos financieros disponibles para venta, la pérdida acumulada determinada
+como la diferencia entre el coste de adquisición y el valor razonable corriente, menos cualquier pérdida por deterioro del
+valor en ese activo financiero previamente reconocido en las pérdidas o ganancias, se elimina del patrimonio neto y se
+reconoce en la cuenta de resultados. Las pérdidas por deterioro del valor reconocidas en la cuenta de resultados por
+instrumentos de patrimonio no se revierten a través de la cuenta de resultados.
+17

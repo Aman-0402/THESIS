@@ -1,0 +1,41 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2024
+(Expresada en miles de euros)
+26. Flujos de efectivo de las actividades de inversión
+Miles de euros
+2024 2023
+Pagos por inversiones: —
+- Empresas del grupo y asociadas (Nota 8) (25.997) (2.890)
+- Inmovilizado intangible (Nota 5) (2.651) (485)
+- Inmovilizado material (Nota 6) (3.386) (5.501)
+(32.034) (8.876)
+Cobros por desinversiones:
+- Empresas del grupo y asociadas 3.772 57.929
+- Otros activos financieros 81 82
+- Inmovilizado material e intangible (Nota 6) 18 97
+- Otros activos (Nota 24) 111 523
+3.982 58.631
+27. Flujos de efectivo de las actividades de financiación
+Miles de euros
+2024 2023
+Cobros y pagos por instrumentos de pasivo financiero:
+a) Emisión
+- Deudas con empresas del grupo y asociadas (Nota 31 h) 34.083 19.800
+- Otras deudas (Nota 18) 4.052 734
+131.035 20.534
+b) Devolución y amortización
+- Deudas con entidades de crédito (43.788) (6.429)
+- Deudas con empresas del grupo y asociadas (1.555) (19.650)
+- Otras deudas (1.535) (1.908)
+- Pago de intereses (1.770) (386)
+(48.648) (28.373)
+Pagos por dividendos y remuneraciones de otros instrumentos de patrimonio:
+- Dividendos (Nota 15 b) y d) (56.451) (69.049)
+- Transacciones con acciones propias (Nota 15 c) (47.787) (81.261)
+(104.238) (150.310)
+Flujos de efectivo generados / (utilizados) de las actividades de financiación (21.851) (158.149)
+28. Contingencias
+Al 31 de diciembre de 2024 la Sociedad tiene avales bancarios por importe de 2.776 miles de euros (2.971 miles de
+euros en 2023). Estos avales fueron concedidos principalmente para la participación en concursos públicos y para la
+recepción de subvenciones y anticipos reembolsables.
+51

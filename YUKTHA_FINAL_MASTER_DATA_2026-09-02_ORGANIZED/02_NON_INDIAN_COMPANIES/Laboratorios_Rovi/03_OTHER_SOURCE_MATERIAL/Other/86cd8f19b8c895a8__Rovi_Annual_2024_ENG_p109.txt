@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Commissions paid for obtaining a credit line are recognised as debt transaction costs, provided that it is likely that part or all of
+the line will be drawn down. In this case, the commissions are deferred until the line is drawn down. To the extent that it is
+unlikely that all or part of the credit line will be drawn down, the commission will be capitalised as an advance payment for
+liquidity services and amortised over the period for which the credit is available.
+b) Financial liabilities at fair value through profit and loss
+Financial liabilities at fair value through profit and loss are recognised initially at fair value. Transaction costs directly attributable
+to purchase or issue are subsequently recognised as an expense when incurred. The initial value of a financial instrument is
+usually the transaction price, unless said price contains items other than the instrument, in which case the Group determines the
+fair value.
+After initial recognition, they are recognised at fair value through profit and loss. Changes in the fair value include the interest
+component and dividends. The fair value is not reduced by any transaction costs that may be incurred if the instrument is sold or
+otherwise disposed of.
+The Group classifies derivatives not designated as hedges as financial liabilities at fair value through profit and loss.
+2.18 Current and deferred taxes
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit and loss, except to the extent that
+it relates to items recognised in other comprehensive income or directly in equity. In this case, the tax is also recognised in other
+comprehensive income or directly in equity, respectively.
+Current income tax expense is calculated on the basis of the laws enacted or substantively enacted at the end of the reporting
+period in the countries in which the Group operates and in which taxable income is generated. Management regularly assesses
+the positions adopted in the tax returns in relation to situations where the applicable tax regulations are subject to interpretation
+and, if necessary, sets up provisions in accordance with the amounts it is expected to pay to the tax authorities.
+Deferred income tax is recognised on temporary differences arising between the tax bases of assets and liabilities and their
+carrying amounts in the consolidated annual accounts. However, deferred income tax is not accounted for if it arises from initial
+recognition of an asset or liability in a transaction other than a business combination that, at the time of the transaction, affects
+neither accounting nor taxable profit or loss.
+Deferred income tax is determined using tax rates (and laws) that have been enacted or substantively enacted at the end of the
+reporting period and are expected to apply when the related deferred income tax asset is realised or the deferred income tax
+liability is settled.
+Deferred income tax assets are recognised only to the extent that it is probable that future taxable profit will be available against
+which the temporary differences can be utilised.
+Deferred tax assets and deferred tax liabilities are offset when, and only when, there is a legally enforceable right to offset
+current tax assets against current tax liabilities and the deferred tax assets and liabilities relate to income taxes levied by the
+same tax authority on the same entity or taxpayer or on different entities or taxpayers which intend to settle current tax assets
+and liabilities for their net amount.
+2.19 Employee benefits
+a) Pension plan obligations
+The Group holds an individual defined-contribution plan exclusively on behalf of certain Group employees. A defined-
+contribution plan is a pension plan under which the Group pays fixed contributions into an external fund and has no legal or
+constructive obligations to pay further contributions if the fund does not hold sufficient assets to pay all employees the benefits
+relating to employee service in the current and prior periods.
+For the defined-contribution plans, the Group pays contributions into pension insurance plans managed publicly or privately on a
+mandatory, contract or voluntary basis. Once the contributions have been paid, the Group holds no further payment obligations.
+The contributions are recognised as employee benefits when accrued. Benefits paid in advance are recognised as an asset to
+the extent that cash is refunded or future payments are reduced.
+17

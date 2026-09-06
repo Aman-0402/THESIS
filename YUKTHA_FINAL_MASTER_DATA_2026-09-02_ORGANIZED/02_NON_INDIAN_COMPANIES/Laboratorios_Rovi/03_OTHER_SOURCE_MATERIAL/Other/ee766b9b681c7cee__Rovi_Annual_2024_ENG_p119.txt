@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+The information for 2023 was as follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 644,407 420,232 — 1,064,639 (235,130) 829,509
+Profit/(loss) 187,406 (21,620) (73) 165,713 4,586 170,299
+Income tax 49,573 (982) (9) 48,582 1,527 50,109
+Profit/(loss) before tax 236,979 (22,602) (82) 214,295 6,113 220,408
+Finance costs (net) (1,536) 1,630 6 100 (379) (279)
+Amortisation/depreciation 15,200 9,149 — 24,349 (18) 24,331
+EBITDA (*) 250,643 (11,823) (76) 238,744 5,716 244,460
+Amortisation/depreciation (15,200) (9,149) — (24,349) 18 (24,331)
+EBIT (**) 235,443 (20,972) (76) 214,395 5,734 220,129
+(*) EBITDA is calculated as profit before tax, interest, depreciation and amortisation.
+(**) EBIT is calculated as profit before tax and interest.
+Inter-segment transactions included on the “Finance costs (net)” line are principally dividends paid between Group companies.
+Each segment’s sales to external customers in 2024 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 600,351 427,528 — 1,027,879
+Inter-segment revenues (264,130) — — (264,130)
+Revenues from external customers 336,221 427,528 — 763,749
+In 2023 sales to external customers were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 644,407 420,232 — 1,064,639
+Inter-segment revenues (235,130) — — (235,130)
+Revenues from external customers 409,277 420,232 — 829,509
+At 31 December 2024, the breakdown of assets and liabilities by segment was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 789,545 483,188 2,162 1,274,895
+Of which:
+Investments in Group companies — 32,050 — 32,050
+Increases in non-current non-financial assets 59,442 6,128 — 65,570
+Total liabilities (193,130) (445,233) (1,954) (640,317)
+The assets of the aggregated segments at 31 December 2024 can be reconciled with the consolidated total assets as follows:
+Intercompany Group Consolidated
+Manufacturing Marketing Other balances investments TOTAL
+Total assets 789,545 483,188 2,162 (410,823) (32,050) 832,022
+27

@@ -1,0 +1,40 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+2.15. Cuentas comerciales a pagar
+Las cuentas comerciales a pagar son obligaciones de pago por bienes o servicios que se han adquirido de los
+proveedores en el curso ordinario de la explotación. Las cuentas a pagar se clasifican como pasivo corriente si los
+pagos tienen vencimiento a un año o menos (o vencen en el ciclo normal de explotación, si este fuera superior). En caso
+contrario, se presentan como pasivos no corrientes.
+Las cuentas comerciales a pagar se reconocen inicialmente a valor razonable y posteriormente se valoran por su coste
+amortizado usando el método de tipo de interés efectivo.
+2.16. Deuda financiera
+Las deudas financieras se reconocen inicialmente por su valor razonable menos los costes de la transacción en los que
+se haya incurrido. Posteriormente, las deudas financieras se valoran por su coste amortizado; cualquier diferencia entre
+los fondos obtenidos (netos de los costes necesarios para su obtención) y el valor de reembolso se reconoce en la
+cuenta de resultados durante la vida de la deuda de acuerdo con el método del tipo de interés efectivo.
+Las deudas financieras se clasifican como pasivos corrientes a menos que el Grupo tenga un derecho incondicional a
+diferir su liquidación durante al menos 12 meses después de la fecha del balance.
+Las comisiones abonadas por la obtención de líneas de crédito se reconocen como costes de transacción de la deuda
+siempre que sea probable que se vaya a disponer a de una parte o de la totalidad de la línea. En este caso, las
+comisiones se difieren hasta que se produce la disposición. En la medida en que no sea probable que se vaya a
+disponer de todo o parte de la línea de crédito, la comisión se capitalizará como un pago anticipado por servicios de
+liquidez y se amortiza en el periodo al que se refiere la disponibilidad del crédito.
+2.17. Impuestos corrientes y diferidos
+El gasto por impuestos del periodo comprende los impuestos corrientes y diferidos. Los impuestos se reconocen en el
+resultado, excepto en la medida en que estos se refieran a partidas reconocidas en el otro resultado global o
+directamente en el patrimonio neto. En este caso, el impuesto también se reconoce en el otro resultado global o
+directamente en patrimonio neto, respectivamente.
+El gasto por impuesto corriente se calcula en base a las leyes aprobadas o a punto de aprobarse a la fecha de balance
+en los países en los que opera el Grupo y en los que generan bases positivas imponibles. La dirección evalúa
+periódicamente las posiciones tomadas en las declaraciones de impuestos respecto a las situaciones en las que la
+regulación fiscal aplicable está sujeta a interpretación, y, en caso necesario, establece provisiones en función de las
+cantidades que se espera pagar a las autoridades fiscales.
+Los impuestos diferidos se reconocen por las diferencias temporarias que surgen entre las bases fiscales de los activos
+y pasivos y sus importes en libros en los estados financieros consolidados. Sin embargo, los impuestos diferidos no se
+contabilizan si surgen del reconocimiento inicial de un activo o pasivo en una transacción, distinta de una combinación
+de negocios, que, en el momento de la transacción, no afecta ni al resultado contable ni a la ganancia o pérdida fiscal.
+El impuesto diferido se determina usando tipos impositivos (y leyes) aprobados o a punto de aprobarse en la fecha del
+balance y que se espera serán de aplicación cuando el correspondiente activo por impuesto diferido se realice o el
+pasivo por impuesto diferido se liquide.
+19

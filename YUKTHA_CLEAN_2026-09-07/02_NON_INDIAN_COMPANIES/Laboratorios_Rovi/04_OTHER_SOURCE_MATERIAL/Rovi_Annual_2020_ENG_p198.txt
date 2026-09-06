@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+7. Intangible assets
+Movement on intangible assets was as follows:
+Trademarks Computer
+Development and licences software Total
+Balances at 01.01.19
+Cost 8,860 30,930 11,484 51,274
+Accumulated amortisation (489) (6,432) (9,703) (16,624)
+Net carrying amount 01.01.19 8,371 24,498 1,781 34,650
+Additions 13 13,999 614 14,626
+Retirements - - (18) (18)
+Eliminations from amortisation - - 18 18
+Impairment - (341) - (341)
+Amortisation charge (455) (2,644) (757) (3,856)
+Balances at 31.12.19
+Cost 8,873 44,929 12,080 65,882
+Accumulated impairment - (341) - (341)
+Accumulated amortisation (944) (9,076) (10,442) (20,462)
+Net carrying amount 31.12.19 7,929 35,512 1,638 45,079
+Additions 13 - 342 355
+Retirements - - (9) (9)
+Eliminations from amortisation - - 2 2
+Impairment - (56) - (56)
+Amortisation charge (455) (2,672) (831) (3,958)
+Balances at 31.12.20
+Cost 8,886 44,929 12,413 66,228
+Accumulated impairment - (397) - (397)
+Accumulated amortisation (1,399) (11,748) (11,271) (24,418)
+Net carrying amount 31.12.20 7,487 32,784 1,142 41,413
+Development
+At 31 December, 2020 and 2019, the assets included under the “Development” caption correspond to assets related to
+the development of a low-molecular-weight heparin, an enoxaparin biosimilar, sales of which commenced in 2017.
+Amortisation of this asset commenced during the first quarter of 2017, with the favourable result of the decentralised
+process used by the Group to apply for marketing authorisation in twenty-six European Union countries. The useful life of
+this asset is 20 years, and no indications of impairment were noted in 2020 or 2019.
+Trademarks and licences
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 31 December, 2020 and 2019. Management reviews these assets for indications of impairment on an
+annual basis, although there has been none to date. The recoverable value, which was higher than the carrying amount
+at the end of both reporting periods, was obtained by projecting the forecast cash flows for the following five years. In the
+cash flow projections as of 31 December, 2020, a discount rate of 6.5% was applied (6.9% at the end of 2019) and, for
+each year, the margins forecast on the basis of the characterstics of the manufacturing of the product in said year were
+used. A change of 10% in the discount rate applied or in the cash flows used as a basis would not have led to any
+impairment of the asset.
+36

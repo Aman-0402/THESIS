@@ -1,0 +1,49 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+2.9 Pérdidas por deterioro de valor de los activos no financieros
+Los activos intangibles que tienen una vida útil indefinida o los activos intangibles que no están en condiciones de poderse
+utilizar no están sujetos a amortización y se someten anualmente a pruebas para pérdidas por deterioro de valor.
+Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre considerando diversas
+circunstancias internas y externas, entre las que se incluyen:
+– Indicios observables de disminución del valor de mercado.
+– Evaluación de aquellos eventos que puedan tener una incidencia adversa, tanto externos (por ejemplo, la inflación o
+cambios en el entorno legal) o internos (por ejemplo, planes de reestructuración u ociosidad del activo).
+– Incrementos en los tipos de interés de mercado del activo.
+– Información sobre la obsolescencia o deterioro físico del activo.
+– Evidencias de informes internos donde se indique que el rendimiento del activo va a ser peor de lo esperado.
+Se reconoce una pérdida por deterioro de valor por el importe por el que el importe en libros del activo excede su importe
+recuperable. El importe recuperable es el mayor entre el valor razonable del activo menos los costes para la venta y el valor en
+uso. A efectos de evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo para el que hay flujos de
+entrada de efectivo en gran medida independientes (unidades generadoras de efectivo). Las pérdidas por deterioro de valor
+previas de activos no financieros (distintos al fondo de comercio) se revisan para su posible reversión en cada fecha en la que
+se presenta la información financiera.
+2.10 Instrumentos financieros
+Los instrumentos financieros se clasifican en el momento de su reconocimiento inicial como un activo financiero o un pasivo
+financiero, de conformidad con el fondo económico del acuerdo contractual y con las definiciones de activo financiero y pasivo
+financiero desarrolladas en la NIC 32 “Instrumentos financieros: Presentación”.
+Los instrumentos financieros se reconocen cuando el Grupo se convierte a una parte obligada del contrato o negocio jurídico
+conforme a las disposiciones del mismo. El Grupo reconoce las operaciones de compra o venta de activos financieros
+instrumentadas mediante contratos convencionales, entendidos por tales aquéllos en los que las obligaciones recíprocas de las
+partes deben consumarse dentro de un marco temporal establecido por la regulación o por las convenciones de mercado y que
+no pueden liquidarse por diferencias, según el tipo de activo en la fecha de contratación o liquidación.
+A efectos de su valoración, el Grupo clasifica los instrumentos financieros en las categorías de activos y pasivos financieros a
+valor razonable con cambios en la cuenta de pérdidas y ganancias. El Grupo designa un activo o un pasivo financiero en el
+momento inicial a valor razonable con cambios en la cuenta de pérdidas y ganancias, si al hacerlo así elimina o reduce
+significativamente alguna incoherencia en la valoración o en el reconocimiento que surgiría de otro modo, si la valoración de los
+activos o pasivos o el reconocimiento de los resultados de los mismos se hicieran sobre bases diferentes.
+El Grupo tiene formalizados contratos de compra o venta a plazo de divisas. Algunos de estos contratos de seguros son
+considerados como instrumentos financieros derivados que cumplen con las condiciones para ser considerados instrumentos
+de cobertura. Las coberturas de la exposición al riesgo de tipo de cambio en el valor razonable de activos y pasivos financieros
+monetarios en moneda extranjera, tanto los cambios en el valor de mercado de los instrumentos financieros derivados
+designados como coberturas, como las variaciones del valor de mercado del elemento cubierto producidas por el riesgo
+cubierto, se registran con cargo o abono en la cuenta de resultados, según corresponda.
+Adquisición de instrumentos de patrimonio propio
+El Grupo clasifica un instrumento financiero asumido como un pasivo financiero en su totalidad o en una de sus partes, siempre
+que de acuerdo con su realidad económica suponga para el Grupo una obligación contractual directa o indirecta de entregar
+efectivo u otro activo financiero o de intercambiar activos o pasivos financieros con terceros en condiciones potencialmente
+desfavorables.
+Los contratos que imponen al Grupo una obligación a adquirir instrumentos de patrimonio propio, en efectivo o mediante la
+entrega de un activo financiero, se reconocen como un pasivo financiero por el valor actual del importe a pagar contra reservas.
+Los costes de transacción se reconocen igualmente como una minoración de reservas.
+14

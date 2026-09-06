@@ -1,0 +1,12 @@
+24 Resultado financiero
+25 Flujos de efectivo de las actividades de explotación
+26 Flujos de efectivo de las actividades de inversión
+27 Flujos de efectivo de las actividades de financiación
+28 Contingencias
+29 Compromisos
+30 Retribución al Consejo de Administración y alta dirección
+31 Otras operaciones con partes vinculadas
+32 Información sobre medio ambiente
+33 Hechos posteriores al cierre
+34 Honorarios de auditores de cuentas
+35 Otra información relevante

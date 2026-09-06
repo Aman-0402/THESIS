@@ -1,0 +1,36 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+The following table analyzes the Company’s financial liabilities grouped by maturity dates based on the periods
+outstanding at reporting date through to the maturity date stipulated in the contract, including the related interest. The
+amounts shown in the table correspond to cash flows stipulated in the contract, which have not been discounted. Given
+that these amounts have not been discounted and that they include future interest accruals, they cannot be matched with
+figures on the statement of financial position for borrowings, derivative instruments and trade and other payables.
+Thousands of euros
+Less than Between Between More than
+At 31 December, 2017 one year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 13,328 17,784 - -
+Debt with government entities 2,809 3,840 3,748 2,626
+Trade and other payables 53,056 - - -
+69,193 21,624 3,748 2,626
+Thousands of euros
+Less than Between Between More than
+At 31 December, 2016 one year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 10,140 11,004 - -
+Debt with government entities 2,798 4,700 5,158 946
+Trade and other payables 96,705 - - -
+109,643 15,704 5,158 946
+4.2 Fair value estimation
+The fair value of financial instruments traded in active markets (such as held-for-sale and available-for-sale securities) is
+based on quoted market prices at the end of the reporting period. The quoted market price used for financial assets is
+the current bid price.
+The fair value of the reimbursable advances without a rate of interest or with a subsidized rate of interest is determined
+by applying the interest rate curve in force at the date of receipt of the advance to the reimbursements to be made,
+adding the spread normally applied in loans to the Company. For financial reporting purposes, fair value is calculated at
+the end of each reporting period by applying the interest rate curve then in force to the outstanding payments and adding
+the corresponding spread. For loans at variable rates of interest, fair value has been regarded as coinciding with the
+amount for which they are recognized.
+24

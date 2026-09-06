@@ -1,0 +1,46 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+The Group holds several insurance policies to cover the risks the property, plant and equipment is exposed to. The
+insurance cover is considered sufficient.
+7. Intangible assets
+Movement on intangible assets was as follows:
+Trademarks Computer
+Development & licences software Total
+Balance at 01.01.17
+Cost 4,251 21,880 10,062 36,193
+Accumulated amortisation (11) (3,297) (8,013) (11,321)
+Net carrying amount 01.01.17 4,240 18,583 2,049 24,872
+Additions 2,429 40 486 2,955
+Transfers (net of amortisation) 2,057 - - 2,057
+Amortisation charge (297) (1,568) (941) (2,806)
+Balance at 31.12.17
+Cost 8,737 21,920 10,548 41,205
+Accumulated amortisation (308) (4,865) (8,954) (14,127)
+Net carrying amount 31.12.17 8,429 17,055 1,594 27,078
+Additions 123 9,010 936 10,069
+Amortisation charge (181) (1,567) (749) (2,497)
+Balance at 31.12.18
+Cost 8,860 30,930 11,484 51,274
+Accumulated amortisation (489) (6,432) (9,703) (16,624)
+Net carrying amount 31.12.18 8,371 24,498 1,781 34,650
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 31 December, 2018 and 2017. Management reviews these assets for indications of impairment on an
+annual basis, although there has been none to date. The recoverable value, which was higher than the carrying amount
+at the end of both reporting periods, has been obtained by projecting the forecast cash flows for the following five years.
+In the cash flow projections, a discount rate of 7.6% has been applied and, for each year, the margins forecast on the
+basis of the characterstics of the manufacturing of the product in said year have been used.
+At 31 December, 2018 and 2017, the assets included under the “Development” caption correspond to assets related to
+the development of a low-molecular-weight heparin, biosimilar to enoxaparin, sales of which commenced in 2017.
+Amortisation of this asset commenced during the first quarter of 2017, with the favourable result of the decentralised
+process used by the Group to apply for marketing authorisation in twenty-six European Union countries. The useful life of
+this asset is 20 years, and no indications of impairment were noted in 2018 or 2017.
+In 2018, additions of 9,000 thousand euros were recognised under the caption “Trademarks and licences” relating mainly
+to the acquisition of the product Falithrom®, a medicine indicated for the prevention and treatment of thromboembolic
+disease, including venous thrombosis and pulmonary embolism, as well as the prevention of ischemic strokes in patients
+with atrial fibrillation.
+At 31 December, 2018 and 2017, there was no impairment of intangible assets.
+38

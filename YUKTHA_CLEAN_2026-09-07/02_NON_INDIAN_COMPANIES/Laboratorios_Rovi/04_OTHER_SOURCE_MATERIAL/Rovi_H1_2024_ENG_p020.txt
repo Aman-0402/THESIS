@@ -1,0 +1,53 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+ROVI and Enervit S.p.A. agreed to create a joint venture between them to carry the project out. To do this, under certain
+agreements, Enervit Nutrition, S.L, instead of being 100%-owned by ROVI, became a joint venture under joint control
+with Enervit, S.p.A. The agreements were signed in March, 2016.
+In July 2018, Enervit S.p.A. exercised a call option it held on 1% of the shares of Enervit Nutrition, S.L. With this sale,
+ROVI’s percentage interest in Enervit Nutrition, S.L. dropped from 51% to 50%.
+On 6 November 2023, the shares the Group held in Enervit Nutrition, S.L. were sold. This meant that it left the
+consolidated group, leading to the derecognition of 2,101 thousand euros in shares in joint ventures and a negative
+impact of 301 thousand euros on the profit for the year ended 31 December 2023.
+b) Cells IA Technologies, S.L.
+On 24 July 2023, the Group acquired 26% of the shares of the company Cells IA Technologies, S.L. through the
+company Gineladius, S.L.U., including it in the consolidated group by the equity method. The interest was acquired by
+contributing capital and share premium to the company for a sum of 600 thousand euros. The corporate purpose of this
+company is the maintenance of information systems and software design and development, as well as all the prior
+phases, in particular related to medical activity.
+c) Terafront Farmatech, S.L.
+On 13 March 2024, the Group incorporated this company jointly with two other entities: Innvierte Economía Sostenible,
+SME, S.A. (a company controlled by the Spanish authorities through the CDTI —Centro para el Desarrollo Tecnólogico
+Industrial—) and Insud Pharma, S.L., whose corporate purpose is the manufacture of specialty pharmaceuticals. The
+Group acquired 25.5% of the shares through Laboratorios Farmacéuticos Rovi, S.A. and the company is consolidated in
+the financial statements of ROVI using the equity method. The investment was made through a capital contribution of
+255 thousand euros, which was settled in full, and a shareholder contribution of 18,836 thousand euros, which has not
+yet been paid and is recognised under the caption “Trade and other payables” (Note 16). The shareholder contribution
+must be settled when certain milestones established in the Strategic Plan are achieved or, at the latest, by 31 December
+2024, in accordance with the Shareholders’ Agreement signed on 13 March 2024.
+Condensed financial information on joint ventures
+The condensed balance sheet as of 30 June 2024 and 31 December 2023 and the condensed income statement at 30
+June 2024 and 2023 for the companies consolidated by the equity method are shown below:
+30 June 2024 31 December 2023
+Cells IA Cells IA
+Technologies, Terafront Technologies, Enervit
+Condensed balance sheet S.L. Farmatech, S.L. S.L. Nutrition, S.L.
+Current
+Cash and cash equivalents 146 1,000 472 —
+Other current assets (excluding cash) 274 73,867 16 —
+Total current assets 420 74,867 488 —
+Financial liabilities (excluding trade payables) (2) — — —
+Other current liabilities (including trade
+payables) (53) — (17) —
+Total current liabilities (55) — (17) —
+Non-current
+Property, plant and equipment 5 — 5 —
+Intangible assets 14 — 19 —
+Deferred tax assets 32 — 7 —
+Total non-current assets 51 — 31 —
+Total non-current liabilties — — — —
+NET ASSETS 416 74,867 502 —
+16

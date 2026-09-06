@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+En este sentido, las actividades elegibles con OpEx asociado para ROVI durante el ejercicio 2024 son las que se detallan a
+continuación:
+Anexo de Mitigación del Cambio Climático Anexo de Prevención de la Contaminación
+Actividad 5.4
+Actividad 7.3.
+Actividad 1.1.
+Actividad 7.4.
+Actividad 1.2.
+Actividad 7.5.
+Actividad 7.6.
+Para el análisis del numerador del OpEx, ROVI ha analizado las siguientes cuentas contables: “622. Reparaciones y
+conservación” y “621. Arrendamientos y cánones”, así como la cuenta contable relativa al mantenimiento del equipo de I+D:
+• Para el análisis de las actividades recogidas bajo el Anexo de Mitigación, ROVI ha trabajado con cada uno de los
+responsables de mantenimiento de sus complejos industriales, con el objetivo de identificar partidas directamente
+relacionadas con las actividades recogidas en el citado Anexo mediante una exhaustiva revisión.
+• Para el análisis de las actividades recogidas bajo el Anexo de Prevención de la Contaminación, en línea con el criterio
+seguido para el análisis del CapEx, ROVI ha podido segregar por centro de coste todas las partidas que deben
+considerarse en el análisis de la Taxonomía, y descartando aquellas que no aplican. Asimismo, cabe mencionar que los
+gastos de explotación relacionados con I+D corresponden en su totalidad a la actividad 1.2. Fabricación de
+medicamento.
+Durante el análisis efectuado, se ha evitado la doble contabilización de partidas, computando con cada actividad taxonómica
+las partidas que se relacionan directamente con el descriptivo de la actividad.
+Por otro lado, el denominador aglutina los gastos totales en I+D, gastos en reparaciones y conservación y gastos de
+arrendamientos operativos, divulgado en sus Cuentas Anuales Consolidadas (epígrafes “Otros gastos de explotación” y
+“Gastos en investigación y desarrollo”).
+e. Resultados
+A continuación, se muestra la proporción de actividades elegibles y no elegibles de acuerdo con la Taxonomía de la Unión
+Europea.
+% Elegibilidad % No elegibilidad
+V n o e lu g m oc e i n o s de CapEx OpEx V n o e lu g m oc e i n o s de CapEx OpEx
+37,535 % 71,987 % 26,667 % 62,465 % 28,013 % 73,333 %
+(286 d .6 e 7 e 3 u ,9 ro 9 s m ) iles (47. d 2 e 0 1 e , u 9 r 4 o s m ) iles (9.933 e ,0 u 5 ro m s) iles de (477 d .0 e 7 e 5 u ,0 ro 1 s m ) iles (18.3 d 6 e 8 e ,0 u 6 ro m s iles (27. d 3 e 1 4 e , u 9 r 5 o s m ) iles
+% Alineamiento % No alineamiento
+CapEx* OpEx* CapEx* OpEx*
+Volumen de Volumen de
+negocios* 1,269 % 0,394 % negocios* 98,731 % 99,606 %
+0 % (832,35 miles de (146,88 miles de 100 % (64.737,64 miles (37.101,11 miles de
+euros) euros) de euros) euros)
+(*) En el ejercicio de 2024 ROVI no reporta cifras de alineamiento de las actividades 1.1. y 1.2. del Anexo de Prevención de la Contaminación, dado que no
+dispone de un análisis de la huella hídrica.
+61

@@ -1,0 +1,53 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Development
+At 31 December 2024 and 2023, the assets included under the “Development” caption correspond to assets related to the
+development of a low-molecular-weight heparin, an enoxaparin biosimilar, sales of which commenced in 2017. Amortisation of
+this asset commenced during the first quarter of 2017, with the favourable result of the decentralised process used by the Group
+to apply for marketing authorisation in twenty-six European Union countries. The useful life of this asset is 20 years, and no
+indications of impairment were noted in either 2024 or 2023.
+Trademarks and licences
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 31 December 2024 and 2023. Management reviews these assets for indications of impairment on an annual
+basis, although there has been none to date. The recoverable value, which was higher than the carrying amount at the end of
+both reporting periods, was obtained by calculating the value in use by projecting the forecast cash flows for the following five
+years. In the cash flow projections as of 31 December 2024, a discount rate of 8% was applied (8.7% at the end of 2023) and,
+for each year, the margins forecast on the basis of the characteristics of the manufacturing of the product in said year were
+used. A change of 10% in the discount rate applied or in the cash flows used as a basis would not have led to any impairment of
+the asset.
+Because the recoverable value of the asset related to acquisition of the distribution rights of the product Hirobriz® (belonging to
+the “Marketing” segment) had dropped below its net carrying amount, the Company had recognised impairment of 494 thousand
+euros at 31 December 2023. In 2024 and 2023, this asset was fully amortised and no additional impairment was recognised in
+profit and loss.
+The Group holds insurance policies to cover to risks to which the intangible assets are exposed. This insurance cover is
+considered sufficient to cover the net carrying amount of the assets included in this category.
+Total research and development expenses incurred in 2024 were 25,752 thousand euros (24,923 thousand euros in 2023) and
+were mainly concentrated on the Glycomics and ISM® platforms, the latter of which is a proprietary drug release system
+belonging to ROVI. Of the total research and development expenses incurred in 2024, 10,983 thousand euros was recognised
+under the “Employee benefit expenses” heading (Note 24) (9,518 thousand euros at 31 December 2023) and 14,769 thousand
+euros under “Other operating expenses” (Note 25) (15,405 thousand euros in 2023).
+8.Financial instruments by category
+Financial instruments by category 2024 2023
+FINANCIAL ASSETS
+Non-current financial assets 65 89
+Financial receivables (Note 13) 65 65
+Equity securities (Note 11) — 24
+Current financial assets 144,270 151,457
+Trade and other receivables (Note 13) 116,857 126,135
+Financial assets at amortised cost (Note 32) 227 —
+Cash and cash equivalents (Note 14) 27,186 25,322
+FINANCIAL LIABILITIES
+Non-current financial liabilities 92,538 53,673
+Contract liabilities (Note 20) 1,819 1,431
+Financial debt (Note 18) 90,719 52,242
+Current financial liabilities 146,201 187,998
+Contract liabilities (Note 20) 4,803 39,044
+Financial debt (Note 18) 23,691 13,185
+Trade and other payables (Note 17) 117,707 135,769
+At 31 December 2024 and 2023, all the financial assets fell within the category of financial assets at amortised cost, except the
+equity securities at 31 December 2023, which were in the category of financial assets at fair value through other comprehensive
+income. In “Trade and other receivables, the balance receivable from the public authorities is excluded from the above table.
+31

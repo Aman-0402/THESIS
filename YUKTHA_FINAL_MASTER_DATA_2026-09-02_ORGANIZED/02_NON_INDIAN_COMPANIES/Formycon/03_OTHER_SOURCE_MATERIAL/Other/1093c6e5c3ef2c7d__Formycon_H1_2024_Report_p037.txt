@@ -1,0 +1,57 @@
+Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 72 Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 73
+Components of income tax expense in €K Calculation of deferred taxes in €K
+Jan. 1 – June 30, 2024 Jan. 1 – June 30, 2023 June 30, 2024 Dec. 31, 2023
+Deferred tax assets Deferred tax liabilities Deferred tax assets Deferred tax liabilities
+Current tax expense / income -35 80 Valuation of participation in 234 431
+affiliates
+Valuation of non-current assets 95 91
+Deferred tax expense Right-of-use (ROU) assets and 108 74
+corresponding leasing obliga-
+from valuation at equity 197 -82 tions
+from differing asset valuations 5 -5 Arising from assets recongi- 119,116 119,116
+zed during the purchase price
+from capitalization of certain leases -34 -26 allocation
+as right-of-use (ROU) assets and
+Capitalization of internally 22,362 15,801
+corresponding liabilities from lease
+generated intangible assets
+obligations
+Other 1,705 1,522 198 76
+from accounting for cash-settled sha- -59 -
+re-based compensation arrangements Tax loss carryforwards – 15,499 15,499
+Formycon AG corporate tax
+from capitalization of certain internally 6,561 7,065 (Körperschaftssteuer)
+generated intangible assets
+Tax loss carryforwards – 9,573 9,573
+Other -3 -356 Formycon AG trade tax (Gewer-
+besteuer)
+from deferred taxes on tax loss carry- -4,236 584
+Tax loss carryforwards – 7,749 5,980
+forwards
+FYB202 Project GmbH
+Offset (netting) of deferred tax -17,864 -17,864 -12,284 -12,284
+assets and liabilities
+Total tax expense 2,395 7,259
+Valuation adjustment to -17,002 -19,470
+deferred tax assets
+Total - 125,230 - 122,800
+11. Income tax expense Further information on deferred tax liabilities as of
+the reporting date may be found in the accompany-
+Components of income tax expense ing table “Calculation of deferred taxes”.
+The components of current and deferred income Reconciliation of expected income tax expense / Reconciliation of expected income tax expense / income in €K
+tax expense during the reporting period (including income to reported total tax expense / income:
+offsetting gains) may be found in the accompany- Jan. 1 – June 30, 2024 Jan. 1 – June 30, 2023
+ing table “Components of income tax expense”.
+Deferred tax assets on tax loss carryforwards are Profit / Loss before tax -7,699 9,063
+written down to the extent that the Group cannot
+Tax rate 26.68% 26.68%
+demonstrate that future taxable profits will be suffi-
+Expected income tax expense / income -2,054 2,418
+cient to utilize the loss carryforward if they exceed
+deferred tax liabilities. Tax-free income and non-taxable expenses -2,414 -710
+from the valuation of financial instruments
+Taxes for prior years 83
+Other 1,459 186
+Non-recognition of deferred tax assets on 5,405 5,282
+tax losses
+Total tax expense 2,395 7,259

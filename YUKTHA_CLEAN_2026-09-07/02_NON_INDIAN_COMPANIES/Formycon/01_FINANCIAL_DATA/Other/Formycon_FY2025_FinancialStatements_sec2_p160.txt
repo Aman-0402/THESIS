@@ -1,0 +1,63 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 160
+The transaction price of the contract is allocated to the awards. The amount recognized as an expense
+the respective individual performance obligations is adjusted to reflect the number of granted shares
+based upon their individual values. Development for which the related service and non-market per-
+services are valued using cost plus an appropriate formance conditions are expected to be met, such
+margin as well as residual value considerations. that the amount ultimately recognized is based on
+The license is granted on the basis of theresidual the number of granted shares that meet the related
+value considerations if the individual values are not service and non-market performance conditions at
+observable. the vesting date. In the case of share-based pay-
+ments with non-vesting conditions, the fair value of
+Specific conditions may be attached to Milestones the share-based payment as of the grant date is
+and Upfront payments. The assessment of the ful- measured to reflect such conditions, but with no
+fillment of such conditions has an impact on the subsequent true-up for differences between ex-
+revenue recognized. Currently the fulfillment of pected and actual outcomes. If a share-based pay-
+such conditions is assessed to be highly probable. ment involves equity-settled compensation, the
+Once product sales are generated, license reve- vesting conditions are market-independent and the
+nues become due and payable to the Group with valuation is updated at each reporting date. Further
+relatively short payment terms. explanation may be found under Note 14.
+In addition, the group generates revenues from the Cash-settled share-based compensation
+sale of products and materials from the develop-
+ment process for further use by the respective li- The fair value of amounts payable to employees
+cence holder and from the sale of finished products under cash-settled stock appreciation rights (SARs)
+to marketing partners. Revenues are recognized at is recognized as an expense with a corresponding
+the time of the transfer of risk to the respective cus- increase in liabilities, beginning with the period dur-
+tomer. ing which the respective employees become un-
+conditionally entitled to payment. The liability is re-
+measured at each reporting date and at the settle-
+All payments are to be made by the customer
+ment (payout) date based upon the fair value of the
+within current payment terms.
+SARs. Any changes in the liability are recognized in
+profit or loss. Further explanation may be found un-
+Employee benefits
+der Note 14.
+Short-term employee benefits
+Defined contribution plans
+Short-term employee benefit obligations are ex-
+Obligations to make contributions to defined contri-
+pensed as the employee performs the related work
+bution plans are expensed as the employee per-
+services. In cases where the Group has an obliga-
+forms the related work services. Prepaid contribu-
+tion to pay a future amount as a result of service
+tions are recognized as an asset to the extent that
+rendered by the employee, whether legally binding
+there is a right to a refund of, or reduction in, future
+or constructive, and where the obligation can be re-
+payments.
+liably estimated, a liability is recognized for the
+amount expected to be paid.
+Government grants
+Equity-settled share-based compensation
+Government grants to fund the future purchase of
+assets are initially recognized as deferred income
+Share-based compensation payments to employ-
+at fair value if there is reasonable assurance that
+ees settled by the physical delivery of shares are
+they will be received and that the Group will meet
+recognized as an expense in the amount of their
+the conditions attached to the grant. Once such
+fair value upon the grant date, with a correspond-
+government grant is actually used to fund the
+ing increase in equity, over the vesting period of

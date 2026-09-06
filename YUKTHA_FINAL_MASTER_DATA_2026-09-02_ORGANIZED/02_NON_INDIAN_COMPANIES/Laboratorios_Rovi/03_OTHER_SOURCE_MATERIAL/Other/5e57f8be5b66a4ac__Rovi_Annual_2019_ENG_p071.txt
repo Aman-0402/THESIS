@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+In 2019, the Company signed loans for 26,327 thousand euros (1,572 thousand euros in 2018) with its subsidiaries. Of
+this amount, 25,806 thousand euros related to the offsetting of trade balances that ROVI held with its subsidiaries (Note
+31.i), on which 55 thousand euros of financial interest had accrued (39 thousand euros in December 2018). The loans
+signed in 2019 mature in 2029 and the interest rate agreed is EURIBOR plus 2.13%. The capital contributions explained
+in point g) of this Note and Note 8 were made through non-monetary contributions and offsetting the balance of loans
+that ROVI held with its subsidiaries at the time of the transaction.
+In 2013, Laboratorios Farmacéuticos Rovi, S.A. granted a loan of 1,050 thousand euros to Alentia Biotech, S.L. (Note 9)
+at an annual interest rate of 2.00%. Interest accrued on this loan is 22 thousand euros per year.
+i) Balances at the reporting date derived from sales and purchases of goods and services
+Thousands of euros
+2019 2018
+Debit Credit Debit Credit
+balance balance balance balance
+Purchases/sales of goods or services
+- Subsidiaries 19,374 20,141 102,885 81,620
+- Entities in which Mr. Juan López-Belmonte holds an interest - 123 33 151
+- Joint ventures - - - 20
+19,374 20,264 102,918 81,791
+Income tax charge
+- Subsidiaries (Nota 23) 15,205 76 8,856 61
+- Joint ventures - 80 - 80
+15,205 156 8,856 141
+Loans granted at fair value
+- Subsidiaries 29,002 333 1,920 -
+- Joint ventures(*) 52 - 46 -
+29,054 333 1,966 -
+Interests
+- Subsidiaries 55 - 36 -
+55 - 36 -
+Dividends
+- Subsidiaries 52,766 - 35,758 -
+52,766 - 35,758 -
+Other items
+- Directors 44 1,005 44 1,537
+- Key management - 250 - 250
+44 1,255 44 1,787
+TOTAL 116,498 22,008 149,578 83,719
+In 2019, debit and credit balances with Group companies were offset against each other, which affected balances
+receivable by the Company for commercial credit and debit balances relating to 2019 and earlier periods.
+(*) This line shows the balances receivable from joint ventures for services provided, as well as those relating to loans
+granted, at fair value.
+62

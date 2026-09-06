@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+26. Finance income/(costs)
+2017 2016
+Interest income 93 426
+Total finance income 93 426
+Interest costs (909) (886)
+Other interest costs (104) (29)
+Total finance costs (1,013) (915)
+Net finance income/(cost) (920) (489)
+27. Income tax
+2017 2016
+Current tax (2,151) (2,868)
+Deferred tax (Note 19) 1,843 1,085
+Adjustment corporate income tax prior years 27 (10)
+(281) (1,793)
+The tax on the Group’s pre-tax profit differs from the notional amount that would have been calculated using the 25% tax
+rate applicable to the profits of the consolidated companies, as follows:
+2017 2016
+Profit before income tax 17,522 27,882
+Tax calculated at domestic tax rate of 25% (4,381) (6,970)
+Share of profit of joint venture (142) 18
+Tax deductible expenses not included in the consolidation 134 134
+Use of negative taxable income 377 407
+Variation of negative taxable income capitalized (Note 19) (2,319) 150
+Capitalization of tax credits 4,002 1,246
+Adjustment corporate income tax prior years 27 (10)
+Non-tax deductible expenses (683) (145)
+Non-taxable income 6 2
+R&D tax credits applied 2,424 3,121
+Other tax credits applied 274 254
+Income tax expense (281) (1,793)
+The non-deductible expenses and non-taxable income captions include principally the permanent differences of the
+companies at individual level, as well as the effect of the adjustment of corporate income tax from previous periods.
+Consolidated current corporate income tax for 2017, after deduction of the amounts paid on account and withholdings
+operated in the period, generated a current tax receivable of 2,228 thousand euros (2,726 thousand euros at 31
+December, 2016, to which the 1,740 thousand euros for the 2015 period that remained outstanding at 31 December,
+2016 must be added).
+52

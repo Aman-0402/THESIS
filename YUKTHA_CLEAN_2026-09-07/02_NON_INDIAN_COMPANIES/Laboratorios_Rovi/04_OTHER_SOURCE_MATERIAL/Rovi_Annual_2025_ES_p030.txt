@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+2.19 Prestaciones a los empleados
+a) Obligaciones por planes de pensiones
+El Grupo tiene contratado un plan de pensiones individual de aportación definida a favor exclusivamente de ciertos empleados
+del Grupo. Un plan de aportaciones definidas es un plan de pensiones bajo el cual el Grupo paga aportaciones fijas a un fondo
+externo y no tiene ninguna obligación, ni legal ni implícita, de realizar aportaciones adicionales si el fondo no posee activos
+suficientes para pagar a todos los empleados las prestaciones relacionadas con los servicios prestados en el ejercicio corriente
+y en ejercicios anteriores.
+Para los planes de aportaciones definidas, el Grupo paga aportaciones a planes de seguros de pensiones gestionados de
+forma pública o privada sobre una base obligatoria, contractual o voluntaria. Una vez que se han pagado las aportaciones, el
+Grupo no tiene obligaciones de pago adicionales. Las aportaciones se reconocen como prestaciones a los empleados cuando
+se devengan. Las prestaciones pagadas por anticipado se reconocen como un activo en la medida en que se disponga de una
+devolución de efectivo o una reducción de los pagos futuros.
+b) Indemnizaciones por cese
+Las indemnizaciones por cese se pagan a los empleados como consecuencia de la decisión del Grupo de rescindir su contrato
+de trabajo antes de la edad normal de jubilación o cuando el empleado acepta renunciar voluntariamente a cambio de esas
+prestaciones. El Grupo reconoce estas prestaciones en la primera de las siguientes fechas: (a) cuando el Grupo ya no puede
+retirar la oferta de dichas indemnizaciones; o (b) cuando la entidad reconozca los costes de una reestructuración en el ámbito
+de la NIC 37 y ello suponga el pago de indemnizaciones por cese. Cuando se hace una oferta para fomentar la renuncia
+voluntaria de los empleados, las indemnizaciones por cese se valoran en función del número de empleados que se espera que
+aceptará la oferta. Las prestaciones que no se van a pagar en los doce meses siguientes a la fecha del balance se descuentan
+a su valor actual.
+c) Obligaciones por bonus
+El Grupo reconoce un pasivo y un gasto por bonus basado en la estimación del cumplimiento de ciertos objetivos
+empresariales establecidos a los empleados.
+2.20 Provisiones
+Las provisiones se definen como aquellos saldos acreedores que cubren obligaciones actuales derivadas de sucesos pasados,
+cuya cancelación es probable que origine una salida de recursos, pero que resultan indeterminados en cuanto a su importe y/o
+momento de cancelación.
+En el balance se recogen todas las provisiones con respecto a las cuales se estima que la probabilidad de que se tenga que
+atender la obligación es mayor que de lo contrario. Si existiera un pasivo contingente, no se registraría contablemente sino que
+se informa del mismo en las notas de la memoria.
+Las provisiones se valoran por el valor actual de los desembolsos que se espera que sean necesarios para liquidar la
+obligación usando un tipo antes de impuestos que refleje las evaluaciones del mercado actual del valor temporal del dinero y
+los riesgos específicos de la obligación. Los ajustes en la provisión con motivo de su actualización se reconocen como un gasto
+financiero conforme se van devengando.
+Las provisiones con vencimiento inferior o igual a un año, con un efecto financiero no significativo no se descuenta.
+Cuando se espera que parte del desembolso necesario para liquidar la provisión sea reembolsado por un tercero, el reembolso
+se reconoce como un activo independiente, siempre que sea prácticamente segura su recepción.
+Las provisiones para restauración medioambiente, costes de reestructuración y litigios se reconocen cuando el Grupo tiene una
+obligación presente, ya sea legal o implícita, como resultado de sucesos pasados, es probable que vaya a ser necesaria una
+salida de recursos para liquidar la obligación y el importe se puede estimar de forma fiable. Las provisiones por reestructuración
+incluyen sanciones por cancelación del arrendamiento y pagos por despido de los empleados. No se reconocen provisiones
+para pérdidas de explotación futuras.
+20

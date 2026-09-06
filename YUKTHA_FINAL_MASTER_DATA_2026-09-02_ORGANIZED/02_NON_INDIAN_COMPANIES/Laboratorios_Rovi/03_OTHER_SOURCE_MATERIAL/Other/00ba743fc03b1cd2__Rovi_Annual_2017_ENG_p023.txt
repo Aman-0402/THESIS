@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+These financial assets are recognized initially at fair value, including transaction costs directly attributable to them,
+and subsequently measured at amortized cost, recognizing the interest accrued in accordance with the effective
+interest rate, defined as the discount rate that equals the carrying amount of the instrument to the totality of its
+estimated cash flows until maturity. Notwithstanding the foregoing, credits for trading operations maturing at more
+than one year are measured, both upon initial recognition and subsequently, at their face value, provided that the
+effect of not discounting the flows is not significant.
+At least at the end of the reporting period, the measurement adjustments required due to impairment will be made
+if there is objective evidence that not all the amounts outstanding will be received.
+The amount of the impairment loss is the difference between the carrying amount of the asset and the present
+value of the estimated future cash flows, discounted at an effective interest rate upon initial recognition.
+Impairment losses and, if applicable, the reversal thereof are recognized in profit and loss.
+b) Held-to-maturity investments: Held-to-maturity financial assets are securities representing debt with fixed or
+determinable payments and fixed maturities that are traded on an active market and that company Management
+has the positive intention and ability to hold to maturity. If the Company were to sell other than an insignificant
+amount of held-to-maturity financial assets, the whole category would be reclassified as available for sale. Held-
+to-maturity financial assets are included in non-current assets, except for those with maturities at less than 12
+months after the reporting date, which are classified as current assets.
+The measurement criteria for these investments are the same as for loans and receivables.
+c) Investments in the equity of group, multi-group and associated companies: These are measured at cost less, if
+applicable, the accumulated amount of the impairment losses. Notwithstanding, when there is an investment prior
+to the classification as a group, multi-group or associated company, the carrying amount before being thus
+classified is deemed to be an investment cost. Previous value adjustments recorded directly in the equity remain
+there until they are derecognized.
+If there is objective evidence that the carrying amount is not recoverable, the applicable value adjustments will be
+made for the difference between the carrying amount and the recoverable amount, defined as the higher of the
+fair value less sale costs and the present value of the cash flows derived from the investment. Unless there is
+other evidence of the recoverable amount, when estimating the impairment of these investments, the equity of the
+investee adjusted by any tacit capital gains that may exist at the measurement date, will be used. The value
+adjustment and, if applicable, the reversal thereof, will be recognized in profit and loss in the period in which it
+takes place.
+d) Available-for-sale financial assets: This category includes securities representing debt and equity instruments not
+classified in any of the preceding categories. They are included in non-current assets unless Management intends
+to dispose of the investment within the 12 months after the end of the reporting period.
+They are measured at fair value, recognizing any changes that take place directly in the equity until the asset is
+disposed of or impaired, when the losses and gains accumulated in the equity are taken to profit and loss,
+provided it is possible to determine the aforementioned fair value. Otherwise, they are recognized at cost less
+impairment losses.
+14

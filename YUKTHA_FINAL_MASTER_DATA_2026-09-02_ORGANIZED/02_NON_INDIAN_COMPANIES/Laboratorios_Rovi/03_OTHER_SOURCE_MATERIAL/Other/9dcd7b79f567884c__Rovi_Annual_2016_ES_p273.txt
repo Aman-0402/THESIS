@@ -1,0 +1,62 @@
+Dirección General de Mercados
+Edison, 4, 28006 Madrid, España
+(+34) 915 851 500, www.cnmv.es
+LABORATORIOS FARMACEUTICOS ROVI, S.A.
+2º SEMESTRE 2016
+IV. INFORMACIÓN FINANCIERA SELECCIONADA
+10. B. ESTADO DE FLUJOS DE EFECTIVO CONSOLIDADO (MÉTODO DIRECTO) (NIIF ADOPTADAS)
+Uds.: Miles de euros
+PERIODO PERIODO
+ACTUAL ANTERIOR
+31/12/2016 31/12/2015
+A) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE EXPLOTACIÓN 8435
+(+) Cobros de explotación 8410
+(-) Pagos a proveedores y al personal por gastos de explotación 8411
+(-) Pagos de intereses 8421
+(-) Pagos de dividendos y remuneraciones de otros instrumentos de patrimonio 8422
+(+) Cobros de dividendos 8430
+(+) Cobros de intereses 8423
+(+/-) Cobros/(Pagos) por impuesto sobre beneficios 8424
+(+/-) Otros cobros/(pagos) de actividades de explotación 8425
+B) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN (1 + 2 + 3) 8460
+1. Pagos por inversiones: 8440
+(-) Empresas del grupo, asociadas y unidades de negocio 8441
+(-) Inmovilizado material, intangible e inversiones inmobiliarias 8442
+(-) Otros activos financieros 8443
+(-) Otros activos 8444
+2. Cobros por desinversiones: 8450
+(+) Empresas del grupo, asociadas y unidades de negocio 8451
+(+) Inmovilizado material, intangible e inversiones inmobiliarias 8452
+(+) Otros activos financieros 8453
+(+) Otros activos 8454
+3. Otros flujos de efectivo de actividades de inversión 8455
+(+) Cobros de dividendos 8456
+(+) Cobros de intereses 8457
+(+/-) Otros flujos de actividades de inversión 8458
+C) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN (1 + 2 + 3 + 4) 8490
+1. Cobros y (pagos) por instrumentos de patrimonio: 8470
+(+) Emisión 8471
+(-) Amortización 8472
+(-) Adquisición 8473
+(+) Enajenación 8474
+2. Cobros y (pagos) por instrumentos de pasivo financiero: 8480
+(+) Emisión 8481
+(-) Devolución y amortización 8482
+3. Pagos por dividendos y remuneraciones de otros instrumentos de patrimonio 8485
+4. Otros flujos de efectivo de actividades de financiación 8486
+(-) Pagos de intereses 8487
+(+/-) Otros cobros/(pagos) de actividades de financiación 8488
+D) EFECTO DE LAS VARIACIONES DE LOS TIPOS DE CAMBIO 8492
+E) AUMENTO/(DISMINUCIÓN) NETO DE EFECTIVO Y EQUIVALENTES (A + B + C + D) 8495
+F) EFECTIVO Y EQUIVALENTES AL INICIO DEL PERIODO 8499
+G) EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO (E + F) 8500
+PERIODO PERIODO
+COMPONENTES DEL EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO ACTUAL ANTERIOR
+31/12/2016 31/12/2015
+(+) Caja y bancos 8550
+(+) Otros activos financieros 8552
+(-) Menos: Descubiertos bancarios reintegrables a la vista 8553
+TOTAL EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO 8600
+Este modelo de estado de flujos de efectivo consolidado (método directo) permite las alternativas declasificación de los intereses y de los dividendos, tanto recibidos como pagados, que contemplan las
+NIIF adoptadas. Cada una de las partidas anteriores debe ser clasificada de forma única y coherente, en cada ejercicio, como perteneciente a las actividades de explotación, inversión o financiación.
+G-16

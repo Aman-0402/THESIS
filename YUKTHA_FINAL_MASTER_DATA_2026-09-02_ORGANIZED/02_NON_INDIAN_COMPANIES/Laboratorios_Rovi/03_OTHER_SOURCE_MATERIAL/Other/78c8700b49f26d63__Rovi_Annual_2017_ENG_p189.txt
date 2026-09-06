@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+19. Deferred taxes
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets
+against current tax liabilities and when the deferred income taxes assets and liabilities relate to income taxes levied by
+the same taxation authority. A breakdown of the estimated periods for offsetting is as follows:
+2017 2016
+Deferred tax assets:
+– Deferred tax assets to be recovered at more than 12 months 5,816 5,636
+– Deferred tax assets to be recovered within 12 months 6,077 4,616
+11,893 10,252
+Deferred tax liabilities:
+– Deferred tax liabilities to be recovered at more than 12 months 1,206 1,230
+– Deferred tax liabilities to be recovered within 12 months 232 410
+1,438 1,640
+Net movement on the deferred tax account was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January, 2016 8,871 (1,344) 7,527
+(Charged) / credited to the income statement 1,381 (296) 1,085
+At 31 December, 2016 10,252 (1,640) 8,612
+(Charged) / credited to the income statement (Note 27) 1,641 202 1,843
+At 31 December, 2017 11,893 (1,438) 10,455
+Movement on deferred tax assets was as follows:
+Tax credits 30%
+Negative not yet amortiza.
+tax bases applied 13 & 14 Provisions Other Total
+At 1 January, 2016 4,566 2,788 1,368 149 - 8,871
+(Charged)/credited to the income st. 150 1,246 (117) 35 67 1,381
+At 31 December, 2016 4,716 4,034 1,251 184 67 10,252
+(Charged)/credited to the income st. (2,319) 4,002 (117) 8 67 1,641
+At 31 December, 2017 2,397 8,036 1,134 192 134 11,893
+The amounts for deferred tax assets shown in the “30% amortization/depreciation 2013 & 2014” column relate to the tax
+effect of the 30% of the amortization/depreciation charge for the period, which was not tax deductible in the years 2013
+and 2014, as established in Royal Decree-Law 16/2012 of 27 December, whereby various measures intended to
+consolidate public finance and stimulate economic activity were adopted.
+47

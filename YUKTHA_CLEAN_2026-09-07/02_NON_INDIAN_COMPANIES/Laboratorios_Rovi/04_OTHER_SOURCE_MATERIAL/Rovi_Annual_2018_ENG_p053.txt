@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+a.4) Loan signed in July 2014 with Banco Santander for 6,000 thousand euros, which came from European Investment
+Bank (EIB) funds. In 2015, a novation of this loan was signed and the spread applied to Euribor at 12 months, to which
+the loan is indexed, dropped from 1.50% to 0.70%. The repayment period is 48 months.
+a.5) In 2015, a loan of 4,000 thousand euros was signed with Banco Santander with a fixed annual interest rate of 0.90%
+and a repayment period of 4 years.
+a.6) In December 2017, the European Investment Bank (EIB) granted ROVI a credit line to support its investments in
+Research, Development and Innovation (R&D&i). The credit line was for 45,000 thousand euros. ROVI may draw down
+this amount over a term of 24 months as from signature of the agreement and the credit matures in 2029. The credit line
+provides for a three-year grace period and financial conditions (i.e. applicable interest rates, repayment period, etc.) that
+are favourable to ROVI. In July 2018, ROVI used 5,000 thousand euros of this credit line at an interest rate of Euribor
+plus 0.844. In the first half of 2018, compliance as of 31 December, 2017 with the financial ratios fixed in this financing
+agreement was certified. At 31 December, 2018, ROVI met the ratios fixed, although this will not be certified until after
+these annual accounts have been approved.
+b) Debt with government entities
+Since 2001, the Company has been receiving reimbursable grants from different Ministries to finance a number of R&D
+projects. The amounts recorded as non-current financial debt for this item at 31 December, 2018 amounted to 9,018
+thousand euros (8,745 thousand euros at 31 December, 2017). The transactions do not accrue interest and have been
+recognised at their initial fair values. The difference between the initial fair value and the face value accrues at market
+interest rates (Euribor and the interest rate on Spanish Treasury debt plus a spread in accordance with the Company’s
+risk). This means that this debt accrues interest at effective interest rates ranging from 2.9% to 4.9%.
+b.1) Advances received in 2018:
+In 2018, the Company received various reimbursable advances from different entities, details of which are shown below:
+Thousands of euros Years
+Initial fair Repayment Grace
+Entity Project Face value value period period
+Technological Corporation of Andalusia (1) 4 3 10 4
+Industrial Technological Development Centre (1) 160 136 7 3
+Industrial Technological Development Centre (1) 956 799 7 3
+Industrial Technological Development Centre (1) 734 611 7 3
+Industrial Technological Development Centre (1) 79 66 7 3
+Technological Corporation of Andalusia (1) 28 22 10 4
+Industrial Technological Development Centre (1) 64 53 7 3
+Technological Corporation of Andalusia (1) 2 1 10 4
+Technological Corporation of Andalusia (1) 16 12 10 4
+2,043 1,703
+(1) Funds the project to develop drugs with ISM technology.
+(2) Funds the recruitment of qualified personnel for R&D&I activities.
+44

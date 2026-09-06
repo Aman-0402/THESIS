@@ -1,0 +1,42 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+27. Ingresos y gastos financieros
+2023 2022
+Ingresos por intereses 7 6
+Otros ingresos financieros 1.497 1.764
+Total ingresos financieros 1.504 1.770
+Gastos por intereses (667) (606)
+Otros gastos financieros (281) (243)
+Total gastos financieros (948) (849)
+Resultado por enajenaciones de instrumentos financieros (219) 1.831
+Variación en el valor razonable de instrumentos financieros 28 (11)
+Deterioro y resultado en valoración de instrumentos financieros (191) 1.820
+Diferencias de cambio (86) (821)
+(86) (821)
+Resultado financiero neto 279 1.920
+El epígrafe “otros gastos financieros” recoge los gastos financieros derivados de la aplicación de la NIIF 16
+“Arrendamientos” (Nota 2.2.a).
+A 31 de diciembre de 2022, el Grupo reconoció un ingreso financiero de 1.764 miles de euros relacionado con la baja de las
+inversiones en instrumentos de patrimonio por importe de 5.870 miles de euros que mantenía en 4 Agrupaciones de Interés
+Económico (AIEs), al cumplir los requisitos para poder imputar 7.364 miles de euros de créditos fiscales provenientes de dichas
+entidades (Ver nota 28).
+A 31 de diciembre de 2023, el Grupo ha reconocido un resultado negativo por la venta de la sociedad Enervit Nutrition,S.L
+participada al 50% por Laboratorios Farmacéuticos Rovi, S.A. por 301 miles de euros (Nota 10) y la venta de las participaciones
+que el Grupo poseía en la entidad BBVA (Nota 11). Estos importes se encuentran recogidos en el epígrafe de “Deterioro y
+resultado en valoración de instrumentos financieros”.
+28. Impuesto sobre las ganancias
+En los ejercicios 2023 y 2022 el Impuesto de Sociedades se presenta de forma conjunta como grupo fiscal para las siguientes
+sociedades del grupo, siendo la sociedad Laboratorios Farmacéuticos Rovi, S.A. cabecera del grupo fiscal 362/07:
+– Rovi Pharma Industrial Services, S.A.U.
+– Pan Química Farmacéutica, S.A.U.
+– Gineladius, S.L.U.
+– Rovi Escúzar, S.L.U.
+La composición del gasto por impuesto sobre las ganancias es la siguiente:
+2023 2022
+Impuesto corriente (50.603) (56.610)
+Impuesto diferido (Nota 19) 64 (1.273)
+Ajuste gasto IS ejercicios anteriores 659 442
+Retenciones soportadas en el extranjero (229) (861)
+(50.109) (58.302)
+57

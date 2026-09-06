@@ -1,0 +1,40 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2025
+(Expresada en miles de euros)
+Las obligaciones aisladas se valoran por el desenlace individual que resulta más probable. Si la obligación implica una
+población importante de partidas homogéneas, ésta se valora ponderando los desenlaces posibles por sus
+probabilidades. Si existe un rango continuo de desenlaces posibles y cada punto del rango tiene la misma probabilidad
+que el resto, la obligación se valora por el importe medio.
+21. Impuestos diferidos
+El detalle de los impuestos diferidos es el siguiente:
+Miles de euros
+2025 2024
+Activos por impuestos diferidos:
+- Diferencias temporarias 1.329 1.245
+1.329 1.245
+Pasivos por impuestos diferidos:
+- Diferencias temporarias (7.621) (2.834)
+(7.621) (2.834)
+Impuestos diferidos netos (6.292) (1.589)
+Los activos y pasivos por impuestos se compensan si en ese momento la Sociedad tiene el derecho exigible de
+compensar los importes reconocidos y tiene la intención de liquidar las cantidades por el neto o de realizar el activo y
+cancelar el pasivo simultáneamente. Los activos y pasivos por impuestos diferidos son los siguientes:
+Miles de euros
+2025 2024
+Activos por impuestos diferidos:
+- Activos por impuestos diferidos a recuperar en más de 12 meses 895 801
+- Activos por impuestos diferidos a recuperar en menos de 12 meses 434 444
+1.329 1.245
+Pasivos por impuestos diferidos:
+- Pasivos por impuestos diferidos a recuperar en más de 12 meses (510) (960)
+- Pasivos por impuestos diferidos a recuperar en menos de 12 meses (7.111) (1.874)
+(7.621) (2.834)
+Impuestos diferidos netos (6.292) (1.589)
+El movimiento en los impuestos diferidos netos ha sido el siguiente:
+Miles de euros
+2025 2024
+Saldo inicial (1.589) (2.876)
+(Cargo) /abono en la cuenta de pérdidas y ganancias 1.420 1.174
+Impuesto cargado directamente a patrimonio neto (6.123) 113
+Saldo final (6.292) (1.589)
+42

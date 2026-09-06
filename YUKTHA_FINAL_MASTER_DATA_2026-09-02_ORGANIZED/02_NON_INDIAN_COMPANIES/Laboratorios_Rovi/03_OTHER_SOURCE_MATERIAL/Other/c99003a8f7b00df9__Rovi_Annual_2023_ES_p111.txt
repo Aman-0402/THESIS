@@ -1,0 +1,48 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+2.21 Reconocimiento de ingresos
+El Grupo reconoce como ingresos ordinarios el importe del precio de la transacción que se corresponden con las
+contraprestaciones a las que el Grupo espera tener derecho a recibir por la transferencia al cliente de bienes, prestación de
+servicios y otros ingresos en el curso ordinario de las actividades del Grupo prometidos a un cliente, y que pueden consistir en
+importes fijos, variables o ambos. Los ingresos ordinarios se presentan netos del impuesto sobre el valor añadido,
+devoluciones, rebajas y descuentos y después de eliminadas las ventas dentro del Grupo.
+El Grupo reconoce los ingresos cuando satisfaga una obligación mediante la transferencia de un bien o servicio al cliente, y
+éste obtenga el control de dicho activo. El Grupo determina, al comienzo del contrato, si satisface las obligaciones a lo largo del
+tiempo o en un momento concreto, dependiendo de las condiciones específicas para cada una de las actividades del Grupo, tal
+y como se describe a continuación.
+Siguiendo lo establecido en la NIIF 15, el Grupo tiene en cuenta el modelo de cinco pasos para determinar el momento en que
+se deben reconocer los ingresos y su importe que consiste en las siguientes fases:
+– Identificación del contrato con el cliente.
+– Identificación de las obligaciones de desempeño contenidas en el contrato.
+– Determinación del precio de la transacción.
+– Asignación del precio entre las diferentes obligaciones de desempeño.
+– Determinación del criterio de reconocimiento del ingreso, cuando se satisfaga una obligación de desempeño.
+En este sentido, para cada obligación de ejecución identificada, el Grupo determina al comienzo del contrato si satisface la
+obligación de ejecución a lo largo del tiempo o la satisface en un momento concreto.
+a) Venta de bienes
+Las “ventas de bienes” del Grupo son las derivadas de las ventas de productos farmacéuticos, agentes de contraste y otros
+productos hospitalarios y otros productos farmacéuticos sin prescripción, donde el control es transferido a los clientes y las
+obligaciones de servicio se cumplen cuando los bienes se ponen a disposición de los clientes compañías farmacéuticas o en el
+momento de la entrega para el resto de clientes. Las facturas generalmente vencen en un periodo máximo de 60 días.
+La NIIF 15 establece que una entidad que concede el derecho a devolver el producto deberá reconocer los ingresos por
+importe igual a la contraprestación a la que se espera tener derecho a cambio de transferir los bienes o servicios prometidos a
+un cliente, así como un pasivo por reembolso y un activo por el derecho a recuperar los productos. ROVI reconoce sus
+ingresos netos de las devoluciones estimadas a la fecha de venta, al tiempo que se reconoce un pasivo por reembolso. El
+Grupo no reconoce un activo por el derecho a recuperar los bienes debido a que, según la experiencia y al tipo de producto
+comercializado, los materiales devueltos no podrán ser reincorporados al inventario del Grupo.
+El importe de los ingresos reconocidos se ajusta en función de las devoluciones previstas, que se estiman teniendo en cuenta
+la tasa de devolución media de los últimos años.
+Los descuentos concedidos a clientes públicos se registran como una deducción de los ingresos en el momento en que se
+registran los ingresos correspondientes. En su caso, se calcula un pasivo sobre la base de la experiencia histórica, lo que
+implica la realización de juicios por parte de la dirección.
+Por tanto, los ingresos de ROVI derivados de la venta de productos están sujetos a una contraprestación variable por
+descuentos, reembolsos y devoluciones. Esta contraprestación variable sólo se registra si es altamente probable que no se
+produzca una reversión significativa en el importe de ingresos acumulados reconocidos cuando la incertidumbre asociada con
+la contraprestación variable se resuelva posteriormente.
+b) Prestación de servicios
+La principal prestación de servicios del Grupo consiste en la prestación de servicios de fabricación y empaquetado a terceros
+(contract manufacturing). En este servicio se considera que se transfiere el control al cliente y se entienden realizadas las
+obligaciones de desempeño cuando los bienes fabricados y empaquetados son puestos a disposición del cliente. Las facturas
+generalmente vencen en un periodo de entre 30 y 120 días.
+20

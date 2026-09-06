@@ -1,0 +1,36 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS
+ROVI, S.A. AND SUBSIDIARIES AT 31 DECEMBER, 2020
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Thousands of euros)
+31 December
+Note 2020 2019
+EQUITY
+Capital and reserves attributable to shareholders of the company
+Share capital 15 3,364 3,364
+Share premium 15 87,636 87,636
+Legal reserve 16 673 673
+Treasury shares 16 (20,185) (10,341)
+Retained earnings and voluntary reserve 16 241,158 201,784
+Profit for the year 16 61,057 39,273
+Other reserves 16 (3) (3)
+Total equity 373,700 322,386
+LIABILITIES
+Non-current liabilities
+Financial debt 18 68,421 72,104
+Deferred income tax liabilities 19 929 1,078
+Contract liabilities 20 5,788 5,793
+Deferred income 21 2,712 3,141
+77,850 82,116
+Current liabilities
+Financial debt 18 6,022 12,701
+Trade and other payables 17 91,364 91,914
+Contract liabilities 20 25,005 1,566
+Deferred income 21 498 528
+122,889 106,709
+Total liabilities 200,739 188,825
+Total equity and liabilities 574,439 511,211
+Notes 1 to 35 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+2

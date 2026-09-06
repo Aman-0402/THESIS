@@ -1,0 +1,50 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+Miles de euros
+2023 2022
+Activos por impuestos diferidos:
+- Activos por impuestos diferidos a recuperar en más de 12 meses 733 510
+- Activos por impuestos diferidos a recuperar en menos de 12 meses 502 729
+1.235 1.239
+Pasivos por impuestos diferidos:
+- Pasivos por impuestos diferidos a recuperar en más de 12 meses (1.368) (633)
+- Pasivos por impuestos diferidos a recuperar en menos de 12 meses (2.743) (3.874)
+(4.111) (4.507)
+Impuestos diferidos netos (2.876) (3.268)
+El movimiento en los impuestos diferidos netos ha sido el siguiente:
+Miles de euros
+2023 2022
+Saldo inicial (3.268) (1.936)
+(Cargo) /abono en la cuenta de pérdidas y ganancias 455 (1.471)
+Impuesto cargado directamente a patrimonio neto (63) 139
+Saldo final (2.876) (3.268)
+El movimiento durante el ejercicio en los activos y pasivos por impuestos diferidos, sin tener en cuenta la compensación
+de saldos, ha sido como sigue:
+Subvenciones,
+Pasivos por impuestos diferidos donaciones y
+legados Libertad de
+recibidos amortización Otros Total
+Al 1 de enero de 2022 (699) (308) (3.271) (4.278)
+Cargo / (abono) a resultados — 58 (426) (368)
+Impuesto cargado a patrimonio neto 139 — — 139
+Al 31 de diciembre de 2022 (560) (250) (3.697) (4.507)
+Cargo / (abono) a resultados — 50 383 433
+Impuesto cargado a patrimonio neto 109 (9) (137) (37)
+Al 31 de diciembre de 2023 (451) (209) (3.451) (4.111)
+En la columna “Otros” se recogen, principalmente, los pasivos por impuestos diferidos relacionados con los márgenes
+intragrupo ajustados en la liquidación del impuesto de sociedades del grupo fiscal, del que la Sociedad es entidad
+dominante.
+Los pasivos por impuestos diferidos abonados al resultado de 2023 por un importe de 50 miles de euros (58 miles de
+euros cargados al resultado de 2022) en la columna de “Libertad de amortización” se corresponden, principalmente, a la
+aplicación del régimen de la libertad de amortización asociada a los activos afectos a la actividad de I+D y por
+mantenimiento de empleo.
+Activos por impuestos diferidos Valoración de
+AFVRPN Provisiones Otros Total
+Al 1 de enero de 2022 (1) 1.402 941 2.342
+Cargo / (abono) a resultados — (847) (256) (1.103)
+Al 31 de diciembre de 2022 (1) 555 685 1.239
+Cargo / (abono) a resultados 1 (145) 166 22
+Impuesto cargado a patrimonio neto — (16) (10) (26)
+Al 31 de diciembre de 2023 — 394 841 1.235
+44

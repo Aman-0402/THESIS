@@ -1,0 +1,51 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+Movement on net deferred taxes was as follows:
+Thousand euros
+2024 2023
+Balance at beginning of period (2,876) (3,268)
+(Charged)/credited to profit and loss 1,174 455
+Tax charged directly in equity 113 (63)
+Balance at end of period (1,589) (2,876)
+Movement on deferred tax assets and liabilities during the period without taking the offsetting of balances into account
+was as follows:
+Grants,
+Deferred tax liabilities donations and Freedom of
+legacies amortisation/
+received depreciation Other Total
+At 1 January 2023 (560) (250) (3,697) (4,507)
+Charged/(credited) to profit and loss — 50 383 433
+Tax charged in equity 109 (9) (137) (37)
+At 31 December 2023 (451) (209) (3,451) (4,111)
+Charged/(credited) to profit and loss — 28 1,136 1,164
+Tax charged in equity 113 — — 113
+At 31 December 2024 (338) (181) (2,315) (2,834)
+The “Other” column shows mainly deferred tax liabilities related to intragroup margins that were adjusted when settling
+the corporate income tax of the tax group headed by the Company.
+Deferred tax liabilities credited to profit and loss in 2024 for 50 thousand euros (58 thousand euros charged to profit and
+loss in 2023) in the "Freedom of amortisation/depreciation" column related principally to the application of the free
+amortisation/depreciation system associated to the assets attached to R&D activity and maintaining jobs.
+Measurement
+of financial
+Deferred tax assets assets at fair
+value through
+equity Provisions Other Total
+At 1 January 2023 (1) 555 685 1,239
+Charged/(credited) to profit and loss 1 (145) 166 22
+Tax charged in equity — (16) (10) (26)
+At 31 December 2023 — 394 841 1,235
+Charged/(credited) to profit and loss — (32) 42 10
+At 31 December 2024 — 362 883 1,245
+The column “Other” shows, among other items, the deferred tax asset relating to the tax effect of 30% of the annual
+amortisation and depreciation expense that was not tax deductible in the periods 2013 and 2014 in accordance with
+Royal Decree-Law 16/2012 of 27 December, whereby various tax measures aimed to consolidate public finance and
+stimulate economic activity were adopted.
+Deferred taxes charged in equity in the year were as follows:
+Thousand euros
+2024 2023
+Grants, donations and legacies received 113 109
+113 109
+42

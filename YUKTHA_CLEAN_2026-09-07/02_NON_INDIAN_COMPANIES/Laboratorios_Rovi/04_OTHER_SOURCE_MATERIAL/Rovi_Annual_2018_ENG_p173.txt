@@ -1,0 +1,35 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+- At 1 January, 2018 non-government customers included mainly wholesalers, toll manufacturing clients,
+other pharmaceutical companies and private centres. Impairment loss allowances over non
+government customers are measured based on the time they are past due:
+Weighted- Gross Impairment
+average loss carrying loss Credit
+rate amount allowance impaired
+Current 0.0% 22,756 - No
+3 months past due 0.0% 11,454 - No
+3-6 months past due 0.0% 1,120 - No
+More than 6 months past due 100.0% 1,837 1,837 Yes
+37,167 1,837
+The Group has determined that the application of IFRS 9´s impairment requirements at 1 January, 2018
+coincides with the loss allowance at 31 December, 2017 under IAS 39, which was 1,837 thousand euros.
+The methodology described above was also used at the interim reporting date. Changes during the period to the
+Group’s exposure to credit risk are described in Note 13.
+The adoption of IFRS 9 has not had significant effect on the Group’s interim financial statements.
+• IFRS 15 “Revenue from Contracts with Customers”. In May 2014, the International Accounting Standards Board
+(IASB) and the Financial Accounting Standards Board (FASB) jointly issued a converged standard on
+recognition of revenue from contracts with customers. IFRS 15 is effective for annual periods beginning on or
+after 1 January, 2018. According to this standard, revenue is recognised when the customer obtains control of
+the good or service sold, i.e. when the customer is able to both direct the use of and obtain the benefits from the
+good or service. This IFRS includes new guidance to determine whether revenue should be recognised over
+time or at a point in time, which requires management judgement. The adoption of this standard has not had a
+significant effect on the consolidated annual accounts for the year ending 31 December, 2018.
+The Group has adopted IFRS 15 using the cumulative effect method, with the effect of initially applying this
+standard recognised at the date of initial application (i.e. 1 January, 2018). Accordingly, the information
+presented for 2017 has not been restated – i.e. it is presented, as previously reported, under IAS 18, IAS 11 and
+related interpretations.
+10

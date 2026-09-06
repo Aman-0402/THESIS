@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+b) Held-to-maturity investments: Held-to-maturity financial assets are securities representing debt with fixed or
+determinable payments and fixed maturities that are traded on an active market and that company Management
+has the positive intention and ability to hold to maturity. If the Company were to sell other than an insignificant
+amount of held-to-maturity financial assets, the whole category would be reclassified as available for sale. Held-
+to-maturity financial assets are included in non-current assets, except for those with maturities at less than 12
+months after the reporting date, which are classified as current assets.
+The measurement criteria for these investments are the same as for loans and receivables.
+c) Investments in the equity of group, multi-group and associated companies: These are measured at cost less, if
+applicable, the accumulated amount of the impairment losses. Notwithstanding, when there is an investment prior
+to the classification as a group, multi-group or associated company, the carrying amount before being thus
+classified is deemed to be an investment cost. Previous value adjustments recorded directly in the equity remain
+there until they are derecognised.
+If there is objective evidence that the carrying amount is not recoverable, the applicable value adjustments will be
+made for the difference between the carrying amount and the recoverable amount, defined as the higher of the
+fair value less sale costs and the present value of the cash flows derived from the investment. Unless there is
+other evidence of the recoverable amount, when estimating the impairment of these investments, the equity of the
+investee adjusted by any tacit capital gains that may exist at the measurement date, will be used. The value
+adjustment and, if applicable, the reversal thereof, will be recognised in profit and loss in the period in which it
+takes place.
+d) Available-for-sale financial assets: This category includes securities representing debt and equity instruments not
+classified in any of the preceding categories. They are included in non-current assets unless Management intends
+to dispose of the investment within the 12 months after the end of the reporting period.
+They are measured at fair value, recognising any changes that take place directly in the equity until the asset is
+disposed of or impaired, when the losses and gains accumulated in the equity are taken to profit and loss,
+provided it is possible to determine the aforementioned fair value. Otherwise, they are recognised at cost less
+impairment losses.
+For available-for-sale financial assets, value adjustments are made if there is objective evidence that they have
+been impaired as the result of a reduction or delay in the estimated future cash flows in the case of debt
+instruments acquired or the non-recoverability of the carrying amount of the asset in the case of investments in
+equity instruments. The value adjustment is the difference between the cost or amortised cost less, if applicable,
+any value adjustment previously recognised in profit and loss, and the fair value at the time the measurement is
+made. In the case of equity instruments measured at cost because it is not possible to determine their fair value,
+the value adjustment is determined in the same way as for investments in the equity of group, multi-group and
+associated companies.
+If there is objective evidence of impairment, the Company recognises the accumulated losses from a decrease in
+the fair value which were previously recognised in the equity in profit and loss. Impairment losses on equity
+instruments recognised in profit and loss are not reversed through profit and loss.
+12

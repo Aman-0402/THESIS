@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Movement on deferred tax liabilities was as follows:
+Freedom of
+amorization Other Total
+At 1 January, 2016 1,336 8 1,344
+(Charged) / credited to the income statement (340) 636 296
+At 31 December, 2016 996 644 1,640
+(Charged) / credited to the income statement (200) (2) (202)
+At 31 December, 2017 796 642 1,438
+The deferred tax liabilities included as “freedom of amortization/depreciation” refer to the application of the free
+amortization/depreciation system associated to assets attached to R&D activity and to maintaining jobs.
+20. Deferred revenues
+2017 2016
+Non-current
+Deferred revenues on distribution licenses 835 899
+Deferred revenues on grants 4,170 4,633
+5,005 5,532
+Current
+Deferred revenues on distribution licenses 79 169
+Deferred revenues on grants 486 577
+565 746
+5,570 6,278
+a) Deferred revenues on distribution licences
+The caption “Deferred revenues on distribution licences” records amounts collected from the rights to market low-
+molecular-weight heparins in a number of countries. The Group defers the revenue over the terms of the contracts, which
+have a duration of between 10 and 15 years. In 2017, new deferred revenues on distribution contracts of 128 thousand
+euros were recognized in relation to new distribution contracts (505 thousand euros in 2016).
+b) Deferred revenues on grants
+The “Deferred revenues on grants” caption shows the amounts received for grants awarded by government entities and
+may be classified into two broad blocks:
+2017 2016
+b.1) Deferred revenues on non-refundable capital grants 4,424 4,887
+b.2) Deferred revenues on refundable capital grants 232 323
+4,656 5,210
+48

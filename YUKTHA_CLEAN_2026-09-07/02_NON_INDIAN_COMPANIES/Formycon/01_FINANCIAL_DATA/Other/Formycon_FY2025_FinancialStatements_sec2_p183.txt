@@ -1,0 +1,40 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 183
+Deferred tax assets and deferred tax liabilities in € thousand
+Dec. 31, 2025 Dec. 31, 2024
+Deferred tax Deferred tax Deferred tax Deferred tax
+assets liabilities assets liabilities
+Valuation of non-current assets - 146 - 134
+Right-of-use (ROU) assets and
+corresponding leasing obliga-
+tions 128 - 123 -
+Arising from capitalized assets in
+course of a business combination - 70,201 - 96,517
+Capitalization of internally
+generated intangible assets - 22,755 - 17,539
+Other 138 593 226 241
+Tax loss carryforwards -
+Formycon AG corporate tax
+(Körperschaftssteuer) 8,667 - 6,062 -
+Tax loss carryforwards - Formycon
+AG
+trade tax (Gewerbesteuer) 7,393 - 4,074 -
+Tax loss carryforwards -
+FYB202 Project GmbH 1,172 - 1,790 -
+Offset (netting) of deferred tax
+assets and liabilities -17,497 -17,497 -12,275 -12,275
+Total 76,198 - 102,156
+Reconciliation of expected income tax expense in € thousand
+Jan. 1 – Dec. 31, 2025 Jan. 1 – Dec. 31, 2024
+Profit before tax -90,495 -144,253
+Tax rate 26.68% 26.68%
+Expected income tax expense -24,144 -38,487
+Effect of tax rate change -9,628 -
+Tax-free income an from the valuation of financial
+instruments -4,628 -5,626
+Non-taxable expense 1,571 12,329
+Income from investments accounted for using the equity method -311 -
+Non-recognition of deferred tax
+assets on tax losses 11,523 13,104
+Taxes for prior years -23 39
+Other -159 59
+Total tax expense -25,799 -18,582

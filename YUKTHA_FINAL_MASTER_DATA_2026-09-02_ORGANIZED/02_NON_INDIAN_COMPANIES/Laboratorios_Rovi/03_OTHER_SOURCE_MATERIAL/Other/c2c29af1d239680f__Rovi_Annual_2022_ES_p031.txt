@@ -1,0 +1,54 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+5. Inmovilizado intangible
+El detalle y movimiento de las partidas incluidas en el Inmovilizado intangible es el siguiente:
+Patentes,
+licencias y Aplicaciones
+Desarrollo marcas informáticas Total
+Saldo al 01.01.21
+Coste 9.094 44.075 7.190 60.359
+Deterioro acumulado — (397) — (397)
+Amortización acumulada (1.670) (14.578) (6.227) (22.475)
+Valor neto contable 01.01.21 7.424 29.100 963 37.487
+Altas — — 319 319
+Deterioro — (95) — (95)
+Dotación a la amortización (455) (2.925) (515) (3.895)
+Saldo al 31.12.21
+Coste 9.094 44.075 7.509 60.678
+Deterioro Acumulado — (492) — (492)
+Amortización acumulada (2.125) (17.503) (6.742) (26.370)
+Valor neto contable 31.12.21 6.969 26.080 767 33.816
+Altas — — 447 447
+Deterioro — (2) — (2)
+Dotación a la amortización (455) (2.950) (485) (3.890)
+Saldo al 31.12.22
+Coste 9.094 44.075 7.956 61.125
+Deterioro Acumulado — (494) — (494)
+Amortización acumulada (2.580) (20.453) (7.227) (30.260)
+Valor neto contable 31.12.22 6.514 23.128 729 30.371
+a) Patentes, licencias y marcas
+Como consecuencia de una reducción del valor recuperable por debajo del valor neto contable del activo relacionado
+con la adquisición de los derechos de distribución del producto Hirobriz®, a 31 de diciembre de 2022 se ha registrado la
+correspondiente pérdida por deterioro. La pérdida, registrada en el ejercicio, que asciende a 2 miles de euros (95 miles
+de euros a 31 de diciembre de 2021), ha sido contabilizada en el epígrafe “Deterioro y resultado por enajenaciones de
+inmovilizado” de la cuenta de resultados. El valor recuperable de este activo se ha obtenido proyectando los flujos de
+efectivo esperados hasta la finalización del contrato, en diciembre de 2023, considerando una tasa de descuento del
+8,1% (7,2% en 2021). Los márgenes que se han considerado en la proyección de los flujos de efectivo son los previstos
+en función del conocimiento histórico que ROVI tiene de los ingresos y costes generados por este activo. Un cambio del
+10% de la tasa de descuento aplicada o en los flujos de efectivo considerados no habría supuesto una variación
+significativa en el valor del deterioro.
+b) Desarrollo
+A 31 de diciembre de 2022 y de 2021 los activos incluidos en el epígrafe “Desarrollo” corresponden a los activos
+relacionados con el desarrollo de una heparina de bajo peso molecular, biosimilar de enoxaparina, cuyas ventas se
+iniciaron en el ejercicio 2017. El inicio de la amortización de este activo ha venido determinado por la finalización en el
+primer trimestre de 2017, con resultado positivo, del procedimiento Descentralizado utilizado por el la Sociedad para
+solicitar la obtención de la autorización de comercialización en veintiséis países de la Unión Europea. La vida útil de este
+inmovilizado es de 20 años, no habiéndose detectado en los ejercicios 2022 y 2021 indicios de deterioro del mismo.
+Los gastos totales de investigación y desarrollo incurridos en el ejercicio 2022 ascienden a 23.869 miles de euros
+(27.445 miles de euros en el 2021) y se centran, principalmente, en las plataformas de Glicómica e ISM®, siendo esta
+última un sistema de liberación de fármacos, propiedad de ROVI, cuyo objetivo consiste en mejorar el cumplimiento del
+tratamiento por parte de los pacientes. Del total de gasto en investigación y desarrollo incurrido en 2022, 9.242 miles de
+euros están registrados en el epígrafe “Gastos de personal” (Nota 22.e) (8.384 miles de euros a 31 de diciembre de
+2021) y 14.627 miles de euros en “Servicios exteriores” (Nota 22.f) (19.061 miles de euros en 2021).
+21

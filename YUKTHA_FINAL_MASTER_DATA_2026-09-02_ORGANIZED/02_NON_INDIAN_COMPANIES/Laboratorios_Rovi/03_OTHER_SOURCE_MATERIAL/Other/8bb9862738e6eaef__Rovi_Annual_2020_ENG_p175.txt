@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+• IAS 16 (Amendment) “Property, Plant and Equipment”. Through this Amendment, further details are given on
+measurement on recognition of the asset and the information to disclose. The IASB proposes that this
+Amendment should come into force on 1 January, 2022. ROVI will take this Amendment into account when
+presenting the financial statements to which it applies, although its impact is not expected to be significant.
+• IAS 37 (Amendment) “Provisions, Contingent Liabilities and Contingent Assets”. This Amendment gives details
+of the costs of fulfilling a contract. The IASB proposes that this Amendment should come into force on 1
+January, 2022. ROVI will take this Amendment into account in the event that any transactions that require the
+Standard to be applied take place.
+• Annual Improvements to IFRSs. Cycle 2018 – 2020. The amendments affect IFRS 1, IFRS 9, IFRS 16 and IAS
+41. The main changes that may apply to the Group refer to:
+o IFRS 1 “First-time Adoption of IFRSs”. The amendment permits a subsidiary that applies paragraph
+D16 (a) of IFRS 1 to measure cumulative translation differences using the amounts reported by its
+parent, based on the parent’s date of transition to IFRSs.
+o IFRS 9 “Financial Instruments”. The amendment clarifies which fees an entity includes when it applies
+the ‘10 per cent’ test in paragraph B3.3.6 of IFRS 9 in assessing whether to derecognise a financial
+liability.
+o IFRS 16, “Leases”. The amendment to Illustrative Example 13 accompanying IFRS 16.
+o IAS 41 “Agriculture”. The amendment removes the requirement in paragraph 22 of IAS 41 for entities to
+exclude taxation cash flows when measuring the fair value of a biological asset using a present value
+technique.
+The IASB proposes that these amendments should come into force on 1 January, 2022. When they do, ROVI
+will take these changes into account.
+2.3 Consolidation principles
+a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an
+entity when it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its
+power over said entity to influence these yields. Subsidiaries are consolidated from the date on which control is
+transferred to the Group and de-consolidated from the date that control ceases.
+The Group uses the purchase method to account for business combinations. The consideration transferred for
+acquisition of a subsidiary corresponds to the fair value of the assets transferred, liabilities incurred with the previous
+owners of the acquiree and equity instruments issued by the Group. The consideration transferred includes the fair value
+of any asset or liability coming from a contingent consideration agreement. Identifiable assets acquired and identifiable
+liabilities and contingencies assumed in a business combination are measured initially at their acquisition-date fair value.
+For each business combination, the Group may elect to recognise any non-controlling interest in the acquired entity at
+fair value or for the non-controlling entity’s proportional part in the amounts recognised for the acquiree’s identifiable net
+assets.
+Acquisition-related costs are recognised as expenses in the period in which they are incurred.
+13

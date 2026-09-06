@@ -1,0 +1,83 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+• E1-3 (punto de dato RD 29c) relacionado con la Taxonomía de la Unión Europea.
+En materia de divulgación de información cuantitativa, el Grupo ha estimado los siguientes requisitos:
+Cadena de valor (aguas arriba y aguas abajo)
+Parámetros /
+Estándar Requisito de Base para la
+Importes Grado de exactitud actual y a futuro Páginas
+Temático divulgación elaboración
+monetarios
+En cuanto a la metodología de cálculo, el grado de
+Emisiones de
+Emisiones de exactitud es limitado aunque las fuentes de datos son
+GEI brutas de
+NEIS E1 GEI brutas de Según las fiables y la huella está doblemente auditada por un
+alcance 1, 2 y
+Cambio alcance 3 directrices de externo. A través de la plataforma Teimas implantada en 70
+3 y emisiones
+climático (gestión de la ISO 14064 2024 se ha producido la mejora del sistema de registro
+de GEI totales
+residuos) de residuos con lo cual se incrementará el grado de
+(E1-6)
+exactitud de los datos.
+Operaciones propias
+ROVI, a través de hipótesis, aproximaciones y juicios de medición utilizados, ha buscado lograr la mayor precisión posible,
+garantizando la coherencia y representatividad de las estimaciones realizadas.
+Estándar Requisito de Parámetros / Importes Información sobre las fuentes de
+Páginas
+Temático divulgación monetarios incertidumbre de medida
+Se toman los valores correspondientes a las
+facturas donde se detallan los litros de
+combustible (diésel) que han sido recargados en
+Consumo y Consumo de combustible los grupos electrógenos y depósitos de las
+NEIS E1
+combinación procedente del petróleo crudo y de bombas contra incendio (PCI) en cada una de
+Cambio 69
+energéticos productos petrolíferos - fuentes las plantas. Para ajustar el dato de diciembre, en
+climático
+(E1-5) fijas caso de no haber recibido la factura
+correspondiente, se calcula el consumo diario a
+partir de las facturas recibidas durante el año y
+se extrapola para completar los 12 meses.
+En 2025 únicamente se ha estimado el dato
+procedente de la filial Italia debido a que no se
+Consumo y Consumo de combustible ha podido obtener el dato de litros de
+NEIS E1
+combinación procedente del petróleo crudo y de combustible consumido por la flota de vehículos
+Cambio 69
+energéticos productos petrolíferos - fuentes en el mes de diciembre por parte de la empresa
+climático
+(E1-5) móviles de renting. El dato de este mes se ha obtenido
+realizando un promedio mensual con los
+consumos disponibles de enero a noviembre.
+Para los casos en los que no se ha recibido la
+Consumo y
+NEIS E1 factura de electricidad correspondiente al mes
+combinación
+Cambio Consumo de electricidad en Kwh de diciembre, se ha calculado el consumo diario 69
+energéticos
+climático a partir de las facturas recibidas durante el año y
+(E1-5)
+se ha extrapolado para completar los 12 meses.
+El único dato estimado en 2025 ha sido el
+correspondiente a la planta de Granada, donde
+Consumo y tras un fallo del contador desde agosto se ha
+NEIS E1
+combinación Autoconsumo eléctrico estimado el autoconsumo eléctrico de este
+Cambio 70
+energéticos (fotovoltaica) Kwh periodo tomando como referencia la producción
+climático
+(E1-5) mensual del año anterior y se ha ajustado
+aplicando una reducción del consumo del 5%
+utilizando enfoque conservador.
+Para los casos en los que no se ha recibido la
+NEIS E3
+factura de agua correspondiente al mes de
+Agua y Consumo de
+Consumo total de agua en m3 diciembre, se ha calculado el consumo diario a 86
+recursos agua (E3-4)
+partir de las facturas recibidas durante el año y
+marinos
+se ha extrapolado para completar los 12 meses.
+3

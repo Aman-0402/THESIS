@@ -1,0 +1,35 @@
+• EBITDA
+EBITDA (Earnings Before Interest, Tax, Depreciation and Amortization) is an indicator
+that measures the group’s operating profit before interest, taxes, impairment,
+depreciation and amortization have been deducted. Management uses it to assess the
+results over time, allowing a comparison with other companies in the sector.
+We calculate EBITDA as profit before: taxes, interest, depreciation and amortization.
+• EBITDA margin or EBITDA as % of operating revenue
+This APM is a percentage indicator that measures the operating profit that ROVI obtains
+from its operating revenue before interest, taxes, impairment, depreciation and
+amortization are deducted.
+We calculate EBITDA margin or EBITDA as % of operating revenue as the percentage
+that the EBITDA represents in the revenue (operating revenue).
+• EBITDA “Pre-R&D”
+This APM is used by ROVI to show EBITDA from the on-going business.
+We calculate EBITDA “Pre-R&D” as EBITDA excluding: R&D expenses and non-recurring
+income and expenses.
+• EBIT
+EBIT (Earnings Before Interest and Taxes) is an indicator that measures the group’s
+operating profit before interest and tax are deducted. Like EBITDA, Management uses it
+to assess the results over time, allowing a comparison with other companies in the
+sector.
+We calculate EBIT as profit before: taxes and interest.
+• EBIT margin or EBIT as % of operating revenue
+This APM is a percentage indicator that measures the operating profit that ROVI obtains
+from its operating revenue before interest and tax are deducted.
+We calculate EBIT margin or EBIT as % of operating revenue as the percentage that the
+EBIT represents in the revenue (operating revenue).
+• EBIT “Pre-R&D”
+This APM is used by ROVI to show EBIT from the on-going business.
+We calculate EBIT “Pre-R&D” as operating profit for the period excluding: Research and
+Development expenses (“R&D”) and non-recurring income and expenses.
+• Net profit
+Net profit is an indicator that measures the group´s profit for the period.
+We calculate Net profit as EBIT plus finance costs-net and income tax.
+38

@@ -1,0 +1,58 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+On 1 August, 2007, the Company became the parent of tax group 362/07. Applying the consolidated tax regime provided
+for in the corporate income tax legislation, ROVI, the parent company of the tax group, included in its statement of financial
+position debt with Group companies resulting from a tax effect (Note 31.i) of 290 thousand euros (184 thousand euros in
+2020), together with credits with group companies resulting from a tax effect of 18,362 thousand euros (22,494 thousand
+euros in 2020).
+At 31 December, 2021, the reconciliation between the net income and expenses for the period and the tax profit was as
+follows:
+Thousand euros
+Income and expenses credited /
+Income statement (charged directly in equity
+Balance income & expenses 65,143 (294)
+Increases Decreases Total Increases Decreases Total
+Corporate income tax (6,249) (98)
+Permanent differences
+- Individual 847 — 847 — — —
+- Due to tax consolidation — (23,715) (23,715) — — —
+Temporary differences:
+- Individual
+- originating in the period 5,916 — 5,916 — — —
+- originating in previous
+periods
+235 (7,747) (7,512) — — —
+- Due to tax consolidation
+- originating in the period — (11,522) (11,522) — — —
+- originating in previous
+periods
+13,228 — 13,228 — — —
+Taxable income 36,136 (392)
+At 31 December, 2020, the reconciliation between the net income and expenses for the period and the tax profit was as
+follows:
+Thousand euros
+Income and expenses credited /
+Income statement (charged directly in equity
+Balance income & expenses 71,137 (344)
+Increases Decreases Total Increases Decreases Total
+Corporate income tax 4.079 (115)
+Permanent differences
+- Individual 1.658 — 1.658 — — —
+- Due to tax consolidation — (31.151) (31.151) — — —
+Temporary differences:
+- Individual
+- originating in the period 1.710 — 1.710 — — —
+- originating in previous
+251 (1.576) (1.325) — — —
+periods
+- Due to tax consolidation
+- originating in the period — (13.899) (13.899) — — —
+- originating in previous
+3.822 — 3.822 — — —
+periods
+Taxable income 36.031 (459)
+50

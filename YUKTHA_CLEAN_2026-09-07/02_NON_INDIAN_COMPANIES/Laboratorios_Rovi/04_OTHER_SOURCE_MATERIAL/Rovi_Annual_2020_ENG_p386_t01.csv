@@ -1,0 +1,26 @@
+,,CURRENT PERIOD (2nd,PREVIOUS PERIOD (2nd,ACCUMULATED PERIOD,ACCUMULATED PREVIOUS
+,,HALF),HALF),31/12/2020,PERIOD
+(+) Net revenue,0205,238.953,201.812,459.424,379.221
+(+/-) Change in inventories of finished products and work in progress,0206,(34.027),1.705,(7.245),13.653
+(+) Work performed by the company on its assets,0207,,,,
+(-) Supplies,0208,(128.623),(141.608),(308.275),(277.098)
+(+) Other operating income,0209,3.060,1.879,5.111,3.450
+(-) Employee benefit expenses,0217,(16.858),(16.407),(32.803),(34.490)
+(-) Other operating expenses,0210,(33.575),(34.644),(61.815),(66.661)
+(-) Amortization and depreciation charges,0211,(4.953),(4.692),(9.710),(9.331)
+(+) Allocation of grants for non-financial assets and other,0212,300,402,629,685
+(+) Excess provisions,0213,,,,
+"(+/-) Impairment and gains/(losses) on disposal of intangible assets and property, plant & equipment",0214,(56),(342),(70),(342)
+(+/-) Other gains/(losses),0215,,,,
+= OPERATING PROFIT/(LOSS),0245,24.221,8.105,45.246,9.087
+(+) Finance income,0250,289,32,31.723,17.066
+(-) Finance expenses,0251,(411),(321),(789),(624)
+(+/-) Change in fair value of financial instruments,0252,(1.330),(251),(796),(146)
+(+/-) Exchange rate differences,0254,58,(47),77,24
+(+/-) Impairment and gains/(losses) on disposal of financial instruments,0255,(511),276,(245),305
+= FINANCE PROFIT/(LOSS),0256,(1.905),(311),29.970,16.625
+= PROFIT/(LOSS) BEFORE TAX,0265,22.316,7.794,75.216,25.712
+(+/-) Corporate income tax,0270,(3.672),(1.637),(4.079),(159)
+= PROFIT/(LOSS) FOR PERIOD ON CONTINUING OPERATIONS,0280,18.644,6.157,71.137,25.553
+"(+/-) Profit/(loss) for perid on discontinued operations, net of tax",0285,,,,
+= PROFIT/(LOSS) FOR PERIOD,0300,18.644,6.157,71.137,25.553

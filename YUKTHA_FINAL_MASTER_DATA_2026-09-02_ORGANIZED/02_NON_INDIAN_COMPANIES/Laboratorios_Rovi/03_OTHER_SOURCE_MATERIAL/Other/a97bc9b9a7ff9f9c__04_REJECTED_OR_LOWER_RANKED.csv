@@ -1,0 +1,25 @@
+Company,Country,Rank_Overall,Rank_Group,Score,Main_Reason_Not_Selected
+Sanofi,France,21,16,16.75,Lower score (16.75) and rank (#16 in Non-Indian); uncertain relevance.
+Formycon,Germany,22,17,16.5,Lower score (16.5) and rank (#17 in Non-Indian); uncertain relevance.
+Akeso,China,29,18,15.5,Lower score (15.5) and rank (#18 in Non-Indian); uncertain relevance.
+Wockhardt,India,34,16,14.25,Lower score (14.25) and rank (#16 in Indian); uncertain relevance.
+Eris Lifesciences,India,35,17,14.0,Lower score (14.0) and rank (#17 in Indian); uncertain relevance.
+Shilpa Medicare,India,36,18,14.0,Lower score (14.0) and rank (#18 in Indian); uncertain relevance.
+Zenotech Laboratories,India,37,19,14.0,Lower score (14.0) and rank (#19 in Indian); uncertain relevance.
+Panacea Biotec,India,38,20,13.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+Innovent Biologics,China,39,19,12.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+Dr Reddy's Laboratories,India,40,21,12.0,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+Hikma Pharmaceuticals,United Kingdom/Jordan,41,20,11.5,Missing quarterly income; Requires supervisor decision; Not in official 37; observation count unknown
+Laboratorios Rovi,Spain,42,21,9.5,Missing quarterly balance; Requires supervisor decision; Not in official 37; observation count unknown
+Gufic Biosciences,India,43,22,1.75,No daily stock; Exclusion reason undocumented; Requires supervisor decision; Not in official 37 and insufficient coverage
+Gedeon Richter,Hungary,44,22,0.5,Missing quarterly income; No daily stock; Requires supervisor decision; Not in official 37 and insufficient coverage
+GC Biopharma,South Korea,45,23,-2.5,Missing quarterly balance; No daily stock; Requires supervisor decision; Not in official 37 and insufficient coverage
+Takeda Pharmaceutical,Japan,46,24,-3.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+AstraZeneca,United Kingdom,47,25,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+Bristol Myers Squibb,United States,48,26,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+Gland Pharma,India,49,23,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+GSK,United Kingdom,50,27,-4.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+Johnson & Johnson,United States,51,28,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+LG Chem,South Korea,52,29,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+Nippon Kayaku,Japan,53,30,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage
+Syngene International,India,54,24,-5.0,Missing statement coverage; Requires supervisor decision; Not in official 37 and insufficient coverage

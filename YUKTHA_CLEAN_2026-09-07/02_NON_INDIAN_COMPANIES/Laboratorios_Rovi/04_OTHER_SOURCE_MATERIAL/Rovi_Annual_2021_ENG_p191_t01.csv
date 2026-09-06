@@ -1,0 +1,43 @@
+,,CURRENT,PREVIOUS
+,,PERIOD,PERIOD
+,,31/12/2021,31/12/2020
+A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4),0435,64.680,13.905
+1.Profit/(loss) before tax,0405,58.894,75.216
+2. Adjustments to profit/(loss),0410,61,12.953
+"(+) Amortization and depreciation of intangible assets and property, plant and equipment",0411,10.303,9.710
+(+/-) Other adjustments to profit/(loss) (net),0412,(10.242),3.243
+3. Changes in working capital,0415,27.901,(69.633)
+4. Other cash flows from operating activities:,0420,(22.176),(4.631)
+(-) Payment of interest,0421,,
+(+) Proceeds from dividends,0422,,
+(+) Proceeds from interest,0423,,
+(+/-) Proceeds from/(payments for) corporate income tax,0430,(22.694),(5.884)
+(+/-) Other proceeds from/(payments for) operating activities,0425,518,1.253
+B) CASH FLOWS FROM INVESTING ACTIVITIES (1+2),0460,(8.254),(10.261)
+1. Payments of investments:,0440,(7.034),(11.074)
+"(-) Group companies, associates and business units",0441,,
+"(-) Property, plant and equipment, intangible assets and investment property",0442,(7.034),(11.074)
+(-) Other financial assets,0443,,
+(-) Non-current assets and liabilities classified as held for sale,0459,,
+(-) Other assets,0444,,
+2. Proceeds from disinvestments,0450,(1.220),813
+"(+) Group companies, associates and business units",0451,(1.775),144
+"(+) Property, plant and equipment, intangible assets and investment property",0452,41,20
+(+) Other financial assets,0453,,
+(+) Non-current assets and liabilities classified as held for sale,0461,,
+(+) Other assets,0454,514,649
+C) CASH FLOWS FROM FINANCING ACTIVITIES (1+2+3),0490,(52.606),(20.817)
+1. Proceeds from and (payments for) equity instruments:,0470,(36.457),233
+(+) Issue,0471,,
+(-) Amortization,0472,,
+(-) Acquisition,0473,(78.785),(37.255)
+(+) Disposal,0474,42.328,37.488
+"(+) Grants, donations and legacies received",0475,,
+2. Proceeds from and (payments for) financial liability instruments:,0480,4.983,(11.350)
+(+) Issue,0481,1.340,1.430
+(-) Repayment and amortization,0482,3.643,(12.780)
+3. Payment of dividends and remuneration of other equity instruments,0485,(21.132),(9.700)
+D) EFFECT OF EXCHANGE RATE CHANGES,0492,,
+E) NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+,D) 0495,3.820,(17.173)
+F) CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD,0499,34.144,51.317
+G) CASH AND CASH EQUIVALENTS AT END OF PERIOD (E+F),0500,37.964,34.144

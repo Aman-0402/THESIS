@@ -1,0 +1,77 @@
+Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 64 Interim Financial Statements of Formycon Group — Formycon AG Half-Year Report 2024 65
+Condensed Notes to the
+Condensed Interim Statement of Cash Flows in €K
+Interim Financial Statements
+Jan. 1 – June 30, 2024 Jan. 1 – June 30, 2023
+Profit (loss) for the period -10.094 1.805
+Adjustments for non-cash items:
+Depreciation and amortization 1.079 904
+Net finance income -10.285 -2.705
+Effect of stock options 802 695
+Net loss (gain) arising from disposals of
+3 16 1. Reporting entity im financial statements, these do not include all of
+non-current assets
+the explanatory notes typically included in full-year
+Other non-cash transactions 256 -
+Formycon AG (hereinafter also the “Company”), financial statements.
+Income tax expense 2.395 7.259
+together with the subsidiary companies within its
+Changes in operating assets and liabilities:
+scope of consolidation (hereinafter “Formycon The accounting policies applied by Formycon Group
+Decrease (increase) in inventories -1.656 -394
+Group”, “Formycon” or the “Group”), is a leading in the preparation of these Financial Statements
+Decrease (increase) in trade and other
+864 -16.656 independent developer of high-quality biosimilar correspond to those applied by Formycon Group in
+receivables
+drugs, meaning follow-on products to biopharma- its consolidated financial statements for fiscal year
+Decrease (increase) in contract assets -12.246 -7.026
+ceuticals already on the market. Formycon has long 2023.
+Decrease (increase) in prepayments and
+-2.265 -1.772
+other assets specialized in the development of biosimilars and
+Increase (decrease) in provisions -387 387 is able to cover all technical stages of the biophar-
+Increase (decrease) in contract liabilities - 1.336 maceutical development chain from analysis and 3. Use of judgements and estimates
+Increase (decrease) in other liabilities -274 -403 cell line development to preclinical studies and
+Increase (decrease) in trade payables 628 8.402 clinical trials, all the way through to the creation and The preparation of these Financial Statements in
+submission of regulatory approval application doc- accordance with IFRS requires Formycon’s man-
+Income taxes paid -5 -179
+uments. In addition to its decades of experience in agement to make certain judgements, estimates
+Net cash used for operating activities -31.185 -8.331
+protein chemistry, analysis and immunology, Formy- and assumptions that affect the reported amounts
+Investments in intangible assets -16.647 -12.313
+con also has extensive expertise in the successful of revenues, expenses and income, assets and
+Investments in property, plant and
+-982 -253
+equipment transfer of antibodies and antibody-based therapies liabilities, as well as related notes. Uncertainties
+Proceeds from loans granted 5.000 - into the clinical development stage. regarding these estimates and underlying assump-
+Interest received 767 236 tions may lead to situations whereby a material ad-
+Net cash used for investing activities -11.862 -12.330 Formycon AG has its registered offices in Martin- justment is required in future periods to the carried
+sried/Planegg, Germany, and is entered into the amount of the relevant asset or liability.
+Proceeds from issuance of shares 82.843 70.070
+commercial register (Handelsregister) of the District
+Costs relating to issuance of shares - -1.736
+Court of Munich under number HRB 200801. The These estimates and underlying assumptions are
+Inflows from the assumption of financial
+- -20.165
+liabilities Company’s shares are listed in the Frankfurt Stock subject to regular review. Revisions to estimates are
+Payment of lease liabilities -599 -465 Exchange’s Open Market “Scale” segment for small- generally recognized prospectively. During the re-
+Outflows for the payment of financial to medium-sized companies (Deutsche Börse: Open view of estimates for the current period, no grounds
+-25.388 -
+liabilities
+Market, Scale, German securities identifier (WKN): were identified for any such revisions.
+Interest paid -224 2
+A1EWVY, ticker symbol: FYB, ISIN: DE000A1EWVY8).
+Net cash from financing activities 56.632 47.706
+The key discretionary decisions made by Formy-
+Net increase (decrease) in cash and cash
+13.585 27.045 con’s management in the application of accounting
+equivalents
+2. Significant accounting principles principles and valuation methods in the preparation
+Cash and cash equivalents as of Jan. 1 27.035 9.820
+of these Financial Statements, along with the main
+Cash and cash equivalents as of June 30 40.620 36.865
+These condensed consolidated interim financial sources of estimate uncertainties, were compared
+statements (hereinafter also the “Financial State- with those in the preparation of the consolidated
+ments”) presented here in translation from the financial statements for fiscal year 2023.
+German original have been prepared in accordance
+with IAS 34 (“Interim Financial Reporting”). As inter-

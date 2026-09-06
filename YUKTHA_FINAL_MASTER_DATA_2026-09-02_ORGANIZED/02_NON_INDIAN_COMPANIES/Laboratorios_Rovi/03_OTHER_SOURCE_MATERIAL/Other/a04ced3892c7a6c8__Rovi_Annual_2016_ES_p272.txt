@@ -1,0 +1,66 @@
+Dirección General de Mercados
+Edison, 4, 28006 Madrid, España
+(+34) 915 851 500, www.cnmv.es
+LABORATORIOS FARMACEUTICOS ROVI, S.A.
+2º SEMESTRE 2016
+IV. INFORMACIÓN FINANCIERA SELECCIONADA
+10. A. ESTADO DE FLUJOS DE EFECTIVO CONSOLIDADO (MÉTODO INDIRECTO) (NIIF ADOPTADAS)
+Uds.: Miles de euros
+PERIODO PERIODO
+ACTUAL ANTERIOR
+31/12/2016 31/12/2015
+A) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE EXPLOTACIÓN (1 + 2 + 3 + 4) 1435 45.526 29.392
+1. Resultado antes de impuestos 1405 27.882 20.898
+2. Ajustes del resultado: 1410 7.842 8.738
+(+) Amortización del inmovilizado 1411 11.023 9.975
+(+/-) Otros ajustes del resultado (netos) 1412 (3.181) (1.237)
+3. Cambios en el capital corriente 1415 12.696 2.273
+4. Otros flujos de efectivo de las actividades de explotación: 1420 (2.894) (2.517)
+(-) Pagos de intereses 1421 (645)
+(-) Pagos por dividendos y remuneraciones de otros instrumentos de patrimonio 1430
+(+) Cobros de dividendos 1422
+(+) Cobros de intereses 1423
+(+/-) Cobros/(Pagos) por impuesto sobre beneficios 1424 (3.399) (1.982)
+(+/-) Otros cobros/(pagos) de actividades de explotación 1425 505 110
+B) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN (1 + 2 + 3) 1460 (16.298) (19.254)
+1. Pagos por inversiones: 1440 (18.079) (20.071)
+(-) Empresas del grupo, asociadas y unidades de negocio 1441 (3)
+(-) Inmovilizado material, intangible e inversiones inmobiliarias 1442 (18.076) (19.901)
+(-) Otros activos financieros 1443 (170)
+(-) Otros activos 1444
+2. Cobros por desinversiones: 1450 1.043 41
+(+) Empresas del grupo, asociadas y unidades de negocio 1451 1.000
+(+) Inmovilizado material, intangible e inversiones inmobiliarias 1452 43 41
+(+) Otros activos financieros 1453
+(+) Otros activos 1454
+3. Otros flujos de efectivo de actividades de inversión 1455 738 776
+(+) Cobros de dividendos 1456
+(+) Cobros de intereses 1457 738 776
+(+/-) Otros cobros/(pagos) de actividades de inversión 1458
+C) FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN (1 + 2 + 3 + 4) 1490 (17.101) (7.558)
+1. Cobros y (pagos) por instrumentos de patrimonio: 1470 (541) (5.148)
+(+) Emisión 1471
+(-) Amortización 1472
+(-) Adquisición 1473 (987) (6.546)
+(+) Enajenación 1474 446 1.398
+2. Cobros y (pagos) por instrumentos de pasivo financiero: 1480 (9.477) 5.936
+(+) Emisión 1481 797 11.607
+(-) Devolución y amortización 1482 (10.274) (5.671)
+3. Pagos por dividendos y remuneraciones de otros instrumentos de patrimonio 1485 (6.853) (8.346)
+4. Otros flujos de efectivo de actividades de financiación 1486 (230) 0
+(-) Pagos de intereses 1487 (230)
+(+/-) Otros cobros/(pagos) de actividades de financiación 1488
+D) EFECTO DE LAS VARIACIONES DE LOS TIPOS DE CAMBIO 1492
+E) AUMENTO/(DISMINUCIÓN) NETO DE EFECTIVO Y EQUIVALENTES (A + B + C + D) 1495 12.127 2.580
+F) EFECTIVO Y EQUIVALENTES AL INICIO DEL PERIODO 1499 29.251 26.671
+G) EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO (E + F) 1500 41.378 29.251
+PERIODO PERIODO
+COMPONENTES DEL EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO ACTUAL ANTERIOR
+31/12/2016 31/12/2015
+(+) Caja y bancos 1550 41.378 29.251
+(+) Otros activos financieros 1552
+(-) Menos: Descubiertos bancarios reintegrables a la vista 1553
+TOTAL EFECTIVO Y EQUIVALENTES AL FINAL DEL PERIODO 1600 41.378 29.251
+Este modelo de estado de flujos de efectivo consolidado (método indirecto) permite las alternativas declasificación de los intereses y de los dividendos, tanto recibidos como pagados, que contemplan
+las NIIF adoptadas. Cada una de las partidas anteriores debe ser clasificada de forma única y coherente, en cada ejercicio, como perteneciente a las actividades de explotación, inversión o financiación.
+G-15

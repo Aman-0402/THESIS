@@ -1,0 +1,39 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+Lastly, in terms of R&D&I, specific time-bound and outcome-oriented objectives will not be disclosed because of the sensitive
+nature of said information. Notwithstanding, the projects in progress related to the ISM technology platform will continue to
+advance.
+d. Entity-specific information: Digitalisation and artificial intelligence
+The objective of this chapter is to provide detailed information on how ROVI takes digitalisation and the use of artificial
+intelligence (IA) into consideration in the course of its main activities: R&D and the manufacturing and marketing of
+pharmaceutical and healthcare products.
+◦ Governance
+The objective of this section is to describe how the Group integrates good governance into its digitalisation and artificial
+intelligence practices.
+At ROVI, digitalisation and artificial intelligence are encompassed within the good corporate governance framework linked to its
+objective to contribute to the continuing improvement of healthcare and the development of solutions that improve the health of
+Group patients.
+In the digitalisation area, the Company has internal rules and protocols for use of ICT (Information and Communication
+Technology) resources, backed by a multidisciplinary work team composed of the Head of Information Technology (IT), the
+Industrial Property Manager and the Compliance Manager. Likewise, the Digital Transformation area, the Industrial area and
+Automation are responsible for the improvement or development of digital processes. Specifically, the Transformation area
+detects, defines, designs and develops MVP (Minimum Viable Product)57 solutions focused on the digital experience of the
+ROVI employee from the point of view of efficiency in time, procedure and traceability control and information security.
+Likewise, regarding artificial intelligence, the Hospitals and Institutional Relations area has developed a digital healthcare project
+that provides a framework for different initiatives within this new field into which the pharmaceutical industry is expanding.
+◦ Strategy
+The objective of this section is to provide an understanding of how ROVI’s strategy and business model integrate the interests,
+views and rights of both the consumers and end-users and the other stakeholders.
+At a strategic level, digitalisation and artificial intelligence are in a process of development and implementation that will change
+in accordance with customer needs and the evolution of the sector.
+ROVI has conducted a double materiality assessment, in which it analysed its context, examining its strategy and business
+model to detect the aspects that could impact its relations with stakeholders. The process followed by the Group to determine
+the material impacts, risks and opportunities related to digitalisation and artificial intelligence is set out under Disclosure
+Requirement IRO-1 of ESRS 2, where the four phases of the double materiality assessment are described: understanding,
+identification, assessment and determination.
+As a result of said assessment, the opportunities58 found to be material in relation to digitalisation and artificial intelligence are
+set out below:
+57 A Minimum Viable Product (MVP) is a simplified version of a product with essential characteristics, designed to validate an idea, obtain user feed-back and
+make improvements before full development.
+58 It should be noted that no material impacts or risks were identified.
+136

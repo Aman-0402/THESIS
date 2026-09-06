@@ -1,0 +1,39 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+24. Finance income and costs
+Thousand euros
+2021 2020
+Finance income:
+Gains and losses on equity instruments
+- In Group and associated companies (Nota 31 f) 24,964 31,151
+Gains and losses on marketable securities and other financial instruments
+- In Group and associated companies (Nota 31 f) 558 569
+- Of third parties 67 3
+25,589 31,723
+Finance costs:
+Debt with third parties (655) (789)
+(655) (789)
+Change in fair value of financial instruments:
+Derivatives 908 (796)
+908 (796)
+Exchange rate differences
+Exchange rate differences (111) 77
+(111) 77
+Impairment and gain or loss on disposal of financial instruments
+Gains and losses on disposals and other 1,161 (245)
+1,161 (245)
+Finance income and costs 26,892 29,970
+At December 31, 2020, ROVI held financial derivatives to minimise the impact of exchange rate risk for a value of 13,500
+million US dollars, the fair-value measurement of which represented a loss of 925 thousand euros at the December 2020
+reporting date. During 2021, these instruments, as well as others acquired during 2021, were liquidated and a profit of
+1,161 thousand euros was obtained from these liquidations (a loss of 245 thousand euros in 2020). At 31 December, 2021,
+there were live contracts of this nature for a value of 5,000 thousand dollars, the measurement of which at the 2021
+reporting date represented a loss of 17 thousand euros.
+Finance income received from group and associated companies for a total of 24,964 thousand euros (31,151 thousand
+euros at 31 December, 2020) relates to dividends received from companies belonging to the ROVI Group, of which ROVI
+is the parent.
+52

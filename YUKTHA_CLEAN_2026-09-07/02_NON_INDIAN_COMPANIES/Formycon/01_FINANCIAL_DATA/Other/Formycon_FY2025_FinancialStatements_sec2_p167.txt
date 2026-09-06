@@ -1,0 +1,77 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 167
+— contract assets. — the debtor is unlikely to pay its credit obliga-
+tions to the Group in full, without recourse by
+The Group also recognizes loss allowances for the Group to actions such as realizing security
+ECLs on other receivables. (if any is held); or
+The Group measures loss allowances at an amount — the financial asset is more than 180 days past
+equal to lifetime ECLs, except for the following, due.
+which are measured at 12-month ECLs:
+The Group considers a debt security to have low
+— debt securities that are determined to have low credit risk when its credit risk rating is equivalent to
+credit risk at the reporting date, and the globally understood definition of “investment
+grade”. The Group considers this to be an S&P rat-
+ing of BBB or higher. Lifetime ECLs are the ECLs
+— other debt securities and bank balances for
+that result from all possible default events over the
+which credit risk (i.e. the risk of default occur-
+expected life of a financial instrument. 12-month
+ring over the expected life of the financial in-
+ECLs are the portion of ECLs that result from de-
+strument) has not increased significantly since
+fault events that are possible within the 12 months
+initial recognition
+after the reporting date (or a shorter period if the
+expected life of the instrument is less than 12
+In the case of trade receivables and contract as-
+months). The maximum period considered when
+sets, valuation allowances reflect the amount of the
+estimating ECLs is the maximum contractual period
+expected credit loss over the term.
+over which the Group is exposed to credit risk.
+In determining whether the credit risk of a financial
+Non-financial assets
+asset has increased significantly since initial recog-
+nition and in estimating expected credit losses, the
+The book value of the Group’s non-financial assets,
+Group considers reasonable and reliable infor-
+other than inventories and deferred tax assets, is
+mation which is both relevant and available, includ-
+reviewed at each reporting date to determine
+ing quantitative as well as qualitative information. In
+whether there is any indication of impairment.
+addition to well-founded estimates based on analy-
+Should this be the case, an estimate is made of the
+sis, including forward-looking assessments, the
+asset’s recoverable amount. Goodwill and intangi-
+Group also considers its own past experience.
+ble assets with an indefinite useful life as well as
+Should a financial asset be overdue by more than
+unfinished internally generated intangible assets
+30 days, the Group assumes that its credit risk has
+(capitalized development costs) are tested annually
+increased significantly. Due to the company’s cus-
+for impairment.
+tomer structure and contractually agreed payment
+terms, there have to date been no such delays.
+In testing for impairment, assets are grouped into
+the smallest groupings of assets that generate cash
+Due to the small number of contract counterparties,
+inflows from continued use that are as independent
+the Group assesses each of these with whom there
+as possible of cash inflows from other assets or
+is significant contract exposure through an assess-
+cash-generating units (CGUs). Goodwill acquired in
+ment of each individual portfolio. In each existing
+a business combination is allocated to the CGU(s),
+case, the Group has assessed the risk of default as
+or group(s) of CGUs, expected to benefit from the
+extremely low. Thus, subject to materiality consider-
+synergies of the combination.
+ations, no value adjustments are currently recog-
+nized.
+The recoverable amount of an asset or CGU is the
+higher of its value in use and its fair value less dis-
+The Group considers a financial asset to be in de-
+posal costs. In assessing value in use, the esti-
+fault when:
+mated future cash flows are discounted to their

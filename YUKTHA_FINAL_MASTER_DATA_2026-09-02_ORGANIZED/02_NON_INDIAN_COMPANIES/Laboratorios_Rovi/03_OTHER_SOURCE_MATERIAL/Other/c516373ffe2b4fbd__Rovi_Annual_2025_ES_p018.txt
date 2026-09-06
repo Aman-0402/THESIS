@@ -1,0 +1,51 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+▪ Precio basado en la continuidad de personal clave de Lungovest, S.L. en la gestión de Cells IA
+Technologies, S.L.: 490 miles de euros.
+▪ “Earn-out 1” dependiente del cumplimiento de hitos operativos: 306 miles de euros.
+Para determinar la contraprestación entregada, ROVI ha tenido en cuenta las siguientes circunstancias:
+– El precio fijo pagado a ambos socios por un importe total de 1.440 miles de euros y la ampliación de capital y prima de
+emisión por importe de 2.250 miles de euros han sido incluido dentro del coste de la contraprestación entregada.
+También se han incluido componentes del “Earn-out 1” por importe de 187 miles de euros cuya probabilidad de
+cumplimiento a 31 de diciembre de 2025 se estima altamente probable y cuya contrapartida se encuentra reconocida
+en el epígrafe de otras cuentas a pagar a largo plazo (esta provisión devenga intereses mensualmente y asciende a
+31 de diciembre de 2025 a 191 miles de euros). No se han considerado como parte del coste de la combinación de
+negocios aquellos elementos cuya probabilidad de cumplimiento es, a dicha fecha, improbable, o aquellas
+retribuciones basadas en la continuidad del personal clave.
+– La toma de control se ha producido desde una participación previa que otorgaba influencia significativa sobre Cells IA
+Technologies, S.L., registrada en Gineladius, S.L.U. por importe de 600 miles de euros. Al consolidarse la sociedad
+hasta 27 de enero de 2025 por el método de la participación, el valor de esta ascendía a 412 miles de euros, por lo
+que ROVI ha procedido a revalorizar sus participaciones antiguas al precio pagado el 27 de enero de 2025, lo que ha
+supuesto el reconocimiento de un ingreso en la cuenta de pérdidas y ganancias por importe de 467 miles de euros.
+A continuación se muestra un resumen de la contraprestación entregada:
+Contraprestacion entregada Importe en miles de euros
+Ampliación de capital y prima 2.250
+Pagos fijos 1.440
+Pagos contingentes altamente probables 187
+Participación previa a coste 600
+Ajuste puesta en equivalencia (188)
+Revalorización con operaciones de 27 de enero de 2025 467
+Total 4.756
+La NIIF 3 establece que la sociedad adquirente debe valorar los activos identificables adquiridos y los pasivos asumidos por su
+valor razonable en la fecha de adquisición. No se han detectado diferencias entre el valor razonable y el valor contable. A
+continuación se muestra un desglose de los activos adquiridos y los pasivos asumidos en la primera consolidación bajo el
+método de integración global de Cells IA Technologies, S.L:
+Cells IA Technologies, S.L. Importe en miles de euros
+Activos intangibles (Nota 7) 16
+Inmovilizado material (Nota 6) 4
+Activos por impuestos diferidos (Nota 19) 32
+Clientes y otras cuentas a cobrar 315
+Efectivo y equivalentes al efectivo 2.064
+TOTAL ACTIVO 2.431
+Capital social 20
+Prima de emisión 2.909
+Resultado (136)
+Reservas (631)
+Patrimonio neto 2.162
+Proveedores y otras cuentas a pagar 269
+TOTAL PATRIMONIO NETO Y PASIVO 2.431
+Adicionalmente, deberá reconocer el fondo de comercio en la fecha de adquisición como diferencia entre la suma de la
+contraprestación pagada y el importe de los activos netos identificables adquiridos a valor razonable. En la siguiente tabla se
+muestra el fondo de comercio generado en dicha operación:
+8

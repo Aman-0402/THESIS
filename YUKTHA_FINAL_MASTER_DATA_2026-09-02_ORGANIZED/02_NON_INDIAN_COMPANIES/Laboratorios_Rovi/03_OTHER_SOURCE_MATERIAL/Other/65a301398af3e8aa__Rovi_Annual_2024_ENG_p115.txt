@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Less than 1 Between 1 & Between 2 &
+At 31 December 2024 year 2 years 5 years Over 5 years
+Bank borrowings (Note 18) 17,482 35,919 32,646 4,643
+Debt with government entities (Note 18) 1,562 2,987 3,575 3,282
+Trade suppliers (Note 17) 86,851 — — —
+Lease liabilities (Note 18) 6,331 7,151 3,630 —
+Other payables (Note 17) 38,477 — — —
+150,703 46,057 39,851 7,925
+Less than 1 Between 1 & Between 2 &
+At 31 December 2023 year 2 years 5 years Over 5 years
+Bank borrowings (Note 18) 6,647 13,178 18,583 —
+Debt with government entities (Note 18) 1,565 3,277 3,188 1,309
+Trade suppliers (Note 17) 107,593 — — —
+Lease liabilities (Note 18) 5,728 8,500 5,956 —
+Other payables (Note 17) 34,302 — — —
+155,835 24,955 27,727 1,309
+3.2 Capital risk management
+The Group’s objective in relation to the management of capital is to maintain a low level of gearing that will make it easier for the
+Group to obtain third-party financing if required in order to make new investments. Part of the Group’s third-party financing takes
+the form of reimbursable advances from government entities, which do not generate interest payments since they are
+subsidised.
+The Group monitors capital on the basis of the gearing ratio. This ratio is calculated as net debt/cash divided by net equity. Net
+debt/cash is calculated as total financial debt less cash and cash equivalents. Equity is as shown under the relevant caption in
+the statement of financial position, as shown in the consolidated annual accounts.
+The leverage index or gearing ratio at 31 December 2024 and 2023 were as follows:
+2024 2023
+Financial debt (Note 18) 114,410 65,427
+Less: Cash and cash equivalents (Note 14) (27,186) (25,322)
+Less: Equity securities (Note 11) — (24)
+Less: Deposits (Notes 9 & 13) (1,930) (1,440)
+Less: Financial assets at amortised cost (Notes 8 & 32) (227) —
+Net debt /(cash) 85,067 38,641
+Equity 581,540 543,494
+Leverage Index / Gearing ratio 14.6 % 7.1 %
+3.3 Fair value estimate
+Measurement of financial instruments at market price is classified into:
+– Level 1. Quoted prices on active markets for identical instruments.
+– Level 2. Observable inputs for the instrument, either directly observable (prices) or indirectly observable (price-based).
+– Level 3. Inputs not based on observable market data.
+Measurements at market prices of the Group’s financial assets recorded at fair value, the totality of which are classified as
+financial assets at fair value through other comprehensive income, recognised in the statement of financial position as “equity
+securities” (Note 11), are classified at Level 1.
+The fair value of financial instruments traded in active markets (such as equity securities) is based on quoted market prices at
+the reporting date. The quoted market price used for financial assets held by the Group is the current bid price.
+23

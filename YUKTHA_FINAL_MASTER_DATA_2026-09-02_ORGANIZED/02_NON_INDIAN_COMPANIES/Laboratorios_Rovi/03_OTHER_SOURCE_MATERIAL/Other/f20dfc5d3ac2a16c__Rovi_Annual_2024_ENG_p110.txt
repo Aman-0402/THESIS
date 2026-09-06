@@ -1,0 +1,48 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+b) Termination payments
+Termination benefits are payable when employment is terminated by the Group before the normal retirement date, or whenever
+an employee accepts voluntary redundancy in exchange for these benefits. The Group recognises these benefits on the earlier
+of the following dates: (a) when the Group can no longer withdraw the offer of said benefits; or (b) when the entity recognises
+restructuring costs within the scope of IAS 37 and this means termination benefits must be paid. When an offer is made in order
+to encourage voluntary redundancies on the part of the employees, the termination benefits are measured in accordance with
+the number of employees who are expected to accept the offer. The benefits that will not be paid within the twelve months
+following the end of the reporting period are discounted back to their present value.
+c) Bonus obligations
+The Group recognises a liability and an expense for bonuses based on the estimates of fulfilment of certain corporate targets
+established for employees.
+2.20 Provisions
+Provisions are defined as credit balances that cover current obligations arising from past events, settlement of which is likely to
+give rise to an outflow of resources but for which the amount and/or time of settlement have not been determined.
+The statement of financial position shows all the provisions for which it is considered more likely than not that the obligation will
+have to be settled. If a contingent liability exists, it is not recognised in the accounts but is reported in the Notes.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a pre-tax
+rate that reflects current market assessments of the time value of money and the risks specific to the obligation. The increase in
+the provision when updated is recognised as a finance cost as accrued.
+Provisions maturing at one year or less that do not have a significant financial effect are not discounted.
+When a portion of the payment necessary to settle the provision is expected to be reimbursed by a third party, the
+reimbursement is recognised as an independent asset provided it is almost certain to be received.
+Provisions for restoration of the environment, restructuring costs and litigations are recognised when the Group has a legal or
+substantive current obligation as the result of past events, an outflow of resources is likely to be necessary to settle the
+obligation, and the amount can be estimated reliably. Restructuring provisions include penalties for lease cancellation and
+termination payments to employees. No provisions are recognised for future operating losses.
+2.21 Revenue recognition
+The Group recognises revenue for the amount of the transaction price corresponding to the considerations the Group expects to
+be entitled to receive for the transfer of goods or provision of services to a customer and other revenue obtained in the ordinary
+course of the Group’s activities promised to a customer. These may be fixed or variable amounts or a combination of the two.
+Revenue is presented net of value-added tax, returns, rebates and discounts and after eliminating sales within the Group.
+The Group recognises revenue when it satisfies an obligation by transferring goods or services to the customer and the latter
+obtains control of said asset. At the beginning of the contract, the Group determines whether it will settle the obligations over a
+period of time or at a point in time, depending on the specific conditions for each one of the Group’s activities, as described
+below.
+In accordance with IFRS 15, the Group follows the five-step model to determine when and how much revenue should be
+recognised. The steps are as follows:
+– Identify the contract(s) with a customer.
+– Identify the performance obligations in the contract.
+– Determine the transaction price.
+– Allocate the price to the performance obligations in the contract.
+– Determine the criterion for revenue recognition when a performance obligation is satisfied..
+18

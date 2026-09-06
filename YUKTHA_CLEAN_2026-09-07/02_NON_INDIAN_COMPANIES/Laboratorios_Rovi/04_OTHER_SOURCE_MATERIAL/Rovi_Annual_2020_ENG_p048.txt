@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+18. Debits and payables
+Thousands of euros
+2020 2019
+Non-current debits and payables:
+- Bank borrowings (a) 44,825 45,000
+- Debt with government entities (b) 8,822 9,329
+- Non-current debt with Group and associated companies (Note 31.i) - 333
+53,647 54,662
+Current debits and payables:
+- Bank borrowings (a) 175 7,116
+- Debt with government entities (b) 1,767 1,893
+- Derivates 925 129
+- Current debt with Group and associated companies (Note 31.i) 184 156
+- Trade payables 30,756 36,410
+- Trade payables, related parties (Note 31.i) 105,992 21,519
+- Sundry creditors 371 578
+- Employees 2,438 3,631
+142,608 71,432
+196,255 126,094
+Delay in payments to suppliers
+Details of payments for trading transactions performed during the reporting period and outstanding at the reporting date
+in relation to the maximum legal periods provided for in Law 15/2010, amended by Law 11/2013, are as follows:
+2020 2019
+Days Days
+Average payment period to suppliers 53 48
+Ratio of transactions paid 55 50
+Ratio of transactions outstanding 17 33
+2020 2019
+Total payments made (thousands of euros) 161,250 151,686
+Total payments outstanding (thousands of euros) 9,180 15,222
+Fair value of non-current debt
+The carrying amounts and fair values of the non-current debt were as follows:
+Thousands of euros
+Carrying amount Fair value
+2020 2019 2020 2019
+Bank borrowings 44,825 45,000 44,072 44,748
+Debt with government entities 8,822 9,329 9,425 10,075
+53,647 54,329 53,497 54,078
+The fair values of current financial debt are equal to their corresponding nominal amounts since the effect of discounting
+is not significant. The fair values are based on cash flows discounted at a rate of 2%, based on the borrowing rate (2% in
+2019).
+39

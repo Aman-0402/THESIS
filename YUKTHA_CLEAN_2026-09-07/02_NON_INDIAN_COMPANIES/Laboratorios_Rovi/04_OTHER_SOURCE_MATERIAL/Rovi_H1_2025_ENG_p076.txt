@@ -1,0 +1,59 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+8. CONSOLIDATED STATEMENT OF CHANGES IN TOTAL EQUITY (UNDER IFRS ADOPTED) (1/2)
+Units: thousands of euros
+Equity attributed to parent company
+Equity
+Profit/
+CURRENT PERIOD Adjust- Non-
+Share (loss) for Other
+ments for controlling Total equity
+Share premium Treasury the per. equity
+changes in interests
+capital and stock attributed instru-
+value
+reserves to parent ments
+company
+Opening balance at
+3110 3.074 437.641 (5.545) 136.881 - (23) 9.512 581.540
+01/01/2025
+Adjustments for changes in
+3111
+accounting policies
+Adjustments for errors 3112
+Adjusted opening balance 3115 3.074 437.641 (5.545) 136.881 (23) 9.512 581.540
+I. Total recognized
+3120 39.736 (18) (36) 39.682
+income/(expenses)
+II. Transactions with
+3125 (948) 932 (47.911) - (47.927)
+shareholders or owners
+1. Capital
+3126
+increases/(reductions)
+2. Conversion of financial
+3127
+liabilities to equity
+3. Distribution of dividends 3128 (47.911) (47.911)
+4. Treasury stock transactions
+3129 (948) 932 (16)
+(net)
+5.Increases/(reductions) due
+3130 -
+to business combinations
+6. Other transactions with
+3132 -
+shareholders or owners
+III. Other equity
+3135 88.785 (88.970) 1.605 1.420
+transactions
+1. Payments based on equity
+3136
+instruments
+2. Transfers between equity
+3137 88.970 (88.970)
+items
+3. Other changes 3138 (185) 1.605 1.420
+Closing balance at
+3140 3.074 525.478 (4.613) 39.736 - (41) 11.081 574.715
+30/06/2025

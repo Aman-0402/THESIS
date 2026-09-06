@@ -1,0 +1,33 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+7. Analysis of financial instruments
+7.1 Analysis by category
+The carrying amounts of each one of the financial instrument categories established in the “Financial instruments”
+accounting policy, except investments in the equity of group, multi-group and associated companies (Note 8), were as
+follows:
+a) Financial assets
+Thousands of euros
+Credits and other
+Equity instruments financial assets
+2017 2016 2017 2016
+Available-for-sale financial assets (Note 11) 62 62 - -
+Loans and receivables (Note 10) - - 1,402 1,525
+Non-current 62 62 1,402 1,525
+Loans and receivables (Note 10) - - 97,058 125,054
+Cash and cash equivalents (Note 13) - - 35,526 37,008
+Current - - 132,584 162,062
+TOTAL 62 62 133,986 163,587
+b) Financial liabilities
+Thousands of euros
+Bank borrowings Other financial liabilities
+2017 2016 2017 2016
+Debits and payables (Note 18) 17,716 10,940 8,745 9,170
+Non-current 17,716 10,940 8,745 9,170
+Debits and payables (Note 18) 13,222 9,991 55,865 99,503
+Current 13,222 9,991 55,865 99,503
+TOTAL 30,938 20,931 64,610 108,673
+28

@@ -1,0 +1,50 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+7.6 of Annex I to the Climate Delegated Act, as well as other economic activities listed in the delegated acts adopted
+pursuant to Article 10(3), Article 11(3), Article 12(2), Article 13(2), Article 14(2) and Article 15(2) of Regulation (EU)
+2020/852 and provided that such measures are implemented and operational within 18 months.
+For ROVI, the eligible activities with associated CapEx in 2024 were the following
+Climate Change Mitigation Pollution Prevention
+Annex Annex
+Activity 5.4.
+Activity 7.3.
+Activity 1.1.
+Activity 7.4.
+Activity 1.2.
+Activity 7.5.
+Activity 7.6.
+To analyse the numerator, ROVI screened all the items added to CapEx in 2024.
+• For CapEx items related to the Mitigation Annex, ROVI conducted an exhaustive screening, which consisted of verifying
+that each one of the invoices associated to the CapEx items added met the description contained in the Taxonomy
+regulations, therefore allocating the value shown on the invoices to the CapEx numerator.20
+• For CapEx items related to the Pollution Prevention Annex, ROVI calculated the totality of the CapEx items added
+without making a detailed screening at invoice level, since the CapEx added is, in its entirety, assumed to contribute to
+either the manufacture of the active substance or the manufacture of a medicine. This screening was performed by
+segregating each CapEx item added by cost centre.
+In the course of the screening, double accounting of items was avoided, computing the items that are directly related to the
+description of each taxonomy activity with each activity.21
+The denominator corresponds to the Group’s total CapEx, which includes investments in both property, plant and equipment
+and intangible assets, as well as right-of-use assets, disclosed in the Consolidated Annual Accounts (in the section “Increases in
+non-current non-financial assets”).22
+◦ Calculation of the percentage of OpEx
+The proportion of OpEx to which article 8(2), point b), of Regulation (EU) 2020/852 refers shall be calculated as the numerator
+divided by the denominator as specified in points 1.1.3.1 and 1.1.3.2 of the Annex 1 to the Delegated Regulation of 6 July, 2021,
+the latter covering direct non-capitalised costs that relate to research and development, building renovation measures, short-
+term lease, maintenance and repair, and any other direct expenditures relating to the day-to-day servicing of assets of property,
+plant and equipment by the undertaking or third party to whom activities are outsourced that are necessary to ensure the
+continued and effective functioning of such assets.
+Additionally, non-financial companies that apply national GAAP and are not capitalising right-of-use assets shall include lease
+costs in the OpEx.
+The numerator equals to the part of the operating expenditure included in the denominator that is any of the following:
+i. Related to assets or processes associated with Taxonomy-aligned economic activities, including training and other
+human resources adaptation needs, and direct non-capitalised costs that represent research and development;
+ii. Part of the CapEx plan to expand Taxonomy-aligned economic activities or allow Taxonomy-eligible economic activities
+to become Taxonomy-aligned within a predefined timeframe as set out in the second paragraph of point 1.1.3.2 of
+Annex I to the Delegated Regulation of 6 July, 2021 relative to ‘CapEx plan’).
+20 In cases where the invoices that make up the CapEx items are not related in their entirety with any activity described in the regulation.
+21 For example, the LED luminaires of a new building constructed to expand ROVI’s production capacity were computed to activity 7.3 of the Mitigation Annex,
+while the rest of the investment made in the construction of said building was computed to activity 1.1/1.2 depending on whether it related to active ingredient
+or medicinal product manufacturing.
+22 The CapEx figure used includes the additions related to rights of use recognised in accordance with International Financial Reporting Standard (IFRS) 16
+“Leases”.
+55

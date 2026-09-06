@@ -1,0 +1,57 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+5. CONSOLIDATED STATEMENT OF FINANCIAL POSITION (UNDER IFRS ADOPTED) (2/2)
+Units: thousands of euros CURRENT PREVIOUS
+LIABILITIES AND EQUITY PERIOD PERIOD
+31/12/2021 31/12/2020
+A) EQUITY (A.1 + A.2 + A.3) 1195 470.976 373.700
+A.1) EQUITY 1180 470.978 373.703
+1. Capital: 1171 3.364 3.364
+a) Authorized capital 1161 3.364 3.364
+b) Less: uncalled capital 1162
+2. Share premium 1172 87.636 87.636
+3. Reserves 1173 673 673
+4. Less treasury stock 1174 (66.121) (20.185)
+5. Retained earnings 1178 292.349 241.158
+6. Other shareholder contributions 1179
+7. Profit or loss for period 1175 153.077 61.057
+8. Less: interim dividend 1176
+9. Other equity instruments 1177
+A.2) ACCUMULATED OTHER COMPREHENSIVE INCOME 1188 (2) (3)
+1. Items not reclassified to profit and loss for the period 1186
+a) Equity instruments held at fair value through other comprehensive income 1185
+b) Other 1190
+2. Items that may be reclassified to profit and loss for the period 1187 (2) (3)
+a) Hedging transactions 1182
+b) Hedging differences 1184
+c) Share in other comprehensive income of joint ventures and other 1192
+d) Debt instruments held at fair value through other comprehensive income 1191
+e) Other 1183 (2) (3)
+EQUITY ATTRIBUTED TO PARENT COMPANY (A.1 + A.2) 1189 470.976 373.700
+A.3) NON-CONTROLLING INTERESTS 1193
+B) NON-CURRENT ASSETS 1120 71.312 77.850
+1. Grants 1117
+2. Non-current provisions 1115
+3. Non-current financial liabilities: 1116 66.745 68.421
+a) Bank borrowings and debentures or other negotiable securities 1131 44.107 44.825
+b) Other financial liabilities 1132 22.638 23.596
+4. Deferred tax liabilities 1118 776 929
+5. Non-current derivatives 1140
+a) Hedging instruments 1141
+b) Other 1142
+6. Other non-current liabilities 1135 3.791 8.500
+C) CURRENT LIABILITIES 1130 190.388 122.889
+1. Liabilities related to current assets held for sale 1121
+2. Current provisions 1122
+3. Current finanacial liabilities: 1123 6.400 5.097
+a) Bank borrowings and debentures or other negotiable securities 1133 714 175
+b) Other financial liabilities 1134 5.686 4.922
+4. Trade and other payables: 1124 125.854 91.364
+a) Trade payables 1125 97.407 63.452
+b) Other payables 1126 27.766 27.912
+c) Current tax liabilities 1127 681
+5. Current derivatives 1145 17 925
+a) Hedging instruments 1146 17 925
+b) Other 1147
+5. Other current liabilities 1136 58.117 25.503
+TOTAL EQUITY AND LIABILITIES (A + B + C) 1200 732.676 574.439

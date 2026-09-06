@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+13.a) Trade receivables
+As is mentioned in Note 4.2, Management considers that the fair value of trade and other receivables does not differ
+significantly from their recognized values, since they consist principally of balances receivable at less than one year and
+are subject to possible interest charges if they are not collected within said period.
+The carrying amounts of receivables are denominated in euros.
+In December 2016, the Group signed a non-recourse factoring agreement with BBVA, whereby ROVI received the
+amount of matured items due from customers other than the public authorities (Social Security Authorities and
+government entities) for a total of 6,337 thousand euros.
+In December 2017, the Group signed a non-recourse factoring agreement with Banco Santander, whereby ROVI
+received the amount of matured items due from customers other than the public authorities (Social Security Authorities or
+other government entities) for a total of 6,031 thousand euros.
+At 31 December, 2017, the balance receivable from the Social Security Authorities and other government entities was
+5,663 thousand euros (6,045 thousand euros at 31 December, 2016), geographically distributed as follows:
+Rating Saldo Rating Saldo
+2017 2017 2016 2016
+Portugal BBB- 1,720 BB+ 1,174
+Madrid BBB+ 848 BBB 1,566
+Catalonia B+ 854 BB 649
+Valencia BB 496 BB- 576
+Andalusia BBB+ 419 BBB- 640
+Basque Country A 247 A 282
+Canary Islands BBB+ 174 BBB 353
+Aragon BBB- 160 BBB 72
+Castilla la Mancha BBB- 126 BBB- 95
+Cantabria BBB 144 BBB 86
+Other - 475 - 552
+5,663 6,045
+At 31 December 2017, there were matured receivables amounting to 12,815 thousand euros (15,763 thousand euros at
+31 December, 2016), although they had suffered no impairment. For both the 2017 and 2016 amounts, almost the entire
+debt aged over six months related to Social Security Authorities and government entities. The Group claims the late
+payment interest on these debts from the different government entities and Social Security Authorities.
+The ageing analysis of trade receivables due for payment is as follows:
+2017 2016
+Up to 3 months 11,454 14,964
+From 3 to 6 months 1,120 934
+From 6 months to one year 357 321
+Over one year (116) (456)
+12,815 15,763
+38

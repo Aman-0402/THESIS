@@ -1,0 +1,37 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI,
+S.A. AND SUBSIDIARIES AT 31 DECEMBER 2024
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+(Thousand euros)
+31 December
+Note 2024 2023
+EQUITY
+Equity attributed to parent company 572,028 539,387
+Share capital 15 3,074 3,241
+Share premium 15 87,636 87,636
+Legal reserve 16 673 673
+Treasury shares 16 (5,545) (107,676)
+Retained earnings and voluntary reserves 16 349,332 385,199
+Profit for the year 16 136,881 170,335
+Accumulated other comprehensive income 16 (23) (21)
+Non-controlling interests 16 9,512 4,107
+Total equity 581,540 543,494
+LIABILITIES
+Non-current liabilities
+Financial debt 18 90,719 52,242
+Deferred tax liabilities 19 366 1,515
+Contract liabilities 20 1,819 1,431
+Deferred income 21 927 1,359
+93,831 56,547
+Current liabilities
+Financial debt 18 23,691 13,185
+Trade and other payables 17 125,328 141,895
+Current tax liabilities 27 2,384 5,255
+Contact liabilities 20 4,803 39,044
+Deferred income 21 445 464
+156,651 199,843
+Total liabilities 250,482 256,390
+Total equity and liabilities 832,022 799,884
+Notes 1 to 36 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+2

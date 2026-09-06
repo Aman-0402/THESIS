@@ -1,0 +1,40 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30
+June 2024
+CONDENSED CONSOLIDATED INTERIM BALANCE SHEET
+(Thousand euros)
+31
+30 June December
+Note 2024 2023
+EQUITY 15
+Capital and reserves attributed to shareholders of the company 476,092 539,387
+Share capital 3,241 3,241
+Share premium 87,636 87,636
+Legal reserve 673 673
+Treasury shares (157,752) (107,676)
+Retained earnings and voluntary reserve 497,978 385,199
+Profit for the period 44,345 170,335
+Accumulated other comprehensive income (29) (21)
+Non-controlling interests 6,670 4,107
+Total equity 482,762 543,494
+LIABILITIES
+Non-current liabilities
+Financial debt 17 98,144 52,242
+Deferred income tax liabilities 14 944 1,515
+Contract liabilities 18 1,881 1,431
+Deferred income 19 1,139 1,359
+102,108 56,547
+Current liabilities
+Financial debt 17 23,015 13,185
+Trade and other payables 16 191,172 141,895
+Current income tax liabilities 12,369 5,255
+Contract liabilities 18 45,446 39,044
+Deferred income 19 453 464
+272,455 199,843
+Total liabilities 374,563 256,390
+Total equity and liabilities 857,325 799,884
+Notes 1 to 28 are an integral part of these condensed consolidated interim financial statements.
+2

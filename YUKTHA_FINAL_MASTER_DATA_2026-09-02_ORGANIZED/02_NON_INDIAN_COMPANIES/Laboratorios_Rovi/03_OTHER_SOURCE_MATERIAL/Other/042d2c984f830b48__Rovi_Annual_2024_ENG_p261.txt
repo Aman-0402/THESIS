@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+In this context, different energy efficiency measures were taken at the five industrial production complexes:
+Julián Camarillo Complex:
+• Monitoring and analysis of energy consumption data through the monitoring and invoice platform. The associated
+taxonomy CapEx is shown above in Scope 1.
+• Modelisation of electricity consumption through a regression analysis as part of the energy audit pursuant to Royal
+Decree 56/2016, which is mandatory every four years. The OpEx on this audit is shown above in Scope 1.
+• Separation of the lighting switches for the two areas of the floors in building H and control of the times the luminaires in
+this building are turned on and off. The associated taxonomy CapEx totals €1,671.25.
+• Replacement of LED luminaires in the technical rooms in building A. The associated taxonomy CapEx totals €8,522.27.
+Alcalá de Henares Complex:
+• Installation of LED luminaires in the outdoor lighting on the technical roofs (buildings 19, 28, 32) and the indoor lighting of
+building 1. The associated taxonomy CapEx totals €8,127.16.
+• Installation of LED luminaires in the indoor lighting of building 1. The associated taxonomy CapEx totals €80,805.87.
+• Installation of photovoltaic panels on building 3. The associated taxonomy CapEx totals €762.30.
+• Modelisation of electricity consumption through a regression analysis as part of the energy audit pursuant to Royal
+Decree 56/2016, which is mandatory every four years. The OpEx on this audit is shown above in Scope 1.
+• Improving the control of the chillers (pressure control). The associated CapEx totals €2,225.43.
+San Sebastián de los Reyes Complex:
+• Monitoring and analysis of energy consumption data through the monitoring and invoice platform. The associated
+taxonomy CapEx is shown above in Scope 1.
+• Modelisation of electricity consumption through a regression analysis as part of the energy audit pursuant to Royal
+Decree 56/2016, which is mandatory every four years. The OpEx on this audit is shown above in Scope 1.
+• Installation of LED luminaires in building A (vial packaging area). The associated taxonomy CapEx totals €5,217.54.
+Granada Complex:
+• Monitoring, analysis and continual improvement of the plant’s energy performance by maintaining the Energy
+Management System certificate under ISO 50001. The associated taxonomy OpEx is shown above in Scope 1.
+• Installation of network analysers and monitoring of electricity consumption in 7 chillers. The associated taxonomy CapEx
+totals €11,295.35.
+• Installation of network analysers and monitoring of electricity consumption in 4 chillers. The associated taxonomy CapEx
+totals €7,695.60.
+• Installation of a presence detector in the canteen in order to control the lighting. The associated taxonomy CapEx totals
+€963.10.
+• Elimination of the 3-way bypass valves in heat batteries in the ATUs of the hot water circuit and speed control of the
+recirculation pumps. The associated taxonomy CapEx totals €5,531.87.
+• New climate compensation curve to allow modification of the set point of ATU 1 in accordance with the outside
+temperature. This action did not require the Group to make a significant investment.
+• Changing the return temperature set point of the cold sub-loop of the WFI 1 loop to a temperature set point that requires
+less energy. This action did not require the Group to make a significant investment.
+• Installation of sunscreen vinyl on the glass windows on the ground floor. The associated taxonomy CapEx is shown
+above in Scope 1.
+Escúzar Complex:
+• Monitoring and analysis of energy consumption data through the monitoring and invoice platform. The associated
+taxonomy CapEx is shown above in Scope 1.
+72

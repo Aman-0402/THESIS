@@ -1,0 +1,30 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+itself, but as a means to achieve collective well-being, promoting equality, democracy and sustainability. In this context, ROVI
+worked on the development of the following initiatives in 2024:
+• A digital signature governance model, which organises the different signature processes, the administration of risk, the
+parties involved, the organisation up to the roles level, responsibilities, presentation lines and communications. This
+model helps users to reply to day-to-day questions, establishes a system of control over signed documents and ensures
+they are kept correctly.
+• Process mining, which consists of applying specialised algorithms to all digitalised back-office processes to identify
+trends, patterns and bottlenecks, in order to enhance work flows and other areas where there is room for improvement.
+• Implementation of CLM (Contract Lifecycle Management), second version, a platform to review the Group’s contracts
+where, as a result of the process mining initiative mentioned above, a data-based approach has been used to optimise
+the control management process and to identify points where improvements are required, which will be applied in 2025.
+The total expense associated to these three actions in 2024 was €309,120.
+◦ Metrics and targets
+Targets related to digitalisation and artificial intelligence
+The objective of this Disclosure Requirement is to describe the targets set by ROVI to address the opportunities related to
+digitalisation and artificial intelligence.
+At present the Group does not have any measurable time-bound and outcome-oriented targets to manage the material
+opportunities identified in this respect. Notwithstanding, ROVI continuously monitors the efficacy of the measures implemented
+in the digitalisation and artificial intelligence area in order to consolidate and expand its activity in this field in upcoming years.
+From the IT area, the Group aims to extend implementation of the EBR system to the rest of its industrial complexes, thus
+driving the batch record digitalisation. Additionally, ROVI is also working on different projects to continue to develop the
+application of artificial intelligence in its activities.
+Furthermore, for 2025, the Hospitals and Institutional Relations area has other objectives, such as the development of the digital
+identity and the signature policy. This project covers the attributes necessary for a digital signature according to the different
+security levels, the criteria to be applied and the certification levels required for authorised signatories and/or representatives of
+the Group in accordance with the company and country. Likewise, it is planned to implement CLM version 3, incorporating
+artificial intelligence.
+139

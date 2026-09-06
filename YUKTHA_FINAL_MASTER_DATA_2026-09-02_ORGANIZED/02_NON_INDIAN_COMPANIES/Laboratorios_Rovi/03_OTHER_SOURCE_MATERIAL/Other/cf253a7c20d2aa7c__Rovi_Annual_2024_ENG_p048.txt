@@ -1,0 +1,51 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+a) Bank borrowings
+Bank borrowings at 31 December 2024 comprised the following bank loans:
+2024
+TOTAL
+Entity EIB EIB EIB Santander BBVA
+Face value 5,000 40,000 10,000 25,000 25,000
+Interest rate Eur3+0.844% 0.681%Fixed Eur3+0.65% 3.03% Fixed 3.49% Fixed
+2025 739 5,737 75 4,791 4,752 16,280
+2026 714 5,714 — 4,922 4,908 16,258
+2027 714 5,714 1,071 5,071 5,081 17,651
+2028 536 5,714 1,429 5,225 5,261 18,165
+2029 — 5,714 1,429 2,669 2,702 12,514
+2030 onward — — 6,071 — — 6,071
+2,703 28,593 10,075 22,678 22,704 86,939
+Non-current 1,964 22,856 10,000 17,887 17,952 70,659
+Current 739 5,737 75 4,791 4,752 16,280
+At 31 December 2023, bank loans matured as follows:
+2023
+a) b) TOTAL
+Entity EIB EIB
+Face value 5,000 40,000
+Interest rate Eur3+0.844% 0.681% Fixed
+2024 754 5,741 6,495
+2025 714 5,714 6,428
+2026 714 5,714 6,428
+2027 714 5,714 6,428
+2028 537 5,714 6,251
+2029 onward — 5,715 5,715
+3,433 34,312 37,745
+Non-current 2,679 28,571 31,250
+Current 754 5,741 6,495
+In December 2017, the European Investment Bank (EIB) granted ROVI a credit line to support its investments in
+Research, Development and Innovation (R&D&I). The credit line was for 45,000 thousand euros. ROVI could draw down
+this amount over a term of 24 months as from signature of the agreement and the credit matures in 2029. The credit line
+provides for a three-year grace period and financial conditions (i.e. applicable interest rates, repayment period, etc.) that
+are favourable to ROVI. As of 31 December, 2019, ROVI had drawn down the entirety of this credit line in:
+a) A draw-down of 5,000 thousand euros in 2018 at an annual interest rate of Euribor at 3 months plus 0.844%.
+b) A draw-down of 40,000 thousand euros in 2019 at a fixed annual interest rate of 0.681%.
+In the first half of 2024 and 2023, compliance as of 31 December 2023 and 2022, respectively, with the ratios established
+in this financing agreement was certified. At 31 December 2024, ROVI met the ratios established, although this will not
+be certified until after these annual accounts have been issued.
+In 2024, the Group received a new loan of 10,000 euros from the European Investment Bank (EIB) at an interest rate of
+Euribor 3 months plus a spread of 0.65%, maturing at 10 years with a three-year grace period, and two further loans of
+25,000 thousand euros each from BBVA and Banco Santander at fixed interest rates of 3.49% and 3%, respectively,
+maturing at 5 years with no grace period.
+38

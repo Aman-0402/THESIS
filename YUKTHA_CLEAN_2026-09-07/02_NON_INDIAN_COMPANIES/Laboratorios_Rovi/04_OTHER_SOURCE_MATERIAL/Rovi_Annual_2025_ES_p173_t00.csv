@@ -1,0 +1,8 @@
+Escala,Relevancia
+"< -0,6",Riesgo de alta relevancia
+"de -0,5 a -0,6",Riesgo moderado
+"de -0,2 a -0,4",Riesgo bajo
+"de -0,1 a 0,1",Riesgo/Oportunidad mínima
+"de 0,2 a 0,4",Oportunidad baja
+"de 0,5 a 0,6",Oportunidad moderada
+"> 0,6",Oportunidad de alta relevancia

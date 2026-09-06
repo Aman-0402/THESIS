@@ -1,0 +1,50 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+Los costes posteriores se incluyen en el importe en libros del activo, o se reconocen como un activo separado, sólo
+cuando es probable que los beneficios económicos futuros asociados con los elementos vayan a fluir al Grupo y el coste
+del elemento pueda determinarse de forma fiable. El importe en libros del componente sustituido, en su caso, se da de
+baja contablemente en los registros del Grupo. Los gastos de reparaciones y mantenimiento se cargan en la cuenta de
+resultados en el ejercicio en que se incurre en ellos.
+Los terrenos no se amortizan. La amortización del resto de activos se calcula usando el método lineal para reducir
+paulatinamente sus costes de adquisición hasta sus valores residuales en función de sus vidas útiles estimadas:
+Construcciones - 40 años
+Instalaciones técnicas y maquinaria – entre 4 y 14 años
+Otras instalaciones, utillaje y mobiliario – entre 5 y 10 años
+Otro inmovilizado material – entre 4 y 5 años
+El valor residual y la vida útil de los activos se revisan, y ajustan si es necesario, en la fecha de cada balance. El
+inmovilizado en curso incluye los elementos de inmovilizado material que se encuentran en situación de adaptación,
+construcción o montaje. El inmovilizado en curso se reconoce por su coste de adquisición y no se amortiza.
+Cuando el importe en libros de un activo es superior a su importe recuperable estimado, su valor se reduce de forma
+inmediata hasta su importe recuperable (Nota 2.9).
+Las pérdidas y ganancias por la venta de inmovilizado material se calculan comparando los ingresos obtenidos con el
+importe en libros y se incluyen en la cuenta de resultados.
+Derechos de uso
+Para los arrendamientos que cumplan lo dispuesto en la NIIF 16 el Grupo reconoce un activo por el derecho de uso del
+activo subyacente, que valora tomando como referencia el importe del pasivo asociado, al que se añaden los costes
+directos iniciales incurridos.
+La amortización de estos activos se realiza de forma lineal a lo largo de la vida útil estimada para cada uno de ellos.
+2.7 Activos intangibles
+a) Patentes y propiedad industrial. Marcas comerciales y licencias
+Tanto las patentes y propiedad industrial como las marcas comerciales y licencias adquiridas a terceros se presentan a
+coste histórico. En general, tienen una vida útil definida y se valoran a coste menos amortización acumulada. La
+amortización de aquéllos con vida útil definida se calcula por el método lineal para asignar el coste de estos activos
+durante su vida útil, estimada entre 10 y 15 años. Los activos sujetos a amortización se someten a revisiones para
+pérdidas por deterioro siempre que algún suceso o cambio en las circunstancias indique que el importe en libros puede
+no ser recuperable.
+Existen marcas comerciales y licencias con vida útil indefinida, las cuáles se someten anualmente a pruebas para
+comprobar si ha habido pérdidas por deterioro de valor. Se reconoce una pérdida por deterioro cuando el importe en
+libros del activo excede su valor recuperable. El importe recuperable es el mayor entre el valor razonable de un activo
+menos los costes para la venta y el valor en uso. A efectos de evaluar las pérdidas por deterioro de valor, los activos se
+agrupan al nivel más bajo para el que hay flujos de entrada de efectivo en gran medida independientes (unidades
+generadoras de efectivo). Las pérdidas por deterioro de valor previas de activos no financieros (distintos al fondo de
+comercio) se revisan para su posible reversión en cada fecha en la que se presenta información financiera.
+Los activos intangibles en curso se contabilizan a coste menos provisión por deterioro, si fuera aplicable.
+b) Aplicaciones informáticas
+Los costes asociados con el mantenimiento de aplicaciones informáticas se reconocen como gasto a medida que se
+incurre en los mismos. Los gastos de desarrollo directamente atribuibles al diseño y realización de pruebas de
+programas informáticos que sean identificables y únicos y susceptibles de ser controlados por el Grupo se reconocen
+como activos intangibles, cuando se cumplen las siguientes condiciones:
+• Técnicamente, es posible completar la producción del activo intangible de forma que pueda estar disponible
+para su utilización o su venta;
+12

@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+• La mayor demanda de materias primas impulsada por la transición hacia una economía baja en carbono, lo que
+disminuye la disponibilidad de las mismas aumentando la competencia y los precios, lo que se traduce en mayores
+costes de suministro, por ejemplo, de materiales derivados de productos petroquímicos (ej. moléculas orgánicas
+utilizadas como materias primas y reactivos farmacéuticos).
+Oportunidades regulatorias
+• Uso de fuentes de energía que generan un menor volumen de emisiones y tecnología de mayor eficiencia para lograr la
+descarbonización de la empresa.
+• Diseño de procesos de distribución más eficientes que conduzcan a una reducción de las emisiones de alcance 3.
+• Mejoras en el diseño de los envases, reduciendo la cantidad de materiales plásticos e incorporando materiales más
+ecológicos ante la creciente presión por parte de la sociedad y la regulación sobre el uso de plásticos.
+Tras el proceso de identificación de los riesgos y oportunidades, se procedió a la evaluación utilizando una matriz de
+probabilidad e impacto. La escala utilizada fue la siguiente:
+Escala Relevancia
+< -0,6 Riesgo de alta relevancia
+de -0,5 a -0,6 Riesgo moderado
+de -0,2 a -0,4 Riesgo bajo
+de -0,1 a 0,1 Riesgo/Oportunidad mínima
+de 0,2 a 0,4 Oportunidad baja
+de 0,5 a 0,6 Oportunidad moderada
+> 0,6 Oportunidad de alta relevancia
+El único riesgo de transición que resultó como significativo, en base a los umbrales considerados (riesgo de alta relevancia),
+fue el incremento del coste de las emisiones de CO .
+2
+3. Gestión del riesgo
+Una vez se identificaron dichos riesgos, el área responsable del Sistema de Control y Gestión de Riesgos los registró en la
+herramienta de gestión donde se realizaron valoraciones periódicas y se desarrollaron los planes de mitigación
+correspondientes (para más información al respecto véase el requisito “Impactos, riesgos y oportunidades materiales y su
+interacción con la estrategia y el modelo de negocio (NEIS 2 SBM-3)”). Cabe destacar que dicha área tiene la responsabilidad
+de informar a la Comisión de Auditoría en cada una de sus reuniones sobre el estado del sistema y, en su caso, sobre los
+riesgos que se hayan materializado.
+Riesgos climáticos físicos
+Fallo de equipos derivados de eventos de temperatura extrema (riesgo físico agudo)
+El resultado del análisis de escenarios descrito anteriormente ha permitido a ROVI cuantificar los riesgos físicos agudos en las
+cinco plantas de producción de ROVI concluyendo que, incluso en el escenario más desfavorable, RCP 8.5, el impacto sobre el
+valor económico de las 5 plantas productivas sería mínimo en cualquiera de los tres horizontes temporales evaluados.
+Estrés hídrico (riesgo físico crónico)
+En cuanto a la cuantificación del riesgo en las cinco plantas de producción de ROVI en España, se estimó que para el año
+2050, bajo las condiciones de un escenario RCP 8.5, escenario climático más desfavorable, las plantas de Granada podrían
+sufrir una reducción de ingresos debido a un decrecimiento en la capacidad de producción por cortes en el suministro de agua
+durante aproximadamente un mes al año.
+61

@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+3. Financial risk management
+3.1. Financial risk factors
+The Group’s activities expose it to a variety of financial risks: market risk (including interest rate risk, foreign exchange
+risk and price risk), credit risk and liquidity risk. The Group’s risk management program focuses on the unpredictability of
+the financial markets and seeks to minimize potential adverse effects on the Group’s financial performance.
+Risk management is carried out by the group Treasury Department following policies approved by the Board of Directors.
+Group Treasury identifies, evaluates and hedges financial risks in close co-operation with the Group’s operating units.
+The Audit Committee analyses written principles for global risk management, as well as written policies covering specific
+areas, such as, interest rate risk, liquidity risk and the investment of excess liquidity.
+(a) Market risk
+(i) Foreign exchange risk
+Foreign exchange risk is very low because (i) virtually all the Group’s assets and liabilities are in euros; (ii) a majority of
+the transactions with foreign parties are carried out in euros; and (iii) sometimes, transactions for significant amounts in
+currencies other than the euro are hedged by exchange rate insurance contracts.
+At 31 December, 2017, there were assets of 93 thousand euros. If the exchange rate at the reporting date had been 10%
+higher or lower, these assets denominated in pounds sterling would have decreased or increased by 10 thousand euros
+and 11 thousand euros, respectively.
+At 31 December, 2017, there were financial liabilities of 307 thousand pounds sterling on the statement of financial
+position. If the exchange rate had been 10% higher or lower, these liabilities would have decreased or increased by 31
+thousand euros or 38 thousand euros, respectively, with the resulting effect on profit and loss.
+At 31 December, 2016 there were no financial assets or liabilities in any currency other than the euro.
+(ii) Price risk
+The Group is exposed to price risk for equity securities because of investments held by the Group and classified as
+available for sale on the consolidated statement of financial position. To manage its price risk arising from investments in
+equity securities, the Group diversifies its portfolio. The portfolio is diversified in accordance with the limits set by the
+Group. The Group does not use derivatives to hedge price risk.
+At 31 December, 2017 and 2016, a change in the listed rice of equity securities would have had no significant effect of
+the Group’s statement of financial position.
+(iii) Cash-flow interest-rate risk
+The Group is subject to interest rate risk in respect of cash flows on non-current financial debt transactions at variable
+rates. Group policy is to try to keep most of its financial debt in the form of debt with government entities by obtaining
+reimbursable advances on which there is no interest-rate risk and, in the case of bank debt, to obtain cash flows not only
+at variable rates, but also at fixed rates, thus keeping the impact of interest-rate risk to a minimum.
+23

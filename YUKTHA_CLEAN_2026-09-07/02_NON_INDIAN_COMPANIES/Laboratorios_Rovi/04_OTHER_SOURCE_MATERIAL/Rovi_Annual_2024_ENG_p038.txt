@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+31 December 2024 31 December 2023
+Condensed statement of comprehensive income Terafront Farmatech, S.L. Enervit Nutrition, S.L.
+Revenue — 5,727
+Procurements and changes in inventories — (4,777)
+Employee benefit expenses — (351)
+Other operating expenses (90) (448)
+Amortisation and depreciation — (335)
+Operating profit/(loss) (90) (184)
+Finance costs - net — —
+Income tax — —
+Profit/(loss) for the period (90) (184)
+Other comprehensive income — —
+TOTAL COMPREHENSIVE INCOME (90) (184)
+Dividends received from joint ventures — —
+10. Financial assets at amortised cost
+Thousand euros
+2024 2023
+Non-current loans and receivables
+– Deposits (a) 1,327 1,327
+– Bank receivables (b) 65 65
+– Credits to group companies (Note 31.i) 50,026 53,001
+– Guarantee deposits 196 19
+– Shares — 25
+51,614 54,437
+Current loans and receivables
+– Trade receivables (c) 52,958 56,584
+– Receivables from group companies (Note 31.i) 100,904 106,669
+– Sundry debtors 1 26
+– Employeees 9 43
+153,872 163,322
+a) Deposits
+At 31 December 2024 and 2023, “Deposits” included deposits at interest rates ranging from 2% to 3% pledged in favour
+of Banco Santander. The Company considers the credit risk associated to these deposits to be low and, therefore, no
+expected losses associated thereto were recognised.
+b) Non-current bank receivables
+The amount included in “Non-current bank receivables” relates to the payments made to Banco Santander under a debt
+assumption agreement whereby this bank assumed the payment of a reimbursable advance granted to the Company by
+government entities (Note 18.b).
+c) Trade receivables
+Management considers that the fair value of financial assets at amortised cost does not differ significantly from their
+current value, since they comprise principally balances receivable at less than one year and are subject to possible
+interest charges if they are not paid within said period.
+28

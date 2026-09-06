@@ -1,0 +1,38 @@
+7
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+– Plan and execute the audit of the Group to obtain sufficient appropriate audit evidence regarding
+the financial information of the entities or business units of the Group as the basis to form an
+opinion on the consolidated annual accounts. We are responsible for the direction, supervision
+and review of the work performed for the Group audit. We remain solely responsible for our
+audit opinion.
+We communicate with the audit committee of the Parent regarding, among other matters, the
+planned scope and timing of the audit and significant audit findings, including any significant
+deficiencies in internal control that we identify during our audit.
+We also provide the Parent's audit committee with a statement that we have complied with the
+ethical requirements regarding independence, and to communicate with them all matters that may
+reasonably be thought to bear on our independence, and where applicable, safeguarding measures
+adopted to eliminate or reduce the threat.
+From the matters communicated to the audit committee of the Parent, we determine those that
+were of most significance in the audit of the consolidated annual accounts of the current period and
+which are therefore the key audit matters.
+We describe these matters in our auditor’s report unless law or regulation precludes public
+disclosure about the matter.
+REPORT ON OTHER LEGAL AND REGULATORY REQUIREMENTS
+European Single Electronic Format ________________________________________
+We have examined the digital files of Laboratorios Farmacéuticos Rovi, S.A. and its subsidiaries for
+2024 in European Single Electronic Format (ESEF), which comprise the XHTML file that includes the
+consolidated annual accounts for the aforementioned year and the XBRL files tagged by the
+Company, which will form part of the annual financial report.
+The Directors of Laboratorios Farmacéuticos Rovi, S.A. are responsible for the presentation of the
+2024 annual financial report in accordance with the format and mark-up requirements stipulated in
+Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 (hereinafter the “ESEF
+Regulation”). In this regard, they have incorporated the Annual Corporate Governance Report and
+the Annual Report on Directors’ Remuneration by means of a reference thereto in the consolidated
+directors’ report.
+Our responsibility consists of examining the digital files prepared by the Directors of the Parent, in
+accordance with prevailing legislation regulating the audit of accounts in Spain. This legislation
+requires that we plan and perform our audit procedures to determine whether the content of the
+consolidated annual accounts included in the aforementioned digital files fully corresponds to the
+consolidated annual accounts we have audited, and whether the consolidated annual accounts and
+the aforementioned files have been formatted and marked up, in all material respects, in accordance
+with the requirements of the ESEF Regulation.

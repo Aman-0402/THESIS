@@ -1,0 +1,33 @@
+Dirección General de Mercados
+Edison, 4, 28006 Madrid, España
+(+34) 915 851 500, www.cnmv.es
+LABORATORIOS FARMACEUTICOS ROVI, S.A.
+2º SEMESTRE 2016
+IV. INFORMACIÓN FINANCIERA SELECCIONADA
+3. ESTADO DE CAMBIOS EN EL PATRIMONIO NETO INDIVIDUAL
+ESTADO DE INGRESOS Y GASTOS RECONOCIDOS INDIVIDUAL (ELABORADO UTILIZANDO LA NORMATIVA CONTABLE EN VIGOR DE
+CARÁCTER NACIONAL)
+Uds.: Miles de euros
+PERIODO PERIODO
+ACTUAL ANTERIOR
+31/12/2016 31/12/2015
+A) RESULTADO DEL EJERCICIO (de la cuenta de pérdidas y ganancias) 0305 31.842 17.509
+B) INGRESOS Y GASTOS IMPUTADOS DIRECTAMENTE AL PATRIMONIO NETO: 0310 306 311
+1. Por valoración de instrumentos financieros: 0320 (1) (2)
+a) Activos financieros disponibles para la venta 0321 (1) (2)
+b) Otros ingresos/(gastos) 0323
+2. Por coberturas de flujos de efectivo 0330
+3. Subvenciones, donaciones y legados recibidos 0340 409 (28)
+4. Por ganancias y pérdidas actuariales y otros ajustes 0344
+5. Resto de ingresos y gastos imputados directamente al patrimonio neto 0343
+6. Efecto impositivo 0345 (102) 341
+C) TRANSFERENCIAS A LA CUENTA DE PÉRDIDAS Y GANANCIAS: 0350 (811) (562)
+1. Por valoración de instrumentos financieros: 0355
+a) Activos financieros disponibles para la venta 0356
+b) Otros ingresos/(gastos) 0358
+2. Por coberturas de flujos de efectivo 0360
+3. Subvenciones, donaciones y legados recibidos 0366 (1.082) (750)
+4. Resto de ingresos y gastos imputados directamente al patrimonio neto 0365
+5. Efecto impositivo 0370 271 188
+TOTAL INGRESOS/(GASTOS) RECONOCIDOS (A + B + C) 0400 31.337 17.258
+G-5

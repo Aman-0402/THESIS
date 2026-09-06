@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+10. Assets at amortised cost
+Thousand euros
+2021 2020
+Non-current assets at amortised cost
+- Deposits (a) 1,327 1,327
+- Bank borrowings (b) 65 65
+- Credits to Group companies 25,963 31,804
+- Guarantee deposits 29 29
+27,384 33,225
+Current assets at amortised cost
+- Trade receivables (c) 49,664 43,659
+- Receivables from related parties (Note 31 i) 136,393 249,377
+- Sundry debtors 26 31
+186,083 293,067
+213,467 326,292
+a) Deposits
+At 31 December, 2021 and 2020, “Deposits” included deposits at interest rates ranging from 2% to 3% pledged in favour
+of Banco Santander. The Company considers the credit risk associated to these deposits to be low and, therefore, no
+expected losses associated thereto were recognised.
+b) Non-current bank receivables
+The amount included in “Non-current bank receivables” relates to the payments made to Banco Santander under a debt
+assumption agreement whereby this bank assumed the payment of a reimbursable advance granted to the Company by
+government entities (Note 18.b).
+c) Trade receivables
+Management considers that the fair values of loans and receivables do not differ significantly from their current values,
+since they comprise principally balances receivable at less than one year and are subject to possible interest charges if
+they are not paid within said period.
+At 31 December, 2021, the balance receivable from the Social Security authorities and government entities was 6,513
+thousand euros (7,744 thousand euros at 31 December, 2020), geographically distributed as follows:
+Rating 2021 Balance 2021 Rating 2020 Balance 2020
+Portugal BBB 1,978 BBB 3.629
+Catalonia BB 938 BB 881
+Valencia BB- 729 BB- 755
+Madrid BBB 722 BBB 644
+Aragon BBB 452 BBB 266
+Basque Country A 389 A 256
+Andalusia BBB- 311 BBB- 239
+Canary Islands BBB 99 BBB 138
+Cantabria BBB 139 BBB 134
+Castilla La Mancha BBB- 93 BBB- 106
+Other — 663 — 696
+6,513 7,744
+33

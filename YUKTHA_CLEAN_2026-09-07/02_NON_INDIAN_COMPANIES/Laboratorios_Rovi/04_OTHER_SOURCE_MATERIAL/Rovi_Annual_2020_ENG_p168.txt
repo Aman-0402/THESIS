@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS
+ROVI, S.A. AND SUBSIDIARIES AT 31 DECEMBER, 2020
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Thousands of euros)
+31 December
+Note 2020 2019
+Cash flows from operating activities
+Profit before income tax 72,581 41,880
+Adjustments for non-monetary transactions
+Amortisation 6 & 7 19,593 18,216
+Finance income 26 (43) (51)
+Valuation allowance 12 & 13 1,772 2,998
+Adjustments for changes in value of derivatives 796 146
+Gain or loss on derecognitions of financial assets and liabilities 245 (305)
+Finance expenses 26 1,072 978
+Grants, income from distribution licences and other deferred incomes (2,101) (4,408)
+Share of profit of joint ventures 10 31 195
+Changes in working capital:
+Trade and other receivables 7,468 (20,409)
+Inventories (70,398) (67,227)
+Other current assets (prepaid expenses) (10) 18
+Trade and other payables (811) 23,953
+Other collections and payments
+Proceeds from toll manufacturing services 20 21,617 -
+Proceeds from distribution licences 20 1,253 3,194
+Interest paid (151) (93)
+Income tax cash flow (6,038) (8,129)
+Net cash generated (used) in operating activities 46,876 (9,044)
+Cash flows from investing activities
+Purchases of intangible assets 7 (355) (14,626)
+Purchases of property, plant and equipment 6 (39,337) (25,899)
+Proceeds from sale of property, plant and equipment 6 63 2
+Interest received 4 51
+Net cash flows generated (used) in investing activities (39,625) (40,472)
+Cash flows from financing activities
+Repayments of financial debt (13,179) (21,242)
+Proceeds from financial debt 18 1,430 47,033
+Interest paid (299) (93)
+Purchase of treasury shares 16 d) (37,255) (4,718)
+Reissue of treasury shares 16 d) 37,488 4,871
+Dividends paid 16 c) (9,700) (4,420)
+Net cash generated (used) in financing activities (21,515) 21,431
+Net (decrease)/increase in cash and cash equivalents (14,264) (28,085)
+Cash and cash equivalents at beginning of the year 9 & 14 67,426 95,511
+Cash and cash equivalents an end of the year 9 & 14 53,162 67,426
+Notes 1 to 35 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+6

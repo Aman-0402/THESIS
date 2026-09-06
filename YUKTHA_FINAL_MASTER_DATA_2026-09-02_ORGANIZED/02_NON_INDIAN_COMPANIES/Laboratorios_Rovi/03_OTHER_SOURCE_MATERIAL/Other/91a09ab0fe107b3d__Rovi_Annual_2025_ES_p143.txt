@@ -1,0 +1,55 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Gravedad Probabilidad
+Impactos positivos y negativos Impactos negativos Impactos potenciales
+Magnitud del impacto Alcance del impacto Irremediabilidad del impacto Posibilidad de ocurrencia
+Impacto leve sobre el Impacto mínimo sobre el No se necesitan medidas correctivas Es improbable que se materialice el
+medioambiente y/o sociedad. medioambiente y/o sociedad. para restablecer la situación anterior. impacto.
+Impacto moderado sobre el Impacto limitado sobre el Fácil de restaurar una situación Es posible que se materialice el
+medioambiente y/o sociedad. medioambiente y/o sociedad. equivalente a la anterior. impacto.
+Impacto medio sobre el Impacto medio sobre el No es fácil restaurar una situación Es probable que se materialice el
+medioambiente y/o sociedad. medioambiente y/o sociedad. equivalente a la anterior. impacto.
+Impacto importante sobre el Impacto generalizado sobre el Dificultad para restaurar una situación Es muy probable que se materialice
+medioambiente y/o sociedad. medioambiente y/o sociedad. equivalente a la anterior. el impacto.
+Impacto muy importante sobre el Impacto global sobre el Muy difícil o imposible de restaurar una Es cierto que se materializará el
+medioambiente y/o sociedad medioambiente y/o sociedad. situación equivalente a la anterior. impacto.
+Evaluación de riesgos y oportunidades
+La evaluación de riesgos y oportunidades contempla dos variables principales, el efecto financiero y la probabilidad, siguiendo
+una escala del 1 al 5.
+Efecto Financiero Probabilidad
+Riesgos y oportunidades R&O potenciales
+Magnitud potencial del efecto financiero13 Posibilidad de ocurrencia
+Es improbable que se materialice el riesgo o la
+< 2,0 millones € El efecto financiero es leve.
+oportunidad.
+Es posible que se materialice el riesgo o la
+2,0 -11,8 millones € El efecto financiero es moderado.
+oportunidad.
+Es probable que se materialice el riesgo o la
+11,8 – 23,6 millones € El efecto financiero es alto.
+oportunidad.
+Es muy probable que se materialice el riesgo o la
+23,6 – 47,3 millones € El efecto financiero es importante.
+oportunidad.
+Es cierto que se materializará el riesgo o la
+>47,3 millones € El efecto financiero es muy importante.
+oportunidad.
+Tras el establecimiento de las escalas de valoración, se procedió a la evaluación de los impactos, riesgos y oportunidades por
+parte de la muestra seleccionada de grupos de interés tanto internos como externos.
+En esta fase de evaluación se tuvieron en consideración todos los grupos de interés de ROVI, tanto internos como externos: los
+responsables de las distintas áreas de ROVI, la fuerza laboral, accionistas e inversores, proveedores, clientes, profesionales
+sanitarios, comunidad científica, pacientes y sociedad. El alcance de las entrevistas mantenidas y cuestionarios distribuidos
+puede consultarse en el requisito de divulgación “Intereses y opiniones de las partes interesadas (SBM-2)” del presente
+capítulo.
+d) Fase de determinación
+En esta fase se identificaron los asuntos materiales del Grupo mediante el análisis inicial de las evaluaciones de grupos de
+interés internos y externos. Posteriormente, se ponderaron los IROs, otorgando un 60% a la evaluación del equipo de ESG y un
+40% a la del resto de grupos de interés.
+A partir de dicha ponderación y el análisis de resultados consolidados, se definió un umbral14 de materialidad en función de los
+valores máximos y mínimos obtenidos de ambas materialidades:
+• Materialidad de impacto: un valor mínimo de 0,6 y un valor máximo de 4,7, por lo que los resultados se encuentran
+dispersos entre las escalas establecidas resultando en niveles de impacto muy heterogéneos entre todas las temáticas.
+13 Los rangos financieros se han calculado en función de los datos de las Cuentas Anuales Consolidadas del Grupo relativas al año fiscal 2023, ya que el análisis
+de doble materialidad se comenzó a inicios de 2024. En concreto, se ha calculado como % de los ingresos reconocidos en la cuenta de resultados.
+14 Téngase en cuenta que este umbral no se ha visto afectado con la revisión llevada a cabo en 2025 sobre el análisis de doble materialidad.
+31

@@ -1,0 +1,38 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2023
+(Expresada en miles de euros)
+Los gastos que no cumplan estos criterios se reconocerán como un gasto en el momento en el que se incurran. Los
+desembolsos sobre un activo intangible reconocidos inicialmente como gastos del ejercicio no se reconocerán posteriormente
+como activos intangibles.
+Las aplicaciones informáticas tienen una vida útil de 4 a 10 años.
+c) Gastos de investigación y desarrollo
+Los gastos de investigación se reconocen como un gasto cuando se incurre en ellos. Los costes incurridos en proyectos de
+desarrollo (relacionados con el diseño y prueba de productos nuevos o mejorados) se reconocen como activo intangible cuando
+se cumplen los siguientes requisitos:
+– Técnicamente, es posible completar la producción del activo intangible de forma que pueda estar disponible para su
+utilización o su venta;
+– La dirección tiene intención de completar el activo intangible en cuestión, para usarlo o venderlo;
+– Existe la capacidad para utilizar o vender el activo intangible;
+– Es posible demostrar la forma en que el activo intangible vaya a generar probables beneficios económicos en el futuro;
+– Existe disponibilidad de los adecuados recursos técnicos, financieros o de otro tipo, para completar el desarrollo y para
+utilizar o vender el activo intangible; y
+– Es posible valorar, de forma fiable, el desembolso atribuible al activo intangible durante su desarrollo.
+El Grupo considera que en el caso de desarrollo de productos farmacéuticos los requisitos mencionados se cumplen a partir de
+que los fármacos han sido aprobados para su comercialización por las autoridades sanitarias, si se trata de nuevos productos
+desarrollados bajo patente, o en el momento en el que se solicita dicha autorización, en el caso de productos biosimilares o
+genéricos.
+El coste de los activos generados internamente por el Grupo se determina siguiendo los mismos principios que los establecidos
+en la determinación del coste de producción de las existencias. La capitalización del coste de producción se realiza mediante el
+abono de los costes imputables al activo en cuentas de la partida Trabajos efectuados por el Grupo para activos no corrientes
+de la cuenta de resultados consolidada (estado del resultado global consolidado).
+Estos activos tienen una vida útil de 20 años, periodo consistente con la duración de patentes de productos farmacéuticos,
+durante los cuales ROVI considera que obtendrá rendimientos positivos de dicho desarrollo.
+2.8 Costes por intereses
+Los costes por intereses generales y específicos que sean directamente atribuibles a la adquisición, construcción o producción
+de activos aptos, que son aquellos que necesariamente requieren de un periodo de tiempo sustancial antes de estar
+preparados para el uso previsto o la venta, se añaden, en su caso, al coste de esos activos, hasta que llega el momento en que
+los activos están sustancialmente preparados para el uso que se pretende o la venta.
+Los ingresos financieros obtenidos por la inversión temporal de los préstamos específicos a la espera de su uso en los activos
+aptos se deducen de los costes por intereses susceptibles de capitalización.
+El resto de los costes por intereses se reconoce en resultados en el ejercicio en que se incurre en ellos.
+13

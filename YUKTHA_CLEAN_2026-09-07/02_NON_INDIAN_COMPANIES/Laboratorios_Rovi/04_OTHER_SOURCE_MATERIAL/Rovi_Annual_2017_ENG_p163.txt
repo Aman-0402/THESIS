@@ -1,0 +1,37 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+2.20 Revenue recognition
+Ordinary revenue comprises the fair value of the consideration received or receivable for the sale of goods and services
+in the ordinary course of the Group’s activities. Ordinary revenue is shown, net of value-added tax, returns, rebates and
+discounts and after eliminating sales within the Group.
+The Group recognizes revenue when the amount thereof can be measured reliably, it is probable that future economic
+benefits will flow to the Group and the specific requirements for each one of the Group’s activities are fulfilled, as
+described below.
+(a) Sales of goods
+The Group manufactures and sells pharmaceutical products for which it holds a manufacturing and sales licence in the
+wholesale market and also to retailers. It likewise acquires and sells pharmaceutical products from other entities.
+Sales of goods are recognized when a Group entity has delivered products to the customer and there is no unfulfilled
+obligation which could affect the acceptance of the products by the customer. The sale does not take place until the
+products and the obsolescence and loss risks have been transferred to the customer and the customer has accepted the
+products in accordance with the sale contract, the acceptance period has finished, or there is objective evidence for the
+Group that the necessary criteria have been met for customer acceptance.
+The products are sold with volume discounts and customers are entitled to return damaged products. Sales are
+recognized at the price fixed in the sale contract, net of volume discounts and returns estimated at the date of sale.
+Volume discounts are measured based on forecast annual purchases. Returns are not significant and they are estimated
+based on the Group’s historical experience. Sales are carried out with short-term collection periods. The Group’s practice
+is generally to claim late-payment interest, calculated based on the actual collection period, from government entities
+from which receivables are not collected in the short term.
+(b) Sales of services
+The Group has service contracts consisting of the completion of the production process of pharmaceutical products of
+other entities. The raw materials and products used are received without costs from the entities receiving the services.
+The revenues are recognized on the date on which the services are provided, which is the same date as the products are
+consigned to the aforementioned entities.
+(c) Interest income
+Interest income is recognized in accordance with the effective interest method.
+(d) Dividend income
+Dividend income is recognized when the right to receive payment is established.
+21

@@ -1,0 +1,26 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Cash Flows for the annual periods ended 31 December 2024 and 2023
+(Thousand euros)
+Year ended 31 December
+Note
+2024 2023
+Profit before income tax 73,859 10,111
+Adjustments to profit (44,619) 14,635
+Changes in working capital 66,655 69,389
+Other cash flows from operating activities (42,458) (39,931)
+Cash flows generated (used) in operating activities 25 53,437 54,204
+Payments of investments (32,034) (8,876)
+Proceeds from disinvestments 3,982 58,631
+Cash flows generated (used) in investing activities 26 (28,052) 49,755
+Proceeds from and payments of financial liabilities 82,387 (7,839)
+Dividend payments and remuneration of other equity instruments (56,451) (69,049)
+Transactions with treasury shares (47,787) (81,261)
+Cash flows generated (used) in financing activities 27
+(21,851) (158,149)
+NET INCREASE / DECREASE IN CASH AND CASH EQUIVALENTS 3,534 (54,190)
+Cash and cash equivalents at beginning of year 13 13,023 67,213
+Cash and cash equivalents at end of year 13 16,557 13,023
+Notes 1 to 35 attached hereto are an integral part of these Annual Accounts.
+6

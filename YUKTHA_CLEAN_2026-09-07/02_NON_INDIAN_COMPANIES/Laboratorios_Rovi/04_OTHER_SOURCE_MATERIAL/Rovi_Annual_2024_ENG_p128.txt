@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+12. Inventories
+2024 2023
+Raw materials and other consumables 106,187 169,368
+Work in progress and semi-finished goods 128,415 80,505
+Finished goods produced internally 72,825 62,884
+Commercial inventories 22,527 25,211
+329,954 337,968
+In 2024, the Group reduced the value of its inventories by 3,857 thousand euros (3,270 thousand euros in 2023) due to
+obsolescence and expiration and the measurement of the products according to the profit expected from their sale. The
+reduction in value of inventories is recognised under the captions “Raw materials and consumables used” and “Change in
+stocks of finished goods and work in progress” in the income statement. At 31 December 2024, the provision for the reduction of
+the Group’s inventories was 21,815 thousand euros (25,672 thousand euros in 2023).
+The Group did not recognise any inventories related to the performance of contracts with customers.
+The inventories purchase/sale commitments for the Group at the end of the reporting period were as normal in its course of its
+business. Management estimates that meeting these commitments will not generate losses for the Group. The Group holds
+insurance policies to cover the risks the inventories are exposed to. The insurance cover is considered sufficient.
+13. Trade and other receivables
+The breakdown of trade and other receivables is as follows:
+2024 2023
+Trade receivables 115,176 125,068
+Less: loss allowance (349) (518)
+Trade receivables - Net (13.a) 114,827 124,550
+Other receivables 2 27
+Receivables with related parties (Note 32) 30 10
+Deposits (13.b) 1,930 1,440
+Employee advances 133 173
+Public authorities (13.c) 12,614 17,179
+Total 129,536 143,379
+Less: non-current portion: financial receivables 65 65
+Current portion 129,471 143,314
+a) Trade receivables
+Management considers that the fair value of trade and other receivables does not differ significantly from their recognised
+values, since they consist principally of balances receivable at less than one year and are subject to possible interest charges if
+they are not collected within said period.
+The carrying amounts of receivables are denominated in euros, pounds sterling, zlotys and Swiss francs.
+36

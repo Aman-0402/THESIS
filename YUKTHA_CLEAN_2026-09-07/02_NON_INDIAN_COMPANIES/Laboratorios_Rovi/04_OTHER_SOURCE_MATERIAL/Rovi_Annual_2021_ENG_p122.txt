@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+4. Critical accounting estimates and judgements
+Critical accounting estimates and judgements are continuously assessed and are based on historical experience and other
+factors, including expectations of future events deemed reasonable under the circumstances.
+4.1 Critical estimates and assumptions
+The Group makes estimates and assumptions concerning the future. The resulting accounting estimates will, by definition,
+rarely equal the related actual results. The estimates and assumptions that have a significant risk of causing a material
+adjustment to the carrying amounts of assets and liabilities within the next reporting period are outlined below.
+Regarding the impact of climate change-related issues, ROVI considers climate change to represent an implicit element
+of the methodologies and models used in the estimates made by Management to quantify some of the assets, liabilities,
+revenues, expenses and commitments. The Group has taken account of the possible implications that may derive from
+climate change and considers that there was no material impact in any area as of the reporting date.
+a) Recoverability of intangible assets
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 31 December, 2021 and 2020. Management reviews these assets for indications of impairment on an
+annual basis, although there has been none to date. The recoverable value, which was higher than the carrying amount
+at the end of both reporting periods, has been obtained by projecting the forecast cash flows for the following five years.
+b) Capitalisation of development expenses
+The Group considers that its development project for a low-molecular-weight heparin, a biosimilar of enoxaparin, has met
+all the requirements mentioned in note 2.7.c) since last quarter of 2014, when an application was filed with the European
+health authorities to obtain authorisation for the marketing of this biosimilar in Europe. Therefore, from that time until the
+effective commercialisation in Europe of this biosimilar, all the expenses incurred in this project have been capitalised.
+Amortisation of this asset commenced during the first quarter of 2017, with the favourable result of the decentralised
+process used by the Group to apply for marketing authorisation in twenty-six European Union countries. These assets
+have a useful life of 20 years, which is consistent with the term of pharmaceutical product patents. ROVI considers that it
+will obtain a positive return on said development over that period.
+For the rest of the Research and Development projects that ROVI is conducting, the Group considers that the requirements
+established in the rules on capitalisation of the associated development expenses have not yet been met.
+c) Co-operation Agreement between the government and Farmaindustria
+As a member of Farmaindustria, the Group holds a commitment to assume and pay part of the interannual increase in the
+pharmaceutical spending of the Autonomous Communities, in accordance with reimbursement mechanisms established
+between the parties for each year.
+The amounts payable estimated by Management are based on the evolution of public spending on medicines (excluding
+generics and biosimilars) and the Group’s market share, among other factors.
+4.2 Critical judgements in applying the accounting policies
+Revenue recognition
+The Group has recognised the total sales of goods marketed in 2021 and 2020 as revenue at face value and has, when
+applicable, claimed late payment interest from the public authorities. The buyer has the right to return the goods sold.
+Although the Group believes that, based on previous experience, the level of returns will not be very meaningful, ROVI
+26

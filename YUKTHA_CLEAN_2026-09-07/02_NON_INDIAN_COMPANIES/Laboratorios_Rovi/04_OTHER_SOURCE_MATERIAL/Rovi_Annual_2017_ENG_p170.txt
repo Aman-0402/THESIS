@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+The segment information used by the Management Committee for 2017 was as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 122,199 242,102 - 364,301 (88,652) 275,649
+EBITDA (*) 23,052 10,018 (123) 32,947 (2,459) 30,488
+Amortization (4,108) (7,371) - (11,479) - (11,479)
+EBIT (**) 18,944 2,647 (123) 21,468 (2,459) 19,009
+Finance costs - net (21) 8,602 (1) 8,580 (9,500) (920)
+Share of profit of JV - (567) - (567) - (567)
+Corporate income tax (7,224) 6,296 30 (898) 617 (281)
+Profit / (loss) 11,699 16,978 (94) 28,583 (11,342) 17,241
+The 2016 figures were as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 110,881 232,786 - 343,667 (78,501) 265,166
+EBITDA (*) 15,505 25,439 (2) 40,942 (1,619) 39,323
+Amortization (3,934) (7,089) - (11,023) - (11,023)
+EBIT (**) 11,571 18,350 (2) 29,919 (1,619) 28,300
+Finance costs - net (33) 14,242 - 14,209 (14,698) (489)
+Share of profit of JV - 71 - 71 - 71
+Corporate income tax (2,043) (86) 1 (2,128) 335 (1,793)
+Profit / (loss) 9,495 32,577 (1) 42,071 (15,982) 26,089
+(*) EBITDA includes the operating profit for the year but not amortization and depreciation.
+(**) EBIT relates to the operating profit for the year.
+Inter-segment transactions included on the finance gain/(loss) lines are principally dividends paid between Group
+companies.
+Each segment’s sales to customers in 2017 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 122,199 242,102 - 364,301
+Inter-segment revenues (61,100) (27,552) - (88,652)
+Revenues from external customers 61,099 214,550 - 275,649
+Each segment’s sales to customers in 2016 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 110,881 232,786 - 343,667
+Inter-segment revenues (54,249) (24,252) - (78,501)
+Revenues from external customers 56,632 208,534 - 265,166
+28

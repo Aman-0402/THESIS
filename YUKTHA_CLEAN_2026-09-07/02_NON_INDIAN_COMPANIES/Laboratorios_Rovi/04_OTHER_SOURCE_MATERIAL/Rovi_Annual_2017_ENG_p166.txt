@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Had interest rates on financial debt at variable rates been 1% higher or lower at 31 December 2017, with all other
+variables remaining constant, the gain/loss after taxes for the year would have decreased or increased by 33 thousand
+euros, respectively, owing to the difference in interest expense on loans at variable rates (49 thousand euros at 31
+December, 2016).
+(b) Credit risk
+Credit risk is managed on a group basis. Credit risk arises from cash and cash equivalents, deposits with banks and
+financial institutions, receivables classified as available for sale and trade receivables.
+The banks and financial institutions with which the Group works generally have independent ratings. If customers have
+been independently rated, such ratings are used. If this is not the case, then the Group assesses the risk on the basis of
+the customer’s financial position, historical experience and a series of other factors. In those cases in which there is no
+doubt as to the customer’s financial solvency, the Group elects not to set credit limits.
+At 31 December, 2017, the greatest investment in financial assets, including cash and cash equivalent and apart from
+trade receivables, was related to Banco Santander, 19,782 thousand euros (17,891 thousand euros at 31 December,
+2016 with BBVA). A significant proportion of trade and other receivables relates to accounts receivable from government
+entities, on which, in view of their nature, with the information currently available, Management considers that there is no
+credit risk (Note 13).
+(c) Liquidity risk
+Management periodically monitors the liquidity estimates of the Group in accordance with the expected cash flows. The
+Group maintains sufficient cash and marketable securities to meet its liquidity requirements. At 31 December, 2017, the
+Group held a financing agreement with the European Investment Bank, which it can draw down over the next two years
+for a total amount of 45 million euros. At the 2017 reporting date, ROVI had not used this credit line.
+In 2017 and 2016, the Company signed two non-recourse factoring contracts, which led to an increase in the balance of
+cash and cash equivalents, while the receivables for which these contracts were requested were derecognized.
+The following table analyses the Group’s financial liabilities grouped by maturity dates based on the periods outstanding
+at the end of the reporting period through to the maturity date stipulated in the contract, including the corresponding
+interest. The amounts shown in the table relate to cash flows stipulated in the contract, which have not been discounted.
+Given that these amounts have not been discounted and that they include future interest accruals, they cannot be
+matched with figures on the statement of financial position for financial debt and trade and other payables.
+Less than 1 Between 1 Between 2
+At 31 December, 2017 year and 2 years and 5 years Over 5 years
+Bank borrowing (Note 18) 13,328 17,784 - -
+Debt with government entities (Note 18) 2,986 4,091 4,006 2,794
+Trade suppliers (Note 17) 42,129 - - -
+Other payables (Note 17) 10,813 - - -
+69,256 21,875 4,006 2,794
+24

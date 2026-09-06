@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+22. Revenue and expenses
+a) Net sales
+The net amount of the sales from the Company’s ordinary activities is geographically distributed as follows:
+%
+Market 2019 2018
+Spain 75% 81%
+Germany 6% 5%
+Italy 4% 3%
+France 3% 2%
+Turkey 2% 2%
+Portugal 2% 1%
+Greece 1% 2%
+Austria 1% 1%
+Czech Republic 1% 0%
+UK 1% 0%
+Jordan 0% 1%
+Other 4% 2%
+100% 100%
+The breakdown of sales by product group was as follows:
+Thousands of euros
+2019 2018
+Pharmaceutical products 246,010 191,160
+Contrast agents and other hospital products 32,556 29,688
+Non-prescription pharmaceutical products 1,152 1,408
+Sales of bemiparin to other Group companies (Note 31.a) 98,958 68,846
+Other 545 100
+379,221 291,202
+The total amount of sales of goods dropped by 17,771 thousand euros in 2019 (18,252 thousand euros in 2018) as a
+result of the rebates to the national health sytem (Note 3.18). 2,174 thousand euros of the total amount of rebates to the
+national health system are related to the co-operation agreement signed between Farmaindustria and the Spanish
+government (3,467 thousand euros at 31 December, 2018) (Note 20).
+b) Goods, raw materials and other consumables used
+Thousands of euros
+2019 2018
+Purchases 292,445 194,559
+Change in inventories (16,901) (6,116)
+275,544 188,443
+49

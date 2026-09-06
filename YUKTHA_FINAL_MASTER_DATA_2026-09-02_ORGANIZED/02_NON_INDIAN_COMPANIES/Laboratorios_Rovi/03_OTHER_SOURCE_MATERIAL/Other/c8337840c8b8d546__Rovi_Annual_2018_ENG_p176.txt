@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+c) Sale of services with distribution licenses
+Occasionally the Group grants licences to other pharmaceutical companies to sell its products on an exclusive
+basis in a specific territory and also promises to manufacture the pharmaceutical product for the customer. For
+these agreements, the Group collects a single down-payment for the transfer of the license, which is either non-
+refundable or may be refundable under very strict terms if the product is finally not authorised for distribution in a
+specific territory. In these contracts signed with third parties whereby Rovi grants the distribution licenses, the
+obligations arising from the granting of these licenses are always linked to the obligation to supply and
+manufacture the product and no other entity can manufacture it. As the customer cannot benefit from the licence
+without the manufacturing service, the licence and the manufacturing service cannot be separated and therefore
+the Group accounts for the licence and the manufacturing service as a single performance obligation.
+Additionally, in these types of contracts the Group has an enforceable right to payment for performance
+completed to date, as the entity would be entitled to an amount that at least compensated the Group for its
+performance completed to date in the event that the customer or another party were to terminate the contract for
+reasons other than the entity's failure to perform as promised. Consequently, the Group recognises revenue
+over time and defers revenues from the granting of product distribution licenses over the number of units
+produced.
+The deferral system implemented by ROVI is in accordance with IFRS 15 for this type of revenue, and therefore
+the application of this standard has had no significant impact on the contracts already in place. Any impact
+would be on new contracts for granting distribution licenses, with terms and conditions that differ from those
+currently in place. This has not occurred to date.
+• Amendments to IFRS 9 “Financial Instruments”: “Prepayment Features with Negative Compensation”.
+According to this amendment, effective 1 January, 2018, financial assets that can be prepaid with compensation
+may be measured at amortised cost or fair value through other comprehensive income. ROVI will take this
+amendment into account if any asset with these features is prepaid.
+b) Standards, interpretations and amendments that have not yet come into force but which are available for early
+adoption for annual periods commencing on or after 1 January, 2018
+At the signature date of these Consolidated Annual Accounts, the IASB and the IFRS Interpretations Committee had
+published the following standards, amendments and interpretations application of which is mandatory from 2019
+onwards. ROVI considers that the following could be applicable to the Group, although they have not been adopted
+early:
+• IFRS 16 – “Leases” replaces IAS 17, IFRIC 4, IAS 15 and IAS 27. It will be effective for annual periods
+commencing on or after 1 January, 2019 and early adoption is permitted as long as IFRS 15 is being applied.
+The principal new feature of IFRS 16 is that there will be a single new accounting model for lessees, who will
+include all leases (with limited exceptions) in their statements of financial position with an impact similar to that
+of the present finance leases (there will be depreciation of the right-of-use asset and a finance expense for the
+amortised cost of the liability, the expense accruing more swiftly under IFRS 16).
+13

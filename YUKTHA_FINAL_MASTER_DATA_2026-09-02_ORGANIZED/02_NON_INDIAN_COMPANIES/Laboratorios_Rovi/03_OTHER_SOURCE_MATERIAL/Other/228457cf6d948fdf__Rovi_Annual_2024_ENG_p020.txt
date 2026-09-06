@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+Depreciation of property, plant and equipment, except for land, which is not depreciated, is calculated systematically
+using the straight-line method in accordance with the estimated useful lives, taking into account the actual impairment
+suffered as a result of the use and enjoyment of the items. The estimated useful lives are:
+Buildings - 40 years
+Technical facilities and equipment and furniture – between 4 and 14 years
+Other facilities, fittings and equipment and furniture – between 5 and 10 years
+Other property, plant and equipment – between 4 and 5 years
+The assets’ residual values and useful lives are reviewed and, if appropriate, adjusted at each reporting date.
+An asset’s carrying amount is written down immediately to its recoverable amount if the asset’s carrying amount is
+greater than its estimated recoverable amount.
+Losses and gains on disposals of property, plant and equipment are calculated by comparing the proceeds with the
+carrying amount and are recognised in profit and loss.
+3.3 Impairment losses on non-financial assets
+Intangible assets that have an indefinite useful life or intangible assets that are not in a condition to be used are not
+subject to amortisation and are tested annually for impairment.
+Assets subject to amortisation/depreciation are reviewed for impairment considering various internal and external
+circumstances, including:
+– Observable indications of a decline in market value.
+– Assessment of any events that may have an adverse effect, both external (e.g. inflation or changes in the legal
+environment) or internal (e.g. restructuring plans or the asset is idle).
+– Increase in the asset's market interest rate.
+– Information on the asset's obsolescence or physical damage to the asset.
+– Evidence from internal reports indicating that the asset's performance will be worse than expected.
+An impairment loss is recognised for the amount by which the asset’s carrying amount exceeds its recoverable amount.
+The recoverable amount is the higher of an asset’s fair value less cost to sell and its value in use. For the purposes of
+assessing impairment, assets are grouped at the lowest levels for which there are largely independent cash flows (cash-
+generating units). Non-financial assets (other than goodwill) that have suffered impairment are reviewed at each
+reporting date to see whether the impairment has been reversed.
+3.4 Financial assets
+a) Classification of financial assets
+The Company classifies its financial assets into the following categories:
+1) Financial assets at amortised cost: financial assets at amortised cost are non-derivative financial assets with fixed
+or determinable payments that are not listed on an active market. They are included in current assets, except for
+maturities at more than 12 months after the reporting date, which are classified as non-current assets. Financial
+assets held at amortised cost are included in “Credits to companies” and “Trade and other receivables” in the
+statement of financial position.
+Bank deposits maturing at more than 90 days and less than 12 months are included in this category.
+Securities representing debt with fixed or determinable payments and fixed maturities that are traded on an active
+market and that company management has the positive intention and ability to hold to maturity are also
+recognised in this category. If the Company were to sell other than an insignificant amount of these financial
+assets, the assets would be reclassified as financial assets at fair value through equity. These financial assets are
+included in non-current assets, except for those with maturities at less than 12 months after the reporting date,
+which are classified as current assets.
+10

@@ -1,0 +1,39 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+2.3. Consolidation principles
+(a) Subsidiaries
+Subsidiaries are all entities (including structured entities) over which the Group holds control. The Group controls an
+entity when it is exposed to or entitled to obtain variable yields from its involvement in the entity and is able to use its
+power over said entity to influence these yields. Subsidiaries are consolidated from the date on which control is
+transferred to the Group and de-consolidated from the date that control ceases.
+The Group uses the purchase method is used to account for business combinations. The consideration transferred for
+acquisition of a subsidiary corresponds to the fair value of the assets transferred, liabilities incurred with the previous
+owners of the acquiree and equity instruments issued by the Group. The consideration transferred includes the fair value
+of any asset or liability coming from a contingent consideration agreement. Identifiable assets acquired and identifiable
+liabilities and contingencies assumed in a business combination are measured initially at their fair value at the acquisition
+date. For each business combination, the Group may elect to recognize any non-controlling interest in the acquired entity
+at fair value or for the non-controlling entity’s proportional part in the amounts recognized for the acquiree’s identifiable
+net assets.
+Acquisition-related costs are recognized as expenses in the period in which they are incurred.
+If the business combination takes place in stages, the acquisition-date carrying amount of the acquirer’s previously-held
+interest in the equity of the acquiree is remeasured at acquistion-date fair value. Any loss or gain arising from this
+remeasurement is recognized in profit and loss.
+Any contingent consideration to be transferred by the Group is recognized at acquisition-date fair value. Subsequent
+changes in the fair value of the contingent consideration that are considered an asset or liability are recognized in
+accordance with IAS 39 in profit and loss. Contingent considerations classified as equity are not remeasured and their
+subsequent settlement is recognized in equity.
+Inter-company transactions and balances and unrealised gains on transactions between Group entities are eliminated.
+Unrealised losses are also eliminated. When necessary, the amounts shown for subsdidiaries have been adjusted to
+adapt them to Group accounting policies.
+Appendix I to these Notes lists the identification data of the fully-consolidated subsidiaries. All subsidiaries and
+associates have the same annual period as the parent company.
+(b) Joint arrangements
+The Group applies IFRS 11 to all joint arrangements. Under IFRS 11, joint arrangements are classified into either joint
+operations or joint ventures, depending on the contractual rights and obligations of each investor. The Group has
+assessed the nature of its joint arrangements and has determined them to be joint ventures. Joint ventures are
+accounted for using the equity method.
+11

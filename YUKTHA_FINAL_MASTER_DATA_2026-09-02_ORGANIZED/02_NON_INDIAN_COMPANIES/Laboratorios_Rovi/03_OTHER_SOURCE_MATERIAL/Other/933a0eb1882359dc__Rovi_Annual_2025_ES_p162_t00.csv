@@ -1,0 +1,12 @@
+ICR (CapEx),,,,,,,,,,,,,
+Ejercicio financiero 2025,,,,,,,,,,,,,
+Actividades económicas,Código,ICR elegible según la taxonomía (proporción de las CapEx elegible según la taxonomía),ICR que se ajusta a la taxonomía (valor monetario de las CapEx),ICR que se ajusta a la taxonomía (proporción de las CapEx que se ajusta a la taxonomía),Objetivo medioambiental de las actividades que se ajustan a la taxonomía,,,,,,Actividad facilitadora,Actividad de transición,Proporción del ICR elegible según la taxonomía que se ajusta a la taxonomía
+,,,,,Mitigación del cambio climático,Adaptación al cambio climático,Agua,Economía circular,Contaminación,Biodiversidad,,,
+"Instalación, mantenimiento y reparación de equipos de eficiencia energética",CCM 7.3,"0,304 %","224.308,86 €","0,304 %","0,304 %",— %,— %,— %,— %,— %,E,,100 %
+"Instalación, mantenimiento y reparación de estaciones de recarga para vehículos eléctricos en edificios (y en las plazas de aparcamiento anexas a los edificios)",CCM 7.4,"0,006 %","4.327,78 €","0,006 %","0,006 %",— %,— %,— %,— %,— %,E,,100 %
+"Instalación, mantenimiento y reparación de instrumentos y dispositivos para medir, regular y controlar la eficiencia energética de los edificios",CCM 7.5,"0,080 %","59.396,37 €","0,080 %","0,080 %",— %,— %,— %,— %,— %,E,,100 %
+"Instalación, mantenimiento y reparación de tecnologías de energía renovable",CCM 7.6,"0,473 %","349.309,36 €","0,473 %","0,473 %",— %,— %,— %,— %,— %,E,,100 %
+Fabricación de ingredientes farmacéuticos activos (IFA) o sustancias activas,PPC 1.1,"9,814 %",0 €,— %,— %,— %,— %,— %,— %,— %,,,— %
+Fabricación de medicamentos,PPC 1.2,"69,147 %",0 €,— %,— %,— %,— %,— %,— %,— %,,,— %
+Suma de la adaptación por objetivo,,,,,"0,863 %",— %,— %,— %,— %,— %,,,
+ICR total (CapEx),,"79,823 %","637.342,37 €","0,863 %","0,863 %",— %,— %,— %,— %,— %,"0,863 %",— %,"1,081 %"

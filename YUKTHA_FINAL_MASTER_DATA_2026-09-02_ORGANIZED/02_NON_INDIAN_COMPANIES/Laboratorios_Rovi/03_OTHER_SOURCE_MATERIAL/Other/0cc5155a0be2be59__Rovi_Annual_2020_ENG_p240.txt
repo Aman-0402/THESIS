@@ -1,0 +1,49 @@
+Free translation of the 2020 Consolidated Management Report originally issued in Spanish. In the event of discrepancy,
+the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+2020 Consolidated Management Report
+In March 2019, ROVI informed topline results from the pivotal study of Risperidone ISM® “PRISMA-3”2, and the 27th of
+November of 2020 announced the online publication in the journal npj Schizophrenia3.
+The results obtained in this study show that both doses (75 mg and 100 mg once a month) have achieved the
+prespecified primary and secondary efficacy endpoints for treatment of patients with acute exacerbation of
+schizophrenia. The primary efficacy endpoint, the PANSS total score (mean difference, CI: 95%), improved significantly
+with Risperidone ISM® 75 mg and 100 mg from the beginning until day 85, with adjusted differences of -13.0 (17.3 to -8-
+8; p <0.0001) and -13.3 (-17.6 to -8.9; p<0.0001), respectively. Significantly improved mean changes for the secondary
+endpoint, the CGI-S score, were also obtained for Risperidone ISM® in comparison with the placebo, -0.7 (-1.0 to -0.5;
+p<0.0001), for both doses. The significant statistical improvement for both efficacy results was observed as early as 8
+days after the first injection. The most frequently reported treatment-emergent adverse events were increased blood
+prolactin (7.8%), headaches (7.3%), hyperprolactinemia (5%) and weight increase (4.8%). No important new or
+unexpected safety information was reported. According to the authors of the article, Risperidone ISM® represents an
+effective therapeutic strategy in schizophrenic patients who are admitted to hospital with an acute episode with severe or
+moderate psychotic symptoms2.
+ROVI also announced in July 2019 the completion of an open-label extension of the PRISMA-3 study4, which provides
+clinical data on the long-term use of Risperidone ISM® (12 additional months).
+Based on these positive results and the other data from the product, ROVI previously announced (by publication of the
+material event number 286374 dated 31st of January of 2020) the commencement of the centralised procedure for
+registration with the European Medicines Agency (EMA) in January 2020. Likewise, at its Capital Markets Day held on 24
+November, ROVI has just announced the filing of an NDA (New Drug Application), i.e. a registration dossier to obtain
+marketing authorisation in the USA, with the FDA (Food and Drug Administration).
+On the other hand, ROVI already announced the commencement of the clinical development of Letrozole ISM®, which
+represents the second candidate using the ROVI’s ISM® technology platform. This new investigational medicine is, to our
+best knowledge, the first long-acting injectable aromatase inhibitor intended for the treatment of hormone-dependent
+breast cancer. The first phase I clinical trial (the LISA-1 study5) of Letrozole ISM® is currently ongoing and due to the
+study design (“dose escalation”) and its exploratory nature, the finalisation date cannot be anticipated. Nevertheless,
+preliminary data confirm that this ISM® formulation provides a prolonged release of letrozole which produces a sustained
+suppression of oestrogenic hormones. ROVI is planning in the first half of 2021 to discuss with regulatory authorities
+these results as well as the next steps for continuing the clinical development of this novel long-acting injectable
+aromatase inhibitor.
+Lastly, ROVI’s R&D team has recently started development of a new formulation of Risperidone ISM® for a 3-monthly
+injection, which would complement the current formulation of Doria® for the maintenance treatment of patients with
+clinically stable schizophrenia. This development is still in an initial phase.
+2 Study to Evaluate the Efficacy and Safety of Risperidone In Situ Microparticles® (ISM®) in Patients With Acute Schizophrenia
+(PRISMA-3). Clinicaltrials.gov#NCT03160521 [https://clinicaltrials.gov/show/NCT03160521]. This clinical program has had the support
+of the Industrial Technological Development Centre (“CDTI”).
+3 Correll, C.U., Litman, R.E., Filts, Y. et al. Efficacy and safety of once-monthly Risperidone ISM® in schizophrenic patients with an
+acute exacerbation. npj Schizophr 6, 37 (2020). https://doi.org/10.1038/s41537-020-00127-y.
+4 Study to Evaluate the Efficacy and Safety of Risperidone ISM® in Patients With Acute Schizophrenia: Open Label Extension
+(PRISMA-3_OLE). Clinicaltrials.gov# NCT03870880 [https://clinicaltrials.gov/ct2/show/NCT03870880]. This clinical program has had the
+support of the Industrial Technological Development Centre (“CDTI”).
+5 Evaluation of IM Letrozole ISM® Pharmacokinetics, Safety, and Tolerability in Healthy Post-menopausal Women (LISA-1).
+Clinicaltrials.gov#NCT03401320 [https://clinicaltrials.gov/ct2/show/NCT03401320]. This clinical program has had the support of the
+Industrial Technological Development Centre (“CDTI”).
+11

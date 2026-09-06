@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+Movement on net deferred taxes was as follows:
+Thousands of euros
+2017 2016
+Balance at beginning of year 916 -
+(Charged)/credited to profit and loss 4,945 747
+Charged directly to equity 139 169
+Balance at end of year 6,000 916
+Movement on deferred tax assets and liabilities during the period without taking the offsetting of balances into account
+was as follows:
+Grants,
+donations and Freedom of
+Deferred tax liabilities
+legacies amortization/
+received depreciation Other Total
+At 1 January, 2016 (1,467) (834) (261) (2,562)
+Cargo / (abono) a resultados - (314) 16 (298)
+Impuesto cargado a patrimonio neto 169 - - 169
+At 31 December, 2016 (1,298) (1,148) (245) (2,691)
+Cargo / (abono) a resultados - (114) 15 (99)
+Impuesto cargado a patrimonio neto 139 - - 139
+At 31 December, 2017 (1,159) (1,262) (230) (2,651)
+Deferred tax liabilities charged to profit and loss in 2017 for 114 thousand euros (314 thousand euros in 2016) in the
+column “Freedom of amortization/depreciation” relate principally to the application of the free amortization/depreciation
+system to the assets attached to R&D activity and to the maintenance of jobs.
+Tax credits Available-for-
+Activos por impuestos diferidos pending sale financial
+application assets Provisions Other Total
+At 1 January, 2016 1,500 (1) 147 916 2,562
+Cargo / (abono) a resultados 1,012 - 35 (2) 1,045
+At 31 December, 2016 2,512 (1) 182 914 3,607
+Cargo / (abono) a resultados 5,037 - 8 (1) 5,044
+At 31 December, 2017 7,549 (1) 190 913 8,651
+The column “Other” shows, among other items, the deferred tax asset relating to the tax effect of 30% of the amortization
+and depreciation expense for the period, which was not tax deductible in the periods 2013 and 2014, in accordance with
+Royal Decree-Law 16/2012 of 27 December, which adopted various tax measured aimed to consolidate public finance
+and stimulate economic activity.
+Deferred taxes charged to equity in the year were as follows:
+Thousands of euros
+2017 2016
+Grants, donations and legacies received 139 169
+139 169
+47

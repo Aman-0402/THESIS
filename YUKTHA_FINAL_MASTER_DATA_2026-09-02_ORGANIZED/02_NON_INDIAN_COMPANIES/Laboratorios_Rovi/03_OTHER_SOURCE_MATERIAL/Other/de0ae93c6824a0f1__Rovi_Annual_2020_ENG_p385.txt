@@ -1,0 +1,49 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+1. INDIVIDUAL FINANCIAL STATEMENTS (PREPARED USING THE NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+LIABILITIES AND EQUITY CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2020 31/12/2019
+A) EQUITY (A.1 + A.2 + A.3) 0195 330.686 269.329
+A.1) EQUITY 0180 328.283 266.582
+1. Capital: 0171 3.364 3.364
+a) Authorized capital 0161 3.364 3.364
+a) Less: uncalled capital 0162
+2. Share premium 0172 87.636 87.636
+3. Reserves 0173 7.032 7.032
+4. Less: treasury stock 0174 (20.185) (10.341)
+5. Retained earnings 0178 179.299 153.338
+6. Other shareholder contributions 0179
+7. Profit or loss for period 0175 71.137 25.553
+8. Less: interim dividend 0176
+9. Other equity instruments 0177
+A.2) ADJUSTMENTS FOR CHANGES IN VALUE 0188 (3) (3)
+1. Available-for-sale financial assets 0181 (3) (3)
+2. Hedging transactions 0182
+3. Other 0183
+A.3) GRANTS, DONATIONS AND LEGACIES RECEIVED 0194 2.406 2.750
+B) NON-CURRENT LIABILITIES 0120 64.135 62.803
+1. Non-current provisions 0115
+2. Non-current debt: 0116 53.647 54.329
+a) Bank borrowings and debentures or other negotiable instruments 0131 44.825 45.000
+b) Other financial liabilities 0132 8.822 9.329
+3. Non-current debt with group and associated companies 0117 333
+4. Deferred tax liabilities 0118 4.700 2.348
+5. Other non-current liabilities 0135
+6. Non-current accruals 0119 5.788 5.793
+C) CURRENT LIABILITIES 0130 160.706 83.344
+1. Liabilities associated with non-current assets held for sale 0121
+2. Current provisions 0122 15.741 9.827
+3. Current debt: 0123 2.867 9.138
+a) Bank borrowings and debentures or other negotiable instruments 0133 175 7.116
+b) Other financial liabilities 0134 2.692 2.022
+4. Current debt with group and associated companies 0129 184 156
+5. Trade and other payables: 0124 140.834 63.457
+a) Trade payables 0125 135.148 56.674
+b) Other payables 0126 5.686 6.783
+c) Current tax liabilities 0127
+6. Other current liabilities 0136
+7. Current accruals 0128 1.080 766
+TOTAL EQUITY AND LIABILITIES (A + B + C) 0200 555.527 415.476

@@ -1,0 +1,47 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+Movement on deferred tax assets and liabilities during the period without taking the offsetting of balances into account
+was as follows:
+Grants
+donations and Freedom of
+Deferred tax liabilities
+legacies amortisation/
+received depreciation Other Total
+At January 1, 2019 (1,039) (791) (216) (2,046)
+(Charged)/credited to profit and loss - 328 (757) (429)
+Charged directly to equity 127 - - 127
+At 31 December, 2019 (912) (463) (973) (2,348)
+(Charged)/credited to profit and loss - 80 (2,547) (2,467)
+Charged directly to equity 115 - - 115
+At 31 December, 2020 (797) (383) (3,520) (4,700)
+The “Other” column shows mainly deferred tax liabilities related to intragroup margins that were adjusted when settling
+the corporate income tax of the tax group headed by the Company.
+Deferred tax liabilities credited to profit and loss in 2020 for 80 thousand euros (328 thousand euros charged to the 2019
+profit) in the column “Freedom of amortisation/depreciation” relate principally to the application of the free
+amortisation/depreciation system to the assets attached to R&D activity and to maintaining jobs.
+Available-for-
+Tax credits sale
+Deferred tax assets
+pending financial
+application assets Provisions Other Total
+At January 1, 2019 9,626 (1) 240 923 10,788
+(Charged)/credited to profit and loss (1,795) - 117 (3) (1,681)
+Derecognition due to monetization
+(Note 23) (3,000) - - - (3,000)
+At 31 December, 2019 4,831 (1) 357 920 6,107
+(Charged)/credited to profit and loss (1,212) - 19 (2) (1,195)
+At 31 December, 2020 3,619 (1) 376 918 4,912
+The column “Other” shows, among other items, the deferred tax asset relating to the tax effect of 30% of the amortisation
+and depreciation expense for the period, which was not tax deductible in the periods 2013 and 2014 in accordance with
+Royal Decree-Law 16/2012 of 27 December, whereby various various tax measures aimed to consolidate public finance
+and stimulate economic activity were adopted.
+Deferred taxes charged to equity in the year were as follows:
+Thousands of euros
+2020 2019
+Grants, donations and legacies received 115 127
+115 127
+45

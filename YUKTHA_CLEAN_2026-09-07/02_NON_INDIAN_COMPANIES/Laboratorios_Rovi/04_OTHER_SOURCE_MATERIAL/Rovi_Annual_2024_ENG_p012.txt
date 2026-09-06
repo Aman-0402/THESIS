@@ -1,0 +1,42 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Financial Position at 2024 and 2023
+(Thousand euros)
+31 December
+EQUITY Note 2024 2023
+Equity 60,284 89,322
+Fondos propios 59,283 87,975
+Capital 14 3,074 3,241
+Share premium 14 87,636 87,636
+Reserves 15 7,032 7,032
+(Treasury shares) 15 (5,545) (107,676)
+Retained earnings 15 (108,460) 85,671
+Profit for the year 16 75,546 12,071
+Adjustments for changes in value (28) (20)
+Foreign exchange differences (28) (20)
+Grants, donations and legacies received 17 1,029 1,367
+NON-CURRENT ASSETS 157,655 143,899
+Non-current debt 80,503 38,557
+Bank borrowings 7 & 18 70,659 31,250
+Other financial liabilities 7 & 18 9,844 7,307
+Non-current debt with group and associated companies 7 & 18 72,500 99,800
+Deferred tax assets 21 2,834 4,111
+Non-current accruals 19 1,818 1,431
+CURRENT LIABILITIES 268,870 231,157
+Current provisions 20 14,116 8,235
+Current debt 17,823 8,004
+Bank borrowings 7 & 18 16,280 6,495
+Other financial liabilities 7 & 18 1,543 1,509
+Current debt with group and associated companies 7 & 18 18,578 2,216
+Trade and other payables 217,989 212,378
+Trade payables 7 & 18 34,129 34,460
+Trade payables, group and associated companies 7 & 18 173,114 162,635
+Sundry creditors 7 & 18 65 2,516
+Employees (outstanding remuneration) 7 & 18 6,567 5,851
+Current income tax liabilities 23 1,871 5,177
+Other debt with public authorities 23 2,243 1,739
+Current accruals 19 364 324
+TOTAL EQUITY AND LIABILITIES 486,809 464,378
+Notes 1 to 35 attached hereto are an integral part of these Annual Accounts.
+2

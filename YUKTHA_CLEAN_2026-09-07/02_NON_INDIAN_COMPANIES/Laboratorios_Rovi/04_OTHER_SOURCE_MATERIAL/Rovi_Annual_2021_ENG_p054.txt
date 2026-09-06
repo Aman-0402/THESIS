@@ -1,0 +1,48 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+Contribution to public health system
+As stated in Note 3.18, in Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or
+other healthcare products paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending
+on the volume) into the National Health System every four months. This is a levy aimed to adjust the margin on a regulated
+activity through the price intervention established by the Law. The Company recognises the contribution to the public health
+system as a reduction in revenue when the sale is made. The sums accrued but not yet paid are recognised under the
+“Other provisions” caption.
+Additionally, within the contribution to the public health system, 3,214 thousand euros were related to the co-operation
+agreement signed between Farmaindustria, the Spanish pharmaceutical industry association, and the Spanish government
+(10,424 thousand euros at 31 December, 2020). ROVI, as a member of Farmaindustria, is subject to this agreement.
+A 10% increase or decrease in the public spending growth under consideration would mean an increase of 611 thousand
+euros or a decrease of 106 thousand euros, respectively, in the amounts recognized.
+In 2020, the pharmaceutical industry showed a clear will to extend the Agreement and, therefore, ROVI made provision for
+the estimated amounts for said year. The pharmaceutical industry proposed a mechanism to compensate the government
+for the increase in pharmaceutical spending, which was not finally applied because of the global pandemic caused by
+COVID-19, where the government’s priorities were to solve the situation and those of the industry were to make an active
+contribution in its role as a priority industry to combat COVID-19. Therefore, according to current information, no payment
+will finally be required from the signatories of the Agreement.
+Although these sums should not be considered as returns or reimbursements to customers, they are recognised as a
+reduction in revenue because the purpose of the law is to regulate the prices and margins obtained on these products.
+The amounts of the provisions recognised in the statement of financial position are the reporting-date best estimate of the
+payments necessary to meet the present obligation, after consideration of the risks and uncertainties related to the
+provision and, when significant, the financial effect produced by the rebate, provided that the payments that will be made
+in each period can be reliably determined. The rebate rate is determined before tax, considering the time value of money
+and the specific risks that were not taken into account in the future flows related to the provision at each reporting date.
+One-off obligations are measured in accordance with the most likely individual outcome. If the obligation involves a
+significant group of similar items, it will be measured by weighting the possible outcomes by the likelihood that they will
+occur. If there is a continuous range of possible outcomes and each point of the range has the same likelihood as the rest
+of the points, the obligation is measured at the average amount.
+21. Deferred income tax
+Details of deferred income tax are as follows:
+Thousand euros
+2021 2020
+Deferred income tax assets
+- Temporary differences 2,342 1,293
+- Other tax carryforwards — 3,619
+2,342 4,912
+Deferred tax liabilities
+- Temporary differences (4,278) (4,700)
+(4,278) (4,700)
+Net deferred income tax (1,936) 212
+45

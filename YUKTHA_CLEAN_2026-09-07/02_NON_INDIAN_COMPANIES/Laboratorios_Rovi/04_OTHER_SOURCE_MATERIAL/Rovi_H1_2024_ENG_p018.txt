@@ -1,0 +1,50 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+The Group holds insurance policies to cover the risks the property, plant and equipment is exposed to. The insurance
+cover of these policies is considered sufficient to cover the net carrying amount of the assets included in this category.
+8. Intangible assets
+Movement on intangible assets for the six-month periods ended 30 June 2024 and 2023 was as follows:
+Trademarks Computer
+Development & Licences software Total
+Balance at 01.01.24
+Cost 8,899 44,929 15,184 69,012
+Accumulated impairment — (494) — (494)
+Accumulated depreciation (2,738) (18,960) (12,918) (34,616)
+Net carrying amt 01.01.24 6,161 25,475 2,266 33,902
+Additions — — 645 645
+Retirements — (30) — (30)
+Retirements from depreciation — 23 — 23
+Depreciation charge (221) (976) (311) (1,508)
+Saldo al 30.06.24
+Cost 8,899 44,899 15,829 69,627
+Accumulated impairment — (494) — (494)
+Accumulated depreciation (2,959) (19,913) (13,229) (36,101)
+Net carrying amt 30.06.24 5,940 24,492 2,600 33,032
+Trademarks Computer
+Development & Licences software Total
+Balance at 01.01.23
+Cost 8,899 44,929 13,791 67,619
+Accumulated impairment — (494) — (494)
+Accumulated depreciation (2,296) (16,617) (12,468) (31,381)
+Net carrying amt 01.01.23 6,603 27,818 1,323 35,744
+Additions — — 173 173
+Depreciation charge (221) (1,217) (230) (1,668)
+Balance at 30.06.23
+Cost 8,899 44,929 13,964 67,792
+Accumulated impairment — (494) — (494)
+Accumulated depreciation (2,517) (17,834) (12,698) (33,049)
+Net carrying amt 30.06.23 6,382 26,601 1,266 34,249
+At 31 December 2024 and 2023, all the Group’s intangible assets belonged to the marketing segment.
+The Group has not recognised any intangible asset related to the performance of customer contracts.
+Development
+At 30 June, 2024 and 31 December, 2023, the assets included under the “Development” caption were related to the
+development of a low-molecular-weight heparin, an enoxaparin biosimilar, sales of which began in 2017. The
+commencement of amortisation of this asset was determined by the successful completion, in the first quarter of 2017, of
+the decentralized procedure used by the Group to apply for marketing authorization in twenty-six European Union
+countries. The useful life of this intangible asset is 20 years and no indications of impairment had been detected at either
+30 June 2024 or 31 December 2023.
+14

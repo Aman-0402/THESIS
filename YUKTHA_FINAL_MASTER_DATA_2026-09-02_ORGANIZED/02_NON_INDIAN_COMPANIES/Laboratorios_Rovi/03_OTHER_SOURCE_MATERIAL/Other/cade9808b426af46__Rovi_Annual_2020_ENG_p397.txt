@@ -1,0 +1,60 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+9.A. CONSOLIDATED STATEMENT OF CASH FLOWS (INDIRECT METHOD) (UNDER IFRS ADOPTED)
+Units: thousands of euros CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2020 31/12/2019
+A) CASH FLOWS FROM OPERATING ACTIVITIES (1 + 2 + 3 + 4) 1435 46.876 (9.044)
+1.Profit/(loss) before tax 1405 72.581 41.880
+2. Adjustments to profit/(loss) 1410 21.365 17.769
+(+) Amortization and depreciation of intangible assets and property, plant and equipment 1411 19.593 18.216
+(+/-) Other adjustments to profit/(loss) (net) 1412 1.772 (447)
+3. Changes in working capital 1415 (63.751) (63.665)
+4. Other cash flows from operating activities: 1420 16.681 (5.028)
+(-) Payment of interest 1421
+(-) Payment of dividends and remuneration of other equity instruments 1430
+(+) Proceeds from dividends 1422
+(+) Proceeds from interest 1423 (151) (93)
+(+/-) Proceeds from/(payments of) corporate income tax 1424 (6.038) (8.129)
+(+/-) Other proceeds from/(payments for) operating activities 1425 22.870 3.194
+B) CASH FLOWS FROM INVESTING ACTIVITIES (1+2+3) 1460 (39.625) (40.472)
+1. Payments of investments: 1440 (39.692) (40.525)
+(-) Group companies, associates and business units 1441
+(-) Property, plant and equipment, intangible assets and investment property 1442 (39.692) (40.525)
+(-) Other financial assets 1443
+(-) Non-current assets and liabilities classified as held for sale 1459
+(-) Other assets 1444
+2. Proceeds from disinvestments 1450 63 2
+(+) Group companies, associates and business units 1451
+(+) Property, plant and equipment, intangible assets and investment property 1452 63 2
+(+) Other financial assets 1453
+(+) Non-current assets and liabilities classified as held for sale 1461
+(+) Other assets 1454
+3. Other cash flows from investing activities 1455 4 51
+(+) Proceeds from dividends 1456
+(+) Proceeds from interest 1457 4 51
+(+/-) Other proceeds from/(payments for) investing activities 1458
+C) CASH FLOWS FROM FINANCING ACTIVITIES (1+2+3+4) 1490 (21.515) 21.431
+1. Proceeds from and (payments of) equity instruments: 1470 233 153
+(+) Issue 1471
+(-) Amortization 1472
+(-) Acquisition 1473 (37.255) (4.718)
+(+) Disposal 1474 37.488 4.871
+2. Proceeds from/ (payments for) financial liability instruments: 1480 (11.749) 25.791
+(+) Issue 1481 1.430 47.033
+(-) Repayment and amortization 1482 (13.179) (21.242)
+3. Payment of dividends and remuneration of other equity instruments 1485 (9.700) (4.420)
+4. Other cash flows from financing activities 1486 (299) (93)
+(-) Payment of interest 1487 (299) (93)
+(+/-) Other proceeds from /(payments for) financing activities 1488
+D) EFFECT OF CHANGES IN EXCHANGE RATES 1492
+E) NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+D) 1495 (14.264) (28.085)
+F) CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 1499 67.426 95.511
+G) CASH AND CASH EQUIVALENTS AT END OF PERIOD (E+F) 1500 53.162 67.426
+CURRENT PREVIOUS
+COMPONENTS OF CASH AND CASH EQUIVALENTS AT END OF PERIOD PERIOD PERIOD
+31/12/2020 31/12/2019
+(+) Cash in hand and at bank 1550 53.162 67.426
+(+) Other financial assets 1552
+(-) Less: bank overdrafts repayable on demand 1553
+TOTAL CASH AND CASH EQUIVALENTS AT END OF PERIOD 1600 53.162 67.426

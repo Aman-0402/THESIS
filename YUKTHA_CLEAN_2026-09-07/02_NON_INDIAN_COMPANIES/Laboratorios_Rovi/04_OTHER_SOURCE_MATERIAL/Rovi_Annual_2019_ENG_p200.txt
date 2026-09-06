@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+8. Financial instruments by category
+Financial assets
+At 31 December, 2019, the Group held trade receivables amounting to 71,791 thousand euros (52,052 thousand euros
+at 31 December, 2018) (Note 13), other receivables amounting to 87 thousand euros (86 thousand euros at 31
+December, 2018) (Note 13), and other deposits amounting to 1,407 thousand euros (1,394 thousand euros at 31
+December, 2018) (Note 13), which the Group classifies as loans and receivables for recognition and measurement
+purposes (Note 2.11.a).
+At 31 December, 2019, the Group held cash amounting to 67,426 thousand euros (95,511 thousand euros at 31
+December, 2018) (Note 14), which it classifies as cash and cash equivalents for recognition and measurement purposes
+(Note 2.13).
+At 31 December, 2019, the Group held financial assets of 71 thousand euros (70 thousand euros at 31 December, 2018)
+(Note 11), which it classifies as equity securities for recognition and measurement purposes (Note 2.11.b).
+Financial liabilities
+At 31 December, 2019 and 2018, all the loans included in financial debt (Note 18), as well as trade and other payables
+(Note 17), were recognised as financial liabilties held at amortised cost and there were no financial liabilities held at fair
+value through profit and loss.
+9. Credit rating of financial assets
+The credit quality of financial assets which have not yet matured and which have suffered no impairment loss can be
+assessed based on the credit rating assigned by organisations external to the Group or, in the case of unrated
+customers, by separating those corresponding to Social Security Authorities and government entities which, due to their
+nature, are not subject to impairment:
+Cash and cash equivalents Rating 2019 2018
+A+ 184 -
+A 22,244 75,708
+A- 41,451 18,176
+BBB+ 214 179
+BBB 2,532 1,329
+BBB- 309 76
+No rating 492 43
+Total cash (Note 14) 67,426 95,511
+Financial receivables Rating 2019 2018
+A 65 65
+Total financial receivables (Note 13) 65 65
+Equity securities Rating 2019 2018
+A- 12 11
+No rating 59 59
+Total equity securities (Note 11) 71 70
+37

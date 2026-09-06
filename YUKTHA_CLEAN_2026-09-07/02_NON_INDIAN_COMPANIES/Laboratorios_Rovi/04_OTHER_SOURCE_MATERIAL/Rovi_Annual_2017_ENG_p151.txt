@@ -1,0 +1,44 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+b) Standards, interpretations and amendments that have not yet come into force but which are available for early
+adoption for annual periods commencing on or after 1 January, 2017.
+At the signature date of these Consolidated Annual Accounts, the IASB and the IFRS Interpretations Committee had
+published the following standards, amendments and interpretations application of which is mandatory from 2018
+onwards. ROVI considers that the following could be applicable to the Group, although they have not been adopted
+early:
+• IFRS 9 “Financial Instruments”. It addresses the classification, measurement and recognition of financial assets
+and liabilities. IFRS 9 is effective for annual periods beginning on or after 1 January, 2018. The Group has not
+elected the early adoption permitted by the Standard. Application of this new standard is not expected to have a
+significant impact on the Group’s Annual Accounts.
+• IFRS 15 “Revenue from Contracts with Customers”. In May 2014, the IASB and the FASB jointly issued a
+converged Standard on recognition of revenue from contracts with customers. IFRS 15 is effective for annual
+periods beginning on or after 1 January, 2018. According to this Standard, revenue is recognized when the
+customer obtains control of the good or service sold, i.e. when the customer is able to both direct the use of and
+obtain the benefits from the good or service. This IFRS includes new guidance to determine whether revenue
+should be recognized over time or at a specific point in time. Considering the contents of the Standard, the
+Group has made a qualitative and quantitative assessment of the possible impacts derived from its entry into
+force. From among the different categories defined in the Application Guidance (Appendix B) of the Standard,
+ROVI considers that the category related to the granting of usage-based licences could be applicable to the
+Group, since ROVI grants licences to other for the distribution of its own products. In these contracts, the
+obligations arising from the granting of these usage-based licences are always linked to the obligation of supply
+the product, which extends over the whole time the cotnract is in force. Since it is impossible to separate these
+obligations, the revenue originating from the granting of distribution licences is deferred over the cotnract term.
+This deferral, which is already being recognized in ROVI (Note 2.20.e), is in line with the content of IFRS 15 for
+this type of revenue and, therefore, the entry into force of this IFRS will not have any impact for ROVI. The
+impact would, in any case, take place upon signature of new distribution licence contracts with different features
+to those currently in force.
+• IFRS 16 “Leases”. According to this Standard, which replaces IAS 17 “Leases”, when accounting for leases, it
+will be necessary, as a general rule, to recognize leases in the statement of financial position and measure
+lease liabilities. This Standard will be applicable to annual periods beginning on or after 1 January, 2019.
+Application of this standard is expected to have a significant impact on the Group’s Annual Accounts, since the
+different lease agreements currently held by ROVI will have to be recognized.
+• Annual Improvements to IFRS 2014–2016 Cycle. The amendments affect IFRS 1, IFRS 12 and IAS 28. The
+main amendments that may apply to the Group refer to:
+o IFRS 12, "Disclosure of Interests in Other Entities". Clarification of the scope of the Standard.
+o IAS 28, “Investments in Associates and Joint Ventures”. Measurement of an investment in an associate
+or joint venture at fair value.
+9

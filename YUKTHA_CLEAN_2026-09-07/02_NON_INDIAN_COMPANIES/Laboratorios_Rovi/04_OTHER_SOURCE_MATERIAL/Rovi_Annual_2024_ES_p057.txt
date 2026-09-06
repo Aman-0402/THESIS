@@ -1,0 +1,48 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2024
+(Expresada en miles de euros)
+23. Impuesto sobre beneficios y situación fiscal
+Los saldos con administraciones públicas al 31 de diciembre de 2024 y de 2023 son los siguientes:
+Miles de euros
+2024 2023
+Deudor Acreedor Deudor Acreedor
+Hacienda Pública, IVA 3.239 — 2.512 —
+Hacienda Pública, I.R.P.F — 1.205 — 823
+Retenciones 50 — 1.244 —
+Impuesto de sociedades — 1.871 — 5.177
+Organismos de la Seguridad Social — 1.038 — 895
+Otros saldos con administraciones públicas 616 — 1.175 21
+3.905 4.114 4.931 6.916
+En el apartado de “otros saldos con administraciones públicas” se recogen importes a cobrar de diferentes organismos
+oficiales por los siguientes conceptos:
+Miles de euros
+2024 2023
+Subvenciones pendientes de cobro 616 1.175
+616 1.175
+Con fecha 1 de agosto de 2007 la Sociedad se convirtió en la entidad dominante del grupo fiscal 362/07. En virtud de la
+aplicación del régimen fiscal de consolidación previsto en la norma del Impuesto sobre Sociedades, ROVI, dominante
+del grupo fiscal, recoge en su balance deudas con empresas del grupo por efecto impositivo (Nota 31.i) por importe de
+1.588 miles de euros (661 miles de euros en 2023), así como créditos con empresas del grupo por efecto impositivo por
+importe de 41.894 miles de euros (47.955 miles de euros en 2023).
+A 31 de diciembre de 2024, la conciliación entre el importe neto de ingresos y gastos del ejercicio y la base imponible del
+impuesto sobre beneficios es la siguiente:
+Miles de euros
+Ingresos y gastos imputados
+Cuenta de pérdidas y ganancias directamente al patrimonio neto
+Saldo ingresos y gastos 75.546 (346)
+Aumentos Disminuciones Total Aumentos Disminuciones Total
+Impuesto sobre Sociedades (1.687) (113)
+Diferencias permanentes
+- Individuales 619 (60.373) (59.754) — — —
+- De consolidación — — — — — —
+Diferencias temporarias:
+- Individuales
+- con origen en el ejercicio 1.727 — 1.727 — — —
+- con origen en ejercicios
+ant. 362 (1.842) (1.480) — — —
+- De Consolidación
+- con origen en el ejercicio — (8.396) (8.396) — — —
+- con origen en ejercicios
+ant. 12.846 — 12.846 — — —
+Base imponible previa 18.802 (459)
+47

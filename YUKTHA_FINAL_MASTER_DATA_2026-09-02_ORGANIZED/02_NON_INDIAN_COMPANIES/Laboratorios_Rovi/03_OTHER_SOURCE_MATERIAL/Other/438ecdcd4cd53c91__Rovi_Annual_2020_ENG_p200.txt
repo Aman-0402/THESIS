@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+b) Financial liabilities
+At 31 December, 2020 and 2019, all the loans included in financial debt (Note 18), as well as trade and other payables
+(Note 17), were recognised as financial liabilties held at amortised cost and there were no financial liabilities held at fair
+value through profit and loss.
+9. Credit rating of financial assets
+The credit quality of financial assets which have not yet matured and which have suffered no impairment loss can be
+assessed based on the credit rating assigned by organisations external to the Group or, in the case of unrated
+customers, by separating those corresponding to Social Security authorities and government entities which, due to their
+nature, are not subject to impairment:
+Cash and cash equivalents Rating 2020 2019
+A+ 705 184
+A 23,720 22,243
+A- 24,853 41,452
+BBB+ 202 214
+BBB 1,698 2,532
+BBB- 1,260 309
+Baa2 682 -
+No rating 42 492
+Total cash (Note 14) 53,162 67,426
+Financial receivables Rating 2020 2019
+A 65 65
+Total financial receivables (Note 13) 65 65
+Equity securities Rating 2020 2019
+A- 12 12
+No rating 59 59
+Total equity securities (Note 11) 71 71
+Trade receivables Rating 2020 2019
+AA 138 24
+A1 554 4,050
+Public centres and institutions (Note 13) 9,394 12,512
+Other (wholesalers, pharmacies, hospitals) 53,244 55,205
+Total trade receivables (Note 13) 63,330 71,791
+Other deposits Rating 2020 2019
+A 1,327 1,327
+No rating 72 80
+Total other deposits (Nota 13) 1,399 1,407
+38

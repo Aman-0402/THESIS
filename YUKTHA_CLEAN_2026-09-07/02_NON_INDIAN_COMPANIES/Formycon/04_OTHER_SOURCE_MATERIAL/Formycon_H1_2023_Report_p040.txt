@@ -1,0 +1,32 @@
+78 INTERIM FINANCIAL STATEMENTS OF FORMYCON GROUP FORMYCON AG HALF-YEAR REPORT 2023 79
+9. Share-based 10. Income tax expense
+compensation arrangements
+Components of income
+During the reporting period, 25,000 share options arrangements may be found in the accompanying tax expense written down to the extent that the Group cannot
+were newly granted to staff members under the table “Valuation of stock options”. demonstrate that future taxable profits will be
+Stock Option Plan 2020, as shown in the accom- The components of current and deferred income sufficient to utilize the loss carryforward.
+panying table “Number of stock options issued During the reporting period, the total current tax expense during the reporting period (including
+and outstanding”. expense for share-based compensation payments offsetting gains) may be found in the accompany- Further information on deferred tax liabilities as of
+was € 695K (1H 2022: € 354K). As of June 30, ing table “Components of income tax expense”. the reporting date may be found in the accompa-
+The valuation parameters used in measuring the 2023, the impact of these share-based payments Deferred tax assets on tax loss carryforwards are nying table “Calculation of deferred tax liabilities”.
+fair values of these share-based compensation on the capital reserve account was € 5,580K
+(Dec. 31, 2022: € 4,885K).
+Number of stock options issued and outstanding Components of income tax expense
+In € K
+Stock Option Plan 2015 Stock Option Plan 2020 Jan. 1 – June 30, 2023 Jan. 1 – June 30, 2022
+Current tax expense 80 15
+as of Jan. 1, 2022 311,250 101,500
+Options expired - July 2022 -30,000 -30,000 Deferred tax expense from:
+Options exercised and shares subscribed - July 2022 -64,025 – valuation at equity -82 -3,551
+Share options granted - July 2022 132,500 – differing asset valuations -5 2
+– capitalization of certain leases as right-of-use (ROU) assets -26 -34
+as of Dec. 31, 2022 217,225 204,000 and corresponding liabilities from lease obligations
+Share options granted - May 2023 25,000 – capitalization of certain internally generated intangible assets 7,065 544
+– the recognition of customer liabilities -356 -
+as of June 30, 2023 - 229,000
+– valuation adjustments to deferred tax assets 584 3,039
+Total tax expense 7,259 15
+Valuation of stock options
+Years remaining Assumed Market price at Market value
+Stock Option Plan Tranche Grant date Vesting date until vesting Expiry date exercise date Assumed term Assumed interest rate grant date Subscription price Minimum price of options
+2020 5 May 12, 2023 May 12, 2027 3.87 Apr. 12, 2033 Nov. 18, 2028 5.53 2.38% 78.60 71.04 78.90 34.6178

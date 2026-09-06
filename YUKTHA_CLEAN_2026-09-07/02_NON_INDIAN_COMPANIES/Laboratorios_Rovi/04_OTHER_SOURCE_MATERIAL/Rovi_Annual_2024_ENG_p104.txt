@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+b) Computer software
+Computer software maintenance costs are recognised as expenses when incurred. Development expenses directly attributable
+to designing and testing computer programmes that are identifiable and unique and may be controlled by the Group are
+recognised as intangible assets when the following conditions are met:
+– It is technically possible to complete the production of the intangible asset so that it can be available for use or sale;
+– Management intends to complete the intangible asset to be used or sold;
+– The Group has the capacity to use or sell the intangible asset;
+– It is possible to show evidence of how the intangible asset will generate probable economic benefits in the future.
+– There are proper technical, financial or other resources available to complete the development and to use or sell the
+intangible asset; and
+– It is possible to measure reliably the expenditure attributable to the intangible asset during development.
+Directly attributable costs that are capitalised as part of the computer software include the costs of the employees developing
+said programmes and an appropriate percentage of overheads.
+Expenses that do not meet these criteria are recognised as expenses when incurred. Expenditure on an intangible asset initially
+recognised in profit and loss will not subsequently be recognised in intangible assets.
+Computer software has a useful life of from 4 to 10 years.
+c) Research and development expenses
+Research expenditure is recognised as an expense when incurred. Costs incurred in development projects (relating to the
+design and testing of new or improved products) are recognised as intangible assets when the following requirements are met:
+– It is technically possible to complete the production of the intangible asset so that it can be available for use or sale;
+– Management intends to complete the intangible asset to be used or sold;
+– There is the capacity to sell or use the intangible asset;
+– It is possible to show evidence of how the intangible asset will generate probable economic benefits in the future.
+– There are proper technical, financial or other resources available to complete the development and to use or sell the
+intangible asset; and
+– It is possible to measure reliably the expenditure attributable to the intangible asset during development.
+The Group considers that, in the case of the development of pharmaceutical products, the aforementioned requirements are met
+when the drugs have been approved for marketing by the health authorities in the case of new products developed under
+patent, or, in the case of biosimilars or generics, when the application for marketing authorisation is filed.
+The cost of assets generated internally by the Group is measured following the same principles as established for determining
+the production cost of inventories. Production costs are capitalised by crediting the costs attributable to the asset to accounts
+under the heading “Work performed by the Group on non-current assets” in the consolidated income statement (consolidated
+statement of comprehensive income).
+These assets have a useful life of 20 years, consistent with the term of pharmaceutical product patents. ROVI expects to obtain
+a positive return on the development during said period.
+12

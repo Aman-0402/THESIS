@@ -1,0 +1,27 @@
+Gross cash position and net debt
+IN € MILLIONS March 31, 2024 Dec 31, 2023
+Equity securities — 0.0
+Deposits 1.4 1.4
+Cash and cash equivalents 13.1 25.3
+Derivatives (net) 0.0 —
+Gross cash position 14.5 26.8
+Financial debt (81.8) (65.4)
+(Net debt)/Net cash (67.2) (38.6)
+Net cash generated in operating activities amounted to 15.5 million euros in the first
+quarter of 2024, compared to 24.5 million euros in the same period of 2023. Net cash
+generated from operating activities excluding changes in working capital decreased
+28% to 29.2 million euros in the first quarter of 2024 from 40.8 million euros in the same
+period of 2023.
+Million euros
+29.2
+-13.6
+-9.0
+-38.6
+-34.7 -0.5 -67.2
+Net debt FY Net cash from Working Capex Treasury Shares Other Net debt Q1
+2023(1) operating capital 2024(1)
+activities (exc.
+WC)
+(1) Net cash/Net debt is composed of equity securities, plus deposits, plus financial derivatives, plus financial assets at amortised cost,
+plus cash and cash equivalents, less current and non-current financial debt.
+20

@@ -1,0 +1,70 @@
+pdf,page,stmt,item,value,source,context
+Rovi_Annual_2017_ENG,12,income,revenue,22.0,table,"CONTINUING OPERATIONS Net sales Sales of goods Change in inventories of finished products & work in progress | 22 a) | 240,560 240,560 4,053"
+Rovi_Annual_2017_ENG,12,income,net_income,16.0,table,"PROFIT FOR THE YEAR | 16 | 18,673"
+Rovi_Annual_2017_ENG,278,balance,revenue,61.0,table,a) Trade receivables for sales of goods and services | 0061 | 96.767
+Rovi_Annual_2017_ENG,278,balance,total_assets,100.0,table,TOTAL ASSETS (A+B) | 0100 | 259.124
+Rovi_Annual_2017_ENG,280,income,revenue,205.0,table,(+) Net revenue | 0205 | 116.908
+Rovi_Annual_2017_ENG,280,income,ebit,245.0,table,= OPERATING PROFIT/(LOSS) | 0245 | (6.454)
+Rovi_Annual_2017_ENG,284,cashflow,operating_cashflow,435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) | 0435 | 9.675
+Rovi_Annual_2017_ENG,285,balance,total_assets,1100.0,table,TOTAL ASSETS (A+B) | 1100 | 298.382
+Rovi_Annual_2017_ENG,286,balance,total_equity,1200.0,table,TOTAL EQUITY AND LIABILITIES (A + B + C) | 1200 | 298.382
+Rovi_Annual_2017_ENG,287,income,revenue,1205.0,table,(+) Net revenue | 1205 | 136.890
+Rovi_Annual_2017_ENG,287,income,ebit,1245.0,table,= OPERATING PROFIT/(LOSS) | 1245 | 999
+Rovi_Annual_2017_ENG,291,cashflow,operating_cashflow,1435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+ 2+ 3 +4) | 1435 | 18.039
+Rovi_Annual_2017_ENG,296,balance,net_income,30003000.0,table,"Capital Reserves (Treasury shares) Retained earnings Profit for the year Adjustments for change in value Grants, donations and legacies received | 3,000 3,000 - 6,959 6,959 - (8,701) (8,701) - 110,657 110,657 - 29,932 31,842 (1,910) (3) (3) - 3,904 3,904 -"
+Rovi_Annual_2017_ENG,296,balance,total_assets,282908285455.0,table,"TOTAL ASSETS | 282,908 285,455 (2,547)"
+Rovi_Annual_2017_ENG,296,balance,total_equity,282908285455.0,table,"TOTAL EQUITY AND LIABILITIES | 282,908 285,455 (2,547)"
+Rovi_Annual_2017_ENG,297,income,revenue,231382231382.0,table,"CONTINUING OPERATIONS Net sales Change in inventories of finished products & work in progress Supplies Other operating income Employee benefit expenses Other operating income Amortization, depreciation & impairment charges Allocation of grants for non-financial assets and other Impairment and gains/(losses) on disposal of intangible assets and property, plant and equipment | 231,382 231,382 - (6,435) (6,435) - (129,543) (129,543) - 2,792 2,792 - (29,080) (29,080) - (49,297) (49,297) - (7,608) (7,608) - 1,082 1,082 - (25) (25) -"
+Rovi_Annual_2017_ENG,297,income,net_income,2993231842.0,table,"PROFIT FOR THE YEAR | 29,932 31,842 (1,910)"
+Rovi_Annual_2018_ENG,12,income,revenue,22.0,table,Net sales |  | 
+Rovi_Annual_2018_ENG,12,income,net_income,16.0,table,PROFIT FOR THE YEAR |  | 
+Rovi_Annual_2018_ENG,83,balance,revenue,6.3,text,"According to MSD, net sales of these products in Spain and France, were approximately 6.3 million US dollars in 2017."
+Rovi_Annual_2018_ENG,248,balance,revenue,6.3,text,"According to MSD, net sales of these products in Spain and France, were approximately 6.3 million US dollars in 2017."
+Rovi_Annual_2018_ENG,372,balance,revenue,61.0,table,a) Trade receivables for sales of goods and services | 0061 | 184.738
+Rovi_Annual_2018_ENG,372,balance,total_assets,100.0,table,TOTAL ASSETS (A+B) | 0100 | 413.960
+Rovi_Annual_2018_ENG,374,income,revenue,205.0,table,(+) Net revenue | 0205 | 144.125
+Rovi_Annual_2018_ENG,374,income,ebit,245.0,table,= OPERATING PROFIT/(LOSS) | 0245 | (4.381)
+Rovi_Annual_2018_ENG,378,cashflow,operating_cashflow,435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) | 0435 | (10.114)
+Rovi_Annual_2018_ENG,379,balance,total_assets,1100.0,table,TOTAL ASSETS (A+B) | 1100 | 402.700
+Rovi_Annual_2018_ENG,380,balance,total_equity,1200.0,table,TOTAL EQUITY AND LIABILITIES (A + B + C) | 1200 | 402.700
+Rovi_Annual_2018_ENG,381,income,revenue,1205.0,table,(+) Net revenue | 1205 | 156.894
+Rovi_Annual_2018_ENG,381,income,ebit,1245.0,table,= OPERATING PROFIT/(LOSS) | 1245 | 9.975
+Rovi_Annual_2018_ENG,385,cashflow,operating_cashflow,1435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1 + 2 + 3 + 4) | 1435 | 8.531
+Rovi_Annual_2019_ENG,12,income,revenue,22.0,table,"CONTINUING OPERATIONS Net sales | 22 a) | 379,221"
+Rovi_Annual_2019_ENG,12,income,net_income,16.0,table,"PROFIT FOR THE YEAR | 16 | 25,553"
+Rovi_Annual_2019_ENG,370,balance,revenue,61.0,table,a) Trade receivables for sales of goods and services | 0061 | 142.350
+Rovi_Annual_2019_ENG,370,balance,total_assets,100.0,table,TOTAL ASSETS (A+B) | 0100 | 415.476
+Rovi_Annual_2019_ENG,372,income,revenue,205.0,table,(+) Net revenue | 0205 | 201.812
+Rovi_Annual_2019_ENG,372,income,ebit,245.0,table,= OPERATING PROFIT/(LOSS) | 0245 | 8.105
+Rovi_Annual_2019_ENG,376,cashflow,operating_cashflow,435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) | 0435 | (30.035)
+Rovi_Annual_2019_ENG,377,balance,total_assets,1100.0,table,TOTAL ASSETS (A+B) | 1100 | 511.211
+Rovi_Annual_2019_ENG,378,balance,total_equity,1200.0,table,TOTAL EQUITY AND LIABILITIES (A + B + C) | 1200 | 511.211
+Rovi_Annual_2019_ENG,379,income,revenue,1205.0,table,(+) Net revenue | 1205 | 203.777
+Rovi_Annual_2019_ENG,379,income,ebit,1245.0,table,= OPERATING PROFIT/(LOSS) | 1245 | 25.091
+Rovi_Annual_2019_ENG,383,cashflow,operating_cashflow,1435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1 + 2 + 3 + 4) | 1435 | (9.044)
+Rovi_Annual_2020_ENG,384,balance,revenue,61.0,table,a) Trade receivables for sales of goods and services | 0061 | 292.992
+Rovi_Annual_2020_ENG,384,balance,total_assets,100.0,table,TOTAL ASSETS (A+B) | 0100 | 555.527
+Rovi_Annual_2020_ENG,386,income,revenue,205.0,table,(+) Net revenue | 0205 | 238.953
+Rovi_Annual_2020_ENG,386,income,ebit,245.0,table,= OPERATING PROFIT/(LOSS) | 0245 | 24.221
+Rovi_Annual_2020_ENG,390,cashflow,operating_cashflow,435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) | 0435 | 13.905
+Rovi_Annual_2020_ENG,391,balance,total_assets,1100.0,table,TOTAL ASSETS (A+B) | 1100 | 574.439
+Rovi_Annual_2020_ENG,392,balance,total_equity,1200.0,table,TOTAL EQUITY AND LIABILITIES (A + B + C) | 1200 | 574.439
+Rovi_Annual_2020_ENG,393,income,revenue,1205.0,table,(+) Net revenue | 1205 | 228.832
+Rovi_Annual_2020_ENG,393,income,ebit,1245.0,table,= OPERATING PROFIT/(LOSS) | 1245 | 41.791
+Rovi_Annual_2020_ENG,397,cashflow,operating_cashflow,1435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1 + 2 + 3 + 4) | 1435 | 46.876
+Rovi_Annual_2021_ENG,185,balance,revenue,61.0,table,a) Trade receivables for sales of goods and services | 0061 | 185.745
+Rovi_Annual_2021_ENG,185,balance,total_assets,100.0,table,TOTAL ASSETS (A+B) | 0100 | 478.099
+Rovi_Annual_2021_ENG,187,income,revenue,205.0,table,(+) Net revenue | 0205 | 275.059
+Rovi_Annual_2021_ENG,187,income,ebit,245.0,table,= OPERATING PROFIT/(LOSS) | 0245 | 25.793
+Rovi_Annual_2021_ENG,191,cashflow,operating_cashflow,435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1+2+3+4) | 0435 | 64.680
+Rovi_Annual_2021_ENG,192,balance,total_assets,1100.0,table,TOTAL ASSETS (A+B) | 1100 | 732.676
+Rovi_Annual_2021_ENG,193,balance,total_equity,1200.0,table,TOTAL EQUITY AND LIABILITIES (A + B + C) | 1200 | 732.676
+Rovi_Annual_2021_ENG,194,income,revenue,1205.0,table,(+) Net revenue | 1205 | 358.627
+Rovi_Annual_2021_ENG,194,income,ebit,1245.0,table,= OPERATING PROFIT/(LOSS) | 1245 | 118.152
+Rovi_Annual_2021_ENG,198,cashflow,operating_cashflow,1435.0,table,A) CASH FLOWS FROM OPERATING ACTIVITIES (1 + 2 + 3 + 4) | 1435 | 149.441
+Rovi_Annual_2024_ENG,9,income,revenue,3.15,text,3.15 Revenue recognition
+Rovi_Annual_2024_ENG,9,income,net_income,16.0,text,16 Profit for the year
+Rovi_Annual_2024_ENG,9,balance,revenue,3.15,text,3.15 Revenue recognition
+Rovi_Annual_2024_ENG,9,balance,net_income,16.0,text,16 Profit for the year
+Rovi_Annual_2024_ENG,9,cashflow,revenue,3.15,text,3.15 Revenue recognition
+Rovi_Annual_2024_ENG,9,cashflow,net_income,16.0,text,16 Profit for the year

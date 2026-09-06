@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+At 31 December, 2018, the greatest investment in financial assets, including cash and cash equivalent and apart from
+trade receivables, was related to Banco Santander, 76,645 thousand euros (19,782 thousand euros at 31 December,
+2017). A significant proportion of trade and other receivables relates to accounts receivable from government entities, on
+which, in view of their nature, with the information currently available, Management considers that there is no credit risk
+(Note 13).
+(c) Liquidity risk
+Management periodically monitors the liquidity estimates of the Group in accordance with the expected cash flows. The
+Group maintains sufficient cash and marketable securities to meet its liquidity requirements. In 2017, the Group signed a
+financing agreement with the European Investment Bank, which it can draw down over the next two years as from
+signature of the agreement a total amount of 45 million euros. In July 2018, ROVI had drawn 5,000 thousand euros (Note
+17).
+ROVI’s liquidity has increased in 2018 as a result of the capital increase of 88,000 thousand euros carried out in October
+2018 (Notes 1 and 15).
+In 2017, the Group signed a non-recourse factoring contract, which led to an increase in the balance of cash and cash
+equivalents, while the receivables for which this contract was requested were derecognised. At 31 December, 2018, no
+factoring agreements were in force.
+The following table analyses the Group’s financial liabilities grouped by maturity dates based on the periods outstanding
+at the end of the reporting period through to the maturity date stipulated in the contract, including the corresponding
+interest. The amounts shown in the table relate to cash flows stipulated in the contract, which have not been discounted.
+Given that these amounts have not been discounted and that they include future interest accruals, they cannot be
+matched with figures on the statement of financial position for financial debt and trade and other payables.
+Less than 1 Between 1 & Between 2 & Over 5
+At 31 December, 2018 year 2 years 5 years years
+Bank borrowing (Note 18) 15,694 2,344 2,184 2,730
+Debt with government entities (Note 18) 2,032 3,907 3,994 2,995
+Trade suppliers (Note 17) 47,875 - - -
+Other payables (Note 17) 20,290 - - -
+85,891 6,251 6,178 5,725
+Less than 1 Between 1 & Between 2 & Over 5
+At 31 December, 2017 year 2 years 5 years years
+Bank borrowing (Note 18) 13,328 17,784 - -
+Debt with government entities (Note 18) 2,986 4,091 4,006 2,794
+Trade suppliers (Note 17) 42,129 - - -
+Other payables (Note 17) 10,813 - - -
+69,256 21,875 4,006 2,794
+30

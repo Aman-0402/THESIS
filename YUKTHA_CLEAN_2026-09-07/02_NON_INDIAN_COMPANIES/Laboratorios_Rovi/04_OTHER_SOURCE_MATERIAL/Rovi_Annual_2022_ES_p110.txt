@@ -1,0 +1,49 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2022
+(Expresada en miles de euros)
+Una vez reconocidos los servicios recibidos y el correspondiente aumento de patrimonio neto, no se realizan ajustes
+adicionales al patrimonio neto tras la fecha de irrevocabilidad, sin perjuicio de realizar las correspondientes
+reclasificaciones en patrimonio neto.
+Si el Grupo retiene instrumentos de patrimonio para hacer efectivo el pago con la Hacienda Pública por el impuesto
+sobre la renta del empleado, el plan se trata en su totalidad como liquidado en instrumentos de patrimonio, salvo por la
+parte de los instrumentos retenidos que exceden del valor razonable de la obligación tributaria.
+2.20 Provisiones
+El Grupo reconoce un pasivo por provisiones cuando:
+• Tiene una obligación presente, ya sea legal o implícita, como resultado de sucesos pasados;
+• Hay más probabilidades de que vaya a ser necesaria una salida de recursos para liquidar la obligación que de lo
+contrario; y
+• El importe puede estimarse de forma fiable.
+Cuando exista un número de obligaciones similares, la probabilidad de que sea necesario un flujo de salida para la
+liquidación se determina considerando el tipo de obligaciones como un todo. Se reconoce una provisión incluso si la
+probabilidad de un flujo de salida con respecto a cualquier partida incluida en la misma clase de obligaciones puede ser
+pequeña.
+Las provisiones se valoran por el valor actual de los desembolsos que se espera que sean necesarios para liquidar la
+obligación usando un tipo antes de impuestos que refleje las evaluaciones del mercado actual del valor temporal del
+dinero y los riesgos específicos de la obligación. El incremento en la provisión con motivo del paso del tiempo se
+reconoce como un gasto por intereses.
+2.21 Reconocimiento de ingresos
+El Grupo reconoce como ingresos ordinarios el importe del precio de la transacción que se corresponden con las
+contraprestaciones a las que el Grupo espera tener derecho a recibir por la transferencia al cliente de bienes, prestación
+de servicios y otros ingresos en el curso ordinario de las actividades del Grupo prometidos a un cliente, y que pueden
+consistir en importes fijos, variables o ambos. Los ingresos ordinarios se presentan netos del impuesto sobre el valor
+añadido, devoluciones, rebajas y descuentos y después de eliminadas las ventas dentro del Grupo.
+El Grupo reconoce los ingresos cuando satisfaga una obligación mediante la transferencia de un bien o servicio al
+cliente, y éste obtenga el control de dicho activo. El Grupo determina, al comienzo del contrato, si satisface las
+obligaciones a lo largo del tiempo o en un momento concreto, dependiendo de las condiciones específicas para cada
+una de las actividades del Grupo, tal y como se describe a continuación.
+Siguiendo lo establecido en la NIIF 15, el Grupo tiene en cuenta el modelo de cinco pasos para determinar el momento
+en que se deben reconocer los ingresos y su importe que consiste en las siguientes fases:
+• Identificación del contrato con el cliente.
+• Identificación de las obligaciones de desempeño contenidas en el contrato.
+• Determinación del precio de la transacción.
+• Asignación del precio entre las diferentes obligaciones de desempeño.
+• Determinación del criterio de reconocimiento del ingreso, cuando se satisfaga una obligación de desempeño
+En este sentido, para cada obligación de ejecución identificada, el Grupo determina al comienzo del contrato si satisface
+la obligación de ejecución a lo largo del tiempo o la satisface en un momento concreto.
+a) Venta de bienes
+Las “ventas de bienes” del Grupo son las derivadas de las ventas de productos farmacéuticos, agentes de contraste y
+otros productos hospitalarios y otros productos farmacéuticos sin prescripción, donde el control es transferido a los
+clientes y las obligaciones de servicio se cumplen cuando los bienes se ponen a disposición de los clientes compañías
+farmacéuticas o en el momento de la entrega para el resto de clientes. Las facturas generalmente vencen en un periodo
+máximo de 90 días.
+20

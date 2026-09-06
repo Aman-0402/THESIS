@@ -1,0 +1,43 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+horizontes temporales pertinentes. En cuanto a los impactos, se describirá cómo los efectos negativos y positivos, ya sean
+reales o potenciales, influyen en las personas y el medio ambiente. También se analizará la implicación del Grupo en estos
+impactos, ya sea a través de sus propias actividades o mediante sus relaciones comerciales.
+Además, es importante destacar que todos los IROs se originan o están relacionados con la estrategia y el modelo de negocio
+del Grupo, dado que el entendimiento de la Compañía y del sector han sido la base principal del análisis. Tanto los riesgos
+como las oportunidades identificadas en el análisis de doble materialidad podrían afectar negativa o positivamente al Grupo
+desde una perspectiva económico-financiera, por lo que es esencial disponer de mecanismos de control y mitigación para los
+riesgos y de monitorización para poder aprovechar las oportunidades.
+Por otro lado, el Grupo cuenta con un Plan de Continuidad de Negocio, diseñado con el objetivo de gestionar de manera eficaz
+los incidentes que afecten la disponibilidad de servicios o productos en las diferentes direcciones y Unidades de Negocio de
+ROVI. Este plan define roles, responsabilidades y medidas necesarias para una gestión eficiente de incidentes, destacando la
+importancia de los canales de comunicación internos y externos. Entre sus objetivos principales se encuentra la recuperación
+rápida de incidentes de continuidad, minimizando el impacto de interrupciones en servicios tecnológicos críticos y
+proporcionando orientación para dar respuesta en casos de emergencia. Adicionalmente, el plan contribuye a determinar la
+necesidad, o no, de activar protocolos para reanudar servicios y recuperar operaciones, limitando la duración y el daño de los
+incidentes.
+Como parte fundamental de dicho Plan, se ha llevado a cabo un análisis de riesgos de continuidad de negocio para
+comprender y abordar las posibles amenazas y vulnerabilidades que podrían afectar las operaciones de ROVI. Durante este
+análisis, se han identificado una variedad de riesgos inherentes que podrían tener un impacto significativo en las capacidades
+para mantener la continuidad de las actividades, procesos o servicios de ROVI en caso de un evento disruptivo por la
+materialización de las amenazas valoradas (de origen natural, industrial, humano, tecnológico y de proveedores). Las
+amenazas más significativas han sido: pandemia, epidemia, enfermedad, desastres naturales, fuego, incendio, corte de
+energía, pérdida de comunicación externa, contaminación tóxica, explosión química o eléctrica, huelga o sabotaje.
+Tras dicho análisis, se ha desarrollado un procedimiento de respuesta y recuperación frente a la indisponibilidad de
+ubicaciones, recursos humanos, tecnologías y proveedores. Asimismo, entre las acciones preventivas clave destacan la
+implementación del teletrabajo, la planificación de turnos escalonados para reducir la concentración de personal en un solo
+lugar, y la revisión de listas de personal crítico y proveedores para asegurar la continuidad operativa entre otras.
+Por otro lado, a continuación, se presenta un breve resumen de los impactos, riesgos y oportunidades de importancia relativa
+incluyendo una descripción de dónde se concentran dichos IROs en relación con el modelo de negocio y la cadena de valor.
+Para determinar sus IROs y temáticas materiales, ROVI ha utilizado una metodología que consta de cuatro fases principales:
+entendimiento, identificación, evaluación y determinación de IROs. Dicha metodología será explicada en detalle en el requisito
+de divulgación IRO-1.
+Como resultado de la fase de identificación de IROs, 9 de las 10 NEIS temáticas cuentan con IROs asociados de forma
+preliminar, previo a la fase de evaluación. La décima temática, la NEIS S3 Colectivos afectados, quedó descartada durante la
+fase de entendimiento debido a que la actividad del Grupo no impacta sobre colectivos que viven en zonas adyacentes a las
+operaciones de la empresa (colectivos locales) ni en los que viven a distancia. Tampoco impacta sobre pueblos indígenas con
+sus relaciones comerciales a lo largo de la cadena de valor. Se considera que el principal colectivo al que impacta el grupo son
+los consumidores o usuarios finales que adquieren sus productos.
+Adicionalmente, se han identificado IROs vinculados a una temática propia del Grupo (entity-specific) denominada
+“Digitalización e inteligencia artificial” debido a su reciente auge y potencial impacto en la actividad del Grupo.
+22

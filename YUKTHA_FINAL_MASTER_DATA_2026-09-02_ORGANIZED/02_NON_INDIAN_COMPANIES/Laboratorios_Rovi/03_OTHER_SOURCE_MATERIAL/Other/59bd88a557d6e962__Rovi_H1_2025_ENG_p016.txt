@@ -1,0 +1,47 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2025
+(Thousand euros)
+The segment information used by the Management Committee for the six-month period ended 30 June 2025 and the
+reconciliation thereof with the figures shown in the income statement and the results of the segments reported are as
+follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 201,147 237,373 29 438,549 (123,959) 314,590
+Profit/(loss) 47,402 (248) (139) 47,015 (7,315) 39,700
+Corporate income tax 9,134 1,478 (49) 10,563 (637) 9,926
+Profit/(loss) before tax 56,536 1,230 (188) 57,578 (7,952) 49,626
+Finance costs – net (458) 2,102 (390) 1,254 — 1,254
+Amortisation/depreciation 10,127 4,666 50 14,843 (95) 14,748
+EBITDA (*) 66,205 7,998 (528) 73,675 (8,047) 65,628
+Amortisation/depreciation (10,127) (4,666) (50) (14,843) 95 (14,748)
+EBIT (**) 56,078 3,332 (578) 58,832 (7,952) 50,880
+The segment information used by the Management Committee for the six-month period ended 30 June 2024 and the
+reconciliation thereof with the figures shown in the income statement and the results of the segments reported are as
+follows:
+Inter-
+Aggregated segment Consolidated
+Manufacturing Marketing Other total transactions total
+Total segment revenues 247,723 210,483 — 458,206 (128,870) 329,336
+0 0
+Profit/(loss) 54,385 30,802 (44) 85,143 (40,805) 44,338
+Corporate income tax 12,182 1,347 (5) 13,524 (1,720) 11,804
+Profit/(loss) before tax 66,567 32,149 (49) 98,667 (42,525) 56,142
+Finance costs – net (541) (37,704) 9 (38,236) 38,550 314
+Amortisation/depreciation 8,893 4,559 — 13,452 (6) 13,446
+EBITDA (*) 74,919 (996) (40) 73,883 (3,981) 69,902
+Amortisation/depreciation (8,893) (4,559) — (13,452) 6 (13,446)
+EBIT (**) 66,026 (5,555) (40) 60,431 (3,975) 56,456
+(*) EBITDA is calculated as profit before tax, interest, depreciation and amortisation.
+(**) EBIT is calculated as profit before tax and interest.
+Inter-segment transactions included on the profit/(loss) line for the six-month period ended 30 June, 2025 and 2024 are
+principally dividends paid between Group companies.
+Each segment’s sales to external customers up to 30 June 2025:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 201,147 237,373 29 438,549
+Inter-segment revenue (123,959) — — (123,959)
+Revenues from external customers (Note 20) 77,188 237,373 29 314,590
+12

@@ -1,0 +1,40 @@
+ANNUAL CORPORATE GOVERNANCE REPORT
+OF LISTED COMPANIES
+F.2. Assessment of financial information risks.
+Report on at least the following:
+F.2.1 The main characteristics of the risk identification process, including error and fraud risk, as regards:
+· Whether the process exists and is documented:
+The Company has a risk identification system, which includes risks of error or fraud in the financial information. Details are given in a “Risk
+Control and Management Policy”, the latest version of which was approved by the Board of Directors in December 2020.
+For each of the areas with a material financial impact, depending on its quantitative or qualitative importance, the relevant processes
+and sub-processes have been identified and the risks that could give rise to errors in the financial information or fraud in the
+transactions have likewise been identified, as have the control activities that mitigate these risks.
+· If the process covers all of the objectives of financial information, (existence and occurrence;
+completeness; valuation; delivery; breakdown and comparability; and rights and obligations), whether it is
+updated and with what frequency:
+For each one of the material processes identified, the risks that could generate errors in the financial information have been identified, covering
+the objectives of existence and occurrence, integrity, valuation, delivery, breakdown and comparability, and rights and obligations. The processes
+identified and documented are reviewed and updated annually in the event that there have been changes in the management of said processes or
+in the applicable legislation that thus requires.
+· The existence of a process for identifying the scope of consolidation, taking into account, among other
+factors, the possible existence of complex company structures, shell companies, or special purpose
+entities:
+The Company’s perimeter of consolidation is reviewed and updated on a monthly basis by the area responsible for consolidation, with the
+pertinent quarterly supervision by the Audit Committee, which is the body responsible for reviewing the accurate demarcation of the
+perimeter of consolidation and the proper application of accounting principles.
+There are no complex structures and, since there are few changes in the perimeter, any change is mentioned in the annual and half-yearly
+financial information issued by the Company.
+· If the process takes into account the effects of other types of risk (operational, technological, financial,
+legal, tax, reputational, environmental, etc.) to the extent that they affect the financial statements:
+The process takes into account the effect of other types of risk, such as operational, technological, legal, reputational, environmental risks,
+etc., that may have a material effect on the financial information. In the event that any of these risks could affect the financial information,
+the Company identifies how it should proceed to mitigate said effect.
+These risks are managed and assessed as set out in the Risk Management and Control Policy. This Policy identifies four types of risk:
+- Strategic: those that affect high-level objectives, directly related to ROVI’s strategic plan.
+- Operational: those that affect objectives related to the efficiency and efficacy of the operations, including performance- and
+profitability-related targets.
+- Reporting: those that affect the reliability of the information provided (including the financial information) both internally and externally.
+- Compliance: those that affect objectives relating to compliance with the applicable laws and rules (including those concerning
+accounting, auditing, internal control and risk management).
+· The governing body within the company that supervises the process:
+42 / 65

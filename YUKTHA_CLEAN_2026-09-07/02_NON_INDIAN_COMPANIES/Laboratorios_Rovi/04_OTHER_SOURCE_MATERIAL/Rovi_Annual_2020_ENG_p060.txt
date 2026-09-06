@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+The amount settled by the Company as payments on account of the corporate income tax of companies belonging to the
+tax group was 12,091 thousand euros in 2020 (7,904 thousand euros in 2019). The consolidated current tax for 2020,
+after deduction of the payments on account and withholdings for the period, generated a current tax receivable of 4,387
+thousand euros. At 31 December, 2019, the amount receivable for the current tax for 2019 was 3,862 thousand euros.
+At 31 December, 2020, the following taxes were open to inspection by the tax authorities for the periods stated:
+Year
+Corporate income tax 2016-19
+Value-added tax 2017-20
+Transfer tax 2017-20
+Personal income tax 2017-20
+As a result of, among other things, possible different interpretations of current tax legislation, additional liabilities could
+arise as the result of an inspection. At any event, the Directors consider that any such liabilities would not have a
+significant effect on the annual accounts.
+24. Finance income and costs
+Thousands of euros
+2020 2019
+Finance income:
+Gains and losses on equity instruments
+- In Group and associated companies (Note 31.f) 31,151 17,008
+Gains and losses on marketable securities and other financial instruments
+- In Group and associated companies (Note 31.f) 569 55
+- Of third parties 3 3
+31,723 17,066
+Finance costs:
+Debt with third parties (789) (624)
+(789) (624)
+Change in fair value of financial instruments:
+Derivatives (796) (146)
+(796) (146)
+Exchange rate differences:
+Exchange rate differences 77 24
+77 24
+Impairment and gain or loss on disposal of financial instruments:
+Gains and losses on disposals and other (245) 305
+(245) 305
+Finance income and costs 29,970 16,625
+At December 31, 2019, ROVI held financial derivatives to minimise the impact of exchange rate risk for a value of 26,500
+US dollars, the fair-value measurement of which represented a loss of 129 thousand euros at the December 2019
+reporting date. During 2020, these assets, as well as others acquired during 2020, were liquidated and a loss of 245
+thousand euros was incurred from these liquidations (a profit of 305 thousand euros in 2019). At 31 December, 2020,
+there were live contracts of this nature for a value of 13,500 thousand dollars, the measurement of which at the 2020
+reporting date represented a loss of 925 thousand euros.
+51

@@ -1,0 +1,25 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Cash Flows for the annual periods ended 31 December, 2020 and 2019
+(Thousands of euros)
+Annual period ended
+31 December
+Note 2020 2019
+Profit before income tax 75,216 25,712
+Adjustments to profit 12,953 12,152
+Changes in working capital (69,633) (60,206)
+Other cash flows from operating activities (4,631) (7,693)
+Cash flows generated (used) in operating activities 25 13,905 (30,035)
+Payments of investments (11,074) (26,539)
+Proceeds from disinvestments 813 157
+Cash flows generated (used) in investing activities 26 (10,261) (26,382)
+Proceeds from and payment of financial liability instruments (11,350) 28,214
+Dividend payments and remuneration of other equity instruments (9,700) (4,420)
+Transactions with treasury shares 233 153
+Cash flows generated (used) in financing activities 27 (20,817) 23,947
+NET INCREASE / DECREASE IN CASH AND CASH EQUIVALENTS (17,173) (32,470)
+Cash and cash equivalents at beginning of the year 13 51,317 83,787
+Cash and cash equivalents at end of the year 13 34,144 51,317
+6

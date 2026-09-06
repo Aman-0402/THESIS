@@ -1,0 +1,44 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+5. CONSOLIDATED STATEMENT OF FINANCIAL POSITION (UNDER IFRS ADOPTED) (1/2)
+Units: thousands of euros
+ASSETS CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2021 31/12/2020
+A) NON-CURRENT ASSETS 1040 226.314 209.861
+1. Intangible assets: 1030 38.558 41.413
+a) Goodwill 1031
+b) Other intangible assets 1032 38.558 41.413
+2. Property, plant and equipment 1033 181.775 155.395
+3. Investment property 1034
+4. Investments in group and associated companies accounted for using the equity metho1d035 1.994 1.812
+5. Non-current financial investments 1036 72 71
+a) At fair value through profit or loss 1047 72 71
+Of which, “Designated upon initial recognition” 1041
+b) At fair value through other comprehensive income 1042
+Of which, “Designated upon initial recognition” 1043
+c) At amortised cost 1044
+6. Non-current derivatives 1039
+a) Hedging instruments 1045
+b) Other 1046
+7. Deferred tax assets 1037 3.850 11.105
+8. Other non-current assets 1038 65 65
+B) CURRENT ASSETS 1085 506.362 364.578
+1. Non-current assets held for sale 1050
+2. Inventories 1055 245.473 227.199
+3. Trade and other receivables 1060 160.063 84.204
+a) Trade receivables for sale of goods and services 1061 129.801 63.285
+b) Other receivables 1062 20.371 13.116
+c) Current tax assets 1063 9.891 7.803
+4. Current financial assets 1070
+a) At fair value through profit or loss 1080
+Of which, “Designated upon initial recognition” 1081
+b) At fair value through other comprehensive income 1082
+Of which, “Designated upon initial recognition” 1083
+c) At amortised cost 1084
+5.Current derivatives 1076
+a) Hedging instruments 1077
+b) Other 1078
+6. Other current assets 1075 1.791 13
+7. Cash and cash equivalents 1072 99.035 53.162
+TOTAL ASSETS (A+B) 1100 732.676 574.439

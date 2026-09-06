@@ -1,0 +1,40 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+Therefore, ROVI’s revenue from contract with customers is subject to variable consideration for rebates, refunds and
+returns, which is only recorded for the amount that is highly probable that a significant reversal in the amount of
+cumulative revenue recognised will not occur when the uncertainty associated with the variable consideration is
+subsequently resolved.
+(b) Sales of services
+The Group’s sales of services (toll manufacturing) consists of revenues from manufacturing and packaging services
+provided to third parties where control transfers to the toll manufacturing clients and the performance obligations are
+mainly satisfied when the manufactured goods are made available. Invoices are usually payable between 30 and 120
+days.
+(c) Interest income
+Interest income is recognised in accordance with the effective interest method.
+(d) Dividend income
+Dividend income is recognised when the right to receive payment is established.
+(e) Other revenue: granting of exclusive distribution licences
+Occasionally the Group grants licenses to other pharmaceutical companies to sell its products on an exclusive basis in a
+specific territory and also promises to manufacture the pharmaceutical product for the customer. For these agreements,
+the Group collects a single down-payment for the transfer of the license, which is either non-refundable or may be
+refundable under very strict terms if the product is finally not authorised for distribution in a specific territory. In these
+contracts signed with third parties whereby Rovi grants the distribution licenses, the obligations arising from the granting
+of these licenses are always linked to the obligation to supply and manufacture the product and no other entity can
+manufacture this product. As the customer cannot benefit from the licence without the manufacturing service, the licence
+and the manufacturing service cannot be separate and therefore the Group accounts for the licence and the
+manufacturing service as a single performance obligation.
+Additionally, in these types of contracts the Group has an enforceable right to payment for performance completed to
+date, as the entity would be entitled to an amount that at least compensates the Group for its performance completed to
+date in the event that the customer or another party terminates the contract for reasons other than the entity's failure to
+perform as promised. Consequently, the Group recognises revenue over time and defers revenues from the granting of
+product distribution licenses over the number of units produced.
+2.21. Leases
+When a Group company is the lessee – Operating lease
+Leases in which a significant portion of the risks and rewards of ownership are retained by the lessor are classified as
+operating leases. Payments made under operating leases (net of any incentives received from the lessor) are charged to
+profit and loss on a straight-line basis over the period of the lease.
+27

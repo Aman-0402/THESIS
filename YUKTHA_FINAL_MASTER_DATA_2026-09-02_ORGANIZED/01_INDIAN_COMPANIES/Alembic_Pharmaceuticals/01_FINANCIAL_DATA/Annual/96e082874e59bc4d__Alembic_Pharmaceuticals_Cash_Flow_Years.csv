@@ -1,0 +1,88 @@
+,,,,,,,,,,,,,
+Alembic Limited | Cash Flow (As Reported),,,,,,,,,,,,,
+BSE: 506235 (MI KEY: 4811820; SPCIQ KEY: 9681498),,,,,,,,,,,,,
+Source: S&P Capital IQ - Standard,,,,,,,,,,,,,
+Period Category: Fiscal,,,,,,,,,,,,,
+Period Type: Years,,,,,,,,,,,,,
+Sort Order: Latest on Right,,,,,,,,,,,,,
+Currency: Indian Rupee (INR),,,,,,,,,,,,,
+S&P Capital IQ - Standard,2014 FY,2015 FY,2016 FY,2017 FY,2018 FY,2019 FY,2020 FY,2021 FY,2022 FY,2023 FY,2024 FY,2025 FY,2026 FY
+Period Ended,2014-03-31 00:00:00,2015-03-31 00:00:00,2016-03-31 00:00:00,2017-03-31 00:00:00,2018-03-31 00:00:00,2019-03-31 00:00:00,2020-03-31 00:00:00,2021-03-31 00:00:00,2022-03-31 00:00:00,2023-03-31 00:00:00,2024-03-31 00:00:00,2025-03-31 00:00:00,2026-03-31 00:00:00
+Currency,INR,INR,INR,INR,INR,INR,INR,INR,INR,INR,INR,INR,INR
+Units,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands,Thousands
+Operating Activities,,,,,,,,,,,,,
+Net Profit before Tax and Non-recurring Items,334649,234634,253300,266309,441763,446746,931652,170412,978574,,1026862,,
+Net Pro T before Tax,,,,,,,,,,867979,,1555025,1487587
+Depreciation,79657,61004,61888,51232,38029,26547,32271,39401,48630,67232,78392,106268,123882
+(Gain) on Sale of Fixed Assets,,-328,,,,,,,,,,,
+Gain/loss on Sale of Fixed Assets,44,,-4283,,,,,,,,,,
+"Gain/loss on Sale of Property, Plant and Equipment",,,,-3686,-32016,7180,-5050,-2437,-19576,-10261,-2667,10460,
+Provision for Diminution in Investments,127,,,,,,,,,,,,
+Cwip Written Off,10231,,,,,,,,,,,,
+Provision for Doubtful Debtors,-10000,-5408,-847,,,,,,,,,,
+Unrealized Foreign Exchange Gain/loss,2169,-3228,,,,,,,,,,,
+Direct Taxes Paid (net of Refunds),-31250,8057,-8689,-2041,-36425,-46427,-15286,-22341,-90443,-65215,5700,-155557,-193756
+Non Current Assets,,,,,6868,,,,,,,,
+Others-non-cash Items,,,759,3667,-49393,-107,-5973,-7819,-10473,-10582,-28320,-21331,3096
+Operating Activities,,4,-2,,-4,1,1,-2,,-1,,-1,
+Interest Incomes,-16848,-13523,-3355,-8861,-2166,-3709,-2359,-8384,-11231,-11145,-20372,-20437,-15620
+Changes in Other Long-term Assets,,,,-6868,,,,,,,,,
+Dividend Income,-145630,-172331,-220452,-252553,-244645,-237189,-878783,-3796,-785823,-568577,-459069,-629476,-629517
+Long-term Provisions,156,6290,-9343,-2837,-664,,,,,,,,
+Other Non-current Financial Assets,,,-10653,-766,10271,,,,,,,,
+Interest Charged,40174,8291,1150,1583,1694,2162,2880,3620,3891,4653,11086,24711,22784
+Wealth Tax,1300,1200,,,,,,,,,,,
+Wealth Tax Paid,-1250,,,,,,,,,,,,
+Sundry Balances Written Back (net),,,,,,,,-4096,-12014,,,,
+Trade Receivables,-83343,-198586,201448,63869,-36858,117812,45239,-48257,-14122,-82290,,-102087,-19332
+Change in Trade Receivables,,,,,,,,,,,36894,,
+Long Term Loan Advances,-140,1982,480,,,,,,,,,,
+Cash Flow From Loans - Working Capital Block,,,-51000,,,,,,,,,,
+Loans and Non-current Financial Assets,,,,-443,-346,,,,,,,,
+Loans Current Financial Asset,,,,51000,,,,,,,,,
+Changes in Inventories,,,,,,,,,,,-39916,,
+Inventories,-70109,359729,118822,242892,182023,-29212,-857,-188683,-325884,-17422,,-67828,471459
+Trade Payables,-124292,-162425,-70314,-15979,16529,83334,-117611,52328,26580,-18883,136434,-27617,-44170
+Other Liabilities,30315,25800,69510,102509,-131925,-102268,129527,91093,44171,75686,-138466,187814,-136244
+Changes in Other Assets,,,,,,,,,,,-394563,,
+Other Current Assets,,,45368,-11679,59998,14561,-4034,-48466,39432,16271,,-43021,31993
+Provisions,-24241,-8500,-6302,3376,-19290,38820,-52649,1364,2702,104960,6862,4719,28619
+Loans & Advances,-94152,76922,,,,,,,,,,,
+Financial Assets,,,,,,13982,-6978,-45032,-66205,12941,,21068,23676
+Changes in Financial Assets,,,,,,,,,,,-37790,,
+Financial Liabilities,,,,,,-117158,13374,-722,14322,23179,45798,20992,46194
+Other Current Financial Assets,,,-21012,19507,-10435,,,,,,,,
+Other Current Financial Liabilities,,,-250014,16032,42761,,,,,,,,
+Cash Flow from Operating Activities,-102433,219584,96459,516263,235769,215075,65364,-21817,-177469,388525,226865,863702,1200651
+Investing Activities,,,,,,,,,,,,,
+Purchases of Fixed Assets,-5969,-2023,-3607,-143198,-244636,-233417,-223542,-474553,-358132,,,,
+Purchase of Ppe and Investment Property/increase in CWIP and Capital Advances,,,,,,,,,,-258179,-562899,-507655,-766512
+"Proceeds From Sale of Property, Plant & Equipment",30,494,16430,4956,150714,4015,6206,2493,21871,10757,2832,44,
+Disposal of Investments Due to Demerger,,,,,,35277,,,,,,,
+Purchase of Investments,,-159500,-960000,-948061,-1034424,-513660,-593533,-1842381,-1302785,-1367435,-800597,-1575594,-1712941
+Proceeds from Sales and Redemption's of Investments,20013,21943,675763,357942,657579,1183621,496953,1954886,1030341,1111026,1141968,1172070,1297842
+CIQ Balancing Calc. - Investing Activities,,,,1,1,,-1,-2638,1,,-1,,-1
+Increase in Restricted Bank Balances Other Than Cash and Cash Equivalents,,,,,,,,1319,128,-2931,-2381,-4537,-2146
+Dividends Received,145630,172331,220452,252553,244645,237189,878783,3796,785823,568577,459069,629476,629517
+Interest Received,18314,13523,3355,8861,2166,3709,2359,8384,11231,11145,20372,20437,15620
+Cash Flow from Investing Activities,178018,46768,-47607,-466946,-223955,716734,567225,-348694,188478,72960,258363,-265759,-538621
+Financing Activities,,,,,,,,,,,,,
+Proceeds from Long-terms Borrowings,,,,,,,,,,,,52983,
+Proceeds from Long-term Liabilities,29722,22737,33,537,23432,115,,,,,,,
+Payments for Long-term Borrowings,,,,,,,,,,,,,-38089
+Proceeds from long-term borrowings Proceeds from long-term borrowings,,,,,,,,,,,91490,,
+Repayments of Short-term Borrowings,-35240,-215662,,,,,,,,,,,
+"Short-term Debt, Notes Payable, Etc",,,,,,,,2766,,,,,
+Working Capital Demand Loans,,,,,,,,,-2766,,,,
+Buy-back of Shares,,,,,,-820000,,,,,,,
+Dividends Paid Dividends Paid,,,,,,,,,,,-562340,,
+Dividends Paid Including Distribution Tax,-32974,-48311,-50757,-48513,-48359,-63320,-61211,-152767,-51508,-459228,,-611720,-614143
+CIQ Balancing Calc. - Financing Activities,,,,,,,,1,,-1,,,1
+Interest and Other Finance Costs,-40174,-8291,-1150,-1583,-1694,-2162,-2880,-3620,-3891,,-11086,,
+Interest and other nance Costs,,,,,,,,,,-4653,,-24711,-22784
+Cash Flow from Financing Activities,-78666,-249527,-51874,-49559,-26621,-885367,-64091,-153620,-58165,-463882,-481936,-583448,-675015
+Other Adjustments,,,,,,,,,,,,,
+CIQ Balancing Calc. - Net Change in Cash,,-1,,-1,,,-1,-1,-1,1,-1,-1,
+Adjustment in Other Equity Due to Demerger,,,,,,-34747,,,,,,,
+Cash Flow Net Changes in Cash,-3081,16824,-3022,-243,-14807,11695,568497,-524132,-47157,-2396,3291,14494,-12985
+"Data shown on this page is extracted directly from the company’s documents. S&P Global Market Intelligence makes every effort to line up fields, captions and headers that represent the same data over time, despite variations in how the company may report these items in different documents. In certain instances the variation in the company’s presentation over time may be too significant, potentially resulting in repeating and/or disordered items. Despite possible issues with the presentation, S&P Global Market Intelligence, as always, stands by its commitment to the quality of the data.",,,,,,,,,,,,,

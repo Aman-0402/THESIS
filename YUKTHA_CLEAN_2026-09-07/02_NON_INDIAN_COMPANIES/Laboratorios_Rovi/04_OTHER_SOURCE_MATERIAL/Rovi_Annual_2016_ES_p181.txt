@@ -1,0 +1,42 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+Los valores razonables de la deuda financiera corriente equivalen a su importe nominal, dado que el efecto del
+descuento no es significativo. Los valores razonables se basan en los flujos de efectivo descontados a un tipo basado
+en el tipo de la deuda financiera del 2% (2% en 2015).
+19. Impuestos diferidos
+Los activos y pasivos por impuestos diferidos se compensan si se tiene legalmente reconocido el derecho a compensar
+los activos y pasivos por impuestos corrientes y los impuestos diferidos se refieren a la misma autoridad fiscal. Un
+detalle por plazos de reversión estimados es como sigue:
+2016 2015
+Activos por impuestos diferidos:
+– Activos por impuestos diferidos a recuperar en más de 12 meses 5.636 4.423
+– Activos por impuestos diferidos a recuperar en 12 meses 4.616 4.448
+10.252 8.871
+Pasivos por impuestos diferidos:
+– Pasivos por impuestos diferidos a cancelar en más de 12 meses 1.230 826
+– Pasivos por impuestos diferidos a cancelar en 12 meses 410 518
+1.640 1.344
+El movimiento neto en la cuenta de impuestos diferidos ha sido el siguiente:
+Activos por Pasivos por
+impuestos impuestos Impuestos
+diferidos diferidos diferidos netos
+Al 1 de enero de 2015 8.280 (1.818) 6.462
+(Cargo) / abono a la cuenta de resultados 591 474 1.065
+Al 31 de diciembre de 2015 8.871 (1.344) 7.527
+(Cargo) / abono a la cuenta de resultados (Nota 27) 1.381 (296) 1.085
+Al 31 de diciembre de 2016 10.252 (1.640) 8.612
+Los movimientos habidos en los activos por impuestos diferidos han sido los siguientes:
+Bases Deducc. 30%
+imponibles pendientes amortiza. Provisio-
+negativas de aplicar 13 y 14 nes Otros Total
+A 1 de enero de 2015 4.644 1.966 1.501 169 - 8.280
+(Cargo) / abono a la cuenta de resultados (78) 822 (133) (20) - 591
+Al 31 de diciembre de 2015 4.566 2.788 1.368 149 - 8.871
+(Cargo) / abono a la cuenta de resultados 150 1.246 (117) 35 67 1.381
+Al 31 de diciembre de 2016 4.716 4.034 1.251 184 67 10.252
+Los importes de activos por impuestos diferidos recogidos en la columna “30% amortización 2013 y 2014” corresponden
+al efecto impositivo del 30% del gasto por amortización del ejercicio, no deducible fiscalmente en los ejercicios 2013 y
+2014, según establecía el Real Decreto-ley 16/2012, de 27 de diciembre, por el que se adoptaron diversas medidas
+tributarias dirigidas a la consolidación de las finanzas públicas y al impulso de la actividad económica.
+48

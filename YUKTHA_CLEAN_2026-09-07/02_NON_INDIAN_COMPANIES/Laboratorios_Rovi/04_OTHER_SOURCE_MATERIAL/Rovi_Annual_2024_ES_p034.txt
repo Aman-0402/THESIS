@@ -1,0 +1,46 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2024
+(Expresada en miles de euros)
+7. Análisis de instrumentos financieros
+7.1 Análisis por categorías
+El valor en libros de cada una de las categorías de instrumentos financieros establecidas en la norma de registro y
+valoración de “Instrumentos financieros”, excepto las inversiones en el patrimonio de empresas del grupo, multigrupo y
+asociadas (Nota 8), es el siguiente:
+a) Activos financieros
+Miles de euros
+Instrumentos de Créditos y otros activos
+patrimonio financieros
+2024 2023 2024 2023
+Activos financieros a coste amortizado (Nota 10) — 25 51.614 54.412
+No corrientes — 25 51.614 54.412
+Activos financieros a coste amortizado (Nota 10) — — 153.872 163.322
+Efectivo y equivalentes de efectivo (Nota 13) — — 16.557 13.023
+Corrientes — — 170.429 176.345
+TOTAL — 25 222.043 230.757
+b) Pasivos financieros
+Miles de euros
+Deudas con entidades de
+crédito Pasivos financieros
+2024 2023 2024 2023
+Pasivos financieros a coste amortizado (Nota 18) 70.659 31.250 82.344 107.107
+No corrientes 70.659 31.250 82.344 107.107
+Pasivos financieros a coste amortizado (Nota 18) 16.280 6.495 233.996 209.187
+Corrientes 16.280 6.495 233.996 209.187
+TOTAL 86.939 37.745 316.340 316.294
+7.2 Calidad crediticia de los activos financieros
+La calidad crediticia de los activos financieros que todavía no han vencido y que tampoco han sufrido pérdidas por
+deterioro se puede evaluar en función de la clasificación crediticia (“rating”) otorgada por organismos externos o bien a
+través del índice histórico de créditos fallidos:
+Miles de euros
+Efectivo y equivalentes de efectivo Rating 2024 2023
+A+ 708 1.762
+A 1.756 6.085
+A- 13.610 140
+Sin rating 483 5.036
+Total efectivo y equivalentes al efectivo (Nota 13) 16.557 13.023
+Miles de euros
+Otros activos financieros a largo plazo Rating 2024 2023
+A+ 1.392 1.392
+Otros 196 19
+Total Otros activos financieros a l/p (Nota 10) 1.588 1.411
+24

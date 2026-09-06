@@ -1,0 +1,43 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+In 2018, new deferred revenues of 5,927 thousand euros (128 thousand euros in 2017) were recognised in relation to
+new distribution contracts.
+20. Other provisions
+Movement on the current provisions recognised in the statement of financial position was as follows:
+Contribution to
+public health
+Returns system Other Total
+At 1 January, 2017 665 2,093 120 2,878
+Additions 699 2,690 119 3,508
+Applications (665) (2,093) (120) (2,878)
+At 31 December, 2017 699 2,690 119 3,508
+Additions 898 5,580 106 6,584
+Applications (699) (2,048) (119) (2,866)
+At 31 December, 2018 898 6,222 106 7,226
+Returns
+The Company estimates a provision for product returns considering the average return rate of recent years (Note 2.b).
+Contribution to public health system
+As stated in Note 3.18, in Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or
+other health products paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending
+on the volume) into the national health system every four months. This is a levy aimed to adjust the margin on a
+regulated activity through the price intervention established by the Law. The Company recognises the contribution to the
+public health system as a reduction in revenue when the sale is made. The sums accrued but not yet paid are
+recognised under the “Other provisions” caption.
+3,467 thousand euros of the total amount of contribution to the national health aystem were related to the co-operation
+agreement signed between Farmaindustria, the Spanish pharmaceutical industry association, and the Spanish
+government in 2016 and renewed in December 2017. ROVI, as a member of Farmaindustria, is subject to this
+agreement. According to the agreement, in the event that public spending on medicines (exclusing generics and
+biosimilar) exceeds the actual growth rate of the GDP of the Spanish economy, the pharmaceutical industry must
+reimburse the government in cash for said excess. In 2018, the public spending growth rate exceeded the growth rate of
+the GDP, meaning that the companies subject to the agreement must make the applicable reimbursement (3,467
+thousand euros in the case of ROVI).
+The amounts of the provisions recongised in the statement of financial position are the reporting-date best estimate of
+the payments necessary to meet this obligation, after consideration of the risks and uncertainties related ot the provision
+and, when significant, the financial effect produced by the rebate, provided that the payments that will be made in each
+period can be reliably determined. The rebate rate is determined before tax, considering the time value of money and the
+specific risks that were not taken into account in the future flows related to the provision at each reporting date.
+46

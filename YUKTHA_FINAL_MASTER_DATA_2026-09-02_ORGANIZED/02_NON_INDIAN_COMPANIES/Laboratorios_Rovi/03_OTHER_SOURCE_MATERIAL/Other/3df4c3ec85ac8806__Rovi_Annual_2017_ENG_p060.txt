@@ -1,0 +1,46 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+On 1 August, 2007, the Company became the parent of tax group 362/07. Applying the consolidated tax regime provided
+for in the corporate income tax legislation, ROVI, the parent company of the tax group, included in its statement of
+financial position debt of 129 thousand euros (88 thousand euros in 2016) with Group companies resulting from a tax
+effect (Note 31.f), together with credits of 3,677 thousand euros (6,307 thousand euros in 2016) with group companies
+resulting from a tax effect.
+The reconciliation between the net income and expenses for the period and the tax profit is as follows:
+Thousands of euros
+Income and expenses
+Income Statement credited/(charged) directly in equity
+Balance of income & expenses 18,673 (414)
+Increases Decreases Total Increases Decreases Total
+Income tax (6,444) (139)
+Permanent differences
+- Individual 1,156 (121) 1,035 - - -
+- Due to tax consolidation - (9,892) (9,892) - - -
+Temporary differences
+- Individual
+- Originating in the year 967 (34) 933 - - -
+- Originating in previous years 372 (1,009) (637) - - -
+- Due to tax consolidation
+- Originating in the year - (2,995) (2,995) - - -
+- Originating in previous years 2,298 - 2,298 - - -
+Taxable income 2,971 (553)
+Individual permanent differences relate to non-tax deductible expenses and the transfer of intangible assets.
+Permanent differences due to consolidation relate solely to eliminations resulting from the distribution of dividends
+among companies belonging to the tax group.
+Individual temporary differences relate to application of freedom of amortization/depreciation associated to the assets
+attached to the R&D activity, expenses recognized in the accounts but temporarily non-deductible, and the free
+amortization/depreciation associated to maintaining jobs.
+Temporary differences due to consolidation relate to eliminations and additions resulting from transactions between
+companies belonging to the tax group.
+Corporate income tax expense comprises:
+Thousands of euros
+2017 2016
+Current tax (743) (3,420)
+Tax credits 2,215 3,365
+Deferred tax 4,495 747
+Adjustment income tax previous years 27 (10)
+1,499 682
+51

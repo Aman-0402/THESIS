@@ -1,0 +1,67 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+3. ESRS E2. Pollution
+The objective of this chapter is to disclose how ROVI’s activity affects pollution of air, water and soil, taking account of material
+actual or potential, positive or negative impacts.
+Likewise, the policies adopted to prevent or mitigate the actual or potential negative impacts and address the associated risks
+and opportunities are disclosed. The actions taken by the Group to address the prevention, control, elimination or reduction of
+pollution are also described.
+a. Management of impacts, risks and opportunities
+◦ Disclosure Requirement related to ESRS 2 IRO-1: Description of the processes to
+identify and assess material pollution-related impacts, risks and opportunities
+In relation to the process followed by ROVI to identify the material pollution-related impacts, risks and opportunities, see
+Disclosure Requirement ESRS 2 IRO-1, which describes the four phases of the double materiality assessment: understanding,
+identification, assessment and determination. Likewise, ROVI has no impact on adjacent communities either in its own
+operations or in any part of its value chain (see explanation under Disclosure Requirement IRO-2) and, therefore, it has not
+been necessary to consult such communities.
+As a result of the double materiality assessment, the pollution-related impacts31 found to be material are described below:
+Value chain Impact/Risk/ Actual/ Time
+Sub-topic Description IRO
+level Opportunity Potential horizon
+Water Extensive use of antibiotics in pigs (from which heparin is Negative
+Upstream Actual < 1 year
+pollution obtained). impact
+Own Water Positive
+ROVI’s correct management of wastewater. Actual < 1 year
+operations pollution impact
+Water Medicines that are not recycled through “Punto Sigre” that Negative
+Downstream Actual < 1 year
+pollution end up in dumps. impact
+Water Classification process at “Punto SIGRE” with the objective Positive
+Downstream Actual < 1 year
+pollution of “zero discharge”. impact
+Emission of pollutant gases such as ammonia (NH3)
+Negative
+Upstream Air pollution derived from the extensive use of pigs (from which heparin Actual < 1 year
+impact
+is obtained).
+Own Treatment system for volatile organic compounds (VOCs) Positive
+Air pollution Actual < 1 year
+operations that helps avoid air pollution. impact
+Toxic compounds released by the incineration of medicine Negative
+Downstream Air pollution Actual < 1 year
+waste to recover energy. impact
+Incineration of medicine waste to recover energy avoids Positive
+Downstream Soil pollution Actual < 1 year
+soil pollution. impact
+Across the Emissions into t he air due to transportation of raw Negative
+Air pollution Actual < 1 year
+value chain materials and finished goods by ROVI. impact
+Reduction in soil pollution by energy recovery carried out at Positive
+Downstream Soil pollution Actual < 1 year
+“Punto SIGRE” classification plants. impact
+Contribution to soil pollution by medicines not recycled at Negative
+Downstream Soil pollution Actual < 1 year
+the “Punto SIGRE” that end up in dumps. impact
+Generation of microplastics due to heavy consumption of
+Accross the Negative
+Microplastics plastic across the whole value chain of the pharmaceutical Actual < 1 year
+value chain impact
+sector.
+Medicines or medical devices (eg. syringes) no recycled at
+Substances of Negative
+Downstream the “Punto SIGRE” or through specific bins tend to end up Actual < 1 year
+concern impact
+in dumps.
+31 The fact that no material risks or opportunities have been identified should be taken into account.
+79

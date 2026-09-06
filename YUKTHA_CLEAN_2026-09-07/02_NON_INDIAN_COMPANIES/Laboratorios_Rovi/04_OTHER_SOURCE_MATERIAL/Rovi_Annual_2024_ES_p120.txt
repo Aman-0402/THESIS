@@ -1,0 +1,46 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+Una parte de la financiación ajena del Grupo se realiza mediante anticipos reembolsables de organismos oficiales, que no
+generan pagos por intereses al estar subvencionados.
+El Grupo hace seguimiento del capital de acuerdo con el índice de apalancamiento. Este índice se calcula como la deuda/caja
+neta dividida entre el patrimonio neto. La deuda/caja neta se calcula como el total de la deuda financiera, menos el efectivo y
+los equivalentes al efectivo. El patrimonio neto es el que se muestra en el correspondiente epígrafe del balance, tal y como se
+muestra en las cuentas consolidadas.
+Los índices de apalancamiento al 31 de diciembre de 2024 y 2023 han sido los siguientes:
+2024 2023
+Deuda financiera (Nota 18) 114.410 65.427
+Menos: Efectivo y equivalentes al efectivo (Nota 14) (27.186) (25.322)
+Menos: Valores de renta variable (Nota 11) — (24)
+Menos: Depósitos (Notas 9 y 13) (1.930) (1.440)
+Menos: AF a coste amortizado (Notas 8 y 32) (227) —
+Deuda/(Caja) neta 85.067 38.641
+Patrimonio neto 581.540 543.494
+Índice de apalancamiento 14,6 % 7,1 %
+3.3 Estimación del valor razonable
+Las valoraciones a mercado de instrumentos financieros se clasifican en:
+– Nivel 1. Precios cotizados en mercados activos para instrumentos idénticos.
+– Nivel 2. Inputs observables para el instrumento, ya sea directamente (precios) o indirectamente (basados en precios).
+– Nivel 3. Inputs que no están basados en datos observables en el mercado.
+Las valoraciones a mercado de los activos financieros del Grupo registrados a valor razonable, que corresponden en su
+totalidad como activos financieros a valor razonable con cambios en otro resultado global, reconocidos en el balance como
+“valores de renta variable”, (Nota 11), se clasifican en el Nivel 1.
+El valor razonable de los instrumentos financieros que se comercializan en mercados activos (tales como los valores de renta
+variable) se basa en los precios de mercado al cierre del ejercicio. El precio de mercado usado por el Grupo para los activos
+financieros es el precio corriente comprador.
+El valor razonable de los anticipos reembolsables sin tipo de interés o con tipo de interés subvencionado se determina
+aplicando a los reembolsos a efectuar la curva de tipos de interés en vigor a la fecha de recepción del anticipo, añadiendo el
+spread que normalmente se aplica en los préstamos al Grupo. A efectos de la presentación de información financiera, el valor
+razonable se calcula al cierre del cada ejercicio, aplicando a los pagos pendientes la curva de tipos en vigor en cada cierre,
+añadiendo el spread correspondiente. En los préstamos a tipo variable, se ha estimado que su valor razonable coincide con el
+importe por el que están registrados (Nota 18). La valoración a mercado de los anticipos reembolsables sin tipo de interés se
+clasifica en el Nivel 2.
+4. Estimaciones y juicios contables significativos
+Las estimaciones y juicios contables significativos se evalúan continuamente y se basan en la experiencia histórica y otros
+factores, incluidas las expectativas de sucesos futuros que se creen razonables bajo las circunstancias.
+4.1 Estimaciones e hipótesis significativas
+El Grupo hace estimaciones e hipótesis en relación con el futuro. Las estimaciones contables resultantes, por definición,
+raramente igualarán a los correspondientes resultados reales. A continuación, se explican las estimaciones y juicios que tienen
+un riesgo significativo de dar lugar a un ajuste material en los importes en libros de los activos y pasivos dentro del ejercicio
+financiero siguiente.
+25

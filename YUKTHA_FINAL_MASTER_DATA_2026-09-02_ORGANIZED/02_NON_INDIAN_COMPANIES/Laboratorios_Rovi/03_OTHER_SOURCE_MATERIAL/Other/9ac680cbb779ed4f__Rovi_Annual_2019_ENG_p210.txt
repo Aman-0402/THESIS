@@ -1,0 +1,38 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+17. Trade and other payables
+2019 2018
+Trade payables 68,770 47,875
+Payables to related parties (Note 31) 1,673 2,250
+Outstanding remuneration 5,264 5,177
+Public authorities 4,703 5,586
+Other payables 11,504 7,277
+91,914 68,165
+At 31 December, 2019 and 2018, the “Other payables” caption included the following liabilities:
+2019 2018
+Returns 1.365 898
+Contribution to public health system 8.437 6.222
+Other 25 107
+9.827 7.227
+Contribution to public health system
+In Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or other health products
+paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending on the volume) into the
+National Health System. This is a levy aimed to adjust the margin on a regulated activity through the price intervention
+established by the Law. The Group recognises the contribution to the public health system as a reduction in revenue
+when the sale is made. The sums accrued but not yet paid are recognised under the “Other payables” caption.
+Additionally, 5,641 thousand euros of the total amount of rebates to the National Health System were related to the co-
+operation agreement signed between Farmaindustria, the Spanish pharmaceutical industry association, and the Spanish
+government in 2016 and renewed in December 2017. ROVI, as a member of Farmaindustria, is subject to this
+agreement. According to the agreement, in the event that public spending on medicines (exclusing generics and
+biosimilar) exceeds the actual growth rate of the GDP of the Spanish economy, the pharmaceutical industry must
+reimburse the government for said excess in cash.
+In 2018, the public spending growth rate exceeded the growth rate of the GDP, meaning that the companies subject to
+the agreement must make the applicable reimbursement. The amount to be paid by ROVI for this item is 2,567 thousand
+euros.
+Although these amounts should not be considered as returns or refunds to customers, they are recognised as a
+reduction in revenue because the objective of the Law is to regulate the prices and margins obtained for these products.
+47

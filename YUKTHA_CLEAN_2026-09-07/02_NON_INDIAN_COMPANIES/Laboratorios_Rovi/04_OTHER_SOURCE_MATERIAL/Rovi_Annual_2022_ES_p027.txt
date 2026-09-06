@@ -1,0 +1,52 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+En ocasiones la Sociedad realiza, de forma previa a la prestación del servicio de fabricación, y de acuerdo a
+determinados hitos definidos, labores de adaptación, acondicionamiento y validación de sus instalaciones y de
+maquinaria, propia o adquirida o subcontratada a terceros, sin las cuales no sería posible prestar el servicio en las
+condiciones requeridas por los clientes. En el caso de que el coste final de estas labores sea asumido por el cliente, la
+Sociedad registra el ingreso correspondiente al servicio realizado en base al grado de avance de los trabajos realizados,
+según los hitos definidos. En el caso que el grado de avance incorpore determinada adquisición de activos, el margen
+no se reconoce hasta su final instalación.
+c) Ingresos por intereses
+Los ingresos por intereses se reconocen usando el método del tipo de interés efectivo. Cuando una cuenta a cobrar
+sufre pérdida por deterioro del valor, la Sociedad reduce el valor contable a su importe recuperable, descontando los
+flujos futuros de efectivo estimados al tipo de interés efectivo original del instrumento, y continúa llevando el descuento
+como menos ingreso por intereses. Los ingresos por intereses de préstamos que hayan sufrido pérdidas por deterioro
+del valor se reconocen utilizando el método del tipo de interés efectivo.
+d) Ingresos por dividendos
+Los ingresos por dividendos se reconocen como ingresos en la cuenta de pérdidas y ganancias cuando se establece el
+derecho a recibir el cobro. No obstante lo anterior, si los dividendos distribuidos procedan de resultados generados con
+anterioridad a la fecha de adquisición no se reconocen como ingresos, minorando el valor contable de la inversión.
+e) Otros ingresos ordinarios: concesión de licencias de distribución en exclusividad
+Los ingresos por la concesión de licencias de distribución de productos de ROVI por otras compañías se reconocen
+sobre la base del devengo de acuerdo con la sustancia de los correspondientes contratos.
+Hasta la fecha la Sociedad ha concedido a terceros varias licencias para comercializar sus productos en exclusividad en
+un determinado territorio. Por estos acuerdos, ROVI ha cobrado un importe único de cesión de licencia, sin necesidad
+de devolución o con posibilidad de devolución bajo condiciones muy restrictivas, cuando el producto ha sido autorizado
+para su distribución en el territorio concreto.
+Adicionalmente, la Sociedad se compromete, por el plazo del contrato, a la venta al distribuidor de los productos
+contratados a los precios acordados en el contrato. El importe cobrado en la cesión de la licencia se registra como
+“importe neto de la cifra de negocios” de forma lineal en el plazo del contrato. La parte no devengada se registra como
+pasivo a largo plazo si se va a registrar en ingresos en un plazo superior a un año.
+3.16 Arrendamientos
+Cuando la Sociedad es el arrendatario – Arrendamiento operativo
+Los arrendamientos en los que el arrendador conserva una parte importante de los riesgos y beneficios derivados de la
+titularidad se clasifican como arrendamientos operativos. Los pagos en concepto de arrendamiento operativo (netos de
+cualquier incentivo recibido del arrendador) se cargan en la cuenta de pérdidas y ganancias del ejercicio en que se
+devengan sobre una base lineal durante el período de arrendamiento.
+3.17 Transacciones en moneda extranjera
+a) Moneda funcional y de presentación
+Las cuentas anuales de la Sociedad se presentan en miles de euros. El euro es la moneda de presentación y funcional
+de la Sociedad.
+b) Transacciones y saldos
+Las transacciones en moneda extranjera se convierten a la moneda funcional utilizando los tipos de cambio vigentes en
+la fecha de las transacciones. Las pérdidas y ganancias en moneda extranjera que resultan de la liquidación de estas
+transacciones y de la conversión a los tipos de cambio de cierre de los activos y pasivos monetarios denominados en
+moneda extranjera se reconocen en la cuenta de pérdidas y ganancias, excepto si se difieren en patrimonio neto como
+las coberturas de flujos de efectivo cualificadas y las coberturas de inversión neta cualificadas.
+Los cambios en el valor razonable de títulos monetarios denominados en moneda extranjera clasificados como activos
+financieros a valor razonable con cambios en patrimonio neto son analizados entre diferencias de conversión resultantes
+de cambios en el coste amortizado del título y otros cambios en el valor contable del título. Las diferencias de conversión
+se reconocen en el resultado del ejercicio y otros cambios en el valor contable se reconocen en el patrimonio neto.
+17

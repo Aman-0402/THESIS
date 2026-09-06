@@ -1,0 +1,47 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+aquellas partidas que no se ajustan al descriptivo de las actividades, con el fin último de conocer las partidas específicas que
+resultan elegibles, así como a qué actividad deben computarse.
+Las cuantías que se computan el denominador corresponden con el importe neto de la cifra de negocios consolidada del Grupo
+ROVI, divulgado en sus Cuentas Anuales Consolidadas (apartado “Cuenta de Resultados Consolidada”).
+◦ Cálculo del % de CapEx
+Se calcula como el numerador dividido por el denominador; siendo el denominador las adiciones a los activos tangibles e
+intangibles durante el ejercicio considerado antes de depreciaciones, amortizaciones y posibles nuevas valoraciones, incluidas
+las resultantes de revalorizaciones y deterioros de valor, correspondientes al ejercicio pertinente, con exclusión de los cambios
+del valor razonable. El denominador también incluye las adiciones a los activos tangibles e intangibles que resulten de
+combinaciones de negocios.
+Para las empresas no financieras que apliquen las normas internacionales de información financiera (NIIF) adoptadas por el
+Reglamento (CE) n.o 1126/2008, los CapEx cubrirán los costes que se contabilizan de acuerdo con:
+• NIC 16 Inmovilizado material, párrafo 73, letra e), incisos i) e iii);
+• NIC 38 Activos Intangibles, párrafo 118, letra e), inciso i);
+• NIC 40 Inversiones inmobiliarias, párrafo 76, letras a) y b), (para el modelo del valor razonable);
+• NIC 40 Inversiones inmobiliarias, párrafo 79, letra d), incisos i) e ii), (para el modelo del coste);
+• NIC 41 Agricultura, párrafo 50, letras b) y e);
+• NIIF 16 Arrendamientos, párrafo 53, letra h).
+Para las empresas no financieras que apliquen los principios de contabilidad generalmente aceptados (PCGA) nacionales, los
+CapEx integrarán los costes contabilizados en el marco de los PCGA aplicables que correspondan a los costes incluidos en las
+inversiones en activos fijos por empresas no financieras que apliquen las NIIF.
+Los arrendamientos que no den lugar al reconocimiento de un derecho de uso del activo no se contabilizarán como CapEx.
+Por otro lado, el numerador incluirá la parte de las inversiones en activos fijos incluidos en el denominador que:
+I. Esté relacionada con activos o procesos que estén asociados a actividades económicas que se ajustan a la taxonomía;
+II. Forme parte de un plan para ampliar las actividades económicas que se ajustan a la taxonomía o para permitir que
+actividades económicas elegibles según la taxonomía se ajusten a la taxonomía («plan CapEx») en las condiciones
+especificadas en el párrafo segundo del punto 1.1.2.2 del Anexo I del Reglamento Delegado del 6 de julio (relativo al
+«plan CapEx»);
+III. Esté relacionada con la compra de la producción obtenida a partir de actividades económicas que se ajustan a la
+taxonomía y medidas individuales que posibiliten que las actividades objetivo pasen a tener bajas emisiones de carbono
+o den lugar a reducciones de los gases de efecto invernadero, en particular las actividades enumeradas en los puntos
+7.3 a 7.6 del anexo I del ADC, así como otras actividades económicas enumeradas en los Actos Delegados adoptados
+de conformidad con el artículo 10, apartado 3, el artículo 11, apartado 3, el artículo 12, apartado 2, el artículo 13,
+apartado 2, el artículo 14, apartado 2, y el artículo 15, apartado 2, del Reglamento (UE) 2020/852, y siempre que esas
+medidas se apliquen y estén operativas en un plazo de dieciocho meses.
+Las actividades elegibles con CapEx asociado para ROVI durante el ejercicio 2024 son las que se detallan a continuación:
+Anexo de Mitigación del Cambio Climático Anexo de Prevención de la Contaminación
+Actividad 5.4.
+Actividad 7.3.
+Actividad 1.1.
+Actividad 7.4.
+Actividad 1.2.
+Actividad 7.5.
+Actividad 7.6.
+59

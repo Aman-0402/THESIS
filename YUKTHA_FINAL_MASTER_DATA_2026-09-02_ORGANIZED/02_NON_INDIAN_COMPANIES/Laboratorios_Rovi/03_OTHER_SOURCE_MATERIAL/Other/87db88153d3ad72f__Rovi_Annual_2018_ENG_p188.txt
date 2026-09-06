@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+Deferred income tax is recognised on temporary differences arising between the tax bases of assets and liabilities and
+their carrying amounts in the Consolidated Annual Accounts. However, deferred income tax is not accounted for if it
+arises from initial recognition of an asset or liability in a transaction other than a business combination that, at the time of
+the transaction, affects neither accounting nor taxable profit or loss.
+Deferred income tax is determined using tax rates (and laws) that have been enacted or substantively enacted at the end
+of the reporting period and are expected to apply when the related deferred income tax asset is realised or the deferred
+income tax liability is settled.
+Deferred income tax assets are recognised only to the extent that it is probable that future taxable profit will be available
+against which the temporary differences can be utilised.
+Deferred tax assets and deferred tax liabilities are offset when, and only when, there is a legally enforceable right to
+offset current tax assets against current tax liabilities and the deferred tax assets and liabilities relate to income taxes
+levied by the same tax authority on the same entity or taxpayer or on different entities or taxpayers which intend to settle
+current tax assets and liabiities for their net amount.
+2.18. Employee benefits
+(a) Pension obligations
+The Group holds a defined-contribution plan exclusively on behalf of certain Group employees. A defined-contribution
+plan is a pension plan under which the Group pays fixed contributions into an external fund. The Group has no legal or
+constructive obligations to pay further contributions if the fund does not hold sufficient assets to pay all employees the
+benefits relating to employee service in the current and prior periods.
+For the defined-contribution plans, the Group pays contributions into pension insurance plans managed publicly or
+privately on a mandatory, contract or voluntary basis. Once the contributions have been paid, the Group holds no further
+payment obligations. The contributions are recognised as employee benefits when accrued. Benefits paid in advance are
+recognised as an asset to the extent that cash is refunded or future payments are reduced.
+(b) Termination payments
+Termination benefits are payable when employment is terminated by the Group before the normal retirement date, or
+whenever an employee accepts voluntary redundancy in exchange for these benefits. The Group recognises these
+benefits on the earlier of the following dates: (a) when the Group can no longer withdraw the offer of said benefits; or (b)
+when the entity recognises restructuring costs within the scope of IAS 37 and this means termination benefits must be
+paid. When an offer is made in order to encourage voluntary redundancies on the part of the employees, the termination
+benefits are measured in accordance with the number of employees who are expected to accept the offer. The benefits
+that will not be paid within the twelve months following the end of the reporting period are discounted back to their
+present value.
+(c) Bonus plans
+The Group recognises a liability and an expense for bonuses based on the estimates of fulfilment of certain corporate
+targets established for employees.
+25

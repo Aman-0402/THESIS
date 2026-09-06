@@ -1,0 +1,42 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Income Statement for the annual periods ended 31 December 2024 and 2023
+(Thousand euros)
+Year ended 31 December
+Note 2024 2023
+CONTINUING OPERATIONS
+Net sales 22 566,634 575,661
+Sales of goods 540,516 551,271
+Sales of services 26,118 24,390
+Change in inventories of finished products and work in progress 12 (18,789) 10,567
+Procurements (406,840) (454,079)
+Raw materials and consumables used 22 b) (405,122) (451,197)
+Inventory write-down 12 (1,718) (2,882)
+Other operating income 15,415 10,284
+Ancillary and current management income 22 c) 14,845 9,962
+Operating grants recognised in profit and loss 22 d) 570 322
+Employee benefit expenses 22 e) (50,949) (46,690)
+Wages, salaries and similar remuneration (41,685) (38,001)
+Welfare charges (9,264) (8,689)
+Other operating expenses (82,923) (75,765)
+External services 22 f) (74,829) (71,100)
+Taxes (8,157) (4,866)
+Losses, impairment and changes in trade provisions 22 g) 63 201
+Amortisation and depreciation charges 5 & 6 (9,408) (10,226)
+Allocation of grants for non-financial assets and other 17 330 192
+Impairment and gains/(losses) on disposal of intangible assets and
+other 6 31 (72)
+Gains (losses) on sales and other 31 (72)
+OPERATING PROFIT/(LOSS) 13,501 9,872
+Finance income 65,566 1,423
+Finance expenses (5,043) (2,205)
+Change in fair value of financial instruments — 28
+Foreign exchange differences 25 (104)
+Impairment and gains/(losses) on disposal of financial instruments (190) 1,097
+FINANCE COSTS - NET 24 60,358 239
+PROFIT BEFORE TAX 73,859 10,111
+Income tax 23 1,687 1,960
+PROFIT FOR THE YEAR 16 75,546 12,071
+Notes 1 to 35 attached hereto are an integral part of these annual accounts.
+3

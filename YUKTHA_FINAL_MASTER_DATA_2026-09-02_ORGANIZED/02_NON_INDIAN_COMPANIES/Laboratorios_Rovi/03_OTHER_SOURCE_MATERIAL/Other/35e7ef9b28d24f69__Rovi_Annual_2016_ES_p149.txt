@@ -1,0 +1,39 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada
+(Expresada en miles de euros)
+2.8. Costes por intereses
+Los costes por intereses generales y específicos que sean directamente atribuibles a la adquisición, construcción o
+producción de activos aptos, que son aquellos que necesariamente requieren de un periodo de tiempo sustancial antes
+de estar preparados para el uso previsto o la venta, se añaden al coste de esos activos, hasta que llega el momento en
+que los activos están sustancialmente preparados para el uso que se pretende o la venta.
+Los ingresos financieros obtenidos por la inversión temporal de los préstamos específicos a la espera de su uso en los
+activos aptos se deducen de los costes por intereses susceptibles de capitalización.
+El resto de los costes por intereses se reconoce en resultados en el ejercicio en que se incurre en ellos.
+2.9. Pérdidas por deterioro de valor de los activos no financieros
+Los activos intangibles que tienen una vida útil indefinida o los activos intangibles que no están en condiciones de
+poderse utilizar no están sujetos a amortización y se someten anualmente a pruebas para pérdidas por deterioro del
+valor. Los activos sujetos a amortización se someten a revisiones para pérdidas por deterioro siempre que algún suceso
+o cambio en las circunstancias indique que el importe en libros puede no ser recuperable. Se reconoce una pérdida por
+deterioro del valor por el importe por el que el importe en libros del activo excede su importe recuperable. El importe
+recuperable es el mayor entre el valor razonable de un activo menos los costes para la venta y el valor en uso. A efectos
+de evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo para el que hay flujos de entrada
+de efectivo en gran medida independientes (unidades generadoras de efectivo). Las pérdidas por deterioro de valor
+previas de activos no financieros (distintos al fondo de comercio) se revisan para su posible reversión en cada fecha en
+la que se presenta información financiera.
+2.10. Activos financieros
+El Grupo clasifica sus activos financieros en las siguientes categorías: préstamos y cuentas a cobrar y disponibles para
+la venta. La clasificación depende del propósito con el que se adquirieron los activos financieros. La dirección determina
+la clasificación de sus activos financieros en el momento de reconocimiento inicial.
+(a) Préstamos y cuentas a cobrar
+Los préstamos y cuentas a cobrar son activos financieros no derivados con pagos fijos o determinables que no cotizan
+en un mercado activo. Se incluyen en activos corrientes, excepto para vencimientos superiores a 12 meses desde la
+fecha del balance que se clasifican como activos no corrientes. Los préstamos y cuentas a cobrar se incluyen en el
+epígrafe “clientes y otras cuentas a cobrar” y “cuentas financieras a cobrar”.
+Los depósitos en entidades bancarias con un vencimiento superior a 90 días y menos de 12 meses son incluidos en
+esta categoría como activos corrientes.
+Las cuentas comerciales a cobrar se reconocen inicialmente por su valor razonable y posteriormente por su coste
+amortizado de acuerdo con el método del tipo de interés efectivo, menos la provisión por pérdidas por deterioro del
+valor. Se establece una provisión para pérdidas por deterioro de cuentas a cobrar cuando existe evidencia objetiva de
+que el Grupo no será capaz de cobrar todos los importes que se le adeudan de acuerdo con los términos originales de
+las cuentas a cobrar.
+16

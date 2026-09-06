@@ -1,0 +1,49 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Non-Financial Information Statement and Sustainability Reporting 2024
+extent to which its policies, actions and targets encompass the whole value chain and to include data on both its own
+operations and the upstream and downstream value chain in the information on metrics.
+Additionally, to comply in relation to disclosure of classified or sensitive information, as well as details of intellectual property,
+know-how or the results of innovation, ROVI confirms that it ensures that transparency of its clinical trials and, therefore, has
+not omitted any specific piece of information with regard to said trials. This decision reflects the Group’s commitment to the
+transparency and comprehensiveness of all communications and operations, ensuring that all stakeholders have access to
+material information on ROVI and its advances. Notwithstanding, the Group will not disclose information deemed sensitive
+and/or confidential in relation to the R&D&I or artificial intelligence projects (Cells IA) on which it is working.
+Lastly, ROVI’s situation does not justify the application of exemption from disclosure of impending developments or matters in
+the course of negotiation, as provided for in articles 19a(3) and 29a(3) of Directive 2013/34/EU.
+◦ Disclosure Requirement BP-2: Disclosures in relation to specific circumstances
+In relation to the disclosure of specific information, when identifying the impacts risks and opportunities, ROVI has kept the
+long-, medium- and short-term time horizons defined by the ESRS:
+• Short term: < 1 year (current reporting period).
+• Medium term: 1-5 years (as of end of current reporting period).
+• Long term: > 5 years.
+Additionally, ROVI will disclose all the standards that have been found to be material as a result of the double materiality
+assessment and may not apply any of the exemptions mentioned in Appendix C of ESRS 1 since it had more than 750
+employees in 2024. Furthermore, the Company will include the information derived from other European Union legislation in
+this Report (see the list of datapoints included in cross-cutting and topical standards derived from other European Union
+legislation in IRO-2).
+Regarding incorporation by reference, information referenced to the Consolidated Annual Accounts that is related to the
+following disclosure requirements has been included:
+• ESRS 2 IRO-1 of E1 (datapoint AR 15) related to the financial effects of climate-related risks.
+• E1-3 (datapoint DR 29c) related to European Union Taxonomy.
+• S1-6 (datapoint DR 50f) related to the number of employees.
+Regarding the disclosure of quantitative material, the Group has made estimates for the following requirements:
+Value chain (upstream and downstream)
+Metrics /
+Topical Disclosure Basis for Level of accuracy at present and in the
+Monetary Pages
+Standard Requirement preparation future
+amounts
+Regarding the calculation methodology, the
+level of accuracy is limited, although the data
+E1 – 6: Gross Gross Scope 3
+sources are reliable and the footprint is
+ESRS E1 scopes 1, 2 GHG Following the
+audited doubly by a third party.
+Climate and 3 and Total emissions guidance of 75
+change GHG (waste ISO 14064.
+Through the Teimas platform, it is expected to
+emissions transportation)
+improve the system for recording waste and,
+thus, the level of accuracy of the data will
+increase.
+2

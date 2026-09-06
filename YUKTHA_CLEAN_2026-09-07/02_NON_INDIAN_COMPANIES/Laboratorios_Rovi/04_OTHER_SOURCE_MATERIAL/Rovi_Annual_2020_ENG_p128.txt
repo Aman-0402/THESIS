@@ -1,0 +1,43 @@
+ANNUAL CORPORATE GOVERNANCE REPORT
+OF LISTED COMPANIES
+F.3.3 Internal control policies and procedures intended to guide the management of subcontracted
+activities and those of third parties, as well as those aspects of assessment, calculation or
+evaluation entrusted to independent experts, which may materially affect financial statements.
+At present, the only outsourced operation with a material effect on the financial information is the process of preparing the payroll. The
+payroll management process is monitored by the Human Resources Department. The supervisory activities are shown in the
+documentation describing the Company’s flows and activities.
+F.4. Information and communication
+State whether the company has at least the following, describing their main characteristics:
+F.4.1 A specifically assigned function for defining and updating accounting policies (accounting policy area or
+department) and resolving doubts or conflicts arising from their interpretation, maintaining a free flow
+of information to those responsible for operations in the organisation, as well as an up-to-date
+accounting policy manual distributed to the business units through which the company operates.
+In the Company’s Financial Department, specifically in the accounting area, there is a specific function responsible for defining the
+accounting policies and keeping them updated, as well as solving any doubts or conflicts arising from the interpretation thereof.
+The Company has an accounting policy manual that includes the main accounting criteria to be taken into account when preparing the
+financial information. Said manual is updated by ROVI’s Financial Department periodically. The latest update took place in December
+2017 and a revision process is currently underway to include the applicable new accounting principles.
+F.4.2 Measures for capturing and preparing financial information with consistent formats for application
+and use by all of the units of the entity or the group, and which contain the main financial statements
+and notes, as well as detailed information regarding ICFR.
+All the companies that form part of the Group use SAP as the only system for capturing and preparing financial information. Data are
+uploaded to the application homogeneously for all the subsidiaries included in the perimeter of consolidation.
+Moreover, since it is a group of companies with a highly centralised financial function, the key activities conducted in preparing the financial
+information are performed by the same team of employees for all the Group companies, which ensures the consistency of the information.
+In relation to ICFR, the person responsible for preparing this information contacts the departments involved to obtain the documentation
+(financial and non-financial) necessary for proper compliance with the legal requirements in relation thereto.
+F.5. Supervision of system performance
+Describe at least the following:
+F.5.1 The activities of the audit committee in overseeing ICFR as well as whether there is an internal
+audit function that has among its mandates support of the committee and the task of
+supervising the internal control system, including ICFR.
+Additionally, describe the scope of ICFR assessment made during the year and the procedure
+through which the person responsible prepares the assessment reports on its results, whether
+the company has an action plan describing possible corrective measures, and whether its impact
+on financial reporting is considered.
+The Audit Committee met monthly to review the regular financial reporting sent to the National Securities Market Commission. It
+supervised the process of preparing both the individual and consolidated quarterly and half-yearly financial information and the integrity
+thereof. Specifically, the Committee reviewed, before it was sent, compliance with regulatory requirements, the accurate demarcation of
+the perimeter of consolidation and the proper application of accounting criteria in the regular information, within the periods established by
+law in this respect.
+45 / 65

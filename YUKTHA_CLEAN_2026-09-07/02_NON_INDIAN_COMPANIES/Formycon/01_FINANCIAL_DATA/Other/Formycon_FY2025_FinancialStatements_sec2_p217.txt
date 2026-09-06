@@ -1,0 +1,74 @@
+217
+Our conclusions Determining the fair values of the contingent pur-
+chase price payments is complex and relies on a
+The approach underlying the impairment test for number of judgmental assumptions. These include,
+the capitalized development costs for the FYB202 in particular, the long-term decline rate and the
+project is appropriate and consistent with valuation planning horizon as key assumptions for determin-
+principles. The assumptions and data used by the ing the projected revenues of products FYB201 and
+Company are reasonable. The related notes to the FYB202. Similarly, the discount rates used, which
+financial statements are appropriate. are based on term-dependent costs of capital, are
+subject to judgment.
+In fiscal year 2025, competitive intensity in the bio-
+Determination of the fair value of the con-
+similar market increased significantly in the U.S. for
+tingent consideration resulting from the
+both the FYB201 product (via Bioeq AG) and the
+business combination to acquire the shares
+FYB202 product. This leads to significant adjust-
+in Bioeq AG (FYB201) and FYB202 Project
+ments to the expected price development. Against
+GmbH
+the backdrop of the reduction in expected sales of
+the FYB201 and FYB202 products, the Company
+has reduced the fair values of the financial liabilities
+For the accounting and valuation principles applied,
+related to the contingent purchase price payments
+as well as the assumptions used, we refer to Note 6
+by EUR 17.4 million.
+of the consolidated financial statements. Infor-
+mation on the amount of financial liabilities can be
+There is a risk to the consolidated financial state-
+found in the Notes to the Consolidated Financial
+ments that the fair values have not been deter-
+Statements under items 22 and 23. Explanations
+mined at an appropriate level. In addition, there is a
+regarding the economic development of the
+risk that the related notes to the financial state-
+FYB202 project can be found in the summary man-
+ments are not appropriate.
+agement report in the section on the development
+of assets, revenue, and earnings.
+Our audit approach
+Risks related to the financial statements
+We obtained an understanding of the Company’s
+process for determining fair values through discus-
+The financial liabilities from contingent purchase
+sions with finance department staff and an assess-
+price payments resulting from the acquisition of
+ment of the Group’s accounting policies.
+shares in Bioeq AG and FYB202 Project GmbH in
+fiscal year 2022 amount to EUR 144.3 million as of
+With the involvement of our valuation specialists,
+December 31, 2025, and, at 20% of total assets,
+we assessed, among other things, the appropriate-
+represent a significant portion of liabilities.
+ness of the Company’s key assumptions and calcu-
+lation methods. To this end, we discussed the ex-
+As of the balance sheet date, the Company deter-
+pected sales of the FYB201 and FYB202 products
+mines the fair values of the contingent purchase
+with the planning managers. By reconciling these
+price payments using the discounted cash flow
+figures with other internally available forecasts, e.g.,
+method. The starting point for the calculation is the
+for tax purposes, and the budget prepared by the
+cash inflows from the rights to the FYB201 and
+legal representatives, we assessed their internal
+FYB202 products held by the respective subsidiar-
+consistency. The appropriateness of the assump-
+ies and joint ventures, which are determined based
+tions was also evaluated against external market
+on current plans and have a direct impact on the
+assessments. Furthermore, we verified the Com-
+amount of the contingent purchase price payments.
+pany’s historical forecasting accuracy by comparing

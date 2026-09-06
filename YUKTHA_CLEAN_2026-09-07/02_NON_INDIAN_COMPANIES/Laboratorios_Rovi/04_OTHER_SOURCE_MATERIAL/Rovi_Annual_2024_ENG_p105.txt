@@ -1,0 +1,49 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+2.8 Borrowing costs
+General and specific interest costs that are directly attributable to the acquisition, construction or production of qualifying assets,
+which are those that necessarily require a substantial time period before they are ready for their planned use or to be sold, are
+added, if applicable, to the cost of these assets until the time when said assets are substantially ready for their intended use or
+to be sold.
+Finance income obtained from the temporary investment of specific loans while they are waiting to be used on the qualifying
+assets is deducted from capitalisable interest costs.
+The rest of the interest costs are expensed in the annual period in which they are incurred.
+2.9 Impairment of non-financial assets
+Intangible assets that have an indefinite useful life and those that are not in a usable condition are not amortised and are tested
+annually for impairment.
+Amortisable assets are tested for impairment whenever events or changes in circumstances indicate that the carrying amount
+may not be recoverable, including, among others:
+– Observable indications of a decrease in market value.
+– Evaluation of any events that may have had an adverse effect, be they external (e.g. inflation or changes in the legal
+environment) or internal (e.g. restructuring plans or when the asset is idle).
+– Increases in the asset’s market interest rates.
+– Information on the obsolescence or physical deterioration of the asset.
+– Evidence from internal reports indicating that the asset’s performance will be worse than expected.
+An impairment loss is recognised for the amount by which the asset’s carrying amount exceeds its recoverable amount. The
+recoverable amount is the higher of an asset’s fair value less costs to sell and its value in use. For the purposes of assessing
+impairment, assets are grouped at the lowest levels for which there are separately identifiable cash flows that are largely
+independent (cash-generating units). Previous impairment losses on non-financial assets (other than goodwill) are reviewed at
+each reporting date to see whether they can be reversed.
+2.10 Financial instruments
+Financial instruments are classified upon initial recognition as financial assets or financial liabilities, in accordance with the
+economic nature of the contract and the definitions of financial asset and financial liability set out in IAS 32 “Financial
+Instruments: Presentation”.
+Financial instruments are recognised when the Group becomes an obliged party under a contract or legal transaction in
+accordance with the provisions thereof. The Group recognises financial instrument purchase or sale transactions through
+conventional contracts, defined as those in which the reciprocal obligations of the parties must be performed within a time frame
+established by regulations or market conventions and which cannot be offset against each other at the contract or settlement
+date, depending on the type of asset.
+For measurement purposes, the Group classifies financial instruments in the categories of financial assets and liabilities carried
+at fair value through profit and loss. The Group designates a financial asset or liability as fair value through profit and loss upon
+initial recognition if, by so doing, it eliminates or significantly reduces an inconsistency in the measurement or recognition that
+would arise otherwise, i.e. if the assets or liabilities or the recognition of the gain or loss thereon were measured on different
+bases.
+The Group holds forward contracts for the purchase or sale of foreign currency. Some of these insurance contracts are
+considered derivative financial instruments that meet the conditions to be considered hedging instruments. Hedges that cover
+foreign currency risk on the fair value of monetary financial assets and liabilities in foreign currency, including both changes in
+the market value of the financial instruments designated as hedges and changes in the market value of the hedged item caused
+by the hedged risk, are charged or credited to profit and loss, as appropriate.
+13

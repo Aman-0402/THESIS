@@ -1,0 +1,43 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2019
+(Thousands of euros)
+Matured receivables that had been impaired at 31 December, 2019 were 158 thousand euros (720 thousand euros at 31
+December, 2018). The ageing of impaired receivables was as follows:
+Thousands of euros
+2019 2018
+6 to 9 months 158 341
+Over 9 months - 379
+158 720
+Movement on the provision for impairment of trade receivables was as follows:
+Thousands of euros
+2019 2018
+Balance at beginning of period 720 1,061
+Applications (450) (120)
+Derecognition due to non-recoverability (112) (221)
+Balance at end of period 158 720
+Recognition and reversal of adjustments to the carrying amounts of trade receivables due to impairment are included in
+“Losses, impairment and change in trade provisions” in the income statement. Usually, the amounts charged to the
+impairment account are derecognised when further recovery of cash is not expected.
+The maximum exposure to credit risk at the reporting date is the fair value of each of the previously mentioned accounts
+receivable categories. The Company does not hold any guarantee as insurance.
+11. Available-for-sale financial assets
+Available-for-sale financial assets include:
+Thousands of euros
+2019 2018
+Listed securities:
+- Investment funds and equity securities 4 4
+Non-listed securities:
+- Equity securities – Euro zone 59 59
+63 63
+Movement on available-for-sale financial assets in 2019 and 2018 was as follows:
+Thousands of euros
+2019 2018
+Balance at beginning of the year 63 62
+Net gains / (losses) in equity - 1
+Balance at end of the year 63 63
+Less: non-current portion 63 63
+Current portion - -
+35

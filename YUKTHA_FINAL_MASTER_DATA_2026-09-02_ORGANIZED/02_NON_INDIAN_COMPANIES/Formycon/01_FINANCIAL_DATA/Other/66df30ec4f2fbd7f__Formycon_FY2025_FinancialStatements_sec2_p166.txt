@@ -1,0 +1,72 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 166
+earning contractual interest income, maintain- Derecognition
+ing a particular interest rate profile, matching
+the duration of the financial assets to the dura- Financial assets
+tion of any related liabilities or expected cash The Group derecognizes a financial asset when its
+outflows, or realizing cash flows through the contractual right to receive cash flows from the fi-
+sale of the assets; nancial asset expires, or when it transfers its right
+to receive contractual cash flows in a transaction in
+— how performance results are evaluated and re- which either the Group transfers substantially all of
+ported to the Group’s management; the risks and rewards associated with ownership of
+the financial asset are transferred, or when the
+Group, although neither transferring nor retaining
+— the risks that affect the performance of the
+substantially all the risks and rewards of ownership,
+business model (and the financial assets held
+does not retain control of the financial asset.
+within that business model) and how those
+risks are managed;
+Financial liabilities
+The Group derecognizes a financial liability when
+— how managers of the business are compen-
+its contractual obligations are discharged or can-
+sated - e.g. whether compensation is based on
+celled, or expire. The Group also derecognizes a fi-
+the fair value of the assets managed or the
+nancial liability when its contractual terms are modi-
+contractual cash flows collected; and
+fied and the cash flows of the modified liability are
+substantially different, in which case a new financial
+— the frequency, volume and timing of sales of fi-
+liability based on the modified terms is recognized
+nancial assets in prior periods and expectations
+at fair value.
+about future sales activity.
+Upon derecognition of a financial liability, the differ-
+Financial liabilities: Classification, subsequent
+ence between the carrying amount extinguished
+measurement, and gains and losses
+and the consideration paid (including any non-cash
+Financial liabilities are classified and measured at
+assets transferred or liabilities assumed) is recog-
+amortized cost or FVTPL. A financial liability is clas-
+nized in profit or loss.
+sified at FVTPL if it is classified as held for trading,
+is a derivative, or is designated as such upon initial
+Subscribed capital
+recognition.
+Costs directly attributable to the issuance of com-
+Financial liabilities at FVTPL are measured at fair
+mon shares are recorded as a deduction from eq-
+value, with net gains and/or losses, including inter-
+uity. Income tax effects relating to the transaction
+est expense, recognized in profit or loss.
+costs of an equity measure are recognized directly
+in equity in accordance with IAS 12.
+Other financial liabilities are subsequently meas-
+ured at amortized cost using the effective interest
+Asset impairment
+method. Interest expense and foreign currency
+translation differences are recognized in profit or
+Financial assets (excluding derivatives)
+loss. Any gain or loss upon derecognition is also
+recognized in profit or loss.
+Financial instruments and contract assets
+The Group recognizes loss allowances for ex-
+With the exception of the obligation to pay contin-
+pected credit losses (ECLs) on:
+gent consideration under the Athos transaction and
+the separable embedded derivative from the is-
+sued bond, all of the Group’s financial liabilities are — financial assets measured at amortized cost,
+and
+measured at amortized cost.

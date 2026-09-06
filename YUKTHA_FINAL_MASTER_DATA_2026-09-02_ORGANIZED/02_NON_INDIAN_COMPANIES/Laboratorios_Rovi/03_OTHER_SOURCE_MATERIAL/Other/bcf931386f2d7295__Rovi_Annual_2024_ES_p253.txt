@@ -1,0 +1,37 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+◦ Anexo de Prevención de la Contaminación:
+Actividad 1.1: “Fabricación de ingredientes farmacéuticos activos (IFA) o sustancias activas”. ROVI, como empresa
+farmacéutica, genera ingresos por la fabricación de principio activo en sus complejos de Granada y Escúzar. En dichos
+complejos, ROVI fabrica, por un lado, el principio activo de la vacuna de Moderna y, por otro lado, ROVI fabrica el principio
+activo de Bemiparina y Enoxaparina para la posterior fabricación de sus productos propios. No obstante, los ingresos derivados
+de la venta de Bemiparina y Enoxaparina son ingresos intercompany, puesto que se perciben por Laboratorios Farmacéuticos
+ROVI por la venta a ROVI Pharma Industrial Services.
+Actividad 1.2: “Fabricación de medicamentos”. ROVI, como empresa farmacéutica, genera ingresos derivado de la fabricación
+de medicamentos a partir de los principios activos propios que elabora (Bemiparina y Enoxaparina) o a partir de principios
+activos elaborados por parte de un tercero, añadiendo los excipientes necesarios.
+En este sentido, ambas actividades son generadoras de ingresos, además de contar con CapEx y OpEx vinculado a las
+mismas. En consecuencia, derivado de los ingresos, CapEx y OpEx en los que ha incurrido el Grupo durante el ejercicio 2024,
+se determina la elegibilidad de ambas actividades.
+El presente cuadro esquematiza el racional seguido por el Grupo para computar cada uno de los indicadores a la actividad
+taxonómica que resulta de aplicación bajo el Anexo de Prevención de la Contaminación:
+Ingresos CapEx OpEx
+Para la vacuna de Moderna Actividad 1.1. Actividad 1.1. Actividad 1.1.
+Fabricación de
+principios activos
+Bemiparina y Enoxaparina Intercompany Actividad 1.2* Actividad 1.2*
+API propio + añadido
+Actividad 1.2 Actividad 1.2 Actividad 1.2
+excipientes
+Fabricación de
+medicamentos
+API de un tercero +
+Actividad 1.2 Actividad 1.2 Actividad 1.2
+añadido excipientes
+*Nota: se adopta la hipótesis en la que las altas de CapEx destinadas a la fabricación de API propio computan en la actividad 1.2, dado que el fin de ese principio
+activo es fabricar un medicamento (se entiende la actividad en su conjunto).
+No Elegible bajo actividades taxonómicas
+Acondicionamiento primario y
+Distribución de medicamento Material Sanitario
+secundario de medicamentos
+55

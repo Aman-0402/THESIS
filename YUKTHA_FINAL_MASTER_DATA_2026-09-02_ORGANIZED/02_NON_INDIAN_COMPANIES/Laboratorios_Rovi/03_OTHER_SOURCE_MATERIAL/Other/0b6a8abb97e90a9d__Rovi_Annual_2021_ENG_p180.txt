@@ -1,0 +1,31 @@
+Free translation of the 2021 Consolidated Management Report originally issued in Spanish. In the event of discrepancy,
+the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+2021 Consolidated Management Report
+EBITDA
+EBITDA (Earnings Before Interest, Tax, Depreciation and Amortization) is an indicator that measures the group’s operating
+profit before interest, taxes, impairment, depreciation and amortization have been deducted. Management uses it to assess
+the results over time, allowing a comparison with other companies in the sector.
+We calculate EBITDA as profit before taxes, interest, depreciation and amortization.
+EBITDA “Pre-R&D”
+This APM is used by ROVI to show EBITDA from the on-going business.
+We calculate EBITDA “Pre-R&D” as EBITDA excluding:
+– Research and Development expenses (“R&D”) (see Note 7 to the consolidated annual accounts at 31 December
+2020); and
+– Non-recurring expenses/income (see Note 23 to the consolidated annual accounts at 31 December 2020).
+EBIT
+EBIT (Earnings Before Interest and Taxes) is an indictor that measures the group’s operating profit before interest and tax
+are deducted. Like the preceding indicator, Management uses it to assess the results over time, allowing a comparison
+with other companies in the sector.
+We calculate EBIT as profit before taxes and interest.
+EBIT “Pre-R&D”
+This APM is used by ROVI to show EBIT from the on-going business.
+We calculate EBIT “Pre-R&D” as operating profit for the period excluding:
+– Research and Development expenses (“R&D”) (see Note 7 to the consolidated annual accounts at 31 December
+2020); and
+– Non-recurring expenses/income (see Note 23 to the consolidated annual accounts at 31 December 2020).
+Net profit “Pre-R&D”
+This APM is used by ROVI to show the profit for the period related to the on-going business.
+We calculate Net proft “Pre-R&D” as EBIT “Pre-R&D” plus:
+– Finance costs-net; and
+22

@@ -1,0 +1,43 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+The heading “Other” includes other service activities that are not significant for the Group.
+The segment information used by the Management Committee for 2020 was as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 239,683 463,737 - 703,420 (283,459) 419,961
+Profit/(loss) 24,602 71,138 (28) 95,712 (34,655) 61,057
+Income tax 8,671 4,188 (9) 12,850 (1,326) 11,524
+Profit/(loss) before tax 33,273 75,326 (37) 108,562 (35,981) 72,581
+Finance costs - net 542 (29,170) (2) (28,630) 30,700 2,070
+Amortisation 7,703 11,890 - 19,593 - 19,593
+EBITDA (*) 41,518 58,046 (39) 99,525 (5,281) 94,244
+Amortisation (7,703) (11,890) - (19,593) - (19,593)
+EBIT (**) 33,815 46,156 (39) 79,932 (5,281) 74,651
+The 2019 figures were as follows:
+Inter-
+segments Consolidated
+Manufacturing Marketing Other TOTAL transactions figures
+Total segment revenues 197,512 392,727 - 590,239 (208,926) 381,313
+Profit/(loss) 30,221 28,153 (33) 58,341 (19,068) 39,273
+Income tax 2,302 1,139 (11) 3,430 (823) 2,607
+Profit/(loss) before tax 32,523 29,292 (44) 61,771 (19,891) 41,880
+Finance costs - net 170 (16,014) 2 (15,842) 16,610 768
+Amortisation 6,696 11,520 - 18,216 - 18,216
+EBITDA (*) 39,389 24,798 (42) 64,145 (3,281) 60,864
+Amortisation (6,696) (11,520) - (18,216) - (18,216)
+EBIT (**) 32,693 13,278 (42) 45,929 (3,281) 42,648
+(*) EBITDA is calculated as profit before tax, interest, depreciation and amortisation.
+(**) EBIT is calculated as profit before tax and interest.
+Inter-segment transactions included on the finance gain/(loss) lines are principally dividends paid between Group
+companies.
+Each segment’s sales to external customers in 2020 were as follows:
+Manufacturing Marketing Other TOTAL
+Total segment revenues 239,683 463,737 - 703,420
+Inter-segment revenues (148,126) (135,333) - (283,459)
+Revenues from external customers 91,557 328,404 - 419,961
+32

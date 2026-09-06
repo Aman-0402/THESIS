@@ -1,0 +1,49 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+6. CONSOLIDATED STATEMENT OF FINANCIAL POSITION (UNDER IFRS ADOPTED) (2/2)
+Units: thousands of euros
+LIABILITIES AND EQUITY CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2017 31/12/2016
+A) EQUITY (A.1 + A.2 + A.3) 0195 191.687 183.406
+A.1) EQUITY 0180 191.689 183.409
+1. Capital: 0171 3.000 3.000
+a) Authorized capital 0161 3.000 3.000
+a) Less: uncalled capital 0162
+2. Share premium 0172
+3. Reserves 0173 600 600
+4. Less treasury stock 0174 (8.407) (8.701)
+5. Retained earnings 0178 179.255 162.421
+6. Other shareholder contributions 0179
+7. Profit or loss for period 0175 17.241 26.089
+8. Less: interim dividend 0176
+9. Other equity instruments 0177
+A.2) ACCUMULATED OTHER COMPREHENSIVE INCOME 0188 (2) (3)
+1. Items not reclassified to profit and loss for the period 0186
+2. Items that may be reclassified to profit and loss for the period 0187 (2) (3)
+a) Available-for-sale financial assets 1181 (2) (3)
+b) Hedging transactions 1182
+c) Hedging differences 1184
+d) Other 1183
+EQUITY ATTRIBUTED TO PARENT COMPANY(A.1 + A.2) 0189 191.687 183.406
+A.3) NON-CONTROLLING INTERESTS 0193
+B) NON-CURRENT ASSETS 0120 33.472 28.000
+1. Grants 0117
+2. Non-current provisions 1115
+3. Non-current financial liabilities: 1116 27.029 20.828
+a) Bank borrowings and debentures or other negotiable securities 1131 17.716 10.940
+b) Other financial liabilities 1132 9.313 9.888
+4. Deferred tax liabilities 1118 1.438 1.640
+5. Other non-current liabilities 1135 5.005 5.532
+C) CURRENT LIABILITIES 1130 73.223 76.442
+1. Liabilities related to current assets held for sale 1121
+2. Current provisions 1122 3.508 2.878
+3. Current finanacial liabilities: 1123 16.208 12.966
+a) Bank borrowings and debentures or other negotiable securities 1133 13.222 9.991
+b) Other financial liabilities 1134 2.986 2.975
+4. Trade and other payables: 1124 52.942 59.852
+a) Trade payables 1125 42.129 50.221
+b) Other payables 1126 10.813 9.631
+c) Current tax liabilities 1127
+5. Other current liabilities 1136 565 746
+TOTAL EQUITY AND LIABILITIES (A + B + C) 1200 298.382 287.848

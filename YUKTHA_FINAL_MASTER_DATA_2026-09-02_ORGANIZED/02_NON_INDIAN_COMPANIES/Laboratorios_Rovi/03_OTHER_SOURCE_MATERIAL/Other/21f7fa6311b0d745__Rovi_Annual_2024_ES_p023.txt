@@ -1,0 +1,48 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2024
+(Expresada en miles de euros)
+El Grupo utiliza el método de coste medio ponderado para la asignación de valor a las existencias.
+Finalmente, cuando el valor neto realizable de las existencias es inferior a su precio de adquisición o a su coste de
+producción, se efectúan las oportunas correcciones valorativas, reconociéndolas como un gasto en la cuenta de
+resultados.
+3.8 Patrimonio neto
+El capital social está representado por acciones ordinarias.
+Los costes de emisión de nuevas acciones u opciones se presentan directamente contra el patrimonio neto, como
+menores reservas.
+En el caso de adquisición de acciones propias de la Sociedad, la contraprestación pagada, incluido cualquier coste
+incremental directamente atribuible, se deduce del patrimonio neto hasta su cancelación, emisión de nuevo o
+enajenación. Cuando estas acciones se venden o se vuelven a emitir posteriormente, cualquier importe recibido, neto de
+cualquier coste incremental de la transacción directamente atribuible, se incluye en el patrimonio neto.
+La Sociedad clasifica un instrumento financiero asumido como un pasivo financiero en su totalidad o en una de sus
+partes, siempre que de acuerdo con su realidad económica suponga para la Sociedad una obligación contractual directa
+o indirecta de entregar efectivo u otro activo financiero o de intercambiar activos o pasivos financieros con terceros en
+condiciones potencialmente desfavorables.
+Los contratos que imponen a la Sociedad una obligación a adquirir instrumentos de patrimonio propio, en efectivo o
+mediante la entrega de un activo financiero, se reconocen como un pasivo financiero por el valor actual del importe a
+pagar contra reservas. Los costes de transacción se reconocen igualmente como una minoración de reservas.
+3.9 Pasivos financieros
+a) Pasivos financieros a coste amortizado
+La Sociedad calificará todos los pasivos dentro de esta categoría excepto cuando deban valorarse a valor razonable con
+cambios en la cuenta de pérdidas y ganancias. Esta categoría incluye débitos por operaciones comerciales y débitos por
+operaciones no comerciales. Estos recursos ajenos se clasifican como pasivos corrientes, a menos que la Sociedad
+tenga un derecho incondicional a diferir su liquidación durante al menos 12 meses después de la fecha del balance.
+Estas deudas se reconocen inicialmente a su valor razonable ajustado por los costes de transacción directamente
+imputables, registrándose posteriormente por su coste amortizado según el método del tipo de interés efectivo. Dicho
+interés efectivo es el tipo de actualización que iguala el valor en libros del instrumento con la corriente esperada de
+pagos futuros previstos hasta el vencimiento del pasivo.
+No obstante lo anterior, los débitos por operaciones comerciales con vencimiento no superior a un año y que no tienen
+un tipo de interés contractual se valoran, tanto en el momento inicial como posteriormente, por su valor nominal cuando
+el efecto de no actualizar los flujos de efectivo no es significativo.
+b) Pasivos a valor razonable con cambios en la cuenta de pérdidas y ganancias
+Tienen la consideración de pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias
+todos aquellos pasivos que se mantienen para negociar, han sido designados por la sociedad de manera irrevocable
+dentro de esta categoría o determinados pasivos financieros híbridos.
+Estos pasivos financieros se valoran, tanto en el momento inicial como en valoraciones posteriores, por su valor
+razonable, imputando los cambios que se produzcan en dicho valor en la cuenta de pérdidas y ganancias del ejercicio.
+Los costes de transacción directamente imputables a la emisión se reconocen en la cuenta de pérdidas y ganancias del
+ejercicio en que surgen.
+3.10 Subvenciones recibidas
+Las subvenciones se reconocen por su valor razonable cuando hay una seguridad razonable de que la subvención se
+cobrará y la Sociedad cumplirá con todas las condiciones establecidas. Las subvenciones asociadas a los anticipos
+reembolsables se reconocen cuando dichos anticipos son concedidos.
+13

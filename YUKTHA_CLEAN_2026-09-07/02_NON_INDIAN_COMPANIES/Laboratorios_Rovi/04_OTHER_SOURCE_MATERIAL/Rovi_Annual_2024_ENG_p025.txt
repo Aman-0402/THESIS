@@ -1,0 +1,49 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+3.13 Provisions and contingent liabilities
+When issuing the annual accounts, the Board of Directors distinguishes between:
+– Provisions: credit balances that cover present obligations as a result of past events, the settlement of which is
+likely to require an outflow of resources, although their amounts and/or times of settlement have not been
+determined.
+– Contingent liabilities: possible obligations as a result of past events, the future materialisation of which depends
+on whether or not one or more future events take place irrespective of the Company's wishes.
+The statement of financial position shows all the provisions for which it is considered more likely than not that settlement
+will be required. Contingent liabilities are not recognised in the accounts but are reported in the Notes.
+Provisions are measured at the present value of the expenditures expected to be required to settle the obligation using a
+pre-tax rate that reflects current market assessments of the time value of money and the risks specific to the obligation.
+The increase in the provision due to updating is recognised as a finance cost as accrued.
+Provisions maturing at one year or less with an insignificant financial effect are not discounted.
+When part of the expenditure necessary to settle the provision is expected to be reimbursed by a third party, the
+reimbursement is recognised as a separate asset, provided it is almost certain to be received.
+Provisions for environmental restoration, restructuring costs and legal claims are recognised when the Company has a
+present legal or constructive obligation as a result of past events, it is probable that an outflow of resources will be
+required to settle the obligation and the amount can be reliably estimated. Restructuring provisions comprise lease
+termination penalties and employee termination payments. No provisions are recognised for future operating losses.
+Contingent liabilities are the possible obligations arising from past events the materialisation of which depends on
+whether one or more future events take place irrespective of the Company’s wishes. These contingent liabilities are not
+recognised but details are set out in the Notes (Note 28).
+3.14 Business combinations
+Transactions of merger, spin-off or non-monetary contribution of a business between group companies are recorded
+applying the rules for transactions with related parties (Note 3.18).
+Other merger, spin-off or non-monetary contribution transactions and business combinations arising from the acquisition
+of all the assets and liabilities of a company or a part of a company that comprises one or more businesses are
+recognised applying the acquisition method.
+For business combinations resulting from the acquisition of shares in the capital of a company, the Company recognises
+the investment in accordance with the rules for investments in the equity of group, multi-group and associated
+companies.
+3.15 Revenue recognition
+Revenue comprises the fair value of the consideration received or receivable for the sale of goods, rendering of services
+and other revenue received in the ordinary course of the Company’s activities. Revenue is shown net of value-added tax
+returns, rebates and discounts.
+The Company recognises revenue when the amount of revenue can be reliably measured, it is probable that future
+economic benefits will flow to the Company and specific criteria have been met for each of the activities as described
+below. The amount of revenue is not considered to be reliably measurable until all contingencies relating to the sale have
+been resolved. The Company bases its estimates on historical results, taking into consideration the type of customer, the
+type of transaction and the specifics of each arrangement.
+a) Sales of goods
+The Company sells pharmaceutical products for which it holds a manufacturing and sale licence in the wholesale market
+and also to retailers. It also acquires and sells pharmaceutical products of other entities.
+15

@@ -1,0 +1,44 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+25. Flujos de efectivo de las actividades de explotación
+Miles de euros
+2023 2022
+Resultado del ejercicio antes de impuestos 10.111 44.680
+Ajustes del resultado:
+- Amortización del inmovilizado (Notas 5 y 6) 10.226 10.725
+- Ingresos financieros (Nota 24) (1.423) (2.375)
+- Gastos financieros (Nota 24) 2.205 893
+- Diferencias de cambio (Nota 24) 104 570
+- Ajustes por cambios de valor de instrumentos financieros (28) 11
+- Resultados por bajas y enajenaciones de instrumentos financieros (1.097) (1.828)
+- Variación neta de provisiones 3.087 (4.282)
+- Subv. de inmovilizado no financiero e ingresos por licencias de distribución (1.120) (2.903)
+- Otros ingresos y gastos 2.681 47
+24.746 45.538
+Cambios en el capital corriente:
+- Existencias 2.926 (19.590)
+- Deudores y otras cuentas a cobrar (29.047) 40.206
+- Acreedores y otras cuentas a pagar 95.510 107.705
+69.389 128.321
+Otros flujos de efectivo de las actividades de explotación:
+- Cobros (pagos) por impuesto sobre beneficios (40.186) (43.100)
+- Otros Cobros (pagos) (Nota 19) 255 385
+(39.931) (42.715)
+Flujos de efectivo generados / (utilizados) de las actividades de explotación 54.204 131.144
+26. Flujos de efectivo de las actividades de inversión
+Miles de euros
+2023 2022
+Pagos por inversiones: —
+- Empresas del grupo y asociadas (Nota 8) (2.890) (1.427)
+- Otros activos financieros — (5.870)
+- Inmovilizado intangible (Nota 5) (485) (447)
+- Inmovilizado material (Nota 6) (5.501) (5.925)
+(8.876) (13.669)
+Cobros por desinversiones:
+- Empresas del grupo y asociadas 57.929 —
+- Otros activos financieros 82 30
+- Inmovilizado material e intangible (Nota 6) 97 2.938
+- Otros activos (Nota 24) 523 611
+58.631 3.579
+51

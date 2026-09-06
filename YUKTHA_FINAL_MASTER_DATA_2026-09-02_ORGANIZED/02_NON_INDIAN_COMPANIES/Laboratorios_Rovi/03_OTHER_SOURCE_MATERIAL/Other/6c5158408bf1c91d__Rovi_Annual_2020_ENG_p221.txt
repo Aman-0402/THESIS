@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+The tax on the Group’s pre-tax profit differs from the notional amount that would have been calculated using the 25% tax
+rate applicable to the profits of the consolidated companies, as follows:
+2020 2019
+Profit before tax 72,581 41,880
+Tax calculated at domestic tax rate of 25% (18,145) (10,471)
+Share of profit of joint venture (8) (49)
+Movement on capitalised negative tax assets - 5,437
+Adjustment corporate income tax prior years 198 (140)
+Non-tax deductible expenses (675) (112)
+Tax differences in subsidiaries results (91) 86
+R&D tax credits used 8,263 4,174
+Movement on capitalised R&D tax credits (1,066) (1,680)
+Otras deducciones aplicadas - 148
+Income tax expense (11,524) (2,607)
+The non-deductible expenses and non-taxable income captions include principally the permanent differences of the
+companies at individual level, mainly related to donations.
+Consolidated current corporate income tax for 2020, after deduction of the amounts paid on account and withholdings
+operated in the period, generated a current tax receivable of 3,730 thousand euros. At 31 December, 2020, the
+receivable recognised for the current tax for 2019 was 4,073 thousand euros.
+Tax credits
+The Group generated tax credits of 4,376 thousand euros in 2020 (3,774 thousand euros in 2019) and was likewise
+entitled to offset tax credits of 8,298 thousand euros from previous years (6,189 thousand euros at 31 December, 2019).
+In 2020, tax credits of 8,263 thousand euros were applied (4,322 thousand euros in 2019) and there were further R&D
+tax credits of 4,411 thousand euros that were pending application in future years (5,642 thousand euros at 31 December,
+2019). At 31 December, 2020 and 2019, the Group had recognised the totality of the tax credits not yet offset in its
+assets (Note 19) and expects to recover them within a maximum term of 3 years.
+When calculating the corporate income tax for 2018, filed in July 2019, ROVI, in accordance with article 39.2 of Law
+27/2014 of 27 November, the Corporate Tax Act, elected not to apply the gross tax payable limitation and requested the
+tax authorities to credit tax credits generated for a total amount of 3,750 thousand euros, to which a discount of 20% was
+applicable.
+Negative tax bases
+At 31 December, 2020, the negative tax bases pending application were 25,460 thousand euros (34,938 thousand euros
+at 31 December, 2019), a total of 9,372 thousand euros of which will be applied in the 2020 corporate income tax. In
+2020, the Group applied negative tax bases of 8,537 thousand euros in the corporate income tax for 2019, filed in July
+2020 (1,397 thousand euros were used in 2019 in relation to the 2018 corporate income tax).
+Of the total negative tax bases pending application, the Group has only recognised as assets those that it expects to
+recover within a period from three to five years, which totalled 16,088 thousand euros at 31 December, 2020 (26,653
+thousand euros at 31 December, 2019).
+59

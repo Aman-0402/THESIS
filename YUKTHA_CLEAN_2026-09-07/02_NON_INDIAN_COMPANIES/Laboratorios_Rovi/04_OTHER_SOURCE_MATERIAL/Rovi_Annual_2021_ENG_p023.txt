@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2021
+(Thousands of euros)
+Financial assets are derecognised in the accounts when the rights to receive cash flows related to them have expired or
+been transferred and the Company has substantially transferred the risks and rewards of ownership. Likewise, financial
+assets are derecognised in circumstances where the Company retains the contractual rights to receive the cash flows from
+them only when contractual obligations that determine payment of said flows to one or more recipients have been assumed
+and the following requirements are met:
+• Payment of the cash flows depends on their having been received previously;
+• The Company cannot sell or pledge the financial asset; and
+• The cash flows received on behalf of the final recipients are remitted without significant delay and the Company is not
+able to reinvest the cash flows. An exception is made for investments in cash or cash equivalents made by the
+Company during the settlement period, running from the date on which the cash flows are received and the remittance
+date agreed with the final recipients, provided that any interest accrued is attributed to the final recipients.
+Derecognition of a financial asset in full implies the recognition of a gain or loss for the difference between its carrying
+amount and the total consideration received, net of transaction costs, including any assets acquired or liabilities assumed
+and any loss or gain deferred in equity.
+3.5 Financial derivatives and hedge accounting
+Financial derivatives are measured, both initially and in subsequent measurements, at their fair value. The method for
+recognising any resulting losses or gains depends on whether the derivative has been designated as a hedge and, where
+appropriate, the type of hedge.
+Fair value hedges
+The changes in the fair values of the derivatives that are designated and eligible as fair value hedges are recognised in
+profit and loss, together with any change in the fair value of the hedged asset or liability that is attributable to the risk
+hedged.
+3.6 Inventories
+Inventories are measured at the lower of cost or net realisable value. When the net realisable value of the inventories is
+lower than their cost, the applicable value adjustments will be made, recognising them as an expense in profit and loss. If
+the circumstances that cause the value adjustment cease to exist, the amount of the adjustment is reversed and recognised
+as income in profit and loss.
+Cost is determined using the weighted average cost method. The cost of finished goods and work in progress comprises
+design, raw materials, direct labour, other direct costs and related production overheads (based on normal operating
+capacity). Net realisable value is the estimated selling price in the ordinary course of business, less the estimated selling
+costs and, in the case of raw materials and work in progress, the costs estimated necessary to complete their production.
+3.7 Equity
+Share capital is represented by ordinary shares.
+The costs of issuing new shares or options are shown directly in equity as a reduction in reserves.
+When treasury shares are purchased, the consideration paid, including any directly attributable incremental cost is
+deducted from the equity until the shares are cancelled, reissued or resold. Where such shares are subsequently sold or
+reissued, any consideration received, net of any directly attributable incremental transaction costs, is included in equity.
+14

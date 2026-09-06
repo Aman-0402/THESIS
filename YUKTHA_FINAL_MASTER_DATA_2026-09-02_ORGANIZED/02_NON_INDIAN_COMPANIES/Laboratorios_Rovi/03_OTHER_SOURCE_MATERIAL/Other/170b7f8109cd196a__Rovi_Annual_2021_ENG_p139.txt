@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+e) Dividends
+On 17 June, 2021, the General Meeting of Shareholders approved the distribution of the 2020 profit, which included a
+dividend to be distributed to shareholders for a maximum total amount of 21,373 thousand euros (0.3812 euros gross per
+share). This dividend was paid out in July 2021.
+On October 20, 2020, the General Meeting of Shareholders approved the distribution of the 2019 profit, which included a
+dividend to be distributed to shareholders for a maximum total amount of 9,818 thousand euros (0.1751 euros gross per
+share). This dividend was paid out in November 2020.
+f) Application of profit
+The proposed application of the profit for the period 2020 of the parent company, determined on the basis of generally-
+accepted accounting principles in Spain, that will be submitted to the General Meeting of Shareholders, together with the
+application approved for 2019 based on the profit of the parent company, is as follows:
+2021 2020
+Basis of application
+Profit for the year 65,143 71,137
+Distribution
+Dividends 53,580 21,373
+Retained earnings 11,563 49,764
+65,143 71,137
+17. Trade and other payables
+2021 2020
+Trade payables 97,407 63,452
+Payables to related parties (Note 31) 2,336 2,070
+Outstanding remuneration 5,466 4,564
+Public authorities 5,539 4,936
+Other payables 14,425 16,342
+125,173 91,364
+At 31 December, 2021 and 2020, the “Other payables” caption included the following liabilities:
+2021 2020
+Returns 2,338 1,438
+Contribution to public health system 7,085 14,096
+Other 3,911 7
+13,334 15,541
+Contribution to public health system
+In Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or other health products
+paid with public funds must make payments of between 1.5% and 2.0% of their sales (depending on the volume) into the
+National Health System. This is a levy aimed to adjust the margin on a regulated activity through the price intervention
+established by the Law. The Group recognises the contribution to the public health system as a reduction in revenue when
+the sale is made. The sums accrued but not yet paid are recognised under the “Other payables” caption.
+43

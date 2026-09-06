@@ -1,0 +1,54 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+CONSOLIDATED ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI,
+S.A. AND SUBSIDIARIES AT 31 DECEMBER 2024
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Thousand euros)
+31 December
+Note 2024 2023
+Cash flows from operating activities
+Profit before income tax 177,690 220,408
+Adjustments for non-monetary transactions:
+Amortisation and depreciation 6 & 7 28,015 24,331
+Finance income 27 (259) (1,504)
+Valuation allowance 12 & 13 (4,117) 3,232
+Adjustments for changes in value of derivatives — (28)
+Gain or loss on derecognitions of financial assets and liabilities (81) 219
+Exchange differences 27 (296) 86
+Finance expenses 27 2,350 948
+Grants, distribution licences and other deferred income (1,206) (1,119)
+Share of profits in joint ventures 10 141 125
+Loss on sale or other disposal of property, plant & equipment and intangible assets 4,394 —
+Changes in working capital:
+Trade and other receivables 13,410 19,471
+Inventories 11,871 (29,294)
+Other current assets (prepaid expenses) 40 (702)
+Trade and other payables (16,361) (23,923)
+Other collections and payments:
+Cash flow from contract manufacturing services 20 (33,876) (58,402)
+Proceeds from distribution licences 20 793 255
+Cash flow from taxes (44,230) (40,856)
+Net cash generated (used) in operating activities 138,278 113,247
+Cash flows from investing activities
+Purchases of intangible assets 7 (3,100) (1,393)
+Purchases of property plant and equipment 6 (59,119) (53,794)
+Proceeds from sale of property, plant and equipment 6 37 382
+Proceeds from sale of financial investments 80 88
+Interest received 134 1,489
+Investments in associates and joint ventures 10 c) (19,090) (600)
+Proceeds from sale of interests in associates and joint ventures — 1,800
+Net cash flows generated (used) in investing activities (81,058) (52,028)
+Cash flows from financing activities
+Repayments of financial debt (51,711) (13,654)
+Proceeds from financial debt 18 96,952 734
+Interest paid (1,769) (388)
+Purchase of treasury shares 16 d) (89,708) (133,900)
+Reissue of treasury shares 16 d) 41,921 52,639
+Dividends paid 16 c) (56,451) (69,049)
+Capital contributions to subsidiaries 5,410 2,776
+Net cash flows generated (used) in financing activities (55,356) (160,842)
+Net (decrease)/increase in cash and cash equivalents 1,864 (99,623)
+Cash and cash equivalents at beginning of year 9 & 14 25,322 124,945
+Cash and cash equivalents at end of year 9 & 14 27,186 25,322
+Notes 1 to 36 and Appendix 1 attached hereto are an integral part of these Consolidated Annual Accounts.
+6

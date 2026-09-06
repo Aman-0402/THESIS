@@ -1,0 +1,36 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+2.13. Share capital
+The subscribed share capital is represented by ordinary shares.
+Incremental costs directly attributable to the issue of new shares, face value reductions or the write-off of existing shares
+are shown in equity as a deduction, net of tax, from the proceeds.
+Where any Group company purchases shares in the Company (treasury shares), the consideration paid, including any
+directly attributable incremental costs (net of income taxes) is deducted from equity attributable to the Company’s
+shareholders until the shares are cancelled, reissued or resold. Where such shares are subsequently sold or reissued,
+any consideration received, net of any directly attributable incremental transaction costs and the related income tax
+effect, is included in equity attributable to the Company’s shareholders.
+2.14. Government grants
+Grants from the government are recognized at their fair value where there is a reasonable assurance that the grant will
+be received and the Group will comply with all attached conditions. Grants relating to reimbursable advances are
+recognized when these advances are granted to the Group.
+Government grants relating to costs are deferred and recognized in profit and loss over the period necessary to match
+them with the costs that they are intended to compensate.
+Government grants relating to the purchase of property, plant and equipment are included in non-current liabilities as
+deferred government grants and are credited to profit and loss on a straight-line basis over the expected lives of the
+related assets.
+Reimbursable advances at zero interest rate or those with a subsidized interest rate are recognized at fair value at the
+time they are received, subsequently being recognized at amortized cost. The difference between the fair value and the
+face value is registered as “Recognition of government grants on non-financial assets and others” if the loans are
+financing incurred expenses, or are included in non-current liabilities as deferred government grants, and credited to the
+income statement on a straight-line basis over the useful life of the assets which have been funded with said loans.
+2.15. Trade payables
+Trade payables are payment obligations for goods or services acquired from suppliers in the ordinary course of business.
+The payables are classified as current liabilities if they mature at one year or less (or if they mature within a normal
+operating cycle, if longer). Otherwise, they are shown as non-current liabilities.
+Trade payables are initially recognized at fair value and subsequently measured at amortized cost using the effective
+interest rate method.
+18

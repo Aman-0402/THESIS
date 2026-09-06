@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+5. Intangible assets
+Details of the items included in Intangible assets and the movement on these items were as follows:
+Patents,
+Developme licences and Computer Advance
+nt trademarks software payments Total
+Balance at 01.01.16
+Cost or measurement 3,094 14,570 4,980 20 22,664
+Accumulated amortization (11) (2,591) (2,779) - (5,381)
+Carrying amount 01.01.16 3,083 11,979 2,201 20 17,283
+Additions 1,157 6,451 347 - 7,955
+Transfers (net of amortization) - 20 - (20) -
+Amortization charge - (1,782) (953) - (2,735)
+Balance at 31.12.16
+Cost or measurement 4,251 21,041 5,327 - 30,619
+Accumulated amortization (11) (4,373) (3,732) - (8,116)
+Carrying amount 31.12.16 4,240 16,668 1,595 - 22,503
+Additions 2,676 25 436 - 3,137
+Transfers (net of amortization) 2,057 - - 2,057
+Amortization charge (297) (2.063) (782) - (3.142)
+Balance at 31.12.17
+Cost or measurement 8,984 21,066 5,763 - 35,813
+Accumulated amortization (308) (6,436) (4,514) - (11,258)
+Carrying amount 31.12.17 8,676 14,630 1,249 - 24,555
+a) Patents, licences and trademarks
+In 2016, the additions recognized under this caption related mainly to the acquisition of the marketing rights of Neparvis®
+in Spain. This drug is used to treat chronic heart failure in adults.
+b) Development
+At 31 December, 2017 and 2016, the assets included under the “Development” caption related to expenses incurred in
+developing a low-molecular-weight heparin, biosimilar to enoxaparin, sales of which commenced in 2017. Amortization of
+this asset commenced during the first quarter of 2017, with the favourable result of the decentralized process used by the
+Group to apply for marketing authorization in twenty-six European Union countries. The useful life of this asset is 20
+years and no indications of impairment thereof were noted in 2017 or 2016.
+c) Fully amortized intangible assets
+At 31 December, 2017, there were fully-amortized intangible assets that were still in use with a carrying cost of 3,971
+thousand euros (1,343 thousand euros at 31 December, 2016).
+d) Assets affected by guarantees and ownership restrictions
+At 31 December, 2017 and 2016, there were no significant intangible assets subject to ownership restrictions or pledged
+to guarantee liabilities.
+25

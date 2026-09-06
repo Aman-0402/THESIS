@@ -1,0 +1,47 @@
+Combined Management Report — Formycon AG Annual Report 2025 86
+significant share of the global biosimilar market, the demonstrated, this could eliminate the future need
+pharmacy benefit segment is experiencing slower for large-scale comparative phase III efficacy stud-
+than expected adoption of biosimilars due to seg- ies.
+ment-specific dynamics, in particular the control
+and reimbursement practices of pharmacy benefit For Formycon, this already marks a striking and sig-
+managers (PBMs), whose rebate and formulary nificant success. Following consultation with the
+strategies determining covered drugs have thus far FDA, the company is one of the first developers of
+limited the adoption of biosimilars within the phar- a pembrolizumab biosimilar being allowed to dis-
+macy benefit sector. Such policies of PBMs and pense with a phase III clinical trial of its candidate
+other payers are proving to be a barrier to the FYB206. This greenlighting significantly reduces
+broader use of prescription biosimilars, despite both development time and costs, with estimated
+their price advantages.68 savings in the tens of millions of dollars.
+In parallel with the growth of the market in terms of Despite this more accommodating regulatory envi-
+aggregate revenue, the number of approved bio- ronment for biosimilars, there are no signs yet of
+similars has likewise increased significantly. As of the broad boost in development activities that one
+July of 2025, a total of 119 biosimilars were ap- might expect. For approx. 90% of biologics with pa-
+proved in Europe and 72 in the U.S.69 tent expirations by 2034, there are no biosimilars
+currently known to be in development (the so-
+At the same time, certain emerging and growth called "biosimilar void"). This gap is particularly pro-
+markets, particularly in Latin America, Africa and nounced for niche (“orphan”) biologics, for which
+Asia, are increasingly gaining in commercial im- biosimilar development has traditionally been con-
+portance. Supported by rising demand, the expan- sidered economically unattractive due to the small
+sion of local production capacities, and regulatory market size. However, changing regulatory frame-
+frameworks that are more closely aligned with in- works are increasingly acknowledging the practical
+ternational standards, these regions are increas- economic hurdles of biosimilar development with-
+ingly contributing to global growth in the biosimilars out compromising the rigorous scientific require-
+market.70 ments for structural and functional biosimilarity:
+While large-scale and costly efficacy studies with
+This strong growth momentum in the biosimilar limited incremental benefit are being deempha-
+market is expected to see a further boost from reg- sized, the approval process continues to require
+ulatory initiatives aimed at streamlining the biosimi- analytically demonstrated comparability, pharmaco-
+lar approval process. Regulatory authorities includ- kinetic studies and immunogenicity assessments.
+ing the European Medicines Agency (EMA)71 and The new regulations are thus tightening the focus
+the U.S. Food and Drug Administration (FDA)72 on what is scientifically appropriate and technically
+have updated or published key guidelines for con- feasible. In addition to their impact on the biosimi-
+sultation on biosimilars that place greater emphasis lars market at large, these changes are expected to
+on analytical, functional and PK73 comparative data. extend the development of new biosimilar products
+For biosimilar candidates that meet the prerequi- into these previously overlooked but important
+sites, and for which a high degree of structural and niches.74
+functional similarity can be convincingly
+68 https://www.bcg.com/publications/2024/rising-tide-lifts-us-biosimilars-mar- 72 https://www.fda.gov/regulatory-information/search-fda-guidance-docu-
+ket? ments/scientific-considerations-demonstrating-biosimilarity-reference-prod-
+69 https://alirahealth.com/education-hub/2025-global-biosimilars-report/ uct-updated-recommendations
+70 https://www.imarcgroup.com/biotechnology-industry?utm_source 73 PK: pharmacokinetic; PD: pharmacodynamic
+71 https://www.ema.europa.eu/en/reflection-paper-tailored-clinical-approach- 74 IQVIA Institute for Human Data Science (2025), Assessing the Biosimilar Void
+biosimilar-development in the U.S.: Achieving Sustainable Levels of Biosimilar Competition

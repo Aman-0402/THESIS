@@ -1,0 +1,34 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de Contabilidad” approved by Royal Decree 1514/2007 of 16th
+November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Statement of Changes in Equity for the annual periods ended 31 December, 2020 and 2019
+(Thousands of euros)
+B) STATEMENT OF TOTAL CHANGES IN EQUITY (thousands of euros)
+Grants,
+Adjustments donations &
+Share Share Treasury Retained Profit for for legacies
+capital premium Reserves shares earnings the year changes in received
+(Note 14) (Note 14) (Note 15) (Note 15) (Note 15) (Note 16) value (Note 17) TOTAL
+BALANCE AT END OF 2018 3,364 87,636 6,959 (8,812) 140,568 15,581 (3) 3,128 248,421
+Adjustments for changes in policies 2018 and
+- - - - - - - - -
+prior periods
+Adjustments for errors 2018 and prior periods - - - - - - - - -
+ADJUSTED BALANCE BEGINNING OF 2019 3,364 87,636 6,959 (8,812) 140,568 15,581 (3) 3,128 248,421
+Total recognised income and expenses - - - - - 25,553 - (378) 25,175
+- Application of profit for 2018 - - 73 - 11,088 (11,161) - - -
+- Distribution of dividends - - - - - (4,420) - - (4,420)
+- Transactions with treasury shares (net) - - - (1,529) 1,682 - - - 153
+BALANCE AT END OF 2019 3,364 87,636 7,032 (10,341) 153,338 25,553 (3) 2,750 269,329
+Adjustments for changes in policies 2019 and
+- - - - - - - - -
+prior periods
+Adjustments for errors 2019 and prior periods - - - - - - - - -
+ADJUSTED BALANCE BEGINNING OF 2020 3,364 87,636 7,032 (10,341) 153,338 25,553 (3) 2,750 269,329
+Total recognised income and expenses - - - - - 71,137 - (344) 70,793
+- Application of profit for 2019 - - - - 15,853 (15,853) - - -
+- Distribution of dividends - - - - - (9,700) - - (9,700)
+- Transactions with treasury shares (net) - - - (9,844) 10,077 - - - 233
+- Other movements on equity - - - - 31 - - - 31
+BALANCE AT END OF 2020 3,364 87,636 7,032 (20,185) 179,299 71,137 (3) 2,406 330,686
+5

@@ -1,0 +1,51 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+Had interest rates on financial debt on variable rates at 31 December 2024, with all other variables remaining constant,
+the grain/(loss) after taxes for the year would have been 108 thousand euros lower or higher, respectively, owing to the
+difference in interest rates or loans at variable rates (39 thousand euros at 31 December 2023).
+b) Credit risk
+Credit risk is managed in groups. Credit risk arises from cash and cash equivalents, deposits with banks and financial
+institutions, receivables classified as available for sale and trade receivables.
+The banks and financial institutions with which the Company works generally have independent ratings. If customers
+have been independently rated, such ratings are used. If this is not the case, then the Company assesses the risk on the
+basis of the customer’s financial position, historical experience and a series of other factors. In those cases in which
+there is no doubt as to the customer’s financial solvency, the Company elects not to set credit limits.
+At 31 December 2024, the greatest investment in financial assets, including cash and cash equivalents but not including
+trade receivables, was related to Bankinter, 13,571 thousand euros (6,085 thousand euros with BBVA at 31 December
+2023). A significant proportion of trade and other receivables relates to accounts receivable from government entities, on
+which, in view of their nature, with the information currently available, management considers that there is no credit risk.
+In the reporting periods for which information is presented, credit limits were not exceeded and management does not
+expect losses due to default by any of the aforementioned counterparties.
+c) Liquidity risk
+Management regularly monitors the liquidity estimates of the Company in accordance with the expected cash flows, so
+that there is always enough cash and marketable securities to cover liquidity needs.
+The following table analyses the Company’s financial liabilities grouped by maturity date, based on the periods
+outstanding at the end of the reporting period through to the maturity dates stipulated in the contracts, including the
+corresponding interest. The amounts shown in the table relate to cash flows stipulated in the contracts, which have not
+been discounted. Given that these amounts have not been discounted and that they include future interest accruals, they
+cannot be matched with figures on the statement of financial position for borrowings, derivatives and trade and other
+payables.
+Thousand euros
+Less than Between Between Over
+At 31 December 2024 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 17,482 35,919 32,646 4,643
+Debt with government entities 1,543 3,340 3,179 1,309
+Debt with group and associated companies 20,811 4,466 6,699 74,733
+Trade and other payables 213,875 — — —
+253,711 43,725 42,524 80,685
+Thousand euros
+Less than Between Between Over
+At 31 December 2023 1 year 1 & 2 years 2 & 5 years 5 years
+Bank borrowings 6,686 13,256 19,414 5,739
+Debt with government entities 1,724 3,173 4,052 1,690
+Debt with group and associated companies 3,584 2,736 4,104 85,472
+Trade and other payables 108,111 — — —
+120,105 19,165 27,570 92,901
+4.2 Fair value estimation
+The fair value of financial instruments traded in active markets (such as securities held at fair value through equity or
+profit and loss) is based on quoted market prices at the end of the reporting period. The quoted market price used for
+financial assets is the current bid price.
+19

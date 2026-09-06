@@ -1,0 +1,45 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+At 31 December, 2017, the Group held property, plant and equipment with a value of 720 thousand euros subject to
+retention of title (800 thousand euros at 31 December, 2016).
+In 2017 and 2016, there was no impairment of property, plant and equipment.
+The Group holds several insurance policies to cover the risks the property, plant and equipment is exposed to. The
+insurance cover is considered sufficient.
+7. Intangible assets
+Movement on intangible assets was as follows:
+Trademarks Computer Advance
+Develop-ment and licences software payments Total
+Balances at 01.01.16
+Cost or valuation 3,094 15,095 9,588 20 27,797
+Accumulated amortization (11) (2,029) (6,876) - (8,916)
+Net carrying amount 01.01.16 3,083 13,066 2,712 20 18,881
+Additions 1,157 6,765 474 - 8,396
+Transfers (net of amortization) - 20 - (20) -
+Amortization charge - (1,268) (1,137) - (2,405)
+Balances at 31.12.16
+Cost or valuation 4,251 21,880 10,062 - 36,193
+Accumulated amortization (11) (3,297) (8,013) - (11,321)
+Net carrying amount 31.12.16 4,240 18,583 2,049 - 24,872
+Additions 2,429 40 486 - 2,955
+Additions internally generated 2,057 - - - 2,057
+Amortization charge (297) (1,568) (941) - (2,806)
+Balances at 31.12.17
+Cost or valuation 8,737 21,920 10,548 - 41,205
+Accumulated amortization (308) (4,865) (8,954) - (14,127)
+Net carrying amount 31.12.17 8,429 17,055 1,594 - 27,078
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognized for an amount of 5,366
+thousand euros at 31 December, 2017 and 2016. Management reviews these assets for indications of impairment on an
+annual basis, although there has been none to date. The recoverable value, which was higher than the carrying amount
+at the end of both reporting periods, has been obtained by projecting the forecast cash flows for the following five years.
+In the cash flow projections, a discount rate of 0.4% has been applied and, for each year, the margins forecast on the
+basis of the characterstics of the manufacturing of the product in said year have been used.
+At 31 December, 2017 and 2016, the assets included under the “Development” caption correspond to assets related to
+the development of a low-molecular-weight heparin, biosimilar to enoxaparin, sales of which commenced in 2017.
+Amortization of this asset commenced during the first quarter of 2017, with the favourable result of the decentralized
+process used by the Group to apply for marketing authorization in twenty-six European Union countries. The useful life of
+this asset is 20 years, and no indications of impairment were noted in 2017 or 2016.
+31

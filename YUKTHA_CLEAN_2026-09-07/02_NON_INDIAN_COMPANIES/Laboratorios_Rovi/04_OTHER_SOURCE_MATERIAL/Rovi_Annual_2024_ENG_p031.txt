@@ -1,0 +1,53 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+Total research and development expenses incurred in 2024 were 24,278 thousand euros (23,521 thousand euros in
+2023) and were mainly concentrated on the Glycomics and ISM® platforms, the latter of which is a proprietary drug
+release system belonging to ROVI, the objective of which is to improve patient treatment adherence. Of the total
+research and development expenses incurred in 2024, 10,045 thousand euros was recognised under the "Employee
+benefit expense" caption (Note 22.e) (8,665 thousand euros at 31 December 2023) and 14,233 thousand euros under
+“External services” (Note 22.f) (14,856 thousand euros in 2023).
+c) Fully-amortised intangible assets
+At 31 December 2024, there were fully-amortised intangible assets that were still in use with a carrying cost of 16,763
+thousand euros (15,162 thousand euros at 31 December 2023).
+d) Assets affected by guarantees and ownership restrictions
+At 31 December 2024 and 2023, there were no significant assets subject to ownership restrictions or pledged to
+guarantee liabilities..
+e) Insurance
+The Company holds several insurance policies to cover the risks the intangible assets are exposed to. The insurance
+cover is considered sufficient.
+6. Property, plant and equipment
+Details of and movement on the items included in property, plant and equipment are as follows:
+Technical
+facilities and
+other property,
+Land and plant and
+buildings equipment Total
+Balance at 01.01.23
+Cost 7,284 101,440 108,724
+Accumulated depreciation (1,824) (58,615) (60,439)
+Net carrying amount 01.01.23 5,460 42,825 48,285
+Additions 100 5,401 5,501
+Derecognitions — (437) (437)
+Derecognition of depreciation (7) 333 326
+Depreciation charge (137) (6,467) (6,604)
+Balance at 31.12.23
+Cost 7,384 106,404 113,788
+Accumulated depreciation (1,968) (64,749) (66,717)
+Net carrying amount 31.12.2023 5,416 41,655 47,071
+Additions — 3,386 3,386
+Derecognitions (2) (406) (408)
+Derecognition of depreciation — 394 394
+Depreciation charge (139) (6,048) (6,187)
+Balance at 31.12.24
+Cost 7,382 109,384 116,766
+Accumulated depreciation (2,107) (70,403) (72,510)
+Net carrying amount 31.12.24 5,275 38,981 44,256
+At 31 December 2024 and 2023 the additions to property, plant and equipment were mainly related to investments in the
+Company’s Granada plant and the pilot plants for development of ISM® technology.
+In 2024, property, plant and equipment with a cost of 50 thousand euros and accumulated depreciation of 26 thousand
+euros was sold to Group companies. No sales of property, plant and equipment had been sold to Group companies at 31
+December 2023.
+21

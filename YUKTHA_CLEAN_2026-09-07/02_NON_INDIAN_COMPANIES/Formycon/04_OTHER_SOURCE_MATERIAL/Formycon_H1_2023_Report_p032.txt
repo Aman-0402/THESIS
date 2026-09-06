@@ -1,0 +1,44 @@
+62 INTERIM FINANCIAL STATEMENTS OF FORMYCON GROUP FORMYCON AG HALF-YEAR REPORT 2023 63
+Consolidated Interim Statement
+of Financial Position
+In € K
+Explanatory note June 30, 2023 December 31, 2022
+Assets
+Non-current assets
+Goodwill 12 44,534 44,534
+Other intangible assets 12 500,660 488,439
+Right-of-use (ROU) assets 9,088 8,916
+Property, plant and equipment 2,573 2,600
+Investment participations at equity 180,244 186,406
+Financial assets 92,450 92,300
+Total non-current assets 829,549 823,195
+Current assets
+Inventories 965 571
+Trade and other receivables 30,970 14,314
+Contract assets 6 8,187 1,161
+Prepayments and other assets 12 6,408 4,636
+Cash and cash equivalents 36,865 9,820
+Total current assets 83,395 30,502
+Total assets 912,944 853,697
+Equity and liabilities
+Equity capital
+Subscribed capital 13 16,039 15,129
+Capital reserve 13 411,539 343,419
+Accumulated loss carryforward 13 -1,967 -37,960
+Period income (loss) 1,805 35,993
+Total equity capital 427,416 356,581
+Non-current liabilities
+Non-current lease obligations 7,722 7,594
+Other non-current liabilities 269,023 319,339
+Deferred tax liabilities 10 126,697 119,518
+Total non-current liabilities 403,442 446,451
+Current liabilities
+Provisions 387 -
+Current lease obligations 1,086 925
+Contract liabilities 1,336 -
+Other current liabilities 59,548 38,314
+Trade payables 19,721 11,318
+Current income tax liabilities 8 108
+Total current liabilities 82,086 50,665
+Total liabilities 485,528 497,116
+Total equity and liabillities 912,944 853,697

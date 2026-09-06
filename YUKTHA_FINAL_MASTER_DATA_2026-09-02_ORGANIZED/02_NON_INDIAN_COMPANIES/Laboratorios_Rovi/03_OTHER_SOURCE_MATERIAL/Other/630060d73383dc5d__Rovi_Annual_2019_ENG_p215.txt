@@ -1,0 +1,42 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2019
+(Thousands of euros)
+Net movement on the deferred tax account was as follows:
+Deferred tax Deferred tax Net deferred
+assets liabilities taxes
+At 1 January, 2018 11,893 (1,438) 10,455
+(Charged) / credited to the income statement (Note 28) 4,277 195 4,472
+Tax charged to equity (134) - (134)
+At 31 December, 2018 16,036 (1,243) 14,793
+(Charged) / credited to the income statement (Note 28) 1,624 165 1,789
+Derecognition due to monetization (Note 27) (3,000) - (3,000)
+At 31 December, 2019 14,660 (1,078) 13,582
+Movement on deferred tax assets was as follows:
+Tax credits 30%
+Negative not yet amortisa.
+tax bases applied 13 & 14 Provisions Other Total
+At 1 January, 2018 2,397 8,036 1,134 192 134 11,893
+(Charged) / credited to the income statement 957 2,139 (106) 50 1,237 4,277
+Tax charged to equity - - - - (134) (134)
+At 31 December, 2018 3,354 10,175 1,028 242 1,237 16,036
+(Charged) / credited to the income statement 3,366 (1,533) (117) 117 (209) 1,624
+Derecognition due to monetization (Note 27) - (3,000) - - - (3,000)
+At 31 December, 2019 6,720 5,642 911 359 1,028 14,660
+The amounts for deferred tax assets shown in the “30% amortisation/depreciation 2013 & 2014” column relate to the tax
+effect of the 30% of the amortisation/depreciation charge for the period, which was not tax deductible in the years 2013
+and 2014, as established in Royal Decree-Law 16/2012 of 27 December, whereby various measures intended to
+consolidate public finance and stimulate economic activity were adopted.
+Movement on deferred tax liabilities was as follows:
+Freedom of
+amorisation Other Total
+At 1 January, 2018 796 642 1,438
+(Charged) / credited to the income statement (185) (10) (195)
+At 31 December, 2018 611 632 1,243
+(Charged) / credited to the income statement (159) (6) (165)
+At 31 December, 2019 452 626 1,078
+The deferred tax liabilities included as “freedom of amortisation/depreciation” refer to the application of the free
+amortisation/depreciation system associated to assets attached to R&D activity and to maintaining jobs.
+52

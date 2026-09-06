@@ -1,0 +1,48 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+2. Summary of key accounting policies
+The principal accounting policies applied in the preparation of these consolidated annual accounts are set out below. These
+policies have been consistently applied to all the reporting periods presented in these consolidated annual accounts.
+2.1 Bases of presentation
+These consolidated annual accounts for 2024 (and those for 2023 presented for comparative purposes) have been prepared
+under the International Financial Reporting Standards (IFRS) and IFRIC interpretations endorsed by the European Union
+pursuant to the provisions of Regulation (EC) No. 1606/2002 of the European Parliament and of the Council of 19 July 2002
+and, likewise, in accordance with the format and markup requirements of Delegated Regulation EU 2019/815 of the European
+Commission and Delegated Regulation EU 2022/352 of the European Commission, according to which all companies governed
+by the Law of a Member State of the European Union whose shares are listed on a regulated market of any of the Member
+States must present their consolidated annual accounts for the reporting periods starting on or after 1 January 2005 in
+accordance with the IFRS endorsed by the European Union.
+The consolidated annual accounts have been prepared, in general, under the historical cost convention, except for financial
+derivatives.
+The preparation of consolidated annual accounts in conformity with IFRS requires the use of certain critical accounting
+estimates. It also requires management to exercise its judgment in the process of applying the Group’s accounting policies. The
+areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates are significant to the
+consolidated annual accounts are disclosed in Note 4.
+2.2 New standards and amendments and interpretations of existing ones
+a) Standards, amendments and interpretation mandatory for all annual periods starting on or after 1 January 2024
+In 2024, the following standards and amendments to existing standards were endorsed by the European Union and came into
+force on 1 January 2024, They have either been applied by ROVI or may affect the Group in the future.
+– IAS 1 (Amendment) “Presentation of Financial Statements”, the objective of which is to clarify the classification of
+current and non-current liabilities. Specifically, it focuses on liabilities from loan arrangements subject to covenants and
+regulates how they should be broken down in the financial statements.
+– IFRS 16 (Amendment) “Leases”. The objective of this amendment is to specify how a seller-lessee should
+subsequently measure revenue from contracts with customers in transactions that meet the requirements of IFRS 15 to
+be accounted for as a sale.
+– IAS 7 “Statement of Cash Flows” and IFRS 7 “Financial Instruments: Disclosures”. The amendment of these two
+standards states that information about reverse factoring (confirming) agreements that enables users of financial
+statements to assess the effects of such agreements on the liabilities, cash flows and the Group’s exposure to liquidity
+risk must be disclosed.
+The entry into force of the rules mentioned above has not had a significant impact on ROVI.
+b) Standards, amendments and interpretations that have not yet come into force but have been endorsed by the
+European Union
+At the date of signature of these consolidated annual accounts, the International Accounting Standards Board (IASB) and the
+International Financial Standards Interpretations Committee (IFRIC) had published the standards, amendments and
+interpretations described below, application of which is mandatory from 2025 onwards. ROVI considers the following could be
+applicable to the Group, although they have not been adopted early:
+– IAS 21 “The Effects of Changes in Foreign Exchange Rates”. With this amendment, the IASB seeks to provide greater
+clarity when there is a long-term lack of exchangeability between two currencies. The IASB proposes that this rule
+should come into effect on 1 January 2025. No significant impacts on ROVI are expected.
+8

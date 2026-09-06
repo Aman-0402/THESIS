@@ -1,0 +1,26 @@
+,,CURRENT PERIOD,PREVIOUS PERIOD (2nd,ACCUMULATED PERIOD,ACCUMULATED PREVIOUS PERIOD
+,,(2nd HALF),HALF),30/06/2025,30/06/2024
+(+) Net revenue,0205,,,269.841,307.107
+(+/-) Change in inventories of finished products and work in progress,0206,,,5.046,(28.145)
+(+) Work performed by the company on its assets,0207,,,,
+(-) Supplies,0208,,,(197.642),(206.737)
+(+) Other operating income,0209,,,6.888,6.149
+(-) Employee benefit expenses,0217,,,(25.871),(24.155)
+(-) Other operating expenses,0210,,,(39.458),(38.547)
+(-) Amortization and depreciation charges,0211,,,(4.792),(4.716)
+(+) Allocation of grants for non-financial assets and other,0212,,,213,113
+(+) Excess provisions,0213,,,,
+"(+/-) Impairment and gains/(losses) on disposal of intangible assets and property, plant & equipment",0214,,,(85),21
+(+/-) Other gains/(losses),0215,,,,
+= OPERATING PROFIT/(LOSS),0245,,,14.140,11.090
+(+) Finance income,0250,,,1.291,39.556
+(-) Finance expenses,0251,,,(2.622),(1.932)
+(+/-) Change in fair value of financial instruments,0252,,,(533),67
+(+/-) Exchange rate differences,0254,,,52,(9)
+(+/-) Impairment and gains/(losses) on disposal of financial instruments,0255,,,-,-
+= FINANCE PROFIT/(LOSS),0256,,,(1.812),37.682
+= PROFIT/(LOSS) BEFORE TAX,0265,,,12.328,48.772
+(+/-) Corporate income tax,0270,,,(292),(79)
+= PROFIT/(LOSS) FOR PERIOD ON CONTINUING OPERATIONS,0280,,,12.036,48.693
+"(+/-) Profit/(loss) for perid on discontinued operations, net of tax",0285,,,,
+= PROFIT/(LOSS) FOR PERIOD,0300,,,12.036,48.693

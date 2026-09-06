@@ -1,0 +1,61 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 168
+present value using a pre-tax discount rate which any initial direct costs incurred and an estimate of
+reflects current market assessments of the time costs to dismantle and remove the underlying asset
+value of money and of the risks specific to the as- or to restore the underlying asset or the site on
+set or CGU. which it is located, less any lease incentives re-
+ceived.
+Should the book value of an asset or CGU exceed
+this recoverable amount, an impairment loss is rec- The right-of-use asset is subsequently depreciated
+ognized. using the straight-line method from the commence-
+ment date to the end of the lease term, unless the
+Impairment losses are included in profit or loss. Im- lease transfers ownership of the underlying asset
+pairment losses recognized in respect of CGUs are to the Group at the end of the lease term, or unless
+first allocated to any goodwill allocated to the CGU, the cost of the right-of-use asset suggests that the
+then allocated to the book values of the other as- Group will exercise a purchase option. In either of
+sets of the CGU (or group of CGUs) on a pro rata these cases, the right-of-use asset is instead depre-
+basis. Each development project generally corre- ciated over the useful life of the underlying asset,
+sponds to its own CGU. which is determined on the same basis as in the
+case of comparable owned assets. In addition, the
+right-of-use asset is periodically reduced by impair-
+Any impairment of goodwill, once recognized, is
+ment losses, if any, and adjusted for certain re-
+not reversed. In the case of other (non-goodwill) as-
+measurements of the lease liability. If the lease in-
+sets, an impairment loss may only be reversed to
+cludes extension options and it is likely that these
+the extent that the book of the asset does not ex-
+will be used, these are assumed in the lease term.
+ceed the book value, net of depreciation and amor-
+tization, which would exist had no impairment loss
+been recognized. The lease liability is initially measured at the pre-
+sent value of the lease payments that are not al-
+ready paid as of the commencement date, dis-
+Leases
+counted using the interest rate implicit in the lease
+or, if that rate cannot be readily determined, the
+The Group enters into lease contracts solely as a
+Group’s incremental borrowing rate (which is, in
+lessee. Upon entry into a contract, the Group first
+fact, the relevant discount rate usually used by the
+assesses whether the contract constitutes a lease
+Group).
+or contains a lease component. This is deemed to
+be the case when the contract entitles the holder to
+control the use of an identified asset for a period of The Group determines its incremental borrowing
+time in exchange for payment of a fee. rate by obtaining interest rates from various exter-
+nal financing sources and makes adjustments as
+necessary to reflect the individual lease term and
+Upon commencement of a lease (or contract con-
+type of asset leased.
+taining a lease component), or when a lease (or
+contract containing a lease component) is modified,
+the Group allocates the contractual consideration Lease payments included in the measurement of
+pro rata based on the stand-alone selling prices of the lease liability may include:
+the leased assets.
+— fixed payments, including de facto fixed pay-
+Upon commencement of the lease, the Group rec- ments;
+ognizes a right-of-use (RoU) asset and a lease liabil-
+ity. The right-of-use asset is initially measured at — variable lease payments that depend upon a
+cost, which comprises the initial amount of the benchmark index or rate, initially set according
+lease liability adjusted for any lease payments to the index or rate on the commencement
+made on or before the commencement date, plus date;

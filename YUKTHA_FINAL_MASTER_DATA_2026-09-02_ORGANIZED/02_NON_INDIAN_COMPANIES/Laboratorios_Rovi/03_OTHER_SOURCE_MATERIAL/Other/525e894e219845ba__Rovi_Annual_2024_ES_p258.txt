@@ -1,0 +1,50 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Para el análisis del numerador, ROVI ha analizado la totalidad de las altas de CapEx efectuadas durante el ejercicio 2024:
+• Para las altas de CapEx relacionadas con al Anexo de Mitigación, ROVI ha llevado a cabo un análisis exhaustivo, el cual
+consiste en verificar que cada una de las facturas asociadas a las altas de CapEx cumplen con lo descrito por la
+normativa relativa a la Taxonomía, imputando por tanto en el numerador de CapEx el valor registrado en facturas20.
+• Para las altas de CapEx relacionadas con al Anexo de Prevención de la Contaminación, ROVI ha computado la totalidad
+del alta de CapEx sin realizar el análisis pormenorizado a nivel factura, ya que se entiende que el alta de CapEx
+contribuye en su totalidad a la fabricación de principio activo o a la fabricación de medicamento. Este análisis ha podido
+realizarse segregando por centro de coste para cada una de las altas de CapEx.
+Durante el análisis efectuado, se ha evitado la doble contabilización de partidas, computando con cada actividad taxonómica
+las partidas que se relacionan directamente con el descriptivo de la actividad21.
+Por otro lado, el denominador se corresponde con el CapEx total del Grupo, que incluye tanto las inversiones en inmovilizado
+material como en inmovilizado intangible y las inversiones en activos por derechos de uso, divulgado en sus Cuentas Anuales
+Consolidadas (epígrafe “Aumentos de activo no corrientes no financieros”)22.
+◦ Cálculo del % de OpEx
+La proporción de OpEx a que se refiere el artículo 8, apartado 2, letra b), del Reglamento (UE) 2020/852 se calculará como el
+numerador dividido por el denominador; incluyendo este último los costes directos no capitalizados que se relacionan con la
+investigación y el desarrollo, las medidas de renovación de edificios, los arrendamientos a corto plazo, el mantenimiento y las
+reparaciones, así como otros gastos directos relacionados con el mantenimiento diario de activos del inmovilizado material, por
+la empresa o un tercero a quien se subcontraten actividades, y que son necesarios para garantizar el funcionamiento
+continuado y eficaz de dichos activos.
+Adicionalmente, las empresas no financieras que apliquen PCGA nacionales y no capitalicen activos por derecho de uso
+incluirán los costes de arrendamiento en los OpEx.
+Por otro lado, el numerador incluirá la parte de los gastos operativos incluidos en el denominador que:
+I. Esté relacionada con activos o procesos asociados a actividades económicas que se ajustan a la taxonomía, incluidas
+formación y otras necesidades de adaptación de los recursos humanos, y costes directos no capitalizados que
+representan la investigación y el desarrollo;
+II. Forme parte del plan CapEx para ampliar las actividades económicas que se ajustan a la taxonomía o para permitir que
+actividades económicas elegibles según la taxonomía se ajusten a la taxonomía dentro de un plazo predefinido, como
+se establece en el párrafo segundo del presente punto 1.1.3.2 (relativo al «plan CapEx»);
+III. Esté relacionada con la compra de la producción obtenida a partir de actividades económicas que se ajustan a la
+taxonomía y medidas individuales que posibiliten que las actividades objetivo pasen a tener bajas emisiones de carbono
+o den lugar a reducciones de los gases de efecto invernadero, así como medidas de renovación de edificios
+individuales, tal como se identifican en los Actos Delegados adoptados de conformidad con el artículo 10, apartado 3, el
+artículo 11, apartado 3, el artículo 12, apartado 2, el artículo 13, apartado 2, el artículo 14, apartado 2, o el artículo 15,
+apartado 2, del Reglamento (UE) 2020/852, y siempre que esas medidas se apliquen y estén operativas en un plazo de
+dieciocho meses.
+En ROVI, el indicador de OpEx únicamente considera los costes relacionados con la investigación y el desarrollo, los
+arrendamientos a corto plazo y el mantenimiento y las reparaciones. Las medidas de renovación de edificios y otros gastos
+directos relacionados con el mantenimiento diario de activos del inmovilizado material, por la empresa o un tercero a quien se
+subcontraten actividades, y que son necesarios para garantizar el funcionamiento continuado y eficaz de dichos activos, no han
+sido considerados por ROVI como OpEx.
+20 En aquellos casos en los que las facturas que componen el alta de CapEx no están vinculadas en su totalidad con alguna actividad descrita en la normativa.
+21 A modo de ejemplo, las luminarias LED de un nuevo edificio construido para ampliar la capacidad productiva de ROVI, se han computado a la actividad 7.3.
+del Anexo de Mitigación, mientras que el resto de la inversión efectuada en la construcción de dicho edificio se ha computado a la actividad 1.1./1.2. según
+corresponda a fabricación de principio activo o medicamento.
+22 La cifra de CapEx utilizada incluye las altas relacionadas con derechos de uso registrados en la aplicación de la norma internacional de información
+financiera 16 Arrendamientos (NIFF 16).
+60

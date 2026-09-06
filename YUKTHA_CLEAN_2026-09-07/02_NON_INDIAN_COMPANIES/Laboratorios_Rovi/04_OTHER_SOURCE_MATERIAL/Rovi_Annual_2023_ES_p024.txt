@@ -1,0 +1,50 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2023
+(Expresada en miles de euros)
+Estos pasivos financieros se valoran, tanto en el momento inicial como en valoraciones posteriores, por su valor
+razonable, imputando los cambios que se produzcan en dicho valor en la cuenta de pérdidas y ganancias del ejercicio.
+Los costes de transacción directamente imputables a la emisión se reconocen en la cuenta de pérdidas y ganancias del
+ejercicio en que surgen.
+3.10 Subvenciones recibidas
+Las subvenciones se reconocen por su valor razonable cuando hay una seguridad razonable de que la subvención se
+cobrará y la Sociedad cumplirá con todas las condiciones establecidas. Las subvenciones asociadas a los anticipos
+reembolsables se reconocen cuando dichos anticipos son concedidos.
+Las subvenciones que tengan carácter de reintegrables se registran como pasivos hasta cumplir las condiciones para
+considerarse no reintegrables, mientras que las subvenciones no reintegrables se registran como ingresos directamente
+imputados al patrimonio neto y se reconocen como ingresos sobre una base sistemática y racional de forma
+correlacionada con los gastos derivados de la subvención.
+A estos efectos, una subvención se considera no reintegrable cuando existe un acuerdo individualizado de concesión de
+la subvención, se han cumplido todas las condiciones establecidas para su concesión y no existen dudas razonables de
+que se cobrará. Las subvenciones de carácter monetario se valoran por el valor razonable del importe concedido y las
+subvenciones no monetarias por el valor razonable del bien recibido, referidos ambos valores al momento de su
+reconocimiento.
+Las subvenciones no reintegrables relacionadas con la adquisición de inmovilizado intangible, material e inversiones
+inmobiliarias se imputan como ingresos del ejercicio en proporción a la amortización de los correspondientes activos o,
+en su caso, cuando se produzca su enajenación, corrección valorativa por deterioro o baja en balance. Por su parte, las
+subvenciones no reintegrables relacionadas con gastos específicos se reconocen en la cuenta de pérdidas y ganancias
+en el mismo ejercicio en que se devengan los correspondientes gastos y las concedidas para compensar déficit de
+explotación en el ejercicio en que se conceden, salvo cuando se destinan a compensar déficit de explotación de
+ejercicios futuros, en cuyo caso se imputan en dichos ejercicios.
+3.11 Impuestos corrientes y diferidos
+El gasto (ingreso) por impuesto sobre beneficios es el importe que, por este concepto, se devenga en el ejercicio y que
+comprende tanto el gasto (ingreso) por impuesto corriente como por impuesto diferido.
+Tanto el gasto (ingreso) por impuesto corriente como diferido se registra en la cuenta de pérdidas y ganancias. No
+obstante, se reconoce en el patrimonio neto el efecto impositivo relacionado con partidas que se registran directamente
+en el patrimonio neto.
+Los activos y pasivos por impuesto corriente se valorarán por las cantidades que se espera pagar o recuperar de las
+autoridades fiscales, de acuerdo con la normativa vigente o aprobada y pendiente de publicación en la fecha de cierre
+del ejercicio.
+Los impuestos diferidos se calculan, de acuerdo con el método del pasivo, sobre las diferencias temporarias que surgen
+entre las bases fiscales de los activos y pasivos y sus valores en libros. Sin embargo, si los impuestos diferidos surgen
+del reconocimiento inicial de un activo o un pasivo en una transacción distinta de una combinación de negocios que en
+el momento de la transacción no afecta ni al resultado contable ni a la base imponible del impuesto no se reconocen. El
+impuesto diferido se determina aplicando la normativa y los tipos impositivos aprobados o a punto de aprobarse en la
+fecha del balance y que se espera aplicar cuando el correspondiente activo por impuesto diferido se realice o el pasivo
+por impuesto diferido se liquide.
+Los activos por impuestos diferidos se reconocen en la medida en que resulte probable que se vaya a disponer de
+ganancias fiscales futuras con las que poder compensar las diferencias temporarias.
+Durante el ejercicio 2022 la Sociedad participó en 4 Agrupaciones de Interés Económico (AIEs) cuya actividad era
+investigación y desarrollo en el sector salud. La Sociedad imputó las bases imponibles negativas y deducciones por
+I+D+i que generaron estas AIEs contra las participaciones y por la diferencia con la deuda registrada frente a la
+Hacienda Pública acreedora, el correspondiente ingreso financiero (Nota 23).
+14

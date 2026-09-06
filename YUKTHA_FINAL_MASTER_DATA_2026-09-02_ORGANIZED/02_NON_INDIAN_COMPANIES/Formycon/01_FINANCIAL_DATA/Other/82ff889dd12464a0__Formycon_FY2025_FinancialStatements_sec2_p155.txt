@@ -1,0 +1,62 @@
+Consolidated Financial Statements — Formycon AG Annual report 2025 155
+Already endorsed by the European Union: necessarily adequately reflect the influence of
+these contracts on the performance of the re-
+— Annual Improvements to IFRS Accounting porting company. The following changes have
+Standards – Volume 11: The annual improve- been made to better reflect these contracts in
+ments process is limited to changes that either companies' financial statements:
+clarify the wording of an IFRS standard or cor-
+rect relatively minor unintended consequences, — Clarification of the application of the
+oversights or conflicts between requirements in own use exemption to these contracts.
+the standards. It contains the following main
+adjustments: — Adjustment of the rules for hedge ac-
+counting with the option of using con-
+— IFRS 1 First-time Adoption of Interna- tracts referencing nature-dependent
+tional Financial Reporting Standards: renewable energy sources as a hedg-
+Hedge accounting by a first-time ing instrument if certain conditions are
+adopter met.
+— IFRS 7 Financial Instruments: Disclo- — Introduction of additional disclosure
+sures: Profit or loss from derecogni- requirements regarding the impact of
+tion; disclosure of differences be- these contracts on the financial perfor-
+tween fair value and transaction price; mance and future cash flow of a com-
+credit risk disclosures pany.
+— IFRS 9 Financial Instruments: Derecog- The amended standard is to be applied to re-
+nition of lease liabilities; transaction porting periods beginning on or after January 1,
+price 2026. Early application of the changes is per-
+mitted. The Group currently assumes that there
+— IFRS 10 Consolidated Financial State- will be no material impact on its consolidated fi-
+ments: Determining a “de facto agent” nancial statements.
+— IAS 7 Statement of Cash Flows: Cost — Amendments to IFRS 9 and IFRS 7 – Classifica-
+method. tion and Measurement of Financial Instruments:
+The amendments clarify the classification of fi-
+nancial assets that are linked to environmental,
+The amended standard is to be applied to
+social and governance (ESG) and similar char-
+reporting periods beginning on or after January
+acteristics. The amendments clarify how the
+1, 2026. Early application of the changes is
+contractual cash flows of such instruments are
+permitted. The Group currently assumes that
+to be assessed in terms of subsequent meas-
+there will be no material impact on its
+urement, i.e. amortized cost accounting or fair
+consolidated financial statements.
+value accounting. The amendments also ad-
+dress the settlement of liabilities through elec-
+— Amendments to IFRS 9 and IFRS 7 - Contracts
+tronic payment systems. The amendments clar-
+Referencing Nature-dependent Electricity: Con-
+ify, when a financial asset or financial liability is
+tracts referencing nature-dependent electricity
+derecognized. In addition, an option has been
+are often structured as so-called power pur-
+introduced that allows an entity to derecognize
+chase agreements (PPA). The purchase based
+a financial liability before delivering cash on the
+on these contracts can fluctuate due to unfore-
+settlement date, provided that certain criteria
+seen events such as weather conditions. Ap-
+are met. The amendments also introduced ad-
+plying the current accounting regulations may
+ditional disclosure requirements with regard to
+lead to effects on net income that do not
+investments in equity instruments measured at

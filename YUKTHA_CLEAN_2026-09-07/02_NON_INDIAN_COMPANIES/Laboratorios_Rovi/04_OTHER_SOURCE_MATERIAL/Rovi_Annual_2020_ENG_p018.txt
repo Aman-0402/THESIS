@@ -1,0 +1,37 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+An increase or decrease of 10% in the growth of said public spending would mean an increase of 585 thousand euros or
+a decrease of 590 thousand euros, respectively, in the amounts recognised
+c) Grouping of items
+In order to facilitate an understanding of the statement of financial position, income statement, statement of changes in
+equity and statement of cash flows, the items on these statements are presented in groups and the required analyses
+are included in the relevant Notes to the Annual Accounts.
+3. Accounting policies
+3.1 Intangible assets
+a) Research and development expenses
+Research expenditure is recognised as an expense when incurred, while the development costs incurred in a project are
+recognised as intangible assets when the following requirements are met:
+- the project is viable from a technical and commercial point of view,
+- sufficient technical and financial resources are available to complete it,
+- the costs incurred can be determined reliably, and
+- profits are likely to be generated.
+The Company considers that, in the case of the development of pharmaceutical products, the aforementioned
+requirements are met when the drugs have been approved for marketing by the health authorities in the case of new
+products developed under patent, or, in the case of biosimilars or generics, when the application for marketing
+authorisation is filed.
+When the carrying amount of an asset is higher than its recoverable amount, its value is immediately written down to the
+recoverable amount.
+In the event that the favourable circumstances of the project that have allowed the development expenses to be
+capitalised were to change, the portion that had not yet been amortised would be taken to profit and loss in the reporting
+period in which the change in circumstances took place.
+b) Licences and trademarks
+Product licences and trademarks are shown at acquisition cost. Those that have a finite useful life and are carried at cost
+less accumulated amortisation and recognised impairment losses. Amortisation is calculated using the straight-line
+method to allocate the cost of trademarks and licenses over their estimated useful lives, which are between 10 and 15
+years. Amortisable assets are tested for impairment whenever any event or change in circumstances indicates that their
+carrying amount may not be recoverable.
+9

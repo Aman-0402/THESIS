@@ -1,0 +1,48 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+At 31 December 2024, the Group had generated internally additions of 648 thousand euros (3.865 thousand euros at 31
+December 2023).
+Additionally, at 31 December 2024, the Group had dismantled one of the production lines, the derecognition of which gave rise
+to a loss of 4,240 thousand euros.
+Rights of use totalled 15,587 thousand euros at 31 December 2024 (18,354 thousand euros in 2023). The principal item within
+rights of use relates to real property leases. In 2024, additions of 3,351 thousand euros were recognised for new lease
+agreements (5,795 thousand euros at 31 December 2023).
+At 31 December 2024, the Group held property, plant and equipment for a net carrying amount of 343 thousand euros subject to
+retention of title (400 thousand euros at 31 December 2023).
+At 31 December 2024 and 2023, the Group held acquisition commitments of 706 and 489 thousand euros, respectively, for
+property, plant and equipment.
+In 2024 and 2023, there was no impairment of property, plant and equipment.
+The Group holds insurance policies to cover to risks to which the property, plant and equipment is exposed. This insurance
+cover is considered sufficient to cover the net carrying amount of the assets included in this category.
+7. Intangible assets
+Movement on intangible assets was as follows:
+Trademarks Computer
+Development and licences software Total
+Balance at 01.01.23
+Cost 8,899 44,929 13,791 67,619
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (2,296) (16,617) (12,468) (31,381)
+Net carrying amount 01.01.23 6,603 27,818 1,323 35,744
+Additions — — 1,393 1,393
+Impairment — — — —
+Amortisation charge (442) (2,373) (453) (3,268)
+Balance at 31.12.23
+Cost 8,899 44,929 15,184 69,012
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (2,738) (18,960) (12,918) (34,616)
+Net carrying amount 31.12.23 6,161 25,475 2,266 33,902
+Additions — — 3,100 3,100
+Derecognitions — (34) (1) (35)
+Eliminations from amortisation — 25 — 25
+Amortisation charge (442) (1,949) (651) (3,042)
+Balance at 31.12.24
+Cost 8,899 44,895 18,283 72,077
+Accumulated impairment — (494) — (494)
+Accumulated amortisation (3,180) (20,884) (13,569) (37,633)
+Net carrying amount 31.12.24 5,719 23,517 4,714 33,950
+At 31 December 2024 and 2023, all the Group’s intangible assets belonged to the marketing segment.
+The Group has not recognised any intangible assets relating to performing contracts with customers.
+30

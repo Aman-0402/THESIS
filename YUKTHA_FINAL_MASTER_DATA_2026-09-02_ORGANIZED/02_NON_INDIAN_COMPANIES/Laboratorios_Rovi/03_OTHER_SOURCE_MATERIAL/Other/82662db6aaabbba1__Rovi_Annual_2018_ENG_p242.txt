@@ -1,0 +1,38 @@
+Free translation of the 2018 Consolidated Management Report originally issued in Spanish. In the event of discrepancy,
+the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+2018 Consolidated Management Report
+2.3.4 ROVI updates the pivotal PRISMA 3 study of Risperidone ISM®
+ROVI informed that after a prespecified Interim Analysis on the pivotal PRISMA-3 study for the once-monthly injectable
+formulation of Risperidone ISM®, an independent Data Monitoring Committee has recommended to continue the clinical
+trial and not increasing the currently planned number of randomized patients.
+The PRISMA-3 study is a multicentre, randomized, double-blind, placebo-controlled clinical trial to evaluate the efficacy
+and safety of monthly intramuscular injections of Risperidone ISM® in patients with acute exacerbation of
+schizophrenia1, having initiated patients’ recruitment in May 2017, as previously informed the 25th of October 2017 on a
+relevant fact (number 257753).
+As expected, ROVI carried out one unblinded interim analysis that was planned to be conducted when approximately
+50% of randomized patients have either reached study day 85 or withdrawn from the study to re-estimate the sample
+size required for the final analysis. In this sense, an independent Data Monitoring Committee received unblinded results
+from this interim analysis and communicated to ROVI the blinded outcome, concluding that the clinical trial can continue
+and an increase of the study sample size is not needed.
+In December 2018, all patients completed the double-blind (main) part of the study. Therefore, ROVI plans to file an NDA
+(New Drug Application) US Registration Dossier for the FDA (Food and Drug Administration), the second half 2019.
+2.4.- Research and development
+ISM® technology platform
+As previously informed, ROVI has progressed in the development of Risperidone ISM®, the first candidate for its leading-
+edge drug delivery technology, ISM®, for a prolonged release of risperidone, a well-stablished second-generation
+antipsychotic medicine.
+After successfully finishing the phase I & II program2,3 of Risperidone ISM®, ROVI started the pivotal phase III trial
+“PRISMA-3”4 with the recruitment of the first patient in May 2017. After finishing the recruitment in September 2018, all
+patients completed the double-blind (main) part of the study in December 2018. Therefore, ROVI plans to file an NDA
+(New Drug Application) US Registration Dossier for the FDA (Food and Drug Administration), the second half 2019.
+1 https://clinicaltrials.gov/ct2/show/NCT03160521
+2 Llaudó J, et al. Phase I, open-label, randomized, parallel study to evaluate the pharmacokinetics, safety, and tolerability of one
+intramuscular injection of risperidone ISM at different dose strengths in patients with schizophrenia or schizoaffective disorder (PRISMA-
+1). Int Clin Psychopharmacol. 2016;31(6):323-31.
+3 Anta L, Llaudó J, Ayani I, Martínez J, Litman RE, Gutierro I. A phase II study to evaluate the pharmacokinetics, safety, and tolerability
+of Risperidone ISM multiple intramuscular injections once every 4 weeks in patients with schizophrenia. Int Clin Psychopharmacol.
+2018;33(2):79-87.
+4 Study to Evaluate the Efficacy and Safety of Risperidone In Situ Microparticles® (ISM®) in Patients With Acute Schizophrenia
+(PRISMA-3). Clinicaltrials.gov#NCT03160521 [https://clinicaltrials.gov/show/NCT03160521].
+8

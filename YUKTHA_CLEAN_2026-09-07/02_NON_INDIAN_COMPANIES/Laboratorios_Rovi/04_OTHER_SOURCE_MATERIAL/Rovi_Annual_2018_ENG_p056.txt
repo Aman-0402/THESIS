@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2018
+(Thousands of euros)
+One-off obligations are measured in accordance with the most likely individual outcome. If the obligation involves a
+significant group of similar items, it will be measured by weighting the possible outcomes by the likelihood that they will
+occur. If there is a continuous range of possible outcomes and each point of the range has the same likelihood as the
+rest of the points, the obligation is measured at the average amount.
+21. Deferred income tax
+Details of deferred income tax are as follows:
+Thousands of euros
+2018 2017
+Deferred income tax assets
+- Temporary differences 1,162 1,102
+- Other tax carryforwards 9,626 7,549
+10,788 8,651
+Deferred income tax liabilities:
+- Temporary differences (2,046) (2,651)
+(2,046) (2,651)
+Net deferred income tax 8,742 6,000
+Deferred income tax assets and liabilities are offset when the Company has a legally enforceable right to offset current
+tax assets against current tax liabilities and intends to settle the net amounts or realise the asset and cancel the liability
+simultaneously. Deferred tax assets and liabilities were as follows:
+Thousands of euros
+2018 2017
+Deferred income tax assets
+- Non-current 8,293 3,477
+- Current 2,495 5,174
+10,788 8,651
+Deferred income tax liabilities:
+- Non-current (1,441) (1,554)
+- Current (605) (1,097)
+(2,046) (2,651)
+Net deferred income tax 8,742 6,000
+Movement on net deferred taxes was as follows:
+Miles de euros
+2018 2017
+Balance at beginning of the year 6,000 916
+(Charged)/credited to profit and loss 2,622 4,945
+Charged directly to equity 120 139
+Balance at end of the year 8,742 6,000
+47

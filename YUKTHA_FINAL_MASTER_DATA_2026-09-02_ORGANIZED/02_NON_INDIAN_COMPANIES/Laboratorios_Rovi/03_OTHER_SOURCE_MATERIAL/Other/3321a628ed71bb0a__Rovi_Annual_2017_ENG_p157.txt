@@ -1,0 +1,37 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+The Group considers that, in the case of the development of pharmceutical products, the aforementioned requirements
+are met when the drugs have been approved for marketing by the health authorities in the case of new products
+developed under patent, or, in the case of biosimilars or generics, when the application for marketing authorization is
+filed.
+The cost of assets generated internally by the Group is measured following the same principles as established for
+determining the production cost of inventories. Production costs are capitalized by crediting the costs attributable to the
+asset to accounts under the heading “Work performed by the Group on non-current assets” in the consolidated income
+statement (consolidated statement of comprehensive income).
+2.8. Borrowing costs
+General and specific interest costs that are directly attributable to the acquistion, construction or production of qualifying
+assets, which are those that necessarily require a substantial time period before they are ready for their planned use or
+to be sold, are added, if applicable, to the cost of these assets until the time when said assets are substantially ready for
+their intended use or to be sold.
+Finance income obtained from the temporary investment of specific loans while they are waiting to be used on the
+qualifying assets are deducted from capitalizable interest costs.
+The rest of the interest costs are expensed in the annual period in which they are incurred.
+2.9. Impairment of non-financial assets
+Intangible assets that have an indefinite useful life and those that are not in a usable condition are not amortized and are
+tested annually for impairment. Amortizable assets are tested for impairment whenever events or changes in
+circumstances indicate that the carrying amount may not be recoverable. An impairment loss is recognized for the
+amount by which the asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the higher of
+an asset’s fair value less costs to sell and its value in use. For the purposes of assessing impairment, assets are grouped
+at the lowest levels for which there are separately identifiable cash flows that are largely independent (cash-generating
+units). Previous impairment losses on non-financial assets (other than goodwill) are reviewed at each reporting date to
+see whether then can be reversed.
+2.10. Financial assets
+(a) Classification of financial assets
+The Group classifies its financial assets in the following categories: loans and receivables, and available-for-sale. The
+classification depends on the purpose for which the financial assets were acquired. Management determines the
+classification of its financial assets at initial recognition.
+15

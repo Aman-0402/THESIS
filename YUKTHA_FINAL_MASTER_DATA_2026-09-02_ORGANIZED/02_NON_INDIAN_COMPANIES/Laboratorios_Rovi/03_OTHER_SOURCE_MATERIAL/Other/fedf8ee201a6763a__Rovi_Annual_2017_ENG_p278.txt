@@ -1,0 +1,30 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+1. INDIVIDUAL STATEMENT OF FINANCIAL POSITION (PREPARED USING NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+ASSETS CURRENT PREVIOUS
+PERIOD PERIOD
+31/12/2017 31/12/2016
+A) NON-CURRENT ASSETS 0040 88.352 79.538
+1. Intangible assets: 0030 24.555 22.503
+a) Goodwill 0031
+b) Other intangible assets 0032 24.555 22.503
+2. Property, plant and equipment 0033 42.957 41.171
+3. Investment property 0034
+4. Non-current investments in group and associated companies 0035 10.725 10.670
+5. Non-current financial investments 0036 1.464 1.587
+6. Deferred tax assets 0037 8.651 3.607
+7. Other non-current assets 0038
+B) CURRENT ASSETS 0085 170.772 203.370
+1. Non-current assets held for sale 0050
+2. Inventories 0055 31.569 32.074
+3. Trade and other receivables 0060 103.672 134.280
+a) Trade receivables for sales of goods and services 0061 96.767 124.287
+b) Other receivables 0062 4.677 5.527
+c) Current tax assets 0063 2.228 4.466
+4. Current investments in group and associated companies 0064 5 5
+5. Current financial investments 0070
+6. Current accruals and prepayments 0071 3
+7. Cash and cash equivalents 0072 35.526 37.008
+TOTAL ASSETS (A+B) 0100 259.124 282.908

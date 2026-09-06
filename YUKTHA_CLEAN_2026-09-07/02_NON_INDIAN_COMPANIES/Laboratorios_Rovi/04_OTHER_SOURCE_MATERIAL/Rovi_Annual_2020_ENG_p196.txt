@@ -1,0 +1,51 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+The following tables show the Group’s ordinary revenue and total assets by geographical area:
+Net revenue 2020 2019
+Spain 228,821 232,266
+European Union 127,211 129,825
+OECD countries 49,437 11,264
+Other Countries 14,492 7,958
+419,961 381,313
+Total assets 2020 2019
+Spain 534,627 481,153
+Portugal 6,725 7,969
+Germany 19,736 13,644
+Italy 8,563 6,243
+UK 2,756 1,444
+France 1,363 202
+Poland 669 556
+574,439 511,211
+Virtually all the investment in property, plant and equipment and intangible assets in 2020 and 2019 was made in Spain.
+6. Property, plant and equipment
+The breakdown of the movement on the different categories of property, plant and equipment is shown below:
+Technical IT
+facilities, Furniture, equipment
+Land and machinery fittings and Usage In
+buildings and tools and other vehicles rights progress Total
+Balances at 01.01.19
+Cost 34,296 183,855 3,297 14,540 - - 235,988
+Accumulated amortisation (18,129) (106,425) (2,567) (13,030) - - (140,151)
+Net carrying amount 01.01.19 16,167 77,430 730 1,510 - - 95,837
+Additions 1,043 23,999 129 728 - - 25,899
+IFRS 16 impact 01.01.19 - - - - 24,234 - 24,234
+Retirements - (444) (24) (2) - - (470)
+Eliminations from amortisation - 444 24 - - - 468
+Amortisation charge (228) (9,585) (109) (843) (3,595) - (14,360)
+Balances at 31.12.19
+Cost 35,339 207,410 3,402 15,266 24,234 - 285,651
+Accumulated Amortisation (18,357) (115,566) (2,652) (13,873) (3,595) - (154,043)
+Net carrying amount 31.12.19 16,982 91,844 750 1,393 20,639 - 131,608
+Additions 406 22,574 47 1,635 141 14,675 39,478
+Retirements - (96) - (16) - - (112)
+Eliminations from amortisation - 47 - 9 - - 56
+Amortisation charge (236) (10,820) (108) (850) (3,621) - (15,635)
+Balances at 31.12.20
+Cost 35,745 229,888 3,449 16,885 24,375 14,675 325,017
+Accumulated Amortisation (18,593) (126,339) (2,760) (14,714) (7,216) - (169,622)
+Net carrying amount 31.12.20 17,152 103,549 689 2,171 17,159 14,675 155,395
+34

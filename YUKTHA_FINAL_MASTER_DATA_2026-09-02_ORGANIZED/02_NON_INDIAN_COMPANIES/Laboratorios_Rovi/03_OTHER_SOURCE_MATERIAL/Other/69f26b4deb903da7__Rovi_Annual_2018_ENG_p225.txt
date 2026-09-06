@@ -1,0 +1,41 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period 2018
+(Thousands of euros)
+27. Finance income/(costs)
+2018 2017
+Interest income 16 93
+Total finance income 16 93
+Interest costs (712) (909)
+Other finance costs (104)
+Total finance costs (712) (1,013)
+Proceeds on disposal of financial instruments 10 -
+Change in fair value of financial instruments (33) -
+Impairment and gain/(loss) on measurement of financial instruments (23) -
+Exchange rate differences (83) -
+(83) -
+Net finance income/(cost) (802) (920)
+28. Income tax
+2018 2017
+Current tax (3,314) (2,151)
+Deferred tax (Nota 19) 4,472 1,843
+Adjustment corporate income tax prior years 57 27
+1,215 (281)
+The tax on the Group’s pre-tax profit differs from the notional amount that would have been calculated using the 25% tax
+rate applicable to the profits of the consolidated companies, as follows:
+2018 2017
+Profit before tax 16,680 17,522
+Tax calculated at domestic tax rate of 25% (4,170) (4,381)
+Share of profit of joint ventures 6 (142)
+Tax deductible expenses not included in the consolidation - 134
+Movement on capitalised negative tax assets 1,313 (1,942)
+Adjustment corporate income tax prior years 57 27
+Non-tax deductible expenses (271) (683)
+Non-taxable income - 6
+Tax differences in subsidiaries results (135) -
+Movement on capitalised R&D tax credits 4,235 6,426
+Other tax credits applied 180 274
+Income tax expense 1,215 (281)
+62

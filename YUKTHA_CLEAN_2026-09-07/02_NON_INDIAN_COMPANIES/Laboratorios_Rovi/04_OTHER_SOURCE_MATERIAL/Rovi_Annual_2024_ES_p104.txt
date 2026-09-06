@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2024
+(Expresada en miles de euros)
+c) Normas, modificaciones e interpretaciones a las normas existentes que aún no han sido adoptadas por la Unión
+Europea
+A la fecha de formulación de estas cuentas anuales consolidadas, la Junta de Normas Internacionales de Contabilidad (el IASB,
+por su siglas en inglés, correspondiente al “International Accounting Standards Board”) y el Comité de Interpretación de
+Información Financiera (CINIIF o IFRIC, por sus siglas en inglés, correspondientes a “IFRS Interpretations Committee”), habían
+publicado las normas, modificaciones e interpretaciones que se detallan a continuación, que están pendientes de adopción por
+parte de la Unión Europea. ROVI considera que las siguientes podrían ser de aplicación para el Grupo:
+– NIIF 18 “Presentación e información a revelar en los estados financieros”. La norma tiene como objetivo mejorar la
+forma en que las entidades muestran sus estados financieros. La norma introducirá nuevas categorías y subtotales en
+la cuenta de resultados que harán la información más comparable, contemplará nuevos requisitos en la agregación y
+desagregación de información relevante para asegurarse de que no exista ocultación e introducirá Medidas de
+Desempeño de un carácter homogéneo. La fecha de entrada en vigor de esta norma propuesta por el IASB es el 1 de
+enero de 2027. ROVI analizará los potenciales efectos de la norma.
+– NIIF 19 “Subsidarias sin obligación pública de rendir cuentas: Información a revelar”. Esta nueva norma impone
+menores requisitos en la preparación de los estados financieros de las subsidiarias que no son de interés público. La
+fecha de entrada en vigor de esta norma propuesta por el IASB es el 1 de enero de 2027. No se esperan impactos
+significativos en ROVI.
+– NIIF 9 “Instrumentos financieros” y NIIF 7 “Instrumentos financieros: Divulgaciones”: Las enmiendas a ambas normas
+se han centrado en finalizar por un lado la revisión post-implementación de los requerimientos de deterioro de NIIF 9,
+concluyendo que los resultados han sido correctos, pero viendo la necesidad de abrir un nuevo proyecto con el
+objetivo de mejorar los requisitos de desglose del riesgo crediticio en NIIF 7 y, por otro lado, modificar ambas normas
+para poder adaptarse a las características de los contratos de compraventa de energías renovables. La fecha de
+entrada en vigor de esta norma propuesta por el IASB es el 1 de enero de 2026. No se esperan impactos significativos
+en ROVI.
+2.3 Principios de consolidación
+a) Dependientes
+Dependientes son todas las entidades (incluidas las entidades estructuradas) sobre las que el Grupo tiene control. El Grupo
+controla una entidad cuando está expuesto, o tiene derecho, a obtener unos rendimientos variables por su implicación en la
+participada y tiene la capacidad de utilizar su poder sobre ella para influir sobre esos rendimientos. Las dependientes se
+consolidan a partir de la fecha en que se transfiere el control al Grupo, y se excluyen de la consolidación en la fecha en que
+cesa el mismo.
+Para contabilizar las combinaciones de negocios el Grupo aplica el método de adquisición. La contraprestación transferida por
+la adquisición de una dependiente se corresponde con el valor razonable de los activos transferidos, los pasivos incurridos con
+los anteriores propietarios de la adquirida y las participaciones en el patrimonio emitidas por el Grupo. La contraprestación
+transferida incluye el valor razonable de cualquier activo o pasivo que proceda de un acuerdo de contraprestación contingente.
+Los activos identificables adquiridos y los pasivos y pasivos contingentes asumidos en una combinación de negocios se valoran
+inicialmente a su valor razonable en la fecha de adquisición. Para cada combinación de negocios, el Grupo puede optar por
+reconocer cualquier participación no dominante en la adquirida por el valor razonable o por la parte proporcional de la
+participación no dominante de los importes reconocidos de los activos netos identificables de la adquirida.
+Los costes relacionados con la adquisición se reconocen como gastos en el ejercicio en que se incurre en ellos.
+Si la combinación de negocios se realiza por etapas, el importe en libros en la fecha de adquisición de la participación en el
+patrimonio neto de la adquirida anteriormente mantenido por la adquirente se vuelve a valorar al valor razonable en la fecha de
+adquisición; cualquier pérdida o ganancia que surja de esta nueva valoración se reconoce en el resultado del ejercicio.
+Cualquier contraprestación contingente a transferir por el Grupo se reconoce a su valor razonable en la fecha de adquisición.
+Los cambios posteriores en el valor razonable de la contraprestación contingente que se considere un activo o un pasivo se
+reconocen de acuerdo con la NIIF 9 en resultados. La contraprestación contingente que se clasifique como patrimonio neto no
+se valora de nuevo y su liquidación posterior se contabiliza dentro del patrimonio neto.
+La conversión de los estados financieros de las sociedades con moneda funcional distinta del euro se realiza de la siguiente
+manera:
+9

@@ -1,0 +1,39 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2016
+(Expresada en miles de euros)
+a) Ingresos y gastos financieros
+Miles de euros
+2016 2015
+Ingresos financieros:
+- Dividendos de participaciones en empresas del grupo (14.962) (12.947)
+- Otros ingresos financieros (412) (844)
+(15.374) (13.791)
+Gastos financieros:
+- Intereses de préstamos 842 1.724
+842 1.724
+(14.532) (12.067)
+25. Flujos de efectivo de las actividades de explotación
+Miles de euros
+2016 2015
+Resultado del ejercicio antes de impuestos 31.797 15.639
+Ajustes del resultado:
+- Amortización del inmovilizado (Notas 5 y 6) 7.608 6.321
+- Ingresos financieros (Nota 24.a) (412) (844)
+- Gastos financieros (Nota 24.a) 842 1.724
+- Variación neta de provisiones 381 470
+- Subv. de inmovilizado no financiero e ingresos por licencias de distribución (1.845) (676)
+- Otros ingresos y gastos 109 181
+- Resultado por constitución de negocio conjunto (3.997) -
+34.483 22.815
+Cambios en el capital corriente:
+- Existencias 446 1.835
+- Deudores y otras cuentas a cobrar (37.019) 95.542
+- Acreedores y otras cuentas a pagar 40.599 (98.402)
+4.026 (1.025)
+Otros flujos de efectivo de las actividades de explotación:
+- Pagos de intereses - (394)
+- Cobros (pagos) por impuesto sobre beneficios (3.397) (1.981)
+- Otros Cobros (pagos) (Nota 19) 505 110
+(2.892) (2.265)
+Flujos de efectivo de las actividades de explotación 35.617 19.525
+53

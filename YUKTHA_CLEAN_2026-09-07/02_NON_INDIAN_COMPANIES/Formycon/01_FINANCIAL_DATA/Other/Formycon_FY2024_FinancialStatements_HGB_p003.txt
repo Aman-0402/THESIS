@@ -1,0 +1,51 @@
+Financial Statements of Formycon AG for the period from January 1, 2024 to December 31, 2024 4 Financial Statements of Formycon AG for the period from January 1, 2024 to December 31, 2024 5
+Balance Sheet — Assets in € K Balance Sheet — Shareholders equity and liabilities in € K
+Dec. 31, 2024 Dec. 31, 2023 Dec. 31, 2024 Dec. 31, 2023
+A. Fixed assets A. Equity
+I. Intangible assets I. Subscribed capital1 17,664 16,053
+Purchased concessions, industrial property 466 871 II. Capital reserve 560,813 479,338
+rights, and similar rights and assets, as well as
+III. Accumulated loss carryforward -260,496 -131,476
+licenses for such rights and assets
+466 871 317,982 363,915
+II. Property, plant and equipment
+Land and buildings, including property-like rights 412 73
+B. Provisions
+and buildings on third-party land
+Technical equipment and machinery 3,012 2,988 I. Other provisions 313,595 376,587
+Other plant, production equipment and office equipment 1,383 987 of which due in more than one year:
+€ 311.369K (Vorjahr: € 341,839K)
+Advance payments 0 113
+313,595 376,587
+4,808 4,161
+III. Financial assets
+Shares in affiliated companies 348,439 463,533
+C. Liabilities
+Loans to affiliated companies 68,419 93,300
+5,270 7,827
+Investment participations 151,920 163,133 I. Trade accounts payable
+568,778 719,966 of which due within one year:
+€ 5,270K (prior year: € 7,827K)
+B. Current assets II. Liabilities toward affiliated companies 12,000 9,000
+I. Inventories III. Other liabilities 1,595 22,099
+Raw materials, consumables and supplies 388 467 of which due within one year:
+€ 940K (prior year: € 21,383K)
+Unfinished products and services 0 665
+of which due in more than one year:
+Advance payments 20,967 9,690
+€ 655K (prior year: € 716K)
+21,355 10,822
+of which from taxes:
+II. Receivables and other assets € 212K (prior year: € 0K)
+Trade accounts receivable 3,576 22 of which relating to social security:
+€ 1K (prior year: € 63K)
+Receivables from affiliated companies 16,046 17,357
+18,865 38,926
+Other assets 3,693 4,190
+23,315 21,569
+650,442 779,428
+III. Cash and cash equivalents 30,623 21,494
+C. Prepaid expenses and deferred items 1,098 546
+650,442 779,428
+1 Conditional Capital 2019: € 4,000,000.00
+Conditional Capital 2015: € 225,450.00

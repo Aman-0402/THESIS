@@ -1,0 +1,53 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Memoria consolidada del ejercicio finalizado el 31 de diciembre de 2025
+(Expresada en miles de euros)
+De acuerdo con la evaluación del riesgo de crédito relativo a las cuentas a cobrar, el Grupo evalúa periódicamente su cartera
+de clientes considerando dos bloques: públicos y no públicos; los clientes públicos se definen como todos aquellos que se
+corresponden con organismos públicos sobre los que, según su naturaleza, se considera que existe un riesgo de crédito bajo.
+La mayoría de estos clientes se concentran en el sector salud y se corresponden con hospitales y clínicas médicas en los
+cuales las operaciones se encuentran reguladas legalmente. Por otro lado, en cuanto a los clientes no públicos, el Grupo
+incluye dentro de esta categoría todos aquellos clientes privados tales como mayoristas, clientes de fabricación u otras
+compañías farmacéuticas los cuales se valoran en base a la antigüedad de su deuda, su posición financiera y su rating
+crediticio (en caso de estar este último disponible).
+Los contratos que suscribe el Grupo con sus clientes tienen una duración media de entre 3 y 5 años, lo que permite generar un
+flujo estable y notable de ingresos. Asimismo, debido a la calidad crediticia de los clientes privados así como a los sistemas
+internos del Grupo y los periodos de cobro establecidos, no ha habido ningún impacto significativo para el Grupo en los
+ejercicio 2025 y 2024.
+Los bancos e instituciones financieras con las que trabaja el Grupo poseen en general calificaciones independientes. Si a los
+clientes se les ha calificado de forma independiente se utilizan dichas calificaciones. En caso contrario, el Grupo realiza una
+evaluación de este riesgo teniendo en cuenta la posición financiera del cliente, la experiencia pasada y otra serie de factores.
+En los casos en que no exista duda sobre la solvencia financiera del cliente se opta por no establecer límites de crédito.
+A 31 de diciembre de 2025 la mayor inversión en activos financieros, incluyendo efectivo y equivalentes al efectivo y sin tener
+en cuenta clientes, está relacionada con el Banco Santander, 59.638 miles de euros (13.631 miles de euros a 31 de diciembre
+de 2024 con Bankinter). En el epígrafe de clientes y otras cuentas a cobrar, una parte significativa es a cobrar a organismos
+oficiales que por su naturaleza y por la información disponible hasta la actualidad, la Dirección considera que no tienen riesgo
+de crédito (Nota 13).
+c) Riesgo de liquidez
+La dirección realiza un seguimiento periódico de las previsiones de liquidez del Grupo en función de los flujos de efectivo
+esperados, de forma que siempre exista suficiente efectivo y valores negociables para hacer frente a sus necesidades de
+liquidez.
+La tabla que se muestra a continuación presenta un análisis de los pasivos financieros del Grupo agrupados por vencimientos
+de acuerdo con los plazos pendientes a la fecha de balance hasta la fecha de vencimiento estipulada en el contrato, incluyendo
+los correspondientes intereses. Los importes que se muestran en la tabla corresponden a los flujos de efectivo estipulados en
+el contrato, sin descontar. Al tratarse de cantidades no descontadas, y que incluyen intereses futuros, no pueden ser cruzados
+con los importes reconocidos en balance en concepto de deuda financiera y proveedores y otras cuentas a pagar.
+Menos de Entre 1 y 2 Entre 2 y 5 Más de 5
+Al 31 de diciembre de 2025 un año años años años
+Deudas con entidades de crédito (Nota 18) 21.963 22.996 49.416 4.643
+Deudas con organismos oficiales (Nota 18) 1.752 1.403 4.043 3.844
+Proveedores (Nota 17) 81.844 — — —
+Pasivos financieros por arrendamiento (Nota 18) 6.891 5.898 3.566 252
+Otras cuentas a pagar (Nota 17) 36.715 — — —
+149.165 30.297 57.025 8.739
+Menos de Entre 1 y 2 Entre 2 y 5 Más de 5
+Al 31 de diciembre de 2024 un año años años años
+Deudas con entidades de crédito (Nota 18) 17.482 17.443 49.693 6.072
+Deudas con organismos oficiales (Nota 18) 1.562 1.587 4.054 4.203
+Proveedores (Nota 17) 86.851 — — —
+Pasivos financieros por arrendamiento (Nota 18) 6.331 3.973 6.489 319
+Otras cuentas a pagar (Nota 17) 38.477 — — —
+150.703 46.057 39.851 7.925
+3.2 Gestión del riesgo del capital
+El objetivo del Grupo en relación con la gestión del capital es disponer de un grado de apalancamiento bajo que facilite al
+Grupo la obtención de financiación ajena adicional en caso de que sea necesaria para la realización de nuevas inversiones.
+25

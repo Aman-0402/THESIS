@@ -1,0 +1,22 @@
+THESIS FINAL MASTER VALIDATION
+================================
+
+Output folder: C:\Users\yuktha\Desktop\THESIS_FINAL_MASTER_2026-09-02_191153
+Final ZIP: C:\Users\yuktha\Desktop\THESIS_FINAL_MASTER_DATA_2026-09-02_191153.zip
+Final ZIP SHA-256: 5ec958a6c6f69a7a48457c3c160be880da36d20581a64c1602db23e14119d125
+ZIP integrity: PASS
+Bad ZIP member: NONE
+
+Desktop files scanned: 104212
+ZIP archives inspected: 99
+ZIP members inspected: 58626
+Relevant files captured: 7735
+Exact duplicates: 24252
+Parse/read errors: 78
+Skipped as too large: 0
+Detected frozen companies: 28/30
+Missing companies: Shanghai Fosun Pharma, Zhejiang Hisun Pharma
+Company evidence directories: 30/30
+
+Out-of-scope hits:
+  NONE

@@ -1,0 +1,45 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+d. Cálculo de los principales indicadores
+Atendiendo al contenido normativo publicado en Anexo I del Reglamento Delegado del 6 de julio de 2021, las empresas no
+financieras deben divulgar el porcentaje de volumen de negocios, CapEx y OpEx sus actividades elegibles y alineadas durante
+el ejercicio 2025 para todos los objetivos medioambientales. Tomando como base el primer artículo del citado Anexo, ROVI ha
+llevado a cabo el proceso de cálculo de los mismos.
+Asimismo, cabe señalar que durante todo el proceso de trabajo se han tenido en cuenta las consideraciones necesarias para
+evitar la doble contabilidad:
+• Las principales fuentes de información son la información contable y de gestión, utilizadas para la cuenta de resultados
+consolidada basada en el formato de reporte externo para la Comisión Nacional del Mercado De Valores.
+• Para el análisis de esta información contable se han realizado comprobaciones de los subtotales, con el objetivo de
+garantizar que se esté incluyendo en todo momento la totalidad de la información.
+Cálculo del % de volumen de negocios
+La proporción del volumen de negocios a que se refiere el artículo 8, apartado 2, letra a), del Reglamento (UE) 2020/852 se
+calculará como la parte del volumen de negocios neto derivado de productos o servicios, incluidos los inmateriales, asociados
+con actividades económicas que se ajustan a la taxonomía (numerador), dividido por el volumen de negocios neto
+(denominador) como se define en el artículo 2, apartado 5, de la Directiva 2013/34/UE. El volumen de negocios incluirá los
+ingresos reconocidos con arreglo a la Norma Internacional de Contabilidad (NIC) 1, párrafo 82, letra a), adoptada por el
+Reglamento (CE) nº 1126/2008 de la Comisión.
+Las actividades generadoras de ingresos para ROVI durante el ejercicio 2025 son las actividades 1.1: “Fabricación de
+ingredientes farmacéuticos activos (IFA) o sustancias activas” y 1.2: “Fabricación de medicamentos” del Anexo de Prevención
+de la Contaminación. En este sentido, ROVI ha considerado como numerador la agregación de los ingresos elegibles de ambas
+actividades.
+El proceso llevado a cabo para computar las cuantías del numerador ha consistido en un análisis exhaustivo de la totalidad de
+ingresos percibidos por la sociedad ROVI Pharma Industrial Services, S.A.U. por la venta de productos fabricados a terceros
+durante el año en curso, así como de los ingresos percibidos por Laboratorios Farmacéuticos ROVI, S.A., derivados de la venta
+directa de sus productos propios (Bemiparina, Enoxaparina y Okedi®). Se ha examinado la totalidad de las partidas de manera
+individualizada, entendiendo el racional de la percepción de dicho ingreso, descartando aquellas que no se ajustan al
+descriptivo de las actividades, con el fin último de conocer las partidas específicas que resultan elegibles, así como a qué
+actividad deben computarse.
+Las cuantías que se computan en el denominador corresponden con el importe neto de la cifra de negocios consolidada del
+Grupo ROVI, divulgado en sus Cuentas Anuales Consolidadas (apartado “Cuenta de Resultados Consolidada”).
+Cálculo del % de CapEx
+Se calcula como el numerador dividido por el denominador; siendo el denominador las adiciones a los activos tangibles e
+intangibles durante el ejercicio considerado antes de depreciaciones, amortizaciones y posibles nuevas valoraciones, incluidas
+las resultantes de revalorizaciones y deterioros de valor, correspondientes al ejercicio pertinente, con exclusión de los cambios
+del valor razonable. El denominador también incluye las adiciones a los activos tangibles e intangibles que resulten de
+combinaciones de negocios.
+El denominador se corresponde con el CapEx total del Grupo, que incluye tanto las inversiones en inmovilizado material como
+en inmovilizado intangible y las inversiones en activos por derechos de uso, divulgado en sus Cuentas Anuales Consolidadas
+(epígrafe “Aumentos de activo no corrientes no financieros”)22.
+22 La cifra de CapEx utilizada incluye las altas relacionadas con derechos de uso registrados en la aplicación de la norma internacional de información
+financiera 16 Arrendamientos (NIFF 16).
+45

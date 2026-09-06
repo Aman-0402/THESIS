@@ -1,0 +1,45 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the annual period 2017
+(Thousands of euros)
+Health tax
+As stated in note 3.17, the Company’s policy has been to hold a provision for the amounts estimated to be paid as health
+tax, based on percentages fixed for each level of sales for the period.
+The amounts recognized as provisions in the statement of financial position relate to the reporting-date best estimate of
+the payments necessary to calculate the currrent obligation, after considering the risks and uncertainties related to the
+provision and, when significant, the financial effect of discounting, provided that the payments that will be made in each
+period can be determined reliably. The discount rate is determined before tax, considering the time value of money and
+the specific risks that have not been taken into account in the future flows related to the provision at each reporting date.
+One-off obligations are measured in accordance with the most likely individual outcome of each one of them. If the
+obligation involves a significant group of homogeneous items, it is measured by weighting the possible outcomes by the
+probability that they will occur. If there is a continuous range of possible outcomes and each point of the range has the
+same probability as the rest, the obligation is measured at the average amount.
+21. Deferred income tax
+Details of deferred income tax are as follows:
+Thousands of euros
+2017 2016
+Deferred income tax assets
+- Temporary differences 1,102 1,095
+- Other tax carryforwards 7,549 2,512
+8,651 3,607
+Deferred income tax liabilities:
+- Temporary differences (2,651) (2,691)
+(2,651) (2,691)
+Net deferred income tax 6,000 916
+Deferred income tax assets and liabilities are offset when the Company has a legally enforceable right to offset current
+tax assets against current tax liabilities and intends to settle the net amounts or realize the asset and cancel the liability
+simultaneously. Deferred tax assets and liabilities were as follows:
+Thousands of euros
+2017 2016
+Deferred income tax assets
+- Non-current 3,477 1,024
+- Current 5,174 2,583
+8,651 3,607
+Deferred income tax liabilities
+- Non-current (1,554) (1,641)
+- Current (1,097) (1,050)
+(2,651) (2,691)
+Net deferred income tax 6,000 916
+46

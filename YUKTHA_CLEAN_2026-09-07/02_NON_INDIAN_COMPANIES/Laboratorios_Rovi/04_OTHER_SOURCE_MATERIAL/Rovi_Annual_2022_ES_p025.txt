@@ -1,0 +1,52 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+d) Pagos basados en acciones
+La Sociedad reconoce los bienes o servicios recibidos o adquiridos en una transacción con pagos basados en acciones,
+en el momento de la obtención de dichos bienes o cuando se reciben los servicios. Si los bienes o servicios se reciben
+en una transacción con pagos basados en acciones que se liquidan en instrumentos de patrimonio se reconoce un
+incremento de patrimonio neto, mientras que si se liquidan en efectivo se reconoce un pasivo, con contrapartida en
+resultados o en el activo del estado de situación financiera.
+La Sociedad reconoce las transacciones con pagos basados en acciones liquidadas mediante instrumentos de
+patrimonio de la Sociedad, incluyendo las ampliaciones de capital por aportaciones no dinerarias, así como el
+correspondiente incremento de patrimonio neto relacionado con las mismas, por el valor razonable de los bienes o
+servicios recibidos, a menos que dicho valor razonable no pueda ser estimado con fiabilidad, en cuyo caso el valor se
+determina por referencia al valor razonable de los instrumentos de patrimonio entregados.
+Las entregas de instrumentos de patrimonio en contraprestación de los servicios prestados por los empleados de la
+Sociedad o terceros que suministran servicios similares se valoran por referencia al valor razonable de los instrumentos
+de patrimonio ofrecidos.
+Pagos a empleados basados en acciones liquidados mediante la emisión de instrumentos de patrimonio
+Los pagos a empleados liquidados mediante la emisión de instrumentos de patrimonio se registran mediante la
+aplicación de los siguientes criterios:
+– Si los instrumentos de patrimonio concedidos se convierten en irrevocables de forma inmediata en el momento
+de la concesión, los servicios recibidos se reconocen con cargo a resultados con el consiguiente aumento de
+patrimonio neto;
+– Si los instrumentos de patrimonio concedidos se convierten en irrevocables cuando los empleados completan
+un determinado periodo de servicio, los servicios recibidos se reconocen durante el periodo de irrevocabilidad
+con abono a cuentas de patrimonio neto.
+La Sociedad determina el valor razonable de los instrumentos concedidos a los empleados en la fecha de concesión.
+Las condiciones de mercado y otras condiciones no determinantes de la irrevocabilidad, se consideran en la valoración
+del valor razonable del instrumento. El resto de condiciones para la irrevocabilidad, se consideran ajustando el número
+de instrumentos de patrimonio incluidos en la determinación del importe de la transacción, de forma que finalmente, el
+importe reconocido por los servicios recibidos, se base en el número de instrumentos de patrimonio que eventualmente
+se van a consolidar. En consecuencia, la Sociedad reconoce el importe por los servicios recibidos durante el periodo
+para la irrevocabilidad, en base a la mejor estimación del número de instrumentos que se van a consolidar y dicha
+estimación se revisa en función de los derechos que se espera que consoliden.
+Una vez reconocidos los servicios recibidos y el correspondiente aumento de patrimonio neto, no se realizan ajustes
+adicionales al patrimonio neto tras la fecha de irrevocabilidad, sin perjuicio de realizar las correspondientes
+reclasificaciones en patrimonio neto.
+Si la Sociedad retiene instrumentos de patrimonio para hacer efectivo el pago con la Hacienda Pública por el impuesto
+sobre la renta del empleado, el plan se trata en su totalidad como liquidado en instrumentos de patrimonio, salvo por la
+parte de los instrumentos retenidos que exceden del valor razonable de la obligación tributaria.
+3.13 Provisiones y pasivos contingentes
+Las provisiones para restauración medioambiental, costes de reestructuración y litigios se reconocen cuando la
+Sociedad tiene una obligación presente, ya sea legal o implícita, como resultado de sucesos pasados, es probable que
+vaya a ser necesaria una salida de recursos para liquidar la obligación y el importe se puede estimar de forma fiable.
+Las provisiones por reestructuración incluyen sanciones por cancelación del arrendamiento y pagos por despido a los
+empleados. No se reconocen provisiones para pérdidas de explotación futuras.
+Las provisiones se valoran por el valor actual de los desembolsos que se espera que serán necesarios para liquidar la
+obligación usando un tipo antes de impuestos que refleje las evaluaciones del mercado actual del valor temporal del
+dinero y los riesgos específicos de la obligación. Los ajustes en la provisión con motivo de su actualización se
+reconocen como un gasto financiero conforme se van devengando.
+Las provisiones con vencimiento inferior o igual a un año, con un efecto financiero no significativo no se descuentan.
+15

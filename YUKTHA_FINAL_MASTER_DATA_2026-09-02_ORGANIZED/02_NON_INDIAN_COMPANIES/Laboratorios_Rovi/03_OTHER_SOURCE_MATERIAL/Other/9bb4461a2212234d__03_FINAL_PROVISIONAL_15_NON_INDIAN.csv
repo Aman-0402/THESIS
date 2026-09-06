@@ -1,0 +1,16 @@
+Company,Country,Relevance,Annual_Income_Years,Quarterly_Income_Years,Quarterly_Balance_Years,Daily_Stock_Years,QIncome_Stock_Overlap_Years,Cashflow_Years,ML_Cleanliness,Option_C_Balanced_Score,Selection_Reason
+Biogen,United States,Biosimilar-focused,11.0,12.25,12.25,12.64,12.25,12.25,CLEAN,24.49,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Amgen,United States,Biosimilar-focused,11.0,11.75,11.75,12.64,11.75,12.0,CLEAN,24.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Formycon,Germany,Biosimilar-focused,11.0,1.25,11.75,12.63,1.25,11.75,CLEAN,21.39,Retained for strong biosimilar relevance; note quarterly income is only ~1.25 years
+Jiangsu Hengrui Pharma,China,Pharmaceutical,11.0,12.0,12.0,12.63,12.0,12.0,CLEAN,20.46,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Zhejiang Hisun Pharma,China,Pharmaceutical,11.0,12.0,11.0,12.63,12.0,12.0,CLEAN,20.46,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Shanghai Fosun Pharma,China,Pharmaceutical,11.0,12.0,12.0,12.63,12.0,12.0,CLEAN,20.46,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Sanofi,France,Pharmaceutical,11.0,12.0,11.5,12.63,12.0,12.75,CLEAN,20.46,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Teva Pharmaceutical,Israel,Pharmaceutical,11.0,11.75,11.75,12.64,11.75,12.0,CLEAN,20.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Merck & Co.,United States,Uncertain,11.0,12.25,12.25,12.64,12.25,12.25,CLEAN,18.49,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Novartis,Switzerland,Uncertain,11.0,12.25,12.25,12.63,12.25,12.25,CLEAN,18.49,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Baxter International,United States,Uncertain,11.0,11.75,14.0,12.63,11.75,12.0,CLEAN,18.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Pfizer,United States,Uncertain,11.0,11.76,12.0,12.64,11.76,12.0,CLEAN,18.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Fresenius SE,Germany,Uncertain,11.0,11.75,11.75,12.63,11.75,12.0,CLEAN,18.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+Viatris,United States,Uncertain,11.0,11.75,12.25,12.63,11.75,12.25,CLEAN,18.44,Strong balanced score: good relevance and ≥10-year daily/quarterly income coverage
+3SBio,China,Biopharmaceutical,11.0,9.0,11.25,11.19,0.0,11.0,PARTIAL/GAP,18.02,Retained for biopharmaceutical relevance; note quarterly income is stale (2005-2014) and does not overlap daily stock

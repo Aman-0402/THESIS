@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with International Reporting
+Standards as adopted by the European Union. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December 2024
+(Thousand euros)
+Reverse factoring (confirming) agreements
+The Group has several confirming lines with BBVA with a limit of 15,000 thousand euros. There are three types under the
+following conditions: non-sustainable confirming subject to Eur90+0.85%, segment B subject to Eur90+0.80% and confirming C
+subject to Eur90+0.75%. Additional information on the confirming agreements is shown below:
+2024 2023
+Non-current Current Non-current Current
+Carrying amount of outstanding liabilities payable by the Group — 11,790 — 6,548
+Carrying amount of liabilities paid by banks to suppliers — 1,375 — —
+Range of maturity dates of liabilities subject to confirming
+agreements Jan-Feb 2025 Jan-Feb 2024
+Range of maturity dates of liabilities that do not form part of
+confirming agreements Jan-Feb 2025 Jan-Feb 2024
+Other payables
+This caption shows the provision and other trade payables recognised by the Group.
+In view of the macroeconomic context marked by inflation, especially in the last few years, ROVI reviewed the financial
+performance of its contracts and found that adequate profits are still being and, therefore, it was not necessary to earmark
+provisions for onerous contracts.
+Contributions to public health systems and other discounts
+In Spain, in accordance with Law 29/2006, all companies that sell prescription pharmaceuticals or other health products paid
+with public funds must make, every four months, payments of between 1.5% and 2.0% of their sales (depending on the volume)
+to the National Health System. This is a levy aimed to adjust the margin on a regulated activity through the price intervention
+established by law. The Group recognises the contribution to the public health system as a reduction in revenue when the sale
+is made. The sums accrued but not yet paid are recognised under the “Other payables” caption.
+Additionally, there were liabilities in other European countries in which the Group operates (see Note 2.24) with similar
+characteristics to those described in the previous paragraph that also form party of this caption.
+At 31 December 2024 and 2023, no amounts had been recognised in relation to the collaboration agreement between
+Farmaindustria and the Spanish government (Note 2.24), since no agreement has been signed since the agreement in force for
+the years 2017 to 2019.
+Although these sums should not be considered as refunds or reimbursements to customers, they are recognised as a reduction
+in revenue, since the objective of the Law is to regulate to prices and margins obtained for these products.
+Delay in payments to suppliers
+Details of payments for commercial transactions performed during the reporting period and outstanding at the reporting date in
+relation to the maximum legal periods provided for in Law 15/2010, amended by Law 11/2013 and Law 18/2022, are as follows:
+2024 2023
+Days Days
+Average payment period to suppliers 47 55
+Ratio of transactions paid 49 58
+Ratio of transactions outstanding 31 32
+2024 2023
+Total payments made (thousand euros) 423,547 597,378
+Total payments outstanding (thousand euros) 51,144 77,505
+43

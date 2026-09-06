@@ -1,0 +1,56 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Nivel de la Impacto/
+Real/ Horizonte
+cadena de Sub- temática Descripción IRO Riesgo/
+Potencial temporal
+valor Oportunidad
+La creciente preocupación por el cambio climático está
+Mitigación del
+Operaciones llevando a que algunos países exijan un Plan de
+cambio Riesgo Potencial 1-5 años
+propias Descarbonización, lo que podría ser una barrera y un
+climático
+riesgo para ROVI al quedar fuera de concursos públicos.
+Trabajar con integrantes de la cadena de valor no
+A lo largo de Mitigación del
+comprometidos con la reducción de emisiones (dificultad
+la cadena de cambio Riesgo Potencial > 5 años
+para cumplir los objetivos de reducción de emisiones de
+valor climático
+Alcance 3).
+En cuanto al análisis de riesgos climáticos, el Grupo ha analizado su gestión del cambio climático mediante la identificación y
+evaluación de sus riesgos físicos y de transición, además de sus oportunidades. El proceso para determinar dichos riesgos y
+oportunidades se describe a continuación:
+1. Riesgos climáticos físicos
+Riesgos climáticos físicos agudos
+El análisis de riesgos climáticos físicos llevado a cabo por ROVI consideró los peligros enunciados en el Reglamento Delegado
+(UE) 2021/2139 de la Comisión y el alcance del mismo abarcó a los cinco complejos industriales de producción del Grupo
+ubicados en España además de relaciones comerciales con proveedores considerados críticos del Grupo ya sea porque
+fabrican ad hoc para ROVI, o porque son proveedores únicos, entre otros criterios. Estos proveedores están ubicados en
+Alemania, Hungría, México, Estados Unidos y China.
+En este sentido, ROVI examinó si sus activos (centros de producción) y actividades empresariales (fabricación de
+medicamentos y relaciones de negocio) podrían estar expuestos a dichos riesgos físicos. También se analizaron los cinco
+proveedores más críticos para ROVI.
+Durante el ejercicio 2022 se identificaron los peligros físicos a los que los centros de producción de ROVI y de sus cinco
+proveedores críticos principales podrían verse expuestos debido a su localización geográfica: vientos extremos, eventos de
+congelación-descongelación, inundaciones por desbordamiento de cuerpos de agua superficial, desbordamiento de ríos,
+inundaciones costeras, incendios forestales y movimientos de terreno. En total se analizaron siete riesgos físicos agudos.
+Los escenarios climáticos considerados para la evaluación fueron los propuestos por el Panel Intergubernamental sobre
+Cambio Climático (por sus siglas en inglés IPCC) en su informe de agosto de 2021. Se seleccionó un escenario con un
+aumento de la temperatura global de 2ºC o menos (RCP 2.6) siguiendo las recomendaciones del Task Force on Climate-related
+Financial Disclosure (TCFD). También se incluyó un escenario que supera los 2ºC, específicamente el RCP 8.5, que
+contemplaba un aumento de entre 3,2 y 5,5ºC en comparación con los niveles preindustriales, siendo este el escenario más
+adverso desde el punto de vista climático. Para ambos escenarios, se evaluó la probabilidad de su ocurrencia y el impacto
+potencial de cada uno de los riesgos climáticos identificados y se establecieron como horizontes temporales de materialización
+los años 2030, 2045 y 207023. La escala utilizada para la evaluación fue la siguiente:
+• Riesgo elevado = %MVAR24 > 1.0%
+• Riesgo moderado = 0.2% < MVAR < 1.0%
+• Riego bajo = %MVAR < 0.2%
+En este sentido, ninguno de los riesgos anteriormente descritos se consideró relevante para los complejos de ROVI o de sus
+cinco proveedores críticos al resultar todos los valores de MVAR por debajo de 0.2% tanto en el corto, como en el medio y largo
+plazo.
+23 No se ha calculado cómo los horizontes temporales están vinculados a la vida útil prevista de sus activos, a los horizontes de planificación estratégica y los
+planes de asignación de capital.
+24 Maximum Value-At-Risk, por sus siglas en inglés (valor máximo en riesgo).
+72

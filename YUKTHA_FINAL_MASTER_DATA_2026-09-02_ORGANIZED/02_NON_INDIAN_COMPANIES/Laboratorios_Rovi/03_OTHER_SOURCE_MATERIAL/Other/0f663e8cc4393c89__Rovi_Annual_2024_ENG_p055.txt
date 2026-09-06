@@ -1,0 +1,36 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with "Plan General de Contabilidad"
+approved by Royal Decree 1514/007 of 16th November. In the event of discrepancy, the Spanish version prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2024
+(Thousand euros)
+g) Research and development expenses
+Total research and development expenses incurred in 2024 were 24,278 thousand euros (23,521 thousand euros in
+2023), focused mainly on the Glycomics and ISM® platforms. The latter of these is a proprietary drug-release system
+belonging to ROVI, the objective of which is to improve patient treatment adherence. Of the total research and
+development expense incurred in 2024, 10,045 thousand euros was recognised under the "Employee benefit expenses"
+caption (8,665 thousand euros at 31 December 2023) and 14,233 thousand euros under "Other operating
+expenses" (14,856 thousand euros in 2023).
+23. Income tax and tax situation
+Balances with the public authorities at 31 December 2024 and 2023 were as follows:
+Thousand euros
+2024 2023
+Debit Credit Debit Credit
+Public Treasury, VAT 3,239 — 2,512 —
+Public Treasury, personal income tax — 1,205 — 823
+Withholdings 50 — 1,244 —
+Corporate income tax — 1,871 — 5,177
+Social security — 1,038 — 895
+Other balances with the public authorities 616 — 1,175 21
+3,905 4,114 4,931 6,916
+The heading “Other balances with public authorities” includes accounts receivable from government entities for the
+following items:
+Thousand euros
+2024 2023
+Grants awarded but not yet received 616 1,175
+616 1,175
+On 1 August 2007, the Company became the parent of tax group 362/07. Applying the tax consolidation system provided
+for in the corporate income tax regulations, ROVI, the tax group parent, included debt of 1,588 thousand euros with
+group companies resulting from a tax effect (Note 31.i) in its statement of financial position (661 thousand euros in 2023),
+as well as credits with group companies of 41,894 thousand euros resulting from a tax effect (47,955 thousand euros in
+2023).
+45

@@ -1,0 +1,46 @@
+2
+(Translation from the original in Spanish. In the event of discrepancy, the Spanish-language version prevails.)
+Key Audit Matters ________________________________________________________
+Key audit matters are those matters that, in our professional judgement, were of most significance
+in the audit of the annual accounts of the current period. These matters were addressed in the
+context of our audit of the annual accounts as a whole, and in forming our opinion thereon, and we
+do not provide a separate opinion on these matters.
+Recognition of revenue from sales (Euros 490,229 thousand)
+See notes 3.14 and 22.a to the annual accounts
+Key audit matter How the matter was addressed in our audit
+Sales revenue is obtained from a number of Our audit procedures included the following:
+customers and products and through a large volume
+- We evaluated the design and
+of transactions carried out during the year. The very
+implementation of the key controls
+low value of the transactions at unit level means that
+associated with the process of recognising
+errors on an individual basis are insignificant.
+revenue from sales made to third parties.
+However, as they are difficult to detect and there is a
+large volume of transactions, they could ultimately - We performed a test using computer-
+give rise to material misstatements in the annual assisted audit techniques enabling us to
+accounts. assess the existence and accuracy of a
+large volume of sales transactions during
+Due to the significance of the amount of sales
+the year, individually matching the revenue
+revenue, the possibility of revenue being recognised
+to the orders and delivery notes.
+in an incorrect period and the inherent risk of
+material misstatement, this has been considered a - We obtained external confirmation for a
+key audit matter. sample of outstanding invoices pending
+reconciliation vis-à-vis Group companies,
+performing alternative procedures, where
+applicable, based on delivery notes or
+evidence of subsequent collection.
+- We also assessed whether the disclosures
+in the annual accounts meet the
+requirements of the financial reporting
+framework applicable to the Company.
+Other Information: Directors' Report _______________________________________
+Other information solely comprises the 2021 directors' report, the preparation of which is the
+responsibility of the Company's Directors and which does not form an integral part of the annual
+accounts.
+Our audit opinion on the annual accounts does not encompass the directors' report. Our
+responsibility regarding the information contained in the directors’ report is defined in the legislation
+regulating the audit of accounts, as follows:

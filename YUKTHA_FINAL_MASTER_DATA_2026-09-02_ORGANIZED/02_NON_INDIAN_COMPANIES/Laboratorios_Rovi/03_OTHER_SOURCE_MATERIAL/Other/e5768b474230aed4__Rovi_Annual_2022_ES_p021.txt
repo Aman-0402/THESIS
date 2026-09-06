@@ -1,0 +1,58 @@
+CUENTAS ANUALES DE LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Memoria de las cuentas anuales del ejercicio 2022
+(Expresada en miles de euros)
+El importe de la pérdida por deterioro del valor es la diferencia entre el valor en libros del activo y el valor actual
+de los flujos de efectivo futuros estimados, descontados al tipo de interés efectivo en el momento de
+reconocimiento inicial. Las correcciones de valor, así como en su caso su reversión, se reconocen en la cuenta
+de pérdidas y ganancias.
+2) Activos financieros a coste: Se incluyen en esta categoría las inversiones en el patrimonio de empresas del grupo
+y asociadas, así como las inversiones en instrumentos de patrimonio cuyo valor razonable no pueda
+determinarse por referencia a un precio cotizado en un mercado activo para un instrumento idéntico o no pueda
+estimarse con fiabilidad. Se valoran por su coste menos, en su caso, el importe acumulado de las correcciones
+por deterioro del valor. No obstante, cuando existe una inversión anterior a su calificación como empresa del
+grupo, multigrupo o asociada, se considera como coste de la inversión su valor contable antes de tener esa
+calificación. Los ajustes valorativos previos contabilizados directamente en el patrimonio neto se mantienen en
+éste hasta que se dan de baja.
+Si existe evidencia objetiva de que el valor en libros no es recuperable, se efectúan las oportunas correcciones
+valorativas por la diferencia entre su valor en libros y el importe recuperable, entendido éste como el mayor
+importe entre su valor razonable menos los costes de venta y el valor actual de los flujos de efectivo derivados de
+la inversión. Salvo mejor evidencia del importe recuperable, en la estimación del deterioro de estas inversiones
+se toma en consideración el patrimonio neto de la sociedad participada corregido por las plusvalías tácitas
+existentes en la fecha de la valoración. La corrección de valor y, en su caso, su reversión se registra en la cuenta
+de pérdidas y ganancias del ejercicio en que se produce.
+3) Activos financieros a valor razonable con cambios en patrimonio neto: En esta categoría se incluyen los valores
+representativos de deuda e instrumentos de patrimonio que no se clasifican en ninguna de las categorías
+anteriores. Se incluyen en activos no corrientes a menos que la dirección pretenda enajenar la inversión en los
+12 meses siguientes a la fecha del balance.
+Se valoran por su valor razonable, registrando los cambios que se produzcan directamente en el patrimonio neto
+hasta que el activo se enajene o deteriore, momento en que las pérdidas y ganancias acumuladas en el
+patrimonio neto se imputan a la cuenta de pérdidas y ganancias, siempre que sea posible determinar el
+mencionado valor razonable. En caso contrario, se registran por su coste menos pérdidas por deterioro del valor.
+En el caso de los activos financieros a valor razonable con cambios en patrimonio neto, se efectúan correcciones
+valorativas si existe evidencia objetiva de que su valor se ha deteriorado como resultado de una reducción o
+retraso en los flujos de efectivo estimados futuros en el caso de instrumentos de deuda adquiridos o por la falta
+de recuperabilidad del valor en libros del activo en el caso de inversiones en instrumentos de patrimonio. La
+corrección valorativa es la diferencia entre su coste o coste amortizado menos, en su caso, cualquier corrección
+valorativa previamente reconocida en la cuenta de pérdidas y ganancias y el valor razonable en el momento en
+que se efectúe la valoración. En el caso de los instrumentos de patrimonio que se valoran por su coste por no
+poder determinarse su valor razonable, la corrección de valor se determina del mismo modo que para las
+inversiones en el patrimonio de empresas del grupo, multigrupo y asociadas.
+Si existe evidencia objetiva de deterioro, la Sociedad reconoce en la cuenta de pérdidas y ganancias las pérdidas
+acumuladas reconocidas previamente en el patrimonio neto por disminución del valor razonable. Las pérdidas
+por deterioro del valor reconocidas en la cuenta de pérdidas y ganancias por instrumentos de patrimonio no se
+revierten a través de la cuenta de pérdidas y ganancias.
+Los valores razonables de las inversiones que cotizan se basan en precios de compra corrientes. Si el mercado
+para un activo financiero no es activo (y para los títulos que no cotizan), la Sociedad establece el valor razonable
+empleando técnicas de valoración que incluyen el uso de transacciones recientes entre partes interesadas y
+debidamente informadas, referencias a otros instrumentos sustancialmente iguales, métodos de descuento de
+flujos de efectivo futuros estimados y modelos de fijación de precios de opciones haciendo un uso máximo de
+datos observables del mercado y confiando lo menos posible en consideraciones subjetivas de la Sociedad.
+Los activos financieros se dan de baja en el balance cuando se traspasan sustancialmente todos los riesgos y
+beneficios inherentes a la propiedad del activo. En el caso concreto de cuentas a cobrar se entiende que este
+hecho se produce en general si se han transmitido los riesgos de insolvencia y de mora.
+4) Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias: Son activos con los que
+se va a operar en el corto plazo. Se incluyen fundamentalmente derivados que no han sido calificados como
+operaciones de cobertura. Estos activos se reconocen, tanto en el momento inicial como en las posteriores
+valoraciones a valor razonable reconociéndose en el resultado las pérdidas y ganancias que se produzcan en su
+valoración.
+11

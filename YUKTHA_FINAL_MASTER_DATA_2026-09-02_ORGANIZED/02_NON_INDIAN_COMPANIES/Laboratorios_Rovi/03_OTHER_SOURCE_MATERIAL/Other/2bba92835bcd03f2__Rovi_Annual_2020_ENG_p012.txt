@@ -1,0 +1,44 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Income Statement for the annual periods ended 31 December, 2020 and 2019
+(Thousands of euros)
+Annual period ended
+31 December
+Note 2020 2019
+CONTINUING OPERATIONS
+Net sales 22 a) 459,424 379,221
+Sales of goods 459,424 379,221
+Change in inventories of finished products and work in progress 12 (7,245) 13,653
+Procurements (308,275) (277,098)
+Raw materials and consumables used 22 b) (310,039) (275,544)
+Inventory write-down 12 1,764 (1,554)
+Other operating income 5,111 3,450
+Ancillary and current management income 22 c) 4,595 2,984
+Operating grants recognised in profit and loss 22 d) 516 466
+Employee benefit expenses 22 e) (32,803) (34,490)
+Wages, salaries and similar remuneration (26,974) (28,766)
+Welfare charges (5,829) (5,724)
+Other operating expenses (61,815) (66,661)
+External services 22 f) (55,765) (64,476)
+Taxes (6,080) (2,635)
+Losses, impairment and changes in trade provisions 10 c) 44 450
+Other current operating expenses (14) -
+Amortisation, depreciation and impairment charges 5 & 6 (9,710) (9,331)
+Allocation of grants for non-financial assets and other 17 629 685
+Impairment and gains/(losses) on disposal of intangible assets and
+property, 6 (70) (342)
+Impairments and losses 5 (56) (341)
+Gains/(losses) on sales and other (14) (1)
+PROFIT/(LOSS) FROM OPERATING ACTIVITIES 45,246 9,087
+Finance revenue 31,723 17,066
+Finance expenses (789) (624)
+Change in fair value of financial instruments (796) (146)
+Exchange rate differences 77 24
+Impairment and gains/(losses) on disposal of financial instruments (245) 305
+FINANCE COSTS – NET 24 29,970 16,625
+PROFIT BEFORE INCOME TAX 75,216 25,712
+Income tax 23 (4,079) (159)
+PROFIT FOR THE YEAR 16 71,137 25,553
+3

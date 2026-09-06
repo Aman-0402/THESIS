@@ -1,0 +1,50 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+At 31 December, 2021, the Group held property, plant and equipment with a net carrying amount of 514 thousand euros
+subject to retention of title (571 thousand euros at 31 December, 2020).
+At 31 December, 2021 and 2020, the Group held acquisition commitments for property, plant and equipment related to the
+ordinary course of its business.
+In 2021 and 2020, there was no impairment of property, plant and equipment.
+The Group holds several insurance policies to cover the risks the property, plant and equipment is exposed to. The
+insurance cover is considered sufficient.
+7. Intangible assets
+Movement on intangible assets was as follows:
+Trademarks & Computer
+Development licences software Total
+Balance at 01.01.20
+Cost 8,873 44,929 12,080 65,882
+Accumulated impairment — (341) — (341)
+Accumulated amortization (944) (9,076) (10,442) (20,462)
+Net carrying amount 01.01.20 7,929 35,512 1,638 45,079
+Additions 13 — 342 355
+Retirements — — (9) (9)
+Eliminations from amortisation — — 2 2
+Impairment — (56) — (56)
+Amortisation charge (455) (2,672) (831) (3,958)
+Balance at 31.12.20
+Cost 8,886 44,929 12,413 66,228
+Accumulated impairment — (397) — (397)
+Accumulated amortization (1,399) (11,748) (11,271) (24,418)
+Net carrying amount 31.12.20 7,487 32,784 1,142 41,413
+Additions 13 — 709 722
+Impairment — (95) — (95)
+Amortisation charge (455) (2,422) (605) (3,482)
+Balance at 31.12.21
+Cost 8,899 44,929 13,122 66,950
+Accumulated impairment — (492) — (492)
+Accumulated amortization (1,854) (14,170) (11,876) (27,900)
+Net carrying amount 31.12.21 7,045 30,267 1,246 38,558
+Development
+At 31 December, 2021 and 2020, the assets included under the “Development” caption correspond to assets related to the
+development of a low-molecular-weight heparin, an enoxaparin biosimilar, sales of which commenced in 2017.
+Amortisation of this asset commenced during the first quarter of 2017, with the favourable result of the decentralised
+process used by the Group to apply for marketing authorisation in twenty-six European Union countries. The useful life of
+this asset is 20 years, and no indications of impairment were noted in 2021 or 2020.
+Trademarks and licences
+Under the caption “Trademarks and licences”, assets with indefinite useful lives were recognised for an amount of 5,366
+thousand euros at 31 December, 2021 and 2020. Management reviews these assets for indications of impairment on an
+31

@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2021
+(Thousands of euros)
+27. Income tax
+In 2021 and 2020 the corporate income tax return was submitted jointly for the following group companies as a tax group,
+the company Laboratorios Farmacéuticos Rovi, S.A. being the tax group 362/07 parent:
+– Rovi Pharma Industrial Services, S.A.U.
+– Pan Química Farmacéutica, S.A.
+– Gineladius, S.L.
+– Rovi Escúzar, S.L.
+Income tax expense is broken down into the following items:
+2021 2020
+Current tax (21,941) (8,316)
+Deferred tax (Note 19) (7,102) (3,406)
+Adjustment corporate income tax prior years (508) 198
+(29,551) (11,524)
+The tax on the Group’s pre-tax profit differs from the notional amount that would have been calculated using the 25% tax
+rate applicable to the profits of the consolidated companies, as follows:
+2021 2020
+Profit before tax 182,628 72,581
+Tax calculated at domestic tax rate of 25% (45,657) (18,145)
+Share of profit of joint venture 46 (8)
+Movement on capitalised negative tax bases 593 —
+Adjustment corporate income tax prior years (508) 198
+Non-tax deductible expenses 104 (675)
+Tax differences in results of subsidiaries 75 (91)
+R&D tax credits used 19,667 8,263
+Movement on capitalized R&D tax credits (3,869) (1,066)
+Income tax expense (29,551) (11,524)
+The non-deductible expenses and non-taxable income captions include principally the permanent differences of the
+companies at individual level, mainly related to donations.
+The current tax for Spain, Portugal and Poland in 2021, after deducting the amount of payments on account and withholding
+during the year, generated a current tax receivable of 9,891 thousand euros. Additionally, in 2021, a current tax payable of
+681 thousand euros was generated in Germany and Italy, after applying the payments on account and withholdings for the
+year.
+Tax credits
+The Group generated tax credits of 3,945 thousand euros in 2021 (4,376 thousand euros in 2020) and was likewise entitled
+to offset tax credits of 15,722 thousand euros from previous years (8,298 thousand euros at 31 December, 2020). In 2021,
+tax credits of 19,667 thousand euros were applied (8,263 thousand euros in 2020) and there were thus no further tax
+credits to be offset in future years (4,411 thousand euros at 31 December, 2020).
+Negative tax bases
+The totality of the negative tax bases recognized in the assets at 31 December, 2020 will be applied to the corporate
+income tax for the year 2021. Therefore, at the end of 2021, there were no assets relating to this item.
+54

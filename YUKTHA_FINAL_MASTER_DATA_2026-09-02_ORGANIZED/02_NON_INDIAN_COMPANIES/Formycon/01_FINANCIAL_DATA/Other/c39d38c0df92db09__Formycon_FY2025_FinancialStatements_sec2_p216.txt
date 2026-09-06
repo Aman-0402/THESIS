@@ -1,0 +1,53 @@
+216
+respective carrying amount. If the carrying amount are any additional indications of impairment not
+exceeds the recoverable amount, an impairment identified by the company.
+loss is recognized. The recoverable amount is the
+higher of fair value less costs to sell and value in With the involvement of our valuation specialists,
+use. The recoverable amount for the FYB202 prod- we assessed, among other things, the appropriate-
+uct was determined based on the higher value in ness of the company’s key assumptions and calcu-
+use and is derived from the discounted projected lation method. To this end, we discussed the ex-
+cash inflows from the marketing of the FYB202 pected sales of the FYB202 product with those re-
+product. sponsible for planning. By reconciling these figures
+with other internally available forecasts, e.g., for tax
+The impairment test for the capitalized develop- purposes, and the budget prepared by the legal
+ment costs of the FYB202 product is complex and representatives, we assessed their internal con-
+relies on a number of judgmental assumptions. sistency. The appropriateness of the assumptions
+These include, in particular, the projected sales of was also evaluated against external market assess-
+the FYB202 product and the planning horizon as ments.
+key assumptions for the calculation. Similarly, the
+discount rates used, which are based on term-de- Furthermore, we verified the Company’s historical
+pendent costs of capital, are subject to judgment. forecasting accuracy by comparing plans from pre-
+vious fiscal years with the results actually achieved
+In the context of negotiations between the com- and analyzing any variances.
+mercialization partner Fresenius Kabi AG and U.S.
+contract partners for the FYB202 product, a com- We compared the assumptions and data underlying
+petitive market environment with significant price the discount rate, in particular the risk-free interest
+pressure is emerging. This will result in lower rate, the market risk premium, and the beta factor,
+growth during the product’s launch in the U.S. with our own assumptions and publicly available
+Against the backdrop of the reduction in expected data.
+future market revenues, the Company has recog-
+nized impairment losses of EUR 59.6 million on the
+To assess the methodologically and mathematically
+intangible assets (FYB202).
+sound implementation of the valuation method, we
+reproduced the valuation performed by the com-
+There is a risk to the consolidated financial state- pany using our own calculations and analyzed any
+ments that the existing impairment was not recog- deviations.
+nized in a sufficient amount and that the capitalized
+development costs are therefore impaired. In addi-
+To account for existing forecast uncertainty, we also
+tion, there is a risk that the related notes to the fi-
+examined the effects of possible changes in the
+nancial statements are not appropriate.
+discount rate and expected cash inflows on the re-
+coverable amount by calculating alternative scenar-
+Our audit approach ios and comparing them with the Company’s valua-
+tion results (sensitivity analysis).
+We obtained an understanding of the Company’s
+process for identifying indicators of impairment and Finally, we assessed whether the notes to the finan-
+determining recoverable amounts through discus- cial statements regarding the impairment of the
+sions with finance department personnel and an as- capitalized development costs for the FYB202
+sessment of the Group’s accounting policies. We product are appropriate.
+analyzed the indications of impairment identified by
+the company and, based on the information ob-
+tained during our audit, assessed whether there

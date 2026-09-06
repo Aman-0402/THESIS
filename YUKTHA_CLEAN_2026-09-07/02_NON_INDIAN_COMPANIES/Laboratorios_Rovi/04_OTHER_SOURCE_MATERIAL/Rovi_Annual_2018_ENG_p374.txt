@@ -1,0 +1,51 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+2. INDIVIDUAL INCOME STATEMENT (PREPARED USING THE NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+CURRENT PREVIOUS ACCUMULATED ACCUMULATED
+PERIOD (2nd PERIOD (2nd PERIOD PREVIOUS
+HALF) HALF) 31/12/2018 PERIOD
+(+) Net revenue 0205 144.125 116.908 291.202 240.560
+(+/-) Change in inventories of finished
+0206 (598) 1.135 (490) 4.053
+products and work in progress
+(+) Work performed by the company on its
+0207 2.057 2.057
+assets
+(-) Supplies 0208 (94.030) (68.934) (190.379) (144.574)
+(+) Other operating income 0209 11 2.430 5.380 3.653
+(-) Employee benefit expenses 0217 (15.703) (14.955) (32.744) (29.520)
+(-) Other operating expenses 0210 (34.684) (41.756) (67.113) (66.013)
+(-) Amortization and depreciation charges 0211 (3.931) (3.866) (7.753) (7.891)
+(+) Allocation of grants for non-financial
+0212 460 552 864 935
+assets and other
+(+) Excess provisions 0213
+(+/-) Impairment and gains/(losses) on
+disposal of intangible assets and property, 0214 (31) (25) (39) (25)
+plant & equipment
+(+/-) Other gains/(losses) 0215
+= OPERATING PROFIT/(LOSS) 0245 (4.381) (6.454) (1.072) 3.235
+(+) Finance income 0250 37 33 12.845 9.981
+(-) Finance expenses 0251 (254) (464) (684) (987)
+(+/-) Change in fair value of financial
+0252 17 17
+instruments
+(+/-) Exchange rate differences 0254 (56) (56)
+(+/-) Impairment and gains/(losses) on
+0255 2 2
+disposal of financial instruments
+= FINANCE PROFIT/(LOSS) 0256 (254) (431) 12.124 8.994
+= PROFIT/(LOSS) BEFORE TAX 0265 (4.635) (6.885) 11.052 12.229
+(+/-) Corporate income tax 0270 3.207 6.221 4.529 6.444
+= PROFIT/(LOSS) FOR PERIOD ON
+0280 (1.428) (664) 15.581 18.673
+CONTINUING OPERATIONS
+(+/-) Profit/(loss) for perid on discontinued
+operations, net of tax 0285
+= PROFIT/(LOSS) FOR PERIOD 0300 (1.428) (664) 15.581 18.673
+Amount A m o u n t A m o u n t A m o u n t
+EARNINGS PER SHARE
+Basic 0290 -0,04 -0,01 0,30 0,38
+Diluted 0295

@@ -1,0 +1,43 @@
+Free translation of the condensed consolidated interim financial statements issued in Spanish and prepared in accordance with
+International Financial Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Condensed consolidated interim financial statements for the six-month period ended 30 June 2024
+(Thousand euros)
+The breakdown of assets and liabilities by segment at 31 December 2023 was as follows:
+Aggregated
+Manufacturing Marketing Other total
+Total assets 774,459 461,080 1,040 1,236,579
+Of which:
+Investments in group companies — 26,428 — 26,428
+Increases in non-current non-financial assets 51,212 9,770 — 60,982
+Total liabilities (257,385) (398,469) (648) (656,502)
+The assets of the aggregated segments at 30 June 2024 can be reconciled with the total consolidated assets as follows:
+Intercompany Group Consolidated
+Manufacturing Marketing Other balances investments total
+Total assets 821,480 522,684 969 (458,704) (29,104) 857,325
+The assets of the aggregated segments at 30 June 2023 can be reconciled with the total consolidated assets as follows:
+Intercompany Group Consolidated
+Manufacturing Marketing Other balances investments total
+Total assets 774,459 461,080 1,040 (410,267) (26,428) 799,884
+7. Property, plant and equipment
+Movement on the property, plant and equipment for the six-month periods ended 30 June 2024 and 2023 was as follows:
+Technical IT
+facilities, Furniture, equipment,
+Land & machinery & fittings & vehicles & Rights of PPE in
+buildings tools other other use progress Total
+Balance at 01.01.24
+Cost 60,645 347,377 4,752 20,840 38,602 8,469 480,685
+Accumulated depreciation (19,610) (166,227) (3,067) (17,881) (20,248) — (227,033)
+Net carrying amt 01.01.24 41,035 181,150 1,685 2,959 18,354 8,469 253,652
+Additions 489 15,104 160 411 1,483 1,862 19,509
+Retirements — (44) — (65) — — (109)
+Retirements from
+depreciation — 44 — 56 — — 100
+Transfers 5,325 (4,728) 6 4 — (607) —
+Depreciation charge (417) (7,851) (102) (708) (2,860) — (11,938)
+Balance at 30.06.24
+Cost 66,459 357,709 4,918 21,190 40,085 9,724 500,085
+Accumulated depreciation (20,027) (174,034) (3,169) (18,533) (23,108) — (238,871)
+Net carrying amt 30.06.24 46,432 183,675 1,749 2,657 16,977 9,724 261,214
+12

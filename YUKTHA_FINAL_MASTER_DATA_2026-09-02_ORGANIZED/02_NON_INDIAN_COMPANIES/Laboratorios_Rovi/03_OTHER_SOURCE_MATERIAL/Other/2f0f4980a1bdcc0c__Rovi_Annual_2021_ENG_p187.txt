@@ -1,0 +1,52 @@
+This English version has been translated by the entity itself at its sole responsibility and cannot be considered to be official.
+IV. SELECTED FINANCIAL INFORMATION
+2. INDIVIDUAL INCOME STATEMENT (PREPARED USING THE NATIONAL ACCOUNTING
+STANDARDS CURRENTLY IN FORCE)
+Units: thousands of euros
+CURRENT PREVIOUS ACCUMULATED ACCUMULATED
+PERIOD (2nd PERIOD (2nd PERIOD PREVIOUS
+HALF) HALF) 31/12/2021 PERIOD
+(+) Net revenue 0205 275.059 238.953 509.920 459.424
+(+/-) Change in inventories of finished
+0206 3.255 (34.027) 19.298 (7.245)
+products and work in progress
+(+) Work performed by the company on its
+0207
+assets
+(-) Supplies 0208 (192.233) (128.623) (384.450) (308.275)
+(+) Other operating income 0209 4.843 3.060 6.948 5.111
+(-) Employee benefit expenses 0217 (19.302) (16.858) (40.562) (32.803)
+(-) Other operating expenses 0210 (41.008) (33.575) (69.470) (61.815)
+(-) Amortization and depreciation charges 0211 (5.090) (4.953) (10.303) (9.710)
+(+) Allocation of grants for non-financial
+0212 389 300 741 629
+assets and other
+(+) Excess provisions 0213
+(+/-) Impairment and gains/(losses) on
+disposal of intangible assets and property, 0214 (120) (56) (120) (70)
+plant & equipment
+(+/-) Other gains/(losses) 0215
+= OPERATING PROFIT/(LOSS) 0245 25.793 24.221 32.002 45.246
+(+) Finance income 0250 244 289 25.589 31.723
+(-) Finance expenses 0251 (340) (411) (655) (789)
+(+/-) Change in fair value of financial
+0252 (96) (1.330) 908 (796)
+instruments
+(+/-) Exchange rate differences 0254 (48) 58 (111) 77
+(+/-) Impairment and gains/(losses) on
+0255 1.161 (511) 1.161 (245)
+disposal of financial instruments
+= FINANCE PROFIT/(LOSS) 0256 921 (1.905) 26.892 29.970
+= PROFIT/(LOSS) BEFORE TAX 0265 26.714 22.316 58.894 75.216
+(+/-) Corporate income tax 0270 4.998 (3.672) 6.249 (4.079)
+= PROFIT/(LOSS) FOR PERIOD ON
+0280 31.712 18.644 65.143 71.137
+CONTINUING OPERATIONS
+(+/-) Profit/(loss) for perid on discontinued
+operations, net of tax 0285
+= PROFIT/(LOSS) FOR PERIOD 0300 31.712 18.644 65.143 71.137
+Amount A m o u n t A m o u n t A m o u n t
+EARNINGS PER SHARE
+(X.XX euros) (X.XX euros) (X.XX euros) (X.XX euros)
+Basic 0290 0,58 0,33 1,18 1,28
+Diluted 0295

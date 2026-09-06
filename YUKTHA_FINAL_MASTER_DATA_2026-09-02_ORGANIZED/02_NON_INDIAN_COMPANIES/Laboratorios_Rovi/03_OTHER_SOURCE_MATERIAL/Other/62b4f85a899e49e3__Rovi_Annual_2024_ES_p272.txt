@@ -1,0 +1,45 @@
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. Y SOCIEDADES DEPENDIENTES
+Estado de Información No Financiera Consolidado e información sobre sostenibilidad
+Riesgos de mercado
+• Incremento de esfuerzos para adaptarse al creciente interés de los clientes hacia los problemas ambientales y de
+cambio climático supone un aumento potencial en la demanda de productos sostenibles, especialmente en términos de
+envases sostenibles.
+• La mayor demanda de materias primas impulsada por la transición hacia una economía baja en carbono, lo que
+disminuye la disponibilidad de las mismas aumentando la competencia y los precios, lo que se traduce en mayores
+costes de suministro, por ejemplo, de materiales derivados de productos petroquímicos (ej. moléculas orgánicas
+utilizadas como materias primas y reactivos farmacéuticos).
+Oportunidades regulatorias
+• Uso de fuentes de energía que generan un menor volumen de emisiones y tecnología de mayor eficiencia para lograr la
+descarbonización de la empresa.
+• Diseño de procesos de distribución más eficientes que conduzcan a una reducción de las emisiones de alcance 3 y la
+consiguiente reducción de los costes asociados a la compra de combustibles fósiles.
+Oportunidad reputacional
+• Mejoras en el diseño de los envases, reduciendo la cantidad de materiales plásticos e incorporando materiales más
+ecológicos ante la creciente presión por parte de la sociedad y la regulación sobre el uso de plásticos.
+Tras el proceso de identificación de los riesgos y oportunidades, se procedió a la evaluación utilizando una matriz de
+probabilidad e impacto. La escala utilizada fue la siguiente:
+• Riesgo de alta relevancia: < -0,6
+• Riesgo moderado: -0,5 a -0,6
+• Riesgo bajo: -0,2 a -0,4
+• Riesgo/Oportunidad mínima: 0 a -0,1
+• Oportunidad baja: 0,2 a 0,4
+• Oportunidad moderada: 0,5 a 0,6
+• Oportunidad de alta relevancia: > 0,6
+El único riesgo de transición que resultó como significativo, en base a los umbrales considerados (riesgo de alta relevancia),
+fue el incremento del coste de las emisiones de CO .
+2
+En este sentido, según los escenarios socioeconómicos presentados por la IEA, se contempló un incremento constante en los
+precios del carbono en los próximos años. A pesar de que el sector farmacéutico no se fuese a ver afectado de manera directa
+por los mecanismos del carbono, el aumento de estos precios podría generar costes operativos indirectos relacionados con la
+obtención de la energía para las operaciones y el transporte, así como con los materiales y materias primas que ROVI
+continuará comprando en el futuro. La cuantificación del mecanismo de carbono se calculó en función del incremento de los
+costes de electricidad y de materias primas clave, derivado del aumento de los precios del carbono aplicables a las empresas
+con altas emisiones de gases de efecto invernadero.
+Los costes adicionales potenciales del precio del combustible, la electricidad y los materiales se han estimado en dos
+escenarios climáticos futuros (STEPS: Stated Policy Scenario, and NZS: Net-Zero Scenario) para dos horizontes temporales, a
+medio plazo (2030) y a largo plazo (2050).
+Los resultados del análisis llegan a la conclusión de que no es hasta 2050 cuando se puede esperar un ligero incremento de
+los costes adicionales asociados al consumo de combustibles, electricidad y materiales derivados del mecanismo de Carbono
+en el escenario más restrictivo Net-Zero. Es por este motivo por el que ROVI no ha considerado necesario el desarrollo de un
+plan de mitigación para este riesgo.
+74

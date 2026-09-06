@@ -1,0 +1,40 @@
+68 INTERIM FINANCIAL STATEMENTS OF FORMYCON GROUP FORMYCON AG HALF-YEAR REPORT 2023 69
+Consolidated Interim Statement
+of Cash Flows
+In T €
+Period
+Explanatory note Jan. 1 – June 30, 2023 Jan. 1 – June 30, 2023
+Comprehensive income (loss) for the period 1,805 80,031
+Adjustments for non-cash items:
+Depreciation and amortization 12 904 934
+Net finance income 8 -2,705 -88,561
+Effect of stock options 9 695 354
+Net loss (gain) arising from disposals of non-current assets 12 16 13
+Income tax expense 10 7,259 15
+Changes in operating assets and liabilities:
+Decrease (increase) in inventories -394 324
+Decrease (increase) in trade and other receivables 6 -16,656 2,999
+Decrease (increase) in contract assets 6 -7,026 408
+Decrease (increase) in other financial assets - -
+Decrease (increase) in prepayments and other assets -1,772 -2,278
+Increase (decrease) in provisions 387
+Increase (decrease) in contract liabilities 1,336
+Increase (decrease) in other liabilities -403 -267
+Increase (decrease) in trade payables 8,402 -4,060
+Income taxes paid 10 -179 -35
+Net cash from operating activities -8,331 -10,123
+Investments in intangible assets 12 -12,313 -2,156
+Investments in property, plant and equipment -253 -169
+Investments in financial assets - -4,919
+Acquisition of subsidiaries less cash and cash equivalents acquired - 1,108
+Interest received 8 236 51
+Net cash from investing activities -12,330 -6,085
+Proceeds from issuance of shares 13 70,070 -
+Costs of issuance 13 -1,736 -
+Inflows (outflows) relating to financial liabilities -20,165 10,000
+Payment of lease liabilities -465 -443
+Interest paid 8 2 -136
+Net cash from financing activities 47,706 9,421
+Net increase (decrease) in cash and cash equivalents 27,045 -6,787
+Cash and cash equivalents as of Jan. 1, 2023 9,820 25,029
+Cash and cash equivalents as of June 30, 2023 36,865 18,242

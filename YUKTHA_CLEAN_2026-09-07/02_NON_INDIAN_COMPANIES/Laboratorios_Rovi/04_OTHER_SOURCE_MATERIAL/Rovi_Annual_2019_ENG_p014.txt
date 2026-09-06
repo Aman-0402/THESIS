@@ -1,0 +1,34 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de Contabilidad” approved by Royal Decree 1514/2007 of 16th
+November. In the event of discrepancy, the Spanish version prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Estado de cambios en el patrimonio neto correspondiente a los ejercicios anuales terminado el 31 de diciembre de 2019 y 2018
+(En miles de euros)
+B) STATEMENT OF TOTAL CHANGES IN EQUITY (thousands of euros)
+Adjustment Grants,
+s donations &
+Share Share Treasury Retained Profit for for legacies
+capital premium Reserves shares earnings the year changes in received
+(Note 14) (Note 15) (Note 15) (Note 15) (Note 15) (Note 16) value (Note 17) TOTAL
+BALANCE AT END OF 2017 3,000 - 6,959 (8,407) 131,475 18,673 (2) 3,489 155,187
+Adjustments for changes in policies 2017 and
+- - - - - - - - -
+prior periods
+Adjustments for errors 2017 and prior periods - - - - - - - - -
+ADJUSTED BALANCE BEGINNING OF 2018 3,000 - 6,959 (8,407) 131,475 18,673 (2) 3,489 155,187
+Total recognised income and expenses - - - - - 15,581 (1) (361) 15,219
+- Application of profit for 2017 - - - - 12,721 (12,721) - - -
+- Distribution of dividends - - - - - (5,952) - - (5,952)
+- Transactions with treasury shares (net) - - - (405) 253 - - - (152)
+Other movements on equity 364 87,636 - - (3,881) - - - 84,119
+BALANCE AT END OF 2018 3,364 87,636 6,959 (8,812) 140,568 15,581 (3) 3,128 248,421
+Adjustments for changes in policies 2018 and
+- - - - - - - - -
+prior periods
+Adjustments for errors 2018 and prior periods - - - - - - - - -
+ADJUSTED BALANCE BEGINNING OF 2019 3,364 87,636 6,959 (8,812) 140,568 15,581 (3) 3,128 248,421
+Total recognised income and expenses - - - - - 25,553 - (378) 25,175
+- Application of profit for 2018 - - 73 - 11,088 (11,161) - - -
+- Distribution of dividends - - - - - (4,420) - - (4,420)
+- Transactions with treasury shares (net) - - - (1,529) 1,682 - - - 153
+BALANCE AT END OF 2019 3,364 87,636 7,032 (10,341) 153,338 25,553 (3) 2,750 269,329
+5

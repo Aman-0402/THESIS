@@ -1,0 +1,38 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Annual Consolidated Accounts for the annual period 2017
+(Thousands of euros)
+Loans and receivables
+Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in an
+active market. They are included in current assets, except for maturities longer than 12 months after the end of the
+reporting period, which are classified as non-current assets. Loans and receivables are classified as “trade and other
+receivables” and “financial receivables”.
+Deposits in financial institutions maturing at more than 90 days and less than 12 months are included in this category as
+current assets.
+Receivables are recognized initially at fair value and subsequently measured at amortized cost using the effective
+interest rate method, less provision for impairment. A provision for impairment of trade receivables is established when
+there is objective evidence that the Group will not be able to collect all amounts due according to the original terms of the
+receivables.
+Significant financial difficulties of the debtor, the probability that the debtor will become insolvent or require financial
+reorganization and default or delinquency in payments are considered indicators that a trade receivable is impaired. The
+amount of the provision is the difference between the asset’s carrying amount and the present value of estimated future
+cash flows, discounted at the effective interest rate. The carrying amount of the asset is reduced when the amount of the
+provision is used and the amount of the loss is recognized in the income statement within “other operating expenses”.
+When a trade receivable is unrecoverable, it is written off against the provision for trade receivables. Subsequent
+recoveries of amounts previously written off are credited against “other operating expenses”.
+Available-for-sale financial assets
+Available-for-sale financial assets are non-derivatives that are either designated in this category or not classified in any of
+the other possible categories. They are included in non-current assets unless Management intends to dispose of the
+investment within 12 months of the end of the reporting period.
+Purchases and sales of investments are recognized on the trade date, i.e. the date on which the Group commits to
+purchase or sell the asset. Investments are initially recognized at fair value plus transaction costs. Available-for-sale
+financial assets are subsequently carried at fair value. Investments are derecognized when the rights to receive cash
+flows from the investments have expired or been transferred and the Group has substantially transferred all risks and
+rewards of ownership.
+Dividends from available-for-sale equity instruments are recognized in the income statement as “Finance costs-net”
+when the Group’s right to receive payment is established.
+The fair values of quoted investments are based on current bid prices. If the market for a financial asset is not active (and
+for unlisted securities), the Group establishes fair value on the basis of an analysis of discounted cash flows.
+16

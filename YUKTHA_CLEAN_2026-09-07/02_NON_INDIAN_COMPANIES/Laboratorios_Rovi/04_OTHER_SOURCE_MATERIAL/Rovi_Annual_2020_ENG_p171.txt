@@ -1,0 +1,47 @@
+Free translation of the Consolidated Annual Accounts originally issued in Spanish and prepared in accordance with
+International Reporting Standards as adopted by the European Union. In the event of discrepancy, the Spanish version
+prevails.
+LABORATORIOS FARMACÉUTICOS ROVI, S.A. AND SUBSIDIARIES
+Notes to the Consolidated Annual Accounts for the annual period ended 31 December, 2020
+(Thousands of euros)
+and clarifies important areas, such as prudence and measurement uncertainty. It applies to annual periods
+commencing on or after 1 January, 2020 to issuers who develop accounting policies based on the Conceptual
+Framework.
+• IFRS 3 (Amendment) “Business Combinations”. In October 2018, the IASB issued a limited-scope amendment
+to IFRS 3 “Business Combinations” in order to improve the definition of “business”. This Amendment will help
+companies to determine whether they have acquired a business or a group of assets. Entities are required to
+apply the amended definition of “business” to acquisitions made on or after 1 January, 2020. Early adoption is
+permitted. ROVI will take the new definitions into account in the event that a transaction requiring this
+determination to be made takes place.
+• IFRS 9 “Financial Instruments”, IAC 39 “Financial Instruments: Recognition and Measurement” and IFRS 7
+“Financial Instruments: Disclosures” (Amendment – Phase 1): Reform of interest rate benchmarks. This
+Amendment changes the specific requirements of hedge accounting, assuming that the interest rate
+benchmark on which the hedged cash flows are based and the cash flows of the hedging instrument will not
+change as a result of the interest rate benchmark reform. The entry into force of this Amendment is not
+expected to have a material impact for ROVI.
+• IFRS 16 (Amendment) “Leases”. In response to the coronavirus pandemic caused by COVID-19, this
+Amendment authorises lessees not to account for rent concessions occurring as a direct consequence of the
+COVID-19 pandemic as lease modifications if they meet certain conditions This Amendment came into force on
+1 June, 2020 and has had no effect on ROVI.
+In 2019, IFRS 16 “Leases”, which replaced IAS 17 “Leases”, IFRIC 4, SIC 15 and SIC 27, became mandatory. IFRS 16
+establishes a single accounting model for lessees, who will include all leases (with limited exceptions) in their statements
+of financial position with an impact similar to that of the former finance leases (there will be depreciation of the right-of-
+use asset and a finance expense for the amortised cost of the liability, the expense accruing more swiftly under IFRS
+16).
+IFRS 16 states that lessees must recognise a financial liability for the present value of the payments to be made over the
+remaining life of the lease contract and an asset for the right of use of the underlying asset, which is measured on the
+basis of the associated liability, to which any initial direct costs incurred are added. Additionally, the criterion for
+recognising the lease expense changes and it is now recognised as an expense for depreciation of the asset and a
+financial expense for the discounting of the lease liability. In respect of the current accounting by the lessor, the rules do
+not change substantially and the lessor must continue to classify the lease as operating or financial, depending on the
+degree to which the risks and rewards of ownership are substantially transferred.
+In 2019, the Group, as an asset lessee, evaluated the first application of the Standard, identifying the lease contracts that
+may fall within the scope of IFRS 16. To do this, the Group:
+- Reviewed the lease contracts and grouped them by type: leases on the real estate where it carries out its
+principal activities, vehicle leases and computer equipment leases.
+- Applied the recognition exemption for underlying assets with a low value (less than 5,000 US dollars)
+and a short term (12 months or less). The computer equipment in its entirety was considered as a single
+underlying asset and, therefore, the low-value exemption was not applied to it.
+- In the case of vehicles, the present value of the payments was determined on the basis of the
+commitment that the Group had.
+9

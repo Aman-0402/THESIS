@@ -1,0 +1,41 @@
+Free translation of the Annual Accounts originally issued in Spanish and prepared in accordance with “Plan General de
+Contabilidad” approved by Royal Decree 1514/2007 of 16th November. In the event of discrepancy, the Spanish version
+prevails.
+ANNUAL ACCOUNTS OF LABORATORIOS FARMACÉUTICOS ROVI, S.A.
+Notes to the Annual Accounts for the period 2020
+(Thousands of euros)
+21. Deferred income tax
+Details of deferred income tax are as follows:
+Thousands of euros
+2020 2019
+Deferred income tax assets:
+- Temporary differences 1,293 1,276
+- Other tax carryforwards 3,619 4,831
+4,912 6,107
+Deferred income tax liabilities:
+- Temporary differences (4,700) (2,348)
+(4,700) (2,348)
+Net deferred income tax 212 3,759
+Deferred income tax assets and liabilities are offset when the Company has a legally enforceable right to offset current
+tax assets against current tax liabilities and intends to settle the net amounts or realise the asset and cancel the liability
+simultaneously. Deferred tax assets and liabilities were as follows:
+Thousands of euros
+2020 2019
+Deferred income tax assets:
+- Deferred tax assets to be recovered at more than 12 months 2,925 1,177
+- Deferred tax assets to be recovered at less than 12 months 1,987 4,930
+4,912 6,107
+Deferred income tax liabilities:
+- Deferred tax liabilities to be recovered at more than 12 months (1,960) (2,650)
+- Deferred tax liabilities to be recovered at less than 12 months (2,740) 302
+(4,700) (2,348)
+Net deferred income tax 212 3,759
+Movement on net deferred taxes was as follows:
+Thousands of euros
+2020 2019
+Balance at beginning of the year 3,759 8,742
+(Charged)/credited to profit and loss (3,662) (2,110)
+Charged directly to equity 115 127
+Derecognition due to monetization (Note 23) - (3,000)
+Balance at end of the year 212 3,759
+44
