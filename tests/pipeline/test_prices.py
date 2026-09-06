@@ -27,3 +27,11 @@ def test_dedupe_by_calendar_date_keeps_one_row_per_day():
     out = dedupe_by_calendar_date(df, date_col="date", value_cols=["close"])
     assert len(out) == 2
     assert out["close"].tolist() == [100.0, 101.0]
+
+def test_dedupe_by_calendar_date_has_no_duplicate_columns():
+    df = pd.DataFrame({
+        "date": pd.to_datetime(["2020-01-01", "2020-01-02"]),
+        "close": [100.0, 101.0],
+    })
+    out = dedupe_by_calendar_date(df, date_col="date", value_cols=["close"])
+    assert out.columns.tolist() == ["date", "close"]

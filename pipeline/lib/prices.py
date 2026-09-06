@@ -20,5 +20,5 @@ def dedupe_by_calendar_date(df: pd.DataFrame, date_col: str, value_cols: list[st
     # normalize to a naive calendar date regardless of any tz offset
     out["_calendar_date"] = pd.to_datetime(out[date_col], utc=True).dt.tz_convert(None).dt.normalize()
     out = out.sort_values("_calendar_date").drop_duplicates("_calendar_date", keep="first")
-    out = out.rename(columns={"_calendar_date": date_col}).reset_index(drop=True)
-    return out[[date_col] + value_cols]
+    result = out[["_calendar_date"] + value_cols].rename(columns={"_calendar_date": date_col})
+    return result.reset_index(drop=True)
