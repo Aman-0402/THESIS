@@ -1,6 +1,9 @@
 """Load every company's daily-price and financial-statement CSVs from the
 cleaned data folder into two parquet caches, so later stages parse once."""
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 import pandas as pd
 
