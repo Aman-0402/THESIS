@@ -334,6 +334,18 @@ def latest_available_financial_row(fin_rows: pd.DataFrame, quarter_end: pd.Times
     for _, r in fin_rows.iterrows():
         pub = r.get("publication_date")
         pub_date = pub.date() if company_folder == ROVI_FOLDER and pd.notna(pub) else None
+        # NOTE: this branch is currently dead code in practice. `main()`
+        # sets fundamentals["publication_date"] = pd.NaT for every company
+        # (including Rovi), so pub_date is always None here and every Rovi
+        # row gets skipped -- Rovi's fundamentals always resolve to None.
+        # That's harmless today because Rovi has zero rows in stock_clean
+        # (an empty series, confirmed in Task 7) and therefore contributes
+        # zero rows to panel_quarters.csv -- this function is never even
+        # called with company_folder == ROVI_FOLDER right now. It's kept
+        # (rather than deleted) for forward-compatibility: if Rovi's stock
+        # data is ever backfilled and it starts appearing in the panel,
+        # real publication dates would need to be wired into `fundamentals`
+        # before this branch could produce a result instead of always None.
         if company_folder == ROVI_FOLDER and pub_date is None:
             continue
         if is_available(

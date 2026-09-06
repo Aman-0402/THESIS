@@ -115,6 +115,50 @@ def test_pivot_fundamentals_prior_revenue_uses_prior_year_same_period_type():
     assert row2023["prior_revenue"] == 900.0
 
 
+def _yfinance_income_block(company_folder="Acme"):
+    """A minimal yfinance wide income-statement block: a proper header row
+    whose non-metadata column names ARE the period-end dates (e.g.
+    "2023-03-31"), one row per line item keyed by the blank-header first
+    column (parsed by pandas as "Unnamed: 0"). Matches the real shape of
+    e.g. Ajanta_Pharma_yfinance_annual_income.csv."""
+    rows = [
+        {"Unnamed: 0": "Total Revenue", "2023-03-31": "2000", "2022-03-31": "1800"},
+        {"Unnamed: 0": "Net Income", "2023-03-31": "200", "2022-03-31": "150"},
+        {"Unnamed: 0": "Operating Income", "2023-03-31": "300", "2022-03-31": None},
+    ]
+    df = pd.DataFrame(rows)
+    df["company_folder"] = company_folder
+    df["source_file"] = "Acme_yfinance_annual_income.csv"
+    df["period_type"] = "annual"
+    df["period_end"] = pd.NaT
+    return df
+
+
+def test_normalize_financial_long_melts_yfinance_wide_block():
+    financial = _yfinance_income_block()
+    long_df = _normalize_financial_long(financial)
+
+    revenues = long_df[long_df["line_item"] == "Total Revenue"].sort_values("period_end")
+    assert list(revenues["value"]) == [1800.0, 2000.0]
+    assert list(revenues["period_end"]) == [pd.Timestamp("2022-03-31"), pd.Timestamp("2023-03-31")]
+    assert (long_df["statement"] == "Income Statement").all()
+    # a None cell (Operating Income for 2022-03-31) must not produce a row
+    assert not (
+        (long_df["line_item"] == "Operating Income") & (long_df["period_end"] == pd.Timestamp("2022-03-31"))
+    ).any()
+
+
+def test_pivot_fundamentals_maps_yfinance_aliases():
+    financial = _yfinance_income_block()
+    long_df = _normalize_financial_long(financial)
+    wide = _pivot_fundamentals(long_df)
+
+    row = wide[wide["period_end"] == pd.Timestamp("2023-03-31")].iloc[0]
+    assert row["total_revenue"] == 2000.0
+    assert row["net_income"] == 200.0
+    assert row["operating_income"] == 300.0
+
+
 def test_normalize_financial_long_passes_through_already_tidy_derived_rows():
     df = pd.DataFrame([{
         "company_folder": "Laboratorios_Rovi", "source_file": "Rovi_Income_Quarterly_Derived.csv",
