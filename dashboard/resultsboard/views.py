@@ -23,5 +23,6 @@ def overview(request):
     return _render_or_missing(request, "resultsboard/overview.html", build_context)
 
 
+# TODO(Task 5): replace with the real model-comparison view
 def model_comparison(request):
     return render(request, "resultsboard/model_comparison_placeholder.html")

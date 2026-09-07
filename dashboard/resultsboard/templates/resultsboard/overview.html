@@ -16,6 +16,7 @@
   <p>{{ summary.dropped_features|join:", " }}</p>
 
   <h2>Known data limitations</h2>
+  <!-- keep in sync with pipeline/README.md "Known deviations" section -->
   <ul>
     <li>Laboratorios_Rovi has zero daily-price rows in the source archive and contributes no dataset rows.</li>
     <li>Zenotech_Laboratories has zero financial-statement rows; its market features still compute, but fundamentals are always None.</li>
