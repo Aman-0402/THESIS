@@ -326,7 +326,12 @@ def _load_stock_clean(path: Path) -> pd.DataFrame:
     return df[["date", "close"]]
 
 
-def latest_available_financial_row(fin_rows: pd.DataFrame, quarter_end: pd.Timestamp, company_folder: str):
+def latest_available_financial_row(
+    fin_rows: pd.DataFrame,
+    quarter_end: pd.Timestamp,
+    company_folder: str,
+    lag_days_override: dict[str, int] | None = None,
+):
     """fin_rows must have columns: period_end (datetime), period_type,
     publication_date (nullable, only populated for Rovi), plus the raw
     fundamental fields consumed by fundamental_features()."""
@@ -354,6 +359,7 @@ def latest_available_financial_row(fin_rows: pd.DataFrame, quarter_end: pd.Times
             period_type=r["period_type"],
             company_folder=company_folder,
             publication_date=pub_date,
+            lag_days_override=lag_days_override,
         ):
             candidates.append(r)
     if not candidates:
