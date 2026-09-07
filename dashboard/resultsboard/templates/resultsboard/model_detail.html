@@ -28,25 +28,26 @@
     new Chart(ctx, {
       type: 'line',
       data: {
-        labels: {{ roc_fpr|safe }},
         datasets: [
           {
             label: 'ROC (AUC = {{ roc_auc|floatformat:3 }})',
-            data: {{ roc_tpr|safe }},
+            data: {{ roc_points|safe }},
             fill: false,
             pointRadius: 0,
+            showLine: true,
           },
           {
             label: 'Random baseline',
-            data: [0, 1],
+            data: [{x: 0, y: 0}, {x: 1, y: 1}],
             borderDash: [5, 5],
             pointRadius: 0,
+            showLine: true,
           }
         ]
       },
       options: {
         scales: {
-          x: { title: { display: true, text: 'False Positive Rate' }, min: 0, max: 1 },
+          x: { type: 'linear', title: { display: true, text: 'False Positive Rate' }, min: 0, max: 1 },
           y: { title: { display: true, text: 'True Positive Rate' }, min: 0, max: 1 }
         }
       }

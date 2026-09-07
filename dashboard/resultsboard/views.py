@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 from django.http import Http404
@@ -46,13 +47,13 @@ def model_detail(request, model_name):
             raise Http404(f"unknown model: {model_name}")
         fpr, tpr, auc = data.load_roc_curve(PIPELINE_OUTPUTS_DIR, model_name)
         cm = metrics[model_name]["confusion_matrix"]
+        roc_points = [{"x": x, "y": y} for x, y in zip(fpr, tpr)]
         return {
             "model_name": model_name,
             "metrics": metrics[model_name],
             "baseline": baseline,
             "cm": cm,
-            "roc_fpr": fpr,
-            "roc_tpr": tpr,
+            "roc_points": json.dumps(roc_points),
             "roc_auc": auc,
         }
 
