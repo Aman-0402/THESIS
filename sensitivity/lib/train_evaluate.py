@@ -51,26 +51,37 @@ def train_and_evaluate(dataset: pd.DataFrame, config: dict) -> dict:
     active_cols = [c for c in feature_cols if c not in all_nan_cols]
 
     train_processed, medians = apply_missing_strategy(train, active_cols, config["missing_strategy"])
-    if medians is not None:
+
+    if config["missing_strategy"] == "drop_any":
+        # no medians to reuse, so val/test also drop incomplete rows
+        val_processed = val.dropna(subset=active_cols).copy()
+        test_processed = test.dropna(subset=active_cols).copy()
+    elif config["missing_strategy"] == "drop_majority":
+        # apply the same >50%-missing row filter to val/test (using each split's
+        # own missingness pattern), then fill the rest with train-derived medians
+        val_missing_frac = val[active_cols].isna().mean(axis=1)
+        val_processed = val[val_missing_frac <= 0.5].copy()
+        val_processed[active_cols] = val_processed[active_cols].fillna(medians)
+        test_missing_frac = test[active_cols].isna().mean(axis=1)
+        test_processed = test[test_missing_frac <= 0.5].copy()
+        test_processed[active_cols] = test_processed[active_cols].fillna(medians)
+    else:  # "impute"
         val_processed = val.copy()
         val_processed[active_cols] = val_processed[active_cols].fillna(medians)
         test_processed = test.copy()
         test_processed[active_cols] = test_processed[active_cols].fillna(medians)
-    else:
-        # drop_any: no medians to reuse, so val/test also drop incomplete rows
-        val_processed = val.dropna(subset=active_cols).copy()
-        test_processed = test.dropna(subset=active_cols).copy()
 
     x_train, y_train = train_processed[active_cols], train_processed["target"]
     x_val, y_val = val_processed[active_cols], val_processed["target"]
     x_test, y_test = test_processed[active_cols], test_processed["target"]
 
-    if len(x_test) == 0 or x_test[active_cols].isna().any().any() or y_test.nunique() < 1:
+    if len(x_test) == 0 or x_test[active_cols].isna().any().any() or y_test.nunique() < 2:
         return {
             "run_id": config["run_id"], "row_count": len(df),
             "train_rows": len(x_train), "val_rows": len(x_val), "test_rows": len(x_test),
             "active_feature_count": len(active_cols), "dropped_feature_count": len(all_nan_cols),
             "models": {}, "baseline_accuracy": None, "best_model": None, "best_accuracy": None,
+            "beats_baseline": None,
             "note": "test set too small/degenerate for this config to evaluate",
         }
 
