@@ -1,0 +1,55 @@
+{% extends "resultsboard/base.html" %}
+{% block title %}{{ model_name }}{% endblock %}
+{% block content %}
+  <h1>{{ model_name }}</h1>
+  <p><a href="{% url 'resultsboard:model_comparison' %}">&larr; back to comparison</a></p>
+
+  <h2>Metrics</h2>
+  <ul>
+    <li>Accuracy: {{ metrics.accuracy|floatformat:3 }} (baseline: {{ baseline|floatformat:3 }})</li>
+    <li>Precision: {{ metrics.precision|floatformat:3 }}</li>
+    <li>Recall: {{ metrics.recall|floatformat:3 }}</li>
+    <li>Specificity: {{ metrics.specificity|floatformat:3 }}</li>
+    <li>F1: {{ metrics.f1|floatformat:3 }}</li>
+    <li>ROC-AUC: {{ roc_auc|floatformat:3 }}</li>
+  </ul>
+
+  <h2>Confusion Matrix</h2>
+  <table>
+    <tr><th></th><th>Predicted Negative</th><th>Predicted Positive</th></tr>
+    <tr><th>Actual Negative</th><td>{{ cm.0.0 }} (TN)</td><td>{{ cm.0.1 }} (FP)</td></tr>
+    <tr><th>Actual Positive</th><td>{{ cm.1.0 }} (FN)</td><td>{{ cm.1.1 }} (TP)</td></tr>
+  </table>
+
+  <h2>ROC Curve</h2>
+  <canvas id="rocChart" width="500" height="500"></canvas>
+  <script>
+    const ctx = document.getElementById('rocChart');
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: {{ roc_fpr|safe }},
+        datasets: [
+          {
+            label: 'ROC (AUC = {{ roc_auc|floatformat:3 }})',
+            data: {{ roc_tpr|safe }},
+            fill: false,
+            pointRadius: 0,
+          },
+          {
+            label: 'Random baseline',
+            data: [0, 1],
+            borderDash: [5, 5],
+            pointRadius: 0,
+          }
+        ]
+      },
+      options: {
+        scales: {
+          x: { title: { display: true, text: 'False Positive Rate' }, min: 0, max: 1 },
+          y: { title: { display: true, text: 'True Positive Rate' }, min: 0, max: 1 }
+        }
+      }
+    });
+  </script>
+{% endblock %}

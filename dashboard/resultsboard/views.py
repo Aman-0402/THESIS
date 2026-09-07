@@ -1,5 +1,6 @@
 from pathlib import Path
 
+from django.http import Http404
 from django.shortcuts import render
 
 from . import data
@@ -38,6 +39,21 @@ def model_comparison(request):
     return _render_or_missing(request, "resultsboard/model_comparison.html", build_context)
 
 
-# TODO(Task 6): replace with the real model-detail view (metrics, confusion matrix, ROC curve for one model)
 def model_detail(request, model_name):
-    return render(request, "resultsboard/model_detail_placeholder.html", {"model_name": model_name})
+    def build_context():
+        metrics, baseline = data.load_model_metrics(PIPELINE_OUTPUTS_DIR)
+        if model_name not in metrics:
+            raise Http404(f"unknown model: {model_name}")
+        fpr, tpr, auc = data.load_roc_curve(PIPELINE_OUTPUTS_DIR, model_name)
+        cm = metrics[model_name]["confusion_matrix"]
+        return {
+            "model_name": model_name,
+            "metrics": metrics[model_name],
+            "baseline": baseline,
+            "cm": cm,
+            "roc_fpr": fpr,
+            "roc_tpr": tpr,
+            "roc_auc": auc,
+        }
+
+    return _render_or_missing(request, "resultsboard/model_detail.html", build_context)
