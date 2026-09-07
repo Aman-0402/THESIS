@@ -27,7 +27,7 @@ def model_comparison(request):
     def build_context():
         metrics, baseline = data.load_model_metrics(PIPELINE_OUTPUTS_DIR)
         rows = [{"name": name, **m} for name, m in metrics.items()]
-        rows.sort(key=lambda r: r["accuracy"], reverse=True)
+        rows.sort(key=lambda r: r["accuracy"] if r["accuracy"] is not None else -1, reverse=True)
         return {
             "rows": rows,
             "baseline": baseline,

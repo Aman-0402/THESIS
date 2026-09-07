@@ -33,10 +33,7 @@
         datasets: [{ label: 'Test Accuracy', data: {{ chart_accuracies|safe }} }]
       },
       options: {
-        scales: { y: { beginAtZero: true, max: 1 } },
-        plugins: {
-          annotation: {}
-        }
+        scales: { y: { beginAtZero: true, max: 1 } }
       }
     });
   </script>
