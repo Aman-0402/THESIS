@@ -83,7 +83,14 @@ def sensitivity(request):
     def build_context():
         runs = data.load_sensitivity_summary(SENSITIVITY_OUTPUTS_DIR)
         for r in runs:
-            r["delta_pp"] = (r["best_accuracy"] - r["baseline_accuracy"]) * 100
+            # best_accuracy/baseline_accuracy are None when train_and_evaluate()
+            # hit its degenerate-test-set guard (e.g. a config whose val/test
+            # split ends up empty or single-class) -- guard the arithmetic so
+            # one degenerate run can't 500 the whole page.
+            if r["best_accuracy"] is not None and r["baseline_accuracy"] is not None:
+                r["delta_pp"] = (r["best_accuracy"] - r["baseline_accuracy"]) * 100
+            else:
+                r["delta_pp"] = None
         return {
             "runs": runs,
             "chart_labels": json.dumps([r["run_id"] for r in runs]),
