@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 pipeline/outputs/
 dashboard/db.sqlite3
+sensitivity/outputs/
