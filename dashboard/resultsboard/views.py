@@ -59,3 +59,20 @@ def model_detail(request, model_name):
         }
 
     return _render_or_missing(request, "resultsboard/model_detail.html", build_context)
+
+
+def report(request):
+    def build_context():
+        metrics, baseline = data.load_model_metrics(PIPELINE_OUTPUTS_DIR)
+        rows = [{"name": name, **m} for name, m in metrics.items()]
+        rows.sort(key=lambda r: r["accuracy"] if r["accuracy"] is not None else -1, reverse=True)
+        summary = data.load_dataset_summary(PIPELINE_OUTPUTS_DIR)
+        best_model = rows[0] if rows else None
+        return {
+            "rows": rows,
+            "baseline": baseline,
+            "summary": summary,
+            "best_model": best_model,
+        }
+
+    return _render_or_missing(request, "resultsboard/report.html", build_context)

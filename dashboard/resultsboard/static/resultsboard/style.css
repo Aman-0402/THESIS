@@ -82,6 +82,57 @@ h3 { font-size: 1rem; color: var(--muted); text-transform: uppercase; letter-spa
   border-radius: var(--radius);
   padding: 1.25rem 1.5rem;
   margin-bottom: 1.25rem;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04);
+}
+
+nav.site-nav a {
+  transition: border-color 0.15s ease;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.badge.green { background: #e6f4ea; color: var(--ok); }
+.badge.yellow { background: #fff3cd; color: #8a6300; }
+.badge.red { background: #fdeceb; color: var(--accent); }
+
+.figure-block {
+  margin: 1rem 0 1.5rem;
+}
+.figure-block img {
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: #fff;
+}
+.figure-caption {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+}
+
+.toc {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.toc ol { margin: 0.5rem 0 0; padding-left: 1.2rem; }
+.toc a { color: var(--primary); text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+
+@media print {
+  header.site-header, .toc, .back-link { display: none; }
+  body { background: #fff; }
+  .card { box-shadow: none; break-inside: avoid; }
 }
 
 .two-column {

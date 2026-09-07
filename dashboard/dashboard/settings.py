@@ -118,6 +118,13 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
+# Serve the generated thesis-report figures (confusion matrices, ROC curves,
+# model-comparison chart) under the "report-figures/" static prefix, so the
+# Report page can embed them without duplicating the PNGs into this app.
+STATICFILES_DIRS = [
+    ("report-figures", BASE_DIR.parent / "thesis_results" / "figures"),
+]
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 

@@ -1,0 +1,163 @@
+{% extends "resultsboard/base.html" %}
+{% load static %}
+{% block title %}Full Report{% endblock %}
+{% block nav_report %}active{% endblock %}
+{% block content %}
+
+<h1>Results Report</h1>
+<p>
+  Generated from a real run of <span class="formula">pipeline/</span> (seed=42).
+  This page mirrors <span class="formula">thesis_results/RESULTS.md</span> &mdash;
+  the same content is also kept there as a plain file for pasting into the
+  written thesis. Reproduce with the commands in &sect;9 after running the
+  pipeline stages in <span class="formula">pipeline/README.md</span>.
+</p>
+
+<div class="toc">
+  <strong>Contents</strong>
+  <ol>
+    <li><a href="#summary">Dataset summary</a></li>
+    <li><a href="#comparison">Model comparison</a></li>
+    <li><a href="#figures">Confusion matrices &amp; ROC curves</a></li>
+    <li><a href="#discussion">Discussion</a></li>
+    <li><a href="#limitations">Limitations</a></li>
+    <li><a href="#review">Independent implementation review</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#appendix">Appendix &mdash; reproducibility</a></li>
+  </ol>
+</div>
+
+<h2 id="summary">1. Dataset summary</h2>
+<div class="stat-grid">
+  <div class="stat"><div class="value">{{ summary.row_count }}</div><div class="label">Company-quarter rows</div></div>
+  <div class="stat"><div class="value">{{ summary.company_count }}&nbsp;/&nbsp;30</div><div class="label">Companies with data</div></div>
+  <div class="stat"><div class="value">{{ summary.positive_rate|floatformat:3 }}</div><div class="label">Target positive rate</div></div>
+  <div class="stat"><div class="value">{{ summary.active_features|length }}&nbsp;/&nbsp;{{ summary.feature_count }}</div><div class="label">Active features</div></div>
+</div>
+<p>Full methodology (target definition, feature formulas, timing rules, train/val/test split) is on the <a href="{% url 'resultsboard:overview' %}">Overview &amp; Methodology</a> page.</p>
+
+<h2 id="comparison">2. Model comparison</h2>
+<p>All 8 required classifiers, same training split, hyperparameters frozen at scikit-learn defaults, each evaluated once on the untouched test set.</p>
+<div class="card table-scroll">
+  <table>
+    <thead>
+      <tr><th>Model</th><th>Accuracy</th><th>Precision</th><th>Recall</th><th>Specificity</th><th>F1</th><th>ROC-AUC</th><th>Val. Accuracy</th></tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr>
+        <td><a href="{% url 'resultsboard:model_detail' row.name %}">{{ row.name }}</a></td>
+        <td>{{ row.accuracy|floatformat:3 }}</td>
+        <td>{{ row.precision|floatformat:3 }}</td>
+        <td>{{ row.recall|floatformat:3 }}</td>
+        <td>{{ row.specificity|floatformat:3 }}</td>
+        <td>{{ row.f1|floatformat:3 }}</td>
+        <td>{{ row.roc_auc|default_if_none:"-"|floatformat:3 }}</td>
+        <td>{{ row.validation_accuracy|floatformat:3 }}</td>
+      </tr>
+      {% endfor %}
+      <tr class="baseline-row">
+        <td>Majority-class baseline</td><td>{{ baseline|floatformat:3 }}</td>
+        <td colspan="6">predicts the more common class every time</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="callout">
+  <strong>No model exceeds the majority-class baseline ({{ baseline|floatformat:3 }}).</strong>
+  {% if best_model %}{{ best_model.name }} comes closest ({{ best_model.accuracy|floatformat:3 }}){% endif %}.
+</div>
+
+<h2 id="figures">3. Confusion matrices &amp; ROC curves</h2>
+<div class="figure-block">
+  <img src="{% static 'report-figures/model_comparison.png' %}" alt="Bar chart of test accuracy by model">
+  <div class="figure-caption">Figure 1. Test accuracy by model, with majority-class baseline reference line.</div>
+</div>
+<div class="figure-block">
+  <img src="{% static 'report-figures/confusion_matrices.png' %}" alt="Confusion matrices for all 8 models">
+  <div class="figure-caption">Figure 2. Confusion matrices, all 8 models, test set.</div>
+</div>
+<div class="figure-block">
+  <img src="{% static 'report-figures/roc_curves.png' %}" alt="ROC curves for all 8 models overlaid">
+  <div class="figure-caption">Figure 3. ROC curves, all 8 models overlaid against the random-classifier diagonal.</div>
+</div>
+
+<h2 id="discussion">4. Discussion</h2>
+<div class="card">
+  <p>
+    The empirical result across all 8 classifiers is consistent: <strong>no
+    model's test accuracy exceeds the majority-class baseline
+    ({{ baseline|floatformat:2 }}), and no model's ROC-AUC meaningfully
+    exceeds 0.50.</strong> This matches the original thesis's own reported
+    finding and should be read as evidence of <em>limited predictive signal
+    in the current feature set for this target</em>, not as a failed
+    experiment &mdash; a null result correctly obtained by a leakage-free,
+    chronologically-split pipeline is a valid and reportable thesis finding.
+  </p>
+  <p>
+    Two of the eight models (Naive Bayes, SVM) collapsed to near-constant
+    predictors, a known failure mode when class-imbalance handling
+    (<span class="formula">class_weight="balanced"</span>) interacts with a
+    genuinely weak signal: if no feature actually separates the classes, the
+    model finds no boundary better than a trivial one. This itself is
+    informative &mdash; it suggests the active features, as currently
+    defined, do not carry enough quarter-over-quarter predictive information
+    about stock direction for pharmaceutical companies in this dataset.
+  </p>
+</div>
+
+<h2 id="limitations">5. Limitations</h2>
+<!-- keep in sync with pipeline/README.md "Known deviations" and thesis_results/RESULTS.md section 7 -->
+<div class="callout">
+  <ul>
+    <li><strong>Feature formulas are not the original thesis's exact formulas.</strong> The exact 22 feature definitions live in an external "feature dictionary" not present in this repository; standard, documented finance formulas are used as a stated substitute.</li>
+    <li><strong>4 of 22 features are entirely absent</strong> (<span class="formula">volume_change_60d</span>, <span class="formula">debt_to_equity</span>, <span class="formula">price_to_book</span>, <span class="formula">price_to_earnings_proxy</span>) because no source file carries <span class="formula">market_cap</span>, <span class="formula">total_debt</span>, or usable volume coverage.</li>
+    <li><strong>Two companies have structurally incomplete data</strong>: Laboratorios_Rovi has no daily-price data at all (zero dataset rows); Zenotech_Laboratories has no Annual/Quarterly financial statements (fundamentals always missing).</li>
+    <li><strong>The financial-lag rule and target/horizon definition are pipeline-level assumptions</strong> taken from the project's own working defaults, <strong>not yet confirmed by the thesis supervisor.</strong> If the confirmed answers differ, the affected pipeline stages must be rerun and this report regenerated.</li>
+    <li><strong>Dataset window is wider than originally planned</strong> (companies' real cleaned stock series often start decades earlier than the 2014 assumption) &mdash; confirmed against source data, not a defect.</li>
+  </ul>
+</div>
+
+<h2 id="review">6. Independent implementation review</h2>
+<p>Three items were flagged during independent technical review of the pipeline implementation. None were found to be a data-integrity or leakage failure.</p>
+<div class="card">
+  <p><span class="badge yellow">YELLOW</span> <strong>Price-basis consistency</strong> &mdash; the rule is <span class="formula">adj_close</span> when available, otherwise <span class="formula">close</span>. Recommended: confirm all 30 cleaned stock series follow a sufficiently consistent adjusted-price basis.</p>
+  <p><span class="badge yellow">YELLOW</span> <strong>Class-weight asymmetry</strong> &mdash; some classifiers use <span class="formula">class_weight="balanced"</span> (Logistic Regression, Random Forest, SVM, Decision Tree) while others don't, because their scikit-learn interfaces don't expose that parameter (Naive Bayes, Gradient Boosting, Neural Network, KNN). Documented in <span class="formula">pipeline/_05_split_train.py</span>.</p>
+  <p><span class="badge green">RESOLVED</span> <strong>Dependency pinning</strong> &mdash; the original project had no pinned requirements file; <span class="formula">requirements.txt</span> now pins every dependency version used to produce these results.</p>
+</div>
+
+<h2 id="conclusion">7. Conclusion</h2>
+<div class="card">
+  <p>
+    Across all 8 required classifiers, trained and evaluated under a
+    leakage-controlled, chronologically-split pipeline (train-only
+    imputation, validation-only hyperparameter freezing, single held-out
+    test evaluation), none exceeds the majority-class baseline in test
+    accuracy, and ROC-AUC values across all models cluster near the 0.50
+    random-classifier line. The current evidence does not support the
+    hypothesis that the active market and fundamental features, at
+    quarterly frequency, predict next-quarter stock direction for this
+    29-company pharmaceutical universe better than chance. This is reported
+    as the pipeline's actual empirical result rather than adjusted or
+    selectively presented.
+  </p>
+</div>
+
+<h2 id="appendix">8. Appendix &mdash; reproducibility</h2>
+<pre>pip install -r requirements.txt
+python pipeline/_01_load_raw.py
+python pipeline/_02_clean_stock.py
+python pipeline/_03_build_panel.py
+python pipeline/_04_features_target.py
+python pipeline/_05_split_train.py
+python thesis_results/generate_figures.py</pre>
+<ul>
+  <li>Source data: <span class="formula">YUKTHA_CLEAN_2026-09-07/</span> (cleaned copy of the frozen raw archive).</li>
+  <li>Pipeline code: <span class="formula">pipeline/</span>, tested via <span class="formula">python -m pytest tests/ -v</span>.</li>
+  <li>This dashboard: <span class="formula">dashboard/</span> (Django, local-only).</li>
+  <li>Random seed 42 used for every model with a <span class="formula">random_state</span> parameter.</li>
+</ul>
+
+<p class="footnote">Plain-file version of this report: <span class="formula">thesis_results/RESULTS.md</span>. Figures: <span class="formula">thesis_results/figures/</span>.</p>
+
+{% endblock %}
