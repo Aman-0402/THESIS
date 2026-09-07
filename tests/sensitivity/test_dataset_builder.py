@@ -63,3 +63,33 @@ def test_apply_feature_scope_all_keeps_both_unchanged():
     m, f = apply_feature_scope(market, fundamental, "all")
     assert m == market
     assert f == fundamental
+
+
+def test_build_dataset_for_config_produces_target_and_feature_columns(tmp_path, monkeypatch):
+    """Smoke test with 2 synthetic companies' stock_clean CSVs and an empty
+    fundamentals table, confirming build_dataset_for_config wires everything
+    together (period range, target, feature columns) without needing real
+    pipeline data."""
+    from sensitivity.configs import RUN_CONFIGS
+    from sensitivity.lib import dataset_builder as mod
+
+    stock_dir = tmp_path / "stock_clean"
+    stock_dir.mkdir()
+    dates = pd.date_range("2020-01-01", periods=400, freq="D")
+    prices = pd.Series(range(len(dates)), dtype=float) + 100.0
+    pd.DataFrame({"date": dates, "close": prices}).to_csv(stock_dir / "Biocon.csv", index=False)
+
+    monkeypatch.setattr(mod, "STOCK_CLEAN_DIR", stock_dir)
+    # only test with companies whose folder has a CSV in the fixture -- monkeypatch COMPANIES too
+    monkeypatch.setattr(mod, "COMPANIES", [{"name": "Biocon", "region": "IN", "folder": "Biocon"}])
+
+    base = [c for c in RUN_CONFIGS if c["dimension"] == "base"][0]
+    empty_fundamentals = pd.DataFrame(columns=["company_folder", "period_end", "period_type"])
+
+    df = mod.build_dataset_for_config(base, empty_fundamentals)
+
+    assert len(df) > 0
+    assert "target" in df.columns
+    assert set(df["target"].unique()) <= {0, 1}
+    assert "return_1q" in df.columns  # a market feature
+    assert df["net_profit_margin"].isna().all()  # no fundamentals given -> always None

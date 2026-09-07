@@ -232,6 +232,7 @@ def _melt_yfinance_block(group: pd.DataFrame, company_folder: str, source_file: 
     return out
 
 
+# also imported directly by sensitivity/lib/dataset_builder.py -- keep this signature/behavior stable
 def _normalize_financial_long(financial: pd.DataFrame) -> pd.DataFrame:
     """Melt every (company_folder, source_file) block -- regardless of which
     of the three real raw formats it's in -- into one tidy long table."""
@@ -267,6 +268,7 @@ def _normalize_financial_long(financial: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame.from_records(records)
 
 
+# also imported directly by sensitivity/lib/dataset_builder.py -- keep this signature/behavior stable
 def _pivot_fundamentals(long_df: pd.DataFrame) -> pd.DataFrame:
     """One row per (company_folder, period_end, period_type) with the raw
     fundamental fields fundamental_features() expects, plus prior_revenue
@@ -314,6 +316,7 @@ def _compute_prior_revenue(wide: pd.DataFrame) -> pd.Series:
     return prior
 
 
+# also imported directly by sensitivity/lib/dataset_builder.py -- keep this signature/behavior stable
 def _load_stock_clean(path: Path) -> pd.DataFrame:
     """Read a pipeline/outputs/stock_clean/<folder>.csv, coalescing the
     duplicate on-disk "close" columns some companies have (see module
@@ -326,6 +329,7 @@ def _load_stock_clean(path: Path) -> pd.DataFrame:
     return df[["date", "close"]]
 
 
+# also imported directly by sensitivity/lib/dataset_builder.py -- keep this signature/behavior stable
 def latest_available_financial_row(
     fin_rows: pd.DataFrame,
     quarter_end: pd.Timestamp,
