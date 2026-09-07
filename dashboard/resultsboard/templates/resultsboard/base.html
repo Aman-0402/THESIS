@@ -1,24 +1,25 @@
+{% load static %}
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{% block title %}Thesis Results{% endblock %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Thesis Results{% endblock %} &middot; Pharma ML Classification</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-  <style>
-    body { font-family: system-ui, sans-serif; margin: 2rem; max-width: 900px; }
-    nav a { margin-right: 1rem; }
-    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-    th, td { border: 1px solid #ccc; padding: 0.4rem 0.6rem; text-align: right; }
-    th:first-child, td:first-child { text-align: left; }
-    .baseline-row { background: #fff3cd; font-weight: bold; }
-  </style>
+  <link rel="stylesheet" href="{% static 'resultsboard/style.css' %}">
 </head>
 <body>
-  <nav>
-    <a href="{% url 'resultsboard:overview' %}">Overview</a>
-    <a href="{% url 'resultsboard:model_comparison' %}">Model Comparison</a>
-  </nav>
-  <hr>
-  {% block content %}{% endblock %}
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>Pharma 30-Company ML Classification &mdash; Thesis Results</h1>
+      <nav class="site-nav">
+        <a href="{% url 'resultsboard:overview' %}" class="{% block nav_overview %}{% endblock %}">Overview &amp; Methodology</a>
+        <a href="{% url 'resultsboard:model_comparison' %}" class="{% block nav_models %}{% endblock %}">Model Comparison</a>
+      </nav>
+    </div>
+  </header>
+  <div class="page">
+    {% block content %}{% endblock %}
+  </div>
 </body>
 </html>

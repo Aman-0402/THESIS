@@ -1,41 +1,81 @@
 {% extends "resultsboard/base.html" %}
 {% block title %}Model Comparison{% endblock %}
+{% block nav_models %}active{% endblock %}
 {% block content %}
   <h1>Model Comparison</h1>
-  <p>Majority-class baseline accuracy: <strong>{{ baseline|floatformat:3 }}</strong></p>
+  <p>
+    All 8 required classifiers, trained on the same chronological training
+    split, hyperparameters frozen at scikit-learn defaults before touching the
+    test set, evaluated exactly once on the held-out test set. See
+    <a href="{% url 'resultsboard:overview' %}">Overview &amp; Methodology</a>
+    for the full split/timing rules.
+  </p>
 
-  <table>
-    <tr>
-      <th>Model</th><th>Accuracy</th><th>Precision</th><th>Recall</th>
-      <th>Specificity</th><th>F1</th><th>ROC-AUC</th><th>Val. Accuracy</th>
-    </tr>
-    {% for row in rows %}
-    <tr>
-      <td><a href="{% url 'resultsboard:model_detail' row.name %}">{{ row.name }}</a></td>
-      <td>{{ row.accuracy|floatformat:3 }}</td>
-      <td>{{ row.precision|floatformat:3 }}</td>
-      <td>{{ row.recall|floatformat:3 }}</td>
-      <td>{{ row.specificity|floatformat:3 }}</td>
-      <td>{{ row.f1|floatformat:3 }}</td>
-      <td>{{ row.roc_auc|default_if_none:"-"|floatformat:3 }}</td>
-      <td>{{ row.validation_accuracy|floatformat:3 }}</td>
-    </tr>
-    {% endfor %}
-  </table>
+  <div class="callout">
+    <strong>Majority-class baseline accuracy: {{ baseline|floatformat:3 }}.</strong>
+    No model in this run exceeds it &mdash; consistent with the original
+    thesis's own reported finding of limited predictive signal.
+  </div>
 
-  <canvas id="accuracyChart" width="700" height="300"></canvas>
+  <div class="card table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Model</th><th>Accuracy</th><th>Precision</th><th>Recall</th>
+          <th>Specificity</th><th>F1</th><th>ROC-AUC</th><th>Val. Accuracy</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in rows %}
+        <tr>
+          <td><a href="{% url 'resultsboard:model_detail' row.name %}">{{ row.name }}</a></td>
+          <td>{{ row.accuracy|floatformat:3 }}</td>
+          <td>{{ row.precision|floatformat:3 }}</td>
+          <td>{{ row.recall|floatformat:3 }}</td>
+          <td>{{ row.specificity|floatformat:3 }}</td>
+          <td>{{ row.f1|floatformat:3 }}</td>
+          <td>{{ row.roc_auc|default_if_none:"-"|floatformat:3 }}</td>
+          <td>{{ row.validation_accuracy|floatformat:3 }}</td>
+        </tr>
+        {% endfor %}
+        <tr class="baseline-row">
+          <td>Majority-class baseline</td>
+          <td>{{ baseline|floatformat:3 }}</td>
+          <td colspan="6">predicts the more common class every time &mdash; the floor every model should beat</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Test accuracy by model</h2>
+  <div class="chart-wrap">
+    <canvas id="accuracyChart" width="700" height="320"></canvas>
+  </div>
   <script>
     const ctx = document.getElementById('accuracyChart');
     new Chart(ctx, {
       type: 'bar',
       data: {
         labels: {{ chart_labels|safe }},
-        datasets: [{ label: 'Test Accuracy', data: {{ chart_accuracies|safe }} }]
+        datasets: [{ label: 'Test Accuracy', data: {{ chart_accuracies|safe }}, backgroundColor: '#2f5fb8' }]
       },
       options: {
-        scales: { y: { beginAtZero: true, max: 1 } }
+        scales: { y: { beginAtZero: true, max: 1 } },
+        plugins: { legend: { display: false } }
       }
     });
   </script>
-  <p><em>Baseline accuracy ({{ baseline|floatformat:3 }}) is shown in the table above; no model in this run exceeds it.</em></p>
+
+  <h2>How to read these metrics</h2>
+  <div class="card">
+    <ul>
+      <li><strong>Accuracy</strong> &mdash; fraction of test quarters correctly classified.</li>
+      <li><strong>Precision</strong> &mdash; of quarters predicted "up", how many actually were.</li>
+      <li><strong>Recall</strong> &mdash; of quarters that actually went "up", how many were caught.</li>
+      <li><strong>Specificity</strong> &mdash; of quarters that actually went "down", how many were caught.</li>
+      <li><strong>F1</strong> &mdash; harmonic mean of precision and recall.</li>
+      <li><strong>ROC-AUC</strong> &mdash; ranking quality across all thresholds; 0.5 = random, 1.0 = perfect.</li>
+      <li><strong>Validation accuracy</strong> &mdash; accuracy on the 2022&ndash;2023 validation slice, shown for reference only (not used to pick a "winner").</li>
+    </ul>
+  </div>
 {% endblock %}

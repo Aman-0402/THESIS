@@ -1,28 +1,41 @@
 {% extends "resultsboard/base.html" %}
 {% block title %}{{ model_name }}{% endblock %}
+{% block nav_models %}active{% endblock %}
 {% block content %}
+  <a href="{% url 'resultsboard:model_comparison' %}" class="back-link">&larr; back to comparison</a>
   <h1>{{ model_name }}</h1>
-  <p><a href="{% url 'resultsboard:model_comparison' %}">&larr; back to comparison</a></p>
 
   <h2>Metrics</h2>
-  <ul>
-    <li>Accuracy: {{ metrics.accuracy|floatformat:3 }} (baseline: {{ baseline|floatformat:3 }})</li>
-    <li>Precision: {{ metrics.precision|floatformat:3 }}</li>
-    <li>Recall: {{ metrics.recall|floatformat:3 }}</li>
-    <li>Specificity: {{ metrics.specificity|floatformat:3 }}</li>
-    <li>F1: {{ metrics.f1|floatformat:3 }}</li>
-    <li>ROC-AUC: {{ roc_auc|floatformat:3 }}</li>
-  </ul>
+  <div class="metric-grid">
+    <div class="stat"><div class="value">{{ metrics.accuracy|floatformat:3 }}</div><div class="label">Accuracy</div></div>
+    <div class="stat"><div class="value">{{ baseline|floatformat:3 }}</div><div class="label">Baseline</div></div>
+    <div class="stat"><div class="value">{{ metrics.precision|floatformat:3 }}</div><div class="label">Precision</div></div>
+    <div class="stat"><div class="value">{{ metrics.recall|floatformat:3 }}</div><div class="label">Recall</div></div>
+    <div class="stat"><div class="value">{{ metrics.specificity|floatformat:3 }}</div><div class="label">Specificity</div></div>
+    <div class="stat"><div class="value">{{ metrics.f1|floatformat:3 }}</div><div class="label">F1</div></div>
+    <div class="stat"><div class="value">{{ roc_auc|floatformat:3 }}</div><div class="label">ROC-AUC</div></div>
+  </div>
 
   <h2>Confusion Matrix</h2>
-  <table>
-    <tr><th></th><th>Predicted Negative</th><th>Predicted Positive</th></tr>
-    <tr><th>Actual Negative</th><td>{{ cm.0.0 }} (TN)</td><td>{{ cm.0.1 }} (FP)</td></tr>
-    <tr><th>Actual Positive</th><td>{{ cm.1.0 }} (FN)</td><td>{{ cm.1.1 }} (TP)</td></tr>
-  </table>
+  <div class="card">
+    <table>
+      <thead>
+        <tr><th>Actual \ Predicted</th><th>Predicted Negative</th><th>Predicted Positive</th></tr>
+      </thead>
+      <tbody>
+        <tr><th>Actual Negative</th><td>{{ cm.0.0 }} (TN)</td><td>{{ cm.0.1 }} (FP)</td></tr>
+        <tr><th>Actual Positive</th><td>{{ cm.1.0 }} (FN)</td><td>{{ cm.1.1 }} (TP)</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote inline">
+      TN = correctly predicted "down", TP = correctly predicted "up", FP/FN = misses in each direction.
+    </p>
+  </div>
 
   <h2>ROC Curve</h2>
-  <canvas id="rocChart" width="500" height="500"></canvas>
+  <div class="chart-wrap">
+    <canvas id="rocChart" width="500" height="500"></canvas>
+  </div>
   <script>
     const ctx = document.getElementById('rocChart');
     new Chart(ctx, {
@@ -35,6 +48,7 @@
             fill: false,
             pointRadius: 0,
             showLine: true,
+            borderColor: '#2f5fb8',
           },
           {
             label: 'Random baseline',
@@ -42,6 +56,7 @@
             borderDash: [5, 5],
             pointRadius: 0,
             showLine: true,
+            borderColor: '#b8452f',
           }
         ]
       },

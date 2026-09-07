@@ -2,6 +2,12 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+from pathlib import Path
+
+# Put the repo root on sys.path so dashboard code can import the pipeline's
+# own modules (e.g. pipeline.lib.features) as the single source of truth for
+# feature names, instead of duplicating those lists in the dashboard.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 
 def main():

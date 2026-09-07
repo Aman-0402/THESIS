@@ -1,26 +1,172 @@
 {% extends "resultsboard/base.html" %}
 {% block title %}Overview{% endblock %}
+{% block nav_overview %}active{% endblock %}
 {% block content %}
-  <h1>Dataset Overview</h1>
+
+<h1>Dataset Overview &amp; Methodology</h1>
+<p>
+  This page documents the full pipeline that produced the results shown under
+  <a href="{% url 'resultsboard:model_comparison' %}">Model Comparison</a>: the
+  company universe, target definition, feature set, timing rules, and the
+  data-coverage limitations found while building it. Every number below is
+  read live from <span class="formula">pipeline/outputs/</span> &mdash; it
+  always reflects the most recent pipeline run, not a static snapshot.
+</p>
+
+<h2>1. Dataset at a glance</h2>
+<div class="stat-grid">
+  <div class="stat"><div class="value">{{ summary.row_count }}</div><div class="label">Company-quarter rows</div></div>
+  <div class="stat"><div class="value">{{ summary.company_count }}</div><div class="label">Companies (of 30)</div></div>
+  <div class="stat"><div class="value">{{ summary.positive_rate|floatformat:3 }}</div><div class="label">Target positive rate</div></div>
+  <div class="stat"><div class="value">{{ summary.active_features|length }}&nbsp;/&nbsp;{{ summary.feature_count }}</div><div class="label">Active features</div></div>
+</div>
+
+<h2>2. Company universe</h2>
+<p>
+  30 pharmaceutical/biopharma companies, 15 Indian and 15 non-Indian, combining
+  historical daily/weekly/monthly market data with quarterly and annual
+  financial-statement data. Full list and per-company stock-series repair
+  rules are in <span class="formula">pipeline/lib/companies.py</span>. Row
+  count and target positive rate below are pulled live from the dataset each
+  company actually contributed &mdash; a company with a genuine data gap
+  (e.g. 0 rows) shows that plainly rather than being hidden.
+</p>
+
+<div class="two-column">
+  <div>
+    <h3>Indian companies (15)</h3>
+    <div class="card table-scroll">
+      <table>
+        <thead><tr><th>Company</th><th>Rows</th><th>+ rate</th></tr></thead>
+        <tbody>
+          {% for c in companies.indian %}
+          <tr{% if c.row_count == 0 %} class="baseline-row"{% endif %}>
+            <td>{{ c.name }}</td>
+            <td>{{ c.row_count }}</td>
+            <td>{% if c.positive_rate is not None %}{{ c.positive_rate|floatformat:2 }}{% else %}&mdash;{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div>
+    <h3>Non-Indian (foreign) companies (15)</h3>
+    <div class="card table-scroll">
+      <table>
+        <thead><tr><th>Company</th><th>Rows</th><th>+ rate</th></tr></thead>
+        <tbody>
+          {% for c in companies.foreign %}
+          <tr{% if c.row_count == 0 %} class="baseline-row"{% endif %}>
+            <td>{{ c.name }}</td>
+            <td>{{ c.row_count }}</td>
+            <td>{% if c.positive_rate is not None %}{{ c.positive_rate|floatformat:2 }}{% else %}&mdash;{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<h2>3. Target definition</h2>
+<div class="card">
+  <p>Binary classification target, computed per company-quarter <em>t</em>:</p>
+  <p class="formula">next_quarter_return = price(end of t+1) / price(end of t) &minus; 1</p>
+  <p class="formula">target = 1 if next_quarter_return &gt; 0, else 0</p>
+  <p>
+    Prices are the last trading day on/before each quarter end, from the
+    canonical, de-duplicated daily stock series for that company
+    (<span class="formula">pipeline/lib/target.py</span>). The final quarter of
+    each company's series is dropped &mdash; there is no next-quarter price to
+    compare against yet.
+  </p>
+</div>
+
+<h2>4. Feature set (22 candidates, 18 used)</h2>
+<p>
+  11 market features + 11 fundamental features, defined in
+  <span class="formula">pipeline/lib/features.py</span>. The thesis's original
+  feature dictionary (exact formulas) was not available in this repository, so
+  standard, documented finance formulas are used instead &mdash; a stated
+  assumption, not the frozen original specification.
+</p>
+
+<h3>Market features (11)</h3>
+<p>
+  Historical return over 1/2 quarters and 1 year, 3- and 6-month momentum,
+  20/50/200-day moving-average ratios, 60- and 120-day volatility, and 60-day
+  volume change.
+</p>
+<p>
+  {% for f in summary.active_market_features %}<span class="tag">{{ f }}</span>{% endfor %}
+  {% for f in summary.dropped_market_features %}<span class="tag dropped">{{ f }} (dropped)</span>{% endfor %}
+</p>
+
+<h3>Fundamental features (11)</h3>
+<p>
+  Revenue growth, profitability margins (net profit, operating), return on
+  equity/assets, leverage (debt-to-equity), liquidity (current ratio, quick
+  ratio proxy), efficiency (asset turnover), and valuation (price-to-book,
+  price-to-earnings proxy).
+</p>
+<p>
+  {% for f in summary.active_fundamental_features %}<span class="tag">{{ f }}</span>{% endfor %}
+  {% for f in summary.dropped_fundamental_features %}<span class="tag dropped">{{ f }} (dropped)</span>{% endfor %}
+</p>
+
+<div class="callout">
+  <strong>Why 4 features are dropped:</strong> no source file in the raw data
+  package carries a clean <span class="formula">market_cap</span> or
+  <span class="formula">total_debt</span> field, so
+  <span class="formula">price_to_book</span>,
+  <span class="formula">price_to_earnings_proxy</span>, and
+  <span class="formula">debt_to_equity</span> are 100% missing across every
+  row. <span class="formula">volume_change_60d</span> is likewise always
+  missing because no volume column survived into the cleaned stock series.
+  These 4 all-NaN columns are excluded from model training entirely (median
+  imputation cannot repair a column with zero real observations).
+</div>
+
+<h2>5. Financial-data timing (avoiding look-ahead bias)</h2>
+<div class="card">
+  <p>A financial observation for period-end date <em>P</em> may only be used to build a feature for an observation dated <em>O</em> if:</p>
   <ul>
-    <li>Rows: {{ summary.row_count }}</li>
-    <li>Companies: {{ summary.company_count }}</li>
-    <li>Positive rate: {{ summary.positive_rate|floatformat:3 }}</li>
-    <li>Active features: {{ summary.active_features|length }} / {{ summary.feature_count }}</li>
+    <li>Quarterly data: <span class="formula">O &ge; P + 60 days</span></li>
+    <li>Annual data: <span class="formula">O &ge; P + 120 days</span></li>
+    <li>Laboratorios Rovi: actual publication date used directly (no fixed lag) &mdash; though this company currently contributes zero rows regardless; see Limitations.</li>
   </ul>
+  <p>Implemented in <span class="formula">pipeline/lib/lag.py</span>, enforced when building the feature/target dataset in <span class="formula">pipeline/_04_features_target.py</span>.</p>
+</div>
 
-  <h2>Active features</h2>
-  <p>{{ summary.active_features|join:", " }}</p>
-
-  <h2>Dropped (always-missing) features</h2>
-  <p>{{ summary.dropped_features|join:", " }}</p>
-
-  <h2>Known data limitations</h2>
-  <!-- keep in sync with pipeline/README.md "Known deviations" section -->
+<h2>6. Train / validation / test split</h2>
+<div class="card">
+  <p>Chronological split by quarter-end &mdash; never random &mdash; so no future information leaks into training:</p>
   <ul>
-    <li>Laboratorios_Rovi has zero daily-price rows in the source archive and contributes no dataset rows.</li>
-    <li>Zenotech_Laboratories has zero financial-statement rows; its market features still compute, but fundamentals are always None.</li>
-    <li>market_cap and total_debt have no clean source field anywhere, so debt_to_equity, price_to_book, and price_to_earnings_proxy are None for every row.</li>
-    <li>Dataset size (this run) differs from the original thesis's reported 1,410 rows because several companies' real cleaned stock series start decades earlier than the thesis's assumed 2014Q3 start.</li>
+    <li>Train: quarter_end &lt; 2022-01-01</li>
+    <li>Validation: 2022-01-01 &le; quarter_end &lt; 2024-01-01</li>
+    <li>Test: quarter_end &ge; 2024-01-01</li>
   </ul>
+  <p>Missing values are imputed using <strong>train-set medians only</strong>, computed once and applied identically to validation and test, so no validation/test information ever influences imputation. Hyperparameters are scikit-learn defaults, frozen before any test-set evaluation; each model is scored on the held-out test set exactly once.</p>
+</div>
+
+<h2>7. Known data limitations</h2>
+<!-- keep in sync with pipeline/README.md "Known deviations" section -->
+<div class="callout">
+  <ul>
+    <li><strong>Laboratorios_Rovi</strong> has zero daily-price rows in the source archive (no market-data files at all) and contributes no dataset rows.</li>
+    <li><strong>Zenotech_Laboratories</strong> has zero financial-statement rows (only unread .xlsx files); its market features still compute, but fundamentals are always missing for this company.</li>
+    <li><strong>market_cap</strong> and <strong>total_debt</strong> have no clean source field anywhere in the raw data, so 3 fundamental ratios and 1 market feature are always missing (see &sect;4).</li>
+    <li>Dataset size and date range (this run: {{ summary.row_count }} rows) differ from the original thesis's reported 1,410 rows / 2014Q3&ndash;2026Q1 window, because several companies' real cleaned stock series extend decades earlier than the thesis's assumed 2014 start &mdash; confirmed against the real source data, not a defect.</li>
+    <li>The target definition, financial-lag rule, and feature/frequency choices above are the pipeline's own working assumptions (per <span class="formula">documentation .pdf</span>'s stated defaults), <strong>not yet confirmed by the thesis supervisor</strong>. See <span class="formula">thesis_results/RESULTS.md</span> &sect;7 for the full list of open questions sent for confirmation.</li>
+  </ul>
+</div>
+
+<p class="footnote">
+  Full written results (tables, figures, discussion, conclusion) live in
+  <span class="formula">thesis_results/RESULTS.md</span>. Pipeline source and
+  tests: <span class="formula">pipeline/</span> and
+  <span class="formula">tests/pipeline/</span>.
+</p>
+
 {% endblock %}

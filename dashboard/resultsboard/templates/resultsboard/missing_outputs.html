@@ -2,11 +2,14 @@
 {% block title %}Pipeline not run{% endblock %}
 {% block content %}
   <h1>Pipeline outputs not found</h1>
-  <p>{{ error }}</p>
-  <p>Run the pipeline first:</p>
+  <div class="error-box">
+    <p>{{ error }}</p>
+  </div>
+  <p>Run the pipeline first, from the repository root:</p>
   <pre>python pipeline/_01_load_raw.py
 python pipeline/_02_clean_stock.py
 python pipeline/_03_build_panel.py
 python pipeline/_04_features_target.py
 python pipeline/_05_split_train.py</pre>
+  <p>Then reload this page.</p>
 {% endblock %}

@@ -8,6 +8,9 @@ import pandas as pd
 from sklearn.metrics import auc as auc_fn
 from sklearn.metrics import roc_curve
 
+from pipeline.lib.companies import COMPANIES
+from pipeline.lib.features import FUNDAMENTAL_FEATURE_NAMES, MARKET_FEATURE_NAMES
+
 _META_KEYS = {"_majority_class_baseline_accuracy", "_dropped_all_nan_feature_columns"}
 
 
@@ -30,14 +33,60 @@ def load_dataset_summary(outputs_dir: Path) -> dict:
     active_features = [c for c in feature_cols if not df[c].isna().all()]
     dropped_features = [c for c in feature_cols if df[c].isna().all()]
 
+    def split_by_category(names, category_names):
+        active = [n for n in names if n in category_names and n in active_features]
+        dropped = [n for n in names if n in category_names and n in dropped_features]
+        return active, dropped
+
+    active_market, dropped_market = split_by_category(feature_cols, set(MARKET_FEATURE_NAMES))
+    active_fundamental, dropped_fundamental = split_by_category(feature_cols, set(FUNDAMENTAL_FEATURE_NAMES))
+
     return {
         "row_count": len(df),
         "feature_count": len(feature_cols),
         "active_features": active_features,
         "dropped_features": dropped_features,
+        "active_market_features": active_market,
+        "dropped_market_features": dropped_market,
+        "active_fundamental_features": active_fundamental,
+        "dropped_fundamental_features": dropped_fundamental,
         "positive_rate": float(df["target"].mean()),
         "company_count": df["company_folder"].nunique(),
     }
+
+
+def load_company_breakdown(outputs_dir: Path) -> dict:
+    """One row per company (all 30, from the registry), split into Indian
+    and non-Indian groups, with row counts and positive rate pulled from the
+    actual dataset -- so a company with a real data gap (e.g. zero rows)
+    shows that plainly instead of being silently omitted."""
+    dataset_path = outputs_dir / "dataset.csv"
+    _require(dataset_path)
+    df = pd.read_csv(dataset_path)
+
+    per_company = df.groupby("company_folder")["target"].agg(["count", "mean"])
+
+    indian, foreign = [], []
+    for company in COMPANIES:
+        folder = company["folder"]
+        if folder in per_company.index:
+            row_count = int(per_company.loc[folder, "count"])
+            positive_rate = float(per_company.loc[folder, "mean"])
+        else:
+            row_count = 0
+            positive_rate = None
+
+        entry = {
+            "name": company["name"],
+            "folder": folder,
+            "row_count": row_count,
+            "positive_rate": positive_rate,
+        }
+        (indian if company["region"] == "IN" else foreign).append(entry)
+
+    indian.sort(key=lambda c: c["name"])
+    foreign.sort(key=lambda c: c["name"])
+    return {"indian": indian, "foreign": foreign}
 
 
 def load_model_metrics(outputs_dir: Path):

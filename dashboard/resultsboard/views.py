@@ -20,7 +20,8 @@ def _render_or_missing(request, template_name, context_fn):
 def overview(request):
     def build_context():
         summary = data.load_dataset_summary(PIPELINE_OUTPUTS_DIR)
-        return {"summary": summary}
+        companies = data.load_company_breakdown(PIPELINE_OUTPUTS_DIR)
+        return {"summary": summary, "companies": companies}
 
     return _render_or_missing(request, "resultsboard/overview.html", build_context)
 
