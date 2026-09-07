@@ -23,6 +23,21 @@ def overview(request):
     return _render_or_missing(request, "resultsboard/overview.html", build_context)
 
 
-# TODO(Task 5): replace with the real model-comparison view
 def model_comparison(request):
-    return render(request, "resultsboard/model_comparison_placeholder.html")
+    def build_context():
+        metrics, baseline = data.load_model_metrics(PIPELINE_OUTPUTS_DIR)
+        rows = [{"name": name, **m} for name, m in metrics.items()]
+        rows.sort(key=lambda r: r["accuracy"], reverse=True)
+        return {
+            "rows": rows,
+            "baseline": baseline,
+            "chart_labels": [r["name"] for r in rows],
+            "chart_accuracies": [r["accuracy"] for r in rows],
+        }
+
+    return _render_or_missing(request, "resultsboard/model_comparison.html", build_context)
+
+
+# TODO(Task 6): replace with the real model-detail view (metrics, confusion matrix, ROC curve for one model)
+def model_detail(request, model_name):
+    return render(request, "resultsboard/model_detail_placeholder.html", {"model_name": model_name})

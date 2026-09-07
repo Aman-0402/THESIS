@@ -1,0 +1,44 @@
+{% extends "resultsboard/base.html" %}
+{% block title %}Model Comparison{% endblock %}
+{% block content %}
+  <h1>Model Comparison</h1>
+  <p>Majority-class baseline accuracy: <strong>{{ baseline|floatformat:3 }}</strong></p>
+
+  <table>
+    <tr>
+      <th>Model</th><th>Accuracy</th><th>Precision</th><th>Recall</th>
+      <th>Specificity</th><th>F1</th><th>ROC-AUC</th><th>Val. Accuracy</th>
+    </tr>
+    {% for row in rows %}
+    <tr>
+      <td><a href="{% url 'resultsboard:model_detail' row.name %}">{{ row.name }}</a></td>
+      <td>{{ row.accuracy|floatformat:3 }}</td>
+      <td>{{ row.precision|floatformat:3 }}</td>
+      <td>{{ row.recall|floatformat:3 }}</td>
+      <td>{{ row.specificity|floatformat:3 }}</td>
+      <td>{{ row.f1|floatformat:3 }}</td>
+      <td>{{ row.roc_auc|default_if_none:"-"|floatformat:3 }}</td>
+      <td>{{ row.validation_accuracy|floatformat:3 }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <canvas id="accuracyChart" width="700" height="300"></canvas>
+  <script>
+    const ctx = document.getElementById('accuracyChart');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: {{ chart_labels|safe }},
+        datasets: [{ label: 'Test Accuracy', data: {{ chart_accuracies|safe }} }]
+      },
+      options: {
+        scales: { y: { beginAtZero: true, max: 1 } },
+        plugins: {
+          annotation: {}
+        }
+      }
+    });
+  </script>
+  <p><em>Baseline accuracy ({{ baseline|floatformat:3 }}) is shown in the table above; no model in this run exceeds it.</em></p>
+{% endblock %}
