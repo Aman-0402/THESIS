@@ -1,0 +1,25 @@
+{% extends "resultsboard/base.html" %}
+{% block title %}Overview{% endblock %}
+{% block content %}
+  <h1>Dataset Overview</h1>
+  <ul>
+    <li>Rows: {{ summary.row_count }}</li>
+    <li>Companies: {{ summary.company_count }}</li>
+    <li>Positive rate: {{ summary.positive_rate|floatformat:3 }}</li>
+    <li>Active features: {{ summary.active_features|length }} / {{ summary.feature_count }}</li>
+  </ul>
+
+  <h2>Active features</h2>
+  <p>{{ summary.active_features|join:", " }}</p>
+
+  <h2>Dropped (always-missing) features</h2>
+  <p>{{ summary.dropped_features|join:", " }}</p>
+
+  <h2>Known data limitations</h2>
+  <ul>
+    <li>Laboratorios_Rovi has zero daily-price rows in the source archive and contributes no dataset rows.</li>
+    <li>Zenotech_Laboratories has zero financial-statement rows; its market features still compute, but fundamentals are always None.</li>
+    <li>market_cap and total_debt have no clean source field anywhere, so debt_to_equity, price_to_book, and price_to_earnings_proxy are None for every row.</li>
+    <li>Dataset size (this run) differs from the original thesis's reported 1,410 rows because several companies' real cleaned stock series start decades earlier than the thesis's assumed 2014Q3 start.</li>
+  </ul>
+{% endblock %}
