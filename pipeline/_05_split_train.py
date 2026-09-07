@@ -127,9 +127,14 @@ def main():
         test_pred = model.predict(x_test)
         test_proba = model.predict_proba(x_test)[:, 1] if hasattr(model, "predict_proba") else None
 
+        test_proba_col = (
+            test_proba if test_proba is not None
+            else model.decision_function(x_test)
+        )
         pred_df = test[["company_folder", "quarter_end"]].copy()
         pred_df["y_true"] = y_test.values
         pred_df["y_pred"] = test_pred
+        pred_df["y_proba"] = test_proba_col
         pred_df.to_csv(OUTPUT_DIR / "predictions" / f"{name}.csv", index=False)
 
         all_metrics[name] = {"validation_accuracy": val_acc, **evaluate(y_test, test_pred, test_proba)}
