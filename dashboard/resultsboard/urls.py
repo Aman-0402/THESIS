@@ -7,4 +7,5 @@ urlpatterns = [
     path("models/", views.model_comparison, name="model_comparison"),
     path("models/<str:model_name>/", views.model_detail, name="model_detail"),
     path("report/", views.report, name="report"),
+    path("sensitivity/", views.sensitivity, name="sensitivity"),
 ]

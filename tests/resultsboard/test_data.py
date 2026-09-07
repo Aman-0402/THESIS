@@ -77,3 +77,35 @@ def test_missing_outputs_dir_raises_clear_error(tmp_path):
     missing = tmp_path / "does_not_exist"
     with pytest.raises(PipelineOutputsMissing):
         load_dataset_summary(missing)
+
+
+def test_load_sensitivity_summary_returns_runs_list(tmp_path):
+    import json
+    from resultsboard.data import load_sensitivity_summary
+
+    d = tmp_path / "sensitivity_outputs"
+    d.mkdir()
+    summary = [
+        {"run_id": "base", "description": "Base case", "dimension": "base",
+         "value_label": "current pipeline defaults", "row_count": 3439,
+         "best_model": "neural_network", "best_accuracy": 0.575,
+         "baseline_accuracy": 0.579, "beats_baseline": False},
+        {"run_id": "lag_30", "description": "Financial lag: 30/60 days", "dimension": "lag",
+         "value_label": "30d quarterly / 60d annual", "row_count": 3439,
+         "best_model": "knn", "best_accuracy": 0.60,
+         "baseline_accuracy": 0.579, "beats_baseline": True},
+    ]
+    (d / "summary.json").write_text(json.dumps(summary))
+
+    runs = load_sensitivity_summary(d)
+    assert len(runs) == 2
+    assert runs[0]["run_id"] == "base"
+    assert runs[1]["beats_baseline"] is True
+
+
+def test_load_sensitivity_summary_missing_raises_clear_error(tmp_path):
+    import pytest
+    from resultsboard.data import PipelineOutputsMissing, load_sensitivity_summary
+
+    with pytest.raises(PipelineOutputsMissing):
+        load_sensitivity_summary(tmp_path / "does_not_exist")

@@ -7,6 +7,7 @@ from django.shortcuts import render
 from . import data
 
 PIPELINE_OUTPUTS_DIR = Path(__file__).resolve().parents[2] / "pipeline" / "outputs"
+SENSITIVITY_OUTPUTS_DIR = Path(__file__).resolve().parents[2] / "sensitivity" / "outputs"
 
 
 def _render_or_missing(request, template_name, context_fn):
@@ -76,3 +77,18 @@ def report(request):
         }
 
     return _render_or_missing(request, "resultsboard/report.html", build_context)
+
+
+def sensitivity(request):
+    def build_context():
+        runs = data.load_sensitivity_summary(SENSITIVITY_OUTPUTS_DIR)
+        base = next((r for r in runs if r["dimension"] == "base"), None)
+        return {
+            "runs": runs,
+            "base": base,
+            "chart_labels": json.dumps([r["run_id"] for r in runs]),
+            "chart_best": json.dumps([r["best_accuracy"] for r in runs]),
+            "chart_baseline": json.dumps([r["baseline_accuracy"] for r in runs]),
+        }
+
+    return _render_or_missing(request, "resultsboard/sensitivity.html", build_context)

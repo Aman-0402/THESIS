@@ -1,0 +1,65 @@
+{% extends "resultsboard/base.html" %}
+{% block title %}Sensitivity Analysis{% endblock %}
+{% block nav_sensitivity %}active{% endblock %}
+{% block content %}
+
+<h1>Sensitivity Analysis</h1>
+<p>
+  The methodology choices below (financial lag, missing-data handling,
+  up/down threshold, feature scope, prediction horizon) are the pipeline's
+  own working assumptions, not yet confirmed by the thesis supervisor. This
+  page varies each one independently &mdash; holding everything else at the
+  base pipeline's defaults &mdash; to show whether "no model beats the
+  majority-class baseline" is a robust finding or an artifact of one
+  specific choice.
+</p>
+
+<div class="card table-scroll">
+  <table>
+    <thead>
+      <tr><th>Run</th><th>Dimension varied</th><th>Value</th><th>Rows</th><th>Best model</th><th>Best accuracy</th><th>Baseline</th><th>Beats baseline?</th></tr>
+    </thead>
+    <tbody>
+      {% for run in runs %}
+      <tr{% if run.dimension == "base" %} class="baseline-row"{% endif %}>
+        <td>{{ run.run_id }}</td>
+        <td>{{ run.dimension }}</td>
+        <td>{{ run.value_label }}</td>
+        <td>{{ run.row_count }}</td>
+        <td>{{ run.best_model|default:"&mdash;" }}</td>
+        <td>{{ run.best_accuracy|floatformat:3 }}</td>
+        <td>{{ run.baseline_accuracy|floatformat:3 }}</td>
+        <td>
+          {% if run.beats_baseline %}<span class="badge red">YES</span>{% else %}<span class="badge green">no</span>{% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h2>Best model vs. baseline, all runs</h2>
+<div class="chart-wrap">
+  <canvas id="sensitivityChart" width="800" height="350"></canvas>
+</div>
+<script>
+  const ctx = document.getElementById('sensitivityChart');
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: {{ chart_labels|safe }},
+      datasets: [
+        { label: 'Best model accuracy', data: {{ chart_best|safe }}, backgroundColor: '#2f5fb8' },
+        { label: 'Majority-class baseline', data: {{ chart_baseline|safe }}, backgroundColor: '#b8452f' },
+      ]
+    },
+    options: { scales: { y: { beginAtZero: true, max: 1 } } }
+  });
+</script>
+
+<div class="callout">
+  <strong>Reproduce this sweep:</strong> <span class="formula">python sensitivity/run_all.py</span>
+  (requires <span class="formula">pipeline/outputs/</span> to already exist &mdash; run the main pipeline first).
+</div>
+
+{% endblock %}

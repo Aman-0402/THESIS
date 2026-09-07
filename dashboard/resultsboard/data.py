@@ -110,3 +110,9 @@ def load_roc_curve(outputs_dir: Path, model_name: str):
     pred = pd.read_csv(pred_path)
     fpr, tpr, _ = roc_curve(pred["y_true"], pred["y_proba"])
     return fpr.tolist(), tpr.tolist(), float(auc_fn(fpr, tpr))
+
+
+def load_sensitivity_summary(sensitivity_outputs_dir: Path) -> list[dict]:
+    summary_path = sensitivity_outputs_dir / "summary.json"
+    _require(summary_path)
+    return json.loads(summary_path.read_text())
