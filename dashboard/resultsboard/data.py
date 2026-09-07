@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
+from sklearn.metrics import auc as auc_fn
 from sklearn.metrics import roc_curve
 
 _META_KEYS = {"_majority_class_baseline_accuracy", "_dropped_all_nan_feature_columns"}
@@ -59,5 +60,4 @@ def load_roc_curve(outputs_dir: Path, model_name: str):
     _require(pred_path)
     pred = pd.read_csv(pred_path)
     fpr, tpr, _ = roc_curve(pred["y_true"], pred["y_proba"])
-    from sklearn.metrics import auc as auc_fn
     return fpr.tolist(), tpr.tolist(), float(auc_fn(fpr, tpr))
