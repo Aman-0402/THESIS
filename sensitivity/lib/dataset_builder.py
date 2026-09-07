@@ -117,7 +117,15 @@ def build_dataset_for_config(config: dict, fundamentals: pd.DataFrame) -> pd.Dat
     columns = ["company_folder", "period_end"] + MARKET_FEATURE_NAMES + FUNDAMENTAL_FEATURE_NAMES + ["target"]
     if not out_rows:
         return pd.DataFrame(columns=columns)
-    return pd.DataFrame(out_rows)[columns]
+    # Sort to match the real pipeline's row order exactly: pipeline._04_features_target.main()
+    # iterates via panel.groupby("company_folder") (pandas default sort=True -> alphabetical)
+    # then ascending quarter_end per company, whereas the loop above iterates COMPANIES in
+    # its own (non-alphabetical) order. Same cell values either way, but row order matters
+    # for order-sensitive estimators like RandomForestClassifier's positional bootstrap
+    # sampling under a fixed random_state -- without this sort, random_forest's accuracy on
+    # the base config diverges from pipeline/outputs/metrics.json even though every other
+    # model matches bit-for-bit.
+    return pd.DataFrame(out_rows)[columns].sort_values(["company_folder", "period_end"]).reset_index(drop=True)
 
 
 def build_fundamentals_table() -> pd.DataFrame:
