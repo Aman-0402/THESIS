@@ -82,10 +82,10 @@ def report(request):
 def sensitivity(request):
     def build_context():
         runs = data.load_sensitivity_summary(SENSITIVITY_OUTPUTS_DIR)
-        base = next((r for r in runs if r["dimension"] == "base"), None)
+        for r in runs:
+            r["delta_pp"] = (r["best_accuracy"] - r["baseline_accuracy"]) * 100
         return {
             "runs": runs,
-            "base": base,
             "chart_labels": json.dumps([r["run_id"] for r in runs]),
             "chart_best": json.dumps([r["best_accuracy"] for r in runs]),
             "chart_baseline": json.dumps([r["baseline_accuracy"] for r in runs]),

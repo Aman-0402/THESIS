@@ -30,7 +30,7 @@
         <td>{{ run.best_accuracy|floatformat:3 }}</td>
         <td>{{ run.baseline_accuracy|floatformat:3 }}</td>
         <td>
-          {% if run.beats_baseline %}<span class="badge red">YES</span>{% else %}<span class="badge green">no</span>{% endif %}
+          {% if run.beats_baseline %}<span class="badge yellow">+{{ run.delta_pp|floatformat:1 }}pp</span>{% else %}<span class="badge green">no</span>{% endif %}
         </td>
       </tr>
       {% endfor %}
